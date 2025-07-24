@@ -1,0 +1,402 @@
+# Voot - Viacom18 streaming platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 voot.com
+0.0.0.0 www.voot.com
+
+# Mobile and app related
+0.0.0.0 m.voot.com
+0.0.0.0 mobile.voot.com
+0.0.0.0 app.voot.com
+0.0.0.0 apps.voot.com
+0.0.0.0 android.voot.com
+0.0.0.0 ios.voot.com
+
+# API endpoints (based on research showing voot API)
+0.0.0.0 api.voot.com
+0.0.0.0 gateway.voot.com
+0.0.0.0 data.voot.com
+0.0.0.0 oauth.voot.com
+0.0.0.0 auth.voot.com
+
+# User authentication and accounts
+0.0.0.0 accounts.voot.com
+0.0.0.0 signin.voot.com
+0.0.0.0 login.voot.com
+0.0.0.0 myaccount.voot.com
+0.0.0.0 profile.voot.com
+0.0.0.0 profiles.voot.com
+
+# Video streaming and playback
+0.0.0.0 video.voot.com
+0.0.0.0 videos.voot.com
+0.0.0.0 streaming.voot.com
+0.0.0.0 stream.voot.com
+0.0.0.0 player.voot.com
+0.0.0.0 playback.voot.com
+
+# Content delivery and assets
+0.0.0.0 cdn.voot.com
+0.0.0.0 assets.voot.com
+0.0.0.0 images.voot.com
+0.0.0.0 thumbnails.voot.com
+0.0.0.0 artwork.voot.com
+0.0.0.0 content.voot.com
+
+# Search and discovery
+0.0.0.0 search.voot.com
+0.0.0.0 discover.voot.com
+0.0.0.0 browse.voot.com
+0.0.0.0 catalog.voot.com
+0.0.0.0 titles.voot.com
+
+# Voot Analytics and tracking
+0.0.0.0 analytics.voot.com
+0.0.0.0 tracking.voot.com
+0.0.0.0 metrics.voot.com
+0.0.0.0 stats.voot.com
+0.0.0.0 insights.voot.com
+
+# DRM and licensing
+0.0.0.0 drm.voot.com
+0.0.0.0 license.voot.com
+0.0.0.0 widevine.voot.com
+0.0.0.0 playready.voot.com
+
+# Adaptive streaming
+0.0.0.0 dash.voot.com
+0.0.0.0 hls.voot.com
+0.0.0.0 manifest.voot.com
+0.0.0.0 manifests.voot.com
+
+# Downloads and offline
+0.0.0.0 download.voot.com
+0.0.0.0 downloads.voot.com
+0.0.0.0 offline.voot.com
+
+# Live TV and sports
+0.0.0.0 live.voot.com
+0.0.0.0 livetv.voot.com
+0.0.0.0 sports.voot.com
+0.0.0.0 cricket.voot.com
+
+# News content
+0.0.0.0 news.voot.com
+
+# Premium and subscription services
+0.0.0.0 premium.voot.com
+0.0.0.0 subscription.voot.com
+0.0.0.0 subscriptions.voot.com
+
+# Kids and family (Voot Kids)
+0.0.0.0 kids.voot.com
+0.0.0.0 family.voot.com
+0.0.0.0 junior.voot.com
+
+# Smart TV and device specific
+0.0.0.0 tv.voot.com
+0.0.0.0 firetv.voot.com
+0.0.0.0 roku.voot.com
+0.0.0.0 chromecast.voot.com
+0.0.0.0 appletv.voot.com
+0.0.0.0 smarttv.voot.com
+
+# Gaming console integration
+0.0.0.0 xbox.voot.com
+0.0.0.0 playstation.voot.com
+0.0.0.0 nintendo.voot.com
+
+# Support and help
+0.0.0.0 help.voot.com
+0.0.0.0 support.voot.com
+0.0.0.0 customer.voot.com
+
+# Settings and preferences
+0.0.0.0 settings.voot.com
+0.0.0.0 preferences.voot.com
+0.0.0.0 config.voot.com
+
+# Watch history and recommendations
+0.0.0.0 history.voot.com
+0.0.0.0 watchlist.voot.com
+0.0.0.0 recommendations.voot.com
+0.0.0.0 suggest.voot.com
+
+# Social and sharing features
+0.0.0.0 social.voot.com
+0.0.0.0 share.voot.com
+0.0.0.0 sharing.voot.com
+
+# Notifications and alerts
+0.0.0.0 notifications.voot.com
+0.0.0.0 alerts.voot.com
+0.0.0.0 messages.voot.com
+
+# Billing and payments
+0.0.0.0 billing.voot.com
+0.0.0.0 payment.voot.com
+0.0.0.0 payments.voot.com
+
+# Corporate and press
+0.0.0.0 about.voot.com
+0.0.0.0 press.voot.com
+0.0.0.0 media.voot.com
+0.0.0.0 blog.voot.com
+
+# Careers and jobs
+0.0.0.0 careers.voot.com
+0.0.0.0 jobs.voot.com
+
+# Testing and development
+0.0.0.0 test.voot.com
+0.0.0.0 testing.voot.com
+0.0.0.0 dev.voot.com
+0.0.0.0 staging.voot.com
+0.0.0.0 beta.voot.com
+
+# Internal and corporate
+0.0.0.0 internal.voot.com
+0.0.0.0 corp.voot.com
+
+# Load balancing and infrastructure
+0.0.0.0 lb.voot.com
+0.0.0.0 proxy.voot.com
+0.0.0.0 cache.voot.com
+
+# Security
+0.0.0.0 security.voot.com
+0.0.0.0 secure.voot.com
+0.0.0.0 2fa.voot.com
+
+# Performance and optimization
+0.0.0.0 performance.voot.com
+0.0.0.0 optimization.voot.com
+0.0.0.0 speed.voot.com
+
+# AI and machine learning
+0.0.0.0 ai.voot.com
+0.0.0.0 ml.voot.com
+
+# Video quality and encoding
+0.0.0.0 encoding.voot.com
+0.0.0.0 hd.voot.com
+0.0.0.0 4k.voot.com
+0.0.0.0 uhd.voot.com
+0.0.0.0 hdr.voot.com
+0.0.0.0 dolby.voot.com
+
+# Subtitles and localization
+0.0.0.0 subtitles.voot.com
+0.0.0.0 captions.voot.com
+0.0.0.0 localization.voot.com
+0.0.0.0 translate.voot.com
+0.0.0.0 i18n.voot.com
+
+# Accessibility
+0.0.0.0 accessibility.voot.com
+0.0.0.0 a11y.voot.com
+
+# Parental controls
+0.0.0.0 parental.voot.com
+0.0.0.0 controls.voot.com
+
+# Reviews and ratings
+0.0.0.0 reviews.voot.com
+0.0.0.0 ratings.voot.com
+0.0.0.0 feedback.voot.com
+
+# Documentation and guides
+0.0.0.0 docs.voot.com
+0.0.0.0 guides.voot.com
+0.0.0.0 help-center.voot.com
+
+# Partner integration
+0.0.0.0 partners.voot.com
+0.0.0.0 partner.voot.com
+0.0.0.0 integration.voot.com
+
+# Email and communications
+0.0.0.0 email.voot.com
+0.0.0.0 mail.voot.com
+0.0.0.0 communications.voot.com
+
+# Legal and compliance
+0.0.0.0 legal.voot.com
+0.0.0.0 terms.voot.com
+0.0.0.0 privacy.voot.com
+
+# Quality assurance
+0.0.0.0 quality.voot.com
+0.0.0.0 qa.voot.com
+0.0.0.0 qc.voot.com
+
+# Monitoring and status
+0.0.0.0 status.voot.com
+0.0.0.0 health.voot.com
+0.0.0.0 monitoring.voot.com
+
+# Tools and utilities
+0.0.0.0 tools.voot.com
+0.0.0.0 utils.voot.com
+0.0.0.0 utilities.voot.com
+
+# Creator tools and resources
+0.0.0.0 creators.voot.com
+0.0.0.0 filmmakers.voot.com
+0.0.0.0 studios.voot.com
+
+# Events and premieres
+0.0.0.0 events.voot.com
+0.0.0.0 premieres.voot.com
+0.0.0.0 screenings.voot.com
+
+# Awards and recognition
+0.0.0.0 awards.voot.com
+
+# Innovation and technology
+0.0.0.0 innovation.voot.com
+0.0.0.0 technology.voot.com
+0.0.0.0 tech.voot.com
+
+# Research and experiments
+0.0.0.0 research.voot.com
+0.0.0.0 experiments.voot.com
+0.0.0.0 labs.voot.com
+
+# Customer service
+0.0.0.0 service.voot.com
+0.0.0.0 contact.voot.com
+
+# Community features
+0.0.0.0 community.voot.com
+0.0.0.0 forums.voot.com
+
+# Geographic and location services
+0.0.0.0 geo.voot.com
+0.0.0.0 location.voot.com
+
+# Backup and redundancy
+0.0.0.0 backup.voot.com
+0.0.0.0 failover.voot.com
+
+# Configuration management
+0.0.0.0 config.voot.com
+0.0.0.0 configuration.voot.com
+
+# Data science and analytics
+0.0.0.0 datascience.voot.com
+0.0.0.0 bigdata.voot.com
+
+# Content moderation
+0.0.0.0 moderation.voot.com
+0.0.0.0 safety.voot.com
+
+# User experience
+0.0.0.0 ux.voot.com
+0.0.0.0 ui.voot.com
+0.0.0.0 design.voot.com
+
+# Platform engineering
+0.0.0.0 platform.voot.com
+0.0.0.0 engineering.voot.com
+
+# Network operations
+0.0.0.0 network.voot.com
+0.0.0.0 operations.voot.com
+0.0.0.0 ops.voot.com
+
+# Database services
+0.0.0.0 database.voot.com
+0.0.0.0 db.voot.com
+
+# Microservices
+0.0.0.0 microservices.voot.com
+0.0.0.0 services.voot.com
+
+# DevOps and deployment
+0.0.0.0 devops.voot.com
+0.0.0.0 deployment.voot.com
+0.0.0.0 deploy.voot.com
+
+# Content protection and piracy
+0.0.0.0 protection.voot.com
+0.0.0.0 antipiracy.voot.com
+
+# Compliance and governance
+0.0.0.0 compliance.voot.com
+0.0.0.0 governance.voot.com
+
+# Risk management
+0.0.0.0 risk.voot.com
+0.0.0.0 riskmanagement.voot.com
+
+# Content acquisition and licensing
+0.0.0.0 acquisition.voot.com
+0.0.0.0 licensing.voot.com
+
+# International expansion
+0.0.0.0 global.voot.com
+0.0.0.0 international.voot.com
+
+# Financial services
+0.0.0.0 finance.voot.com
+0.0.0.0 treasury.voot.com
+
+# Partnerships and alliances
+0.0.0.0 alliances.voot.com
+0.0.0.0 partnerships.voot.com
+
+# Talent and recruitment
+0.0.0.0 talent.voot.com
+0.0.0.0 recruitment.voot.com
+
+# Culture and values
+0.0.0.0 culture.voot.com
+0.0.0.0 values.voot.com
+
+# Sustainability initiatives
+0.0.0.0 sustainability.voot.com
+0.0.0.0 green.voot.com
+
+# Diversity and inclusion
+0.0.0.0 diversity.voot.com
+0.0.0.0 inclusion.voot.com
+
+# Machine learning models
+0.0.0.0 models.voot.com
+0.0.0.0 ml-models.voot.com
+
+# Edge computing and CDN
+0.0.0.0 edge.voot.com
+0.0.0.0 cdn1.voot.com
+0.0.0.0 cdn2.voot.com
+0.0.0.0 cdn3.voot.com
+
+# Video transcoding and processing
+0.0.0.0 transcoding.voot.com
+0.0.0.0 processing.voot.com
+0.0.0.0 encoder.voot.com
+
+# Educational content
+0.0.0.0 education.voot.com
+0.0.0.0 edu.voot.com
+
+# Merchandise and retail
+0.0.0.0 shop.voot.com
+0.0.0.0 store.voot.com
+0.0.0.0 merchandise.voot.com
+
+# Music and audio
+0.0.0.0 music.voot.com
+0.0.0.0 audio.voot.com
+
+# Gaming integration
+0.0.0.0 games.voot.com
+0.0.0.0 gaming.voot.com
+
+# Viacom18 ecosystem integration
+0.0.0.0 viacom18.voot.com
+0.0.0.0 viacom.voot.com
+0.0.0.0 mtv.voot.com
+0.0.0.0 comedycentral.voot.com
+0.0.0.0 colors.voot.com
+0.0.0.0 vh1.voot.com 

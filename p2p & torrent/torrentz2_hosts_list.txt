@@ -1,0 +1,212 @@
+# Torrentz2 - Meta-Search Engine for Torrents (Comprehensive Block List)
+# Main domains
+0.0.0.0 torrentz2.eu
+0.0.0.0 www.torrentz2.eu
+0.0.0.0 torrentz2.me
+0.0.0.0 www.torrentz2.me
+0.0.0.0 torrentz2.is
+0.0.0.0 www.torrentz2.is
+
+# Alternative domains
+0.0.0.0 torrentz2.com
+0.0.0.0 www.torrentz2.com
+0.0.0.0 torrentz2.org
+0.0.0.0 www.torrentz2.org
+0.0.0.0 torrentz2.net
+0.0.0.0 www.torrentz2.net
+0.0.0.0 torrentz2.info
+0.0.0.0 www.torrentz2.info
+0.0.0.0 torrentz2.to
+0.0.0.0 www.torrentz2.to
+
+# Mobile and app domains
+0.0.0.0 m.torrentz2.eu
+0.0.0.0 mobile.torrentz2.eu
+0.0.0.0 app.torrentz2.eu
+0.0.0.0 api.torrentz2.eu
+
+# Common subdomain variations
+0.0.0.0 search.torrentz2.eu
+0.0.0.0 browse.torrentz2.eu
+0.0.0.0 verify.torrentz2.eu
+0.0.0.0 check.torrentz2.eu
+0.0.0.0 tracker.torrentz2.eu
+0.0.0.0 stats.torrentz2.eu
+0.0.0.0 trending.torrentz2.eu
+0.0.0.0 popular.torrentz2.eu
+0.0.0.0 latest.torrentz2.eu
+0.0.0.0 new.torrentz2.eu
+0.0.0.0 recent.torrentz2.eu
+0.0.0.0 top.torrentz2.eu
+
+# Static content and CDN
+0.0.0.0 static.torrentz2.eu
+0.0.0.0 cdn.torrentz2.eu
+0.0.0.0 assets.torrentz2.eu
+0.0.0.0 img.torrentz2.eu
+0.0.0.0 images.torrentz2.eu
+
+# Administrative and backend
+0.0.0.0 admin.torrentz2.eu
+0.0.0.0 beta.torrentz2.eu
+0.0.0.0 test.torrentz2.eu
+0.0.0.0 dev.torrentz2.eu
+
+# Mirror and proxy variations
+0.0.0.0 torrentz2mirror.com
+0.0.0.0 www.torrentz2mirror.com
+0.0.0.0 torrentz2proxy.com
+0.0.0.0 www.torrentz2proxy.com
+0.0.0.0 torrentz2unblocked.com
+0.0.0.0 www.torrentz2unblocked.com
+
+# Legacy Torrentz domains (original site)
+0.0.0.0 torrentz.eu
+0.0.0.0 www.torrentz.eu
+0.0.0.0 torrentz.com
+0.0.0.0 www.torrentz.com
+0.0.0.0 torrentz.org
+0.0.0.0 www.torrentz.org
+0.0.0.0 torrentz.net
+0.0.0.0 www.torrentz.net
+0.0.0.0 torrentz.me
+0.0.0.0 www.torrentz.me
+0.0.0.0 torrentz.in
+0.0.0.0 www.torrentz.in
+
+# Alternative naming conventions
+0.0.0.0 torrentz-2.com
+0.0.0.0 www.torrentz-2.com
+0.0.0.0 torrentz_2.com
+0.0.0.0 www.torrentz_2.com
+0.0.0.0 torrentzz.com
+0.0.0.0 www.torrentzz.com
+
+# Country-specific domains
+0.0.0.0 torrentz2.us
+0.0.0.0 www.torrentz2.us
+0.0.0.0 torrentz2.uk
+0.0.0.0 www.torrentz2.uk
+0.0.0.0 torrentz2.ca
+0.0.0.0 www.torrentz2.ca
+0.0.0.0 torrentz2.au
+0.0.0.0 www.torrentz2.au
+0.0.0.0 torrentz2.de
+0.0.0.0 www.torrentz2.de
+0.0.0.0 torrentz2.fr
+0.0.0.0 www.torrentz2.fr
+0.0.0.0 torrentz2.it
+0.0.0.0 www.torrentz2.it
+0.0.0.0 torrentz2.es
+0.0.0.0 www.torrentz2.es
+0.0.0.0 torrentz2.nl
+0.0.0.0 www.torrentz2.nl
+0.0.0.0 torrentz2.be
+0.0.0.0 www.torrentz2.be
+0.0.0.0 torrentz2.se
+0.0.0.0 www.torrentz2.se
+0.0.0.0 torrentz2.no
+0.0.0.0 www.torrentz2.no
+0.0.0.0 torrentz2.dk
+0.0.0.0 www.torrentz2.dk
+0.0.0.0 torrentz2.fi
+0.0.0.0 www.torrentz2.fi
+0.0.0.0 torrentz2.pl
+0.0.0.0 www.torrentz2.pl
+0.0.0.0 torrentz2.cz
+0.0.0.0 www.torrentz2.cz
+0.0.0.0 torrentz2.hu
+0.0.0.0 www.torrentz2.hu
+0.0.0.0 torrentz2.ru
+0.0.0.0 www.torrentz2.ru
+0.0.0.0 torrentz2.jp
+0.0.0.0 www.torrentz2.jp
+0.0.0.0 torrentz2.kr
+0.0.0.0 www.torrentz2.kr
+0.0.0.0 torrentz2.cn
+0.0.0.0 www.torrentz2.cn
+0.0.0.0 torrentz2.in
+0.0.0.0 www.torrentz2.in
+0.0.0.0 torrentz2.br
+0.0.0.0 www.torrentz2.br
+
+# Common TLD variations
+0.0.0.0 torrentz2.io
+0.0.0.0 www.torrentz2.io
+0.0.0.0 torrentz2.biz
+0.0.0.0 www.torrentz2.biz
+0.0.0.0 torrentz2.tv
+0.0.0.0 www.torrentz2.tv
+0.0.0.0 torrentz2.ws
+0.0.0.0 www.torrentz2.ws
+0.0.0.0 torrentz2.co
+0.0.0.0 www.torrentz2.co
+0.0.0.0 torrentz2.cc
+0.0.0.0 www.torrentz2.cc
+
+# New generic TLD variations
+0.0.0.0 torrentz2.search
+0.0.0.0 www.torrentz2.search
+0.0.0.0 torrentz2.download
+0.0.0.0 www.torrentz2.download
+0.0.0.0 torrentz2.torrent
+0.0.0.0 www.torrentz2.torrent
+0.0.0.0 torrentz2.online
+0.0.0.0 www.torrentz2.online
+0.0.0.0 torrentz2.site
+0.0.0.0 www.torrentz2.site
+0.0.0.0 torrentz2.web
+0.0.0.0 www.torrentz2.web
+0.0.0.0 torrentz2.live
+0.0.0.0 www.torrentz2.live
+0.0.0.0 torrentz2.top
+0.0.0.0 www.torrentz2.top
+0.0.0.0 torrentz2.best
+0.0.0.0 www.torrentz2.best
+0.0.0.0 torrentz2.free
+0.0.0.0 www.torrentz2.free
+0.0.0.0 torrentz2.pro
+0.0.0.0 www.torrentz2.pro
+0.0.0.0 torrentz2.vip
+0.0.0.0 www.torrentz2.vip
+0.0.0.0 torrentz2.world
+0.0.0.0 www.torrentz2.world
+0.0.0.0 torrentz2.zone
+0.0.0.0 www.torrentz2.zone
+
+# Number variations
+0.0.0.0 torrentz3.eu
+0.0.0.0 www.torrentz3.eu
+0.0.0.0 torrentz3.com
+0.0.0.0 www.torrentz3.com
+0.0.0.0 torrentz4.eu
+0.0.0.0 www.torrentz4.eu
+
+# Common misspellings and variations
+0.0.0.0 torrentz2.ue
+0.0.0.0 www.torrentz2.ue
+0.0.0.0 torrentz2.euu
+0.0.0.0 www.torrentz2.euu
+0.0.0.0 torrenz2.eu
+0.0.0.0 www.torrenz2.eu
+0.0.0.0 torrentz.eu
+0.0.0.0 www.torrentz.eu
+
+# Help and support
+0.0.0.0 help.torrentz2.eu
+0.0.0.0 support.torrentz2.eu
+0.0.0.0 faq.torrentz2.eu
+0.0.0.0 about.torrentz2.eu
+
+# RSS and feeds (meta-search features)
+0.0.0.0 rss.torrentz2.eu
+0.0.0.0 feed.torrentz2.eu
+0.0.0.0 feeds.torrentz2.eu
+
+# Related search engines and alternatives
+0.0.0.0 torrentzsearch.com
+0.0.0.0 www.torrentzsearch.com
+0.0.0.0 torrentsearch.eu
+0.0.0.0 www.torrentsearch.eu
+0.0.0.0 torrentzengine.com
+0.0.0.0 www.torrentzengine.com 

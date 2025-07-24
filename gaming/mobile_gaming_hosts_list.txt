@@ -1,0 +1,381 @@
+
+# =============================================================================
+# GOOGLE PLAY GAMES AND ANDROID GAMING
+# =============================================================================
+# Google Play Games
+0.0.0.0 play.google.com
+0.0.0.0 www.play.google.com
+0.0.0.0 games.play.google.com
+0.0.0.0 www.games.play.google.com
+
+# Google Play Games APIs
+0.0.0.0 games-pa.googleapis.com
+0.0.0.0 www.games-pa.googleapis.com
+0.0.0.0 playgames.google.com
+0.0.0.0 www.playgames.google.com
+
+# Google Play Services for Games
+0.0.0.0 android.clients.google.com
+0.0.0.0 www.android.clients.google.com
+0.0.0.0 playlog-pa.googleapis.com
+
+# Google Play Console (Developer)
+0.0.0.0 console.developers.google.com
+0.0.0.0 developer.android.com
+
+# Android Game Development
+0.0.0.0 developers.google.com
+0.0.0.0 firebase.google.com
+
+# =============================================================================
+# APPLE GAME CENTER AND IOS GAMING
+# =============================================================================
+# Apple Game Center
+0.0.0.0 gc.apple.com
+0.0.0.0 www.gc.apple.com
+0.0.0.0 gamecenter.apple.com
+0.0.0.0 www.gamecenter.apple.com
+
+# Apple App Store (Gaming section)
+0.0.0.0 apps.apple.com
+0.0.0.0 www.apps.apple.com
+0.0.0.0 itunes.apple.com
+
+# Apple Game Center APIs
+0.0.0.0 gsp10-ssl.apple.com
+0.0.0.0 gsp47-ssl.apple.com
+0.0.0.0 gsp85-ssl.apple.com
+
+# Apple Developer (Gaming)
+0.0.0.0 developer.apple.com
+0.0.0.0 itunesconnect.apple.com
+
+# Apple TestFlight (Game testing)
+0.0.0.0 testflight.apple.com
+0.0.0.0 www.testflight.apple.com
+
+# =============================================================================
+# MAJOR MOBILE GAME PUBLISHERS
+# =============================================================================
+
+# King Digital Entertainment (Activision Blizzard)
+0.0.0.0 king.com
+0.0.0.0 www.king.com
+0.0.0.0 candycrushsaga.com
+0.0.0.0 www.candycrushsaga.com
+0.0.0.0 farm-heroes-saga.com
+0.0.0.0 www.farm-heroes-saga.com
+
+# Supercell
+0.0.0.0 supercell.com
+0.0.0.0 www.supercell.com
+0.0.0.0 clashofclans.com
+0.0.0.0 www.clashofclans.com
+0.0.0.0 clashroyale.com
+0.0.0.0 www.clashroyale.com
+0.0.0.0 hayday.com
+0.0.0.0 www.hayday.com
+0.0.0.0 boombeach.com
+0.0.0.0 www.boombeach.com
+
+# Rovio Entertainment (Angry Birds)
+0.0.0.0 rovio.com
+0.0.0.0 www.rovio.com
+0.0.0.0 angrybirds.com
+0.0.0.0 www.angrybirds.com
+
+# Niantic (Pokémon GO, Ingress)
+0.0.0.0 nianticlabs.com
+0.0.0.0 www.nianticlabs.com
+0.0.0.0 pokemongo.com
+0.0.0.0 www.pokemongo.com
+0.0.0.0 ingress.com
+0.0.0.0 www.ingress.com
+
+# Zynga
+0.0.0.0 zynga.com
+0.0.0.0 www.zynga.com
+0.0.0.0 farmville.com
+0.0.0.0 www.farmville.com
+0.0.0.0 wordsWithFriends.com
+0.0.0.0 www.wordsWithFriends.com
+
+# Gameloft
+0.0.0.0 gameloft.com
+0.0.0.0 www.gameloft.com
+0.0.0.0 asphalt.com
+0.0.0.0 www.asphalt.com
+
+# Com2uS
+0.0.0.0 com2us.com
+0.0.0.0 www.com2us.com
+0.0.0.0 summonerswar.com
+0.0.0.0 www.summonerswar.com
+
+# miHoYo (Genshin Impact, Honkai)
+0.0.0.0 mihoyo.com
+0.0.0.0 www.mihoyo.com
+0.0.0.0 genshin.mihoyo.com
+0.0.0.0 www.genshin.mihoyo.com
+0.0.0.0 honkaiimpact3.mihoyo.com
+
+# Netmarble
+0.0.0.0 netmarble.com
+0.0.0.0 www.netmarble.com
+0.0.0.0 marvelfuturefight.com
+0.0.0.0 www.marvelfuturefight.com
+
+# PUBG Mobile (Tencent/Krafton)
+0.0.0.0 pubgmobile.com
+0.0.0.0 www.pubgmobile.com
+0.0.0.0 pubg.com
+0.0.0.0 www.pubg.com
+
+# Garena (Free Fire)
+0.0.0.0 garena.com
+0.0.0.0 www.garena.com
+0.0.0.0 ff.garena.com
+0.0.0.0 www.ff.garena.com
+
+# Machine Zone (Game of War, Mobile Strike)
+0.0.0.0 machinezone.com
+0.0.0.0 www.machinezone.com
+
+# =============================================================================
+# CHINESE MOBILE GAME PUBLISHERS
+# =============================================================================
+
+# Tencent Games
+0.0.0.0 tencent.com
+0.0.0.0 www.tencent.com
+0.0.0.0 game.qq.com
+0.0.0.0 www.game.qq.com
+
+# NetEase Games
+0.0.0.0 netease.com
+0.0.0.0 www.netease.com
+0.0.0.0 game.163.com
+0.0.0.0 www.game.163.com
+
+# Lilith Games
+0.0.0.0 lilithgames.com
+0.0.0.0 www.lilithgames.com
+0.0.0.0 afkarena.com
+0.0.0.0 www.afkarena.com
+
+# FunPlus
+0.0.0.0 funplus.com
+0.0.0.0 www.funplus.com
+
+# IGG (Lords Mobile)
+0.0.0.0 igg.com
+0.0.0.0 www.igg.com
+0.0.0.0 lordsmobile.com
+0.0.0.0 www.lordsmobile.com
+
+# =============================================================================
+# JAPANESE MOBILE GAME PUBLISHERS
+# =============================================================================
+
+# Square Enix Mobile
+0.0.0.0 square-enix-games.com
+0.0.0.0 www.square-enix-games.com
+0.0.0.0 finalfantasy.com
+0.0.0.0 www.finalfantasy.com
+
+# Bandai Namco Entertainment
+0.0.0.0 bandainamcoent.com
+0.0.0.0 www.bandainamcoent.com
+0.0.0.0 tales-of.com
+0.0.0.0 www.tales-of.com
+
+# Konami Mobile
+0.0.0.0 konami.com
+0.0.0.0 www.konami.com
+
+# SEGA Mobile
+0.0.0.0 sega.com
+0.0.0.0 www.sega.com
+0.0.0.0 sonicthehedgehog.com
+0.0.0.0 www.sonicthehedgehog.com
+
+# Capcom Mobile
+0.0.0.0 capcom-mobile.com
+0.0.0.0 www.capcom-mobile.com
+
+# =============================================================================
+# MOBILE GAMING ANALYTICS AND AD NETWORKS
+# =============================================================================
+
+# Unity Analytics and Ads
+0.0.0.0 unity3d.com
+0.0.0.0 www.unity3d.com
+0.0.0.0 unityads.unity3d.com
+0.0.0.0 analytics.unity3d.com
+
+# GameAnalytics
+0.0.0.0 gameanalytics.com
+0.0.0.0 www.gameanalytics.com
+0.0.0.0 api.gameanalytics.com
+
+# ironSource (Mobile advertising)
+0.0.0.0 ironsrc.com
+0.0.0.0 www.ironsrc.com
+0.0.0.0 supersonic.com
+0.0.0.0 www.supersonic.com
+
+# AppLovin
+0.0.0.0 applovin.com
+0.0.0.0 www.applovin.com
+
+# Vungle (Mobile video ads)
+0.0.0.0 vungle.com
+0.0.0.0 www.vungle.com
+0.0.0.0 api.vungle.com
+
+# Chartboost
+0.0.0.0 chartboost.com
+0.0.0.0 www.chartboost.com
+0.0.0.0 api.chartboost.com
+
+# AdMob (Google)
+0.0.0.0 admob.com
+0.0.0.0 www.admob.com
+0.0.0.0 googleadservices.com
+
+# Facebook Audience Network
+0.0.0.0 facebook.com
+0.0.0.0 www.facebook.com
+0.0.0.0 graph.facebook.com
+
+# =============================================================================
+# MOBILE GAMING PLATFORMS AND SERVICES
+# =============================================================================
+
+# Samsung Galaxy Store
+0.0.0.0 galaxystore.samsung.com
+0.0.0.0 www.galaxystore.samsung.com
+
+# Amazon Appstore
+0.0.0.0 amazon.com
+0.0.0.0 www.amazon.com
+0.0.0.0 appstore.amazon.com
+
+# Huawei AppGallery
+0.0.0.0 appgallery.huawei.com
+0.0.0.0 www.appgallery.huawei.com
+
+# APKPure (Alternative Android store)
+0.0.0.0 apkpure.com
+0.0.0.0 www.apkpure.com
+
+# TapTap (Gaming platform)
+0.0.0.0 taptap.com
+0.0.0.0 www.taptap.com
+
+# =============================================================================
+# MOBILE GAMING COMMUNITIES AND SOCIAL
+# =============================================================================
+
+# Discord (Gaming communities)
+0.0.0.0 discord.com
+0.0.0.0 www.discord.com
+0.0.0.0 discord.gg
+0.0.0.0 discordapp.com
+
+# Twitch (Game streaming)
+0.0.0.0 twitch.tv
+0.0.0.0 www.twitch.tv
+0.0.0.0 m.twitch.tv
+
+# YouTube Gaming
+0.0.0.0 gaming.youtube.com
+0.0.0.0 www.gaming.youtube.com
+
+# Reddit Gaming Communities
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+0.0.0.0 m.reddit.com
+
+# =============================================================================
+# MOBILE GAME DEVELOPMENT TOOLS
+# =============================================================================
+
+# Unity Technologies
+0.0.0.0 unity.com
+0.0.0.0 www.unity.com
+0.0.0.0 store.unity.com
+
+# Unreal Engine Mobile
+0.0.0.0 unrealengine.com
+0.0.0.0 www.unrealengine.com
+
+# Cocos2d
+0.0.0.0 cocos.com
+0.0.0.0 www.cocos.com
+
+# Corona SDK (Solar2D)
+0.0.0.0 solar2d.com
+0.0.0.0 www.solar2d.com
+
+# =============================================================================
+# MOBILE GAMING PAYMENT SERVICES
+# =============================================================================
+
+# Google Play Billing
+0.0.0.0 payments.google.com
+0.0.0.0 www.payments.google.com
+
+# Apple In-App Purchases
+0.0.0.0 buy.itunes.apple.com
+0.0.0.0 phobos.apple.com
+
+# PayPal Gaming
+0.0.0.0 paypal.com
+0.0.0.0 www.paypal.com
+
+# Xsolla (Gaming payments)
+0.0.0.0 xsolla.com
+0.0.0.0 www.xsolla.com
+
+# =============================================================================
+# MOBILE GAMING TOURNAMENTS AND ESPORTS
+# =============================================================================
+
+# Mobile Legends Bang Bang
+0.0.0.0 mobilelegends.com
+0.0.0.0 www.mobilelegends.com
+
+# Arena of Valor
+0.0.0.0 arenaofvalor.com
+0.0.0.0 www.arenaofvalor.com
+
+# Call of Duty Mobile
+0.0.0.0 callofduty.com
+0.0.0.0 www.callofduty.com
+
+# Mobile Esports platforms
+0.0.0.0 battlefy.com
+0.0.0.0 www.battlefy.com
+0.0.0.0 toornament.com
+0.0.0.0 www.toornament.com
+
+# =============================================================================
+# MOBILE GAMING ACCESSORIES AND HARDWARE
+# =============================================================================
+
+# Razer Mobile Gaming
+0.0.0.0 razer.com
+0.0.0.0 www.razer.com
+
+# SteelSeries Mobile
+0.0.0.0 steelseries.com
+0.0.0.0 www.steelseries.com
+
+# ASUS ROG Phone
+0.0.0.0 rog.asus.com
+0.0.0.0 www.rog.asus.com
+
+# =============================================================================
+# END OF MOBILE GAMING HOSTS LIST
+# ============================================================================= 

@@ -1,0 +1,521 @@
+# Amazon Music - Amazon's music streaming platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 music.amazon.com
+0.0.0.0 www.music.amazon.com
+
+# Amazon ecosystem domains
+0.0.0.0 amazonmusic.com
+0.0.0.0 www.amazonmusic.com
+
+# Mobile and app related
+0.0.0.0 m.music.amazon.com
+0.0.0.0 mobile.music.amazon.com
+0.0.0.0 app.music.amazon.com
+0.0.0.0 apps.music.amazon.com
+0.0.0.0 android.music.amazon.com
+0.0.0.0 ios.music.amazon.com
+
+# API endpoints
+0.0.0.0 api.music.amazon.com
+0.0.0.0 gateway.music.amazon.com
+0.0.0.0 data.music.amazon.com
+0.0.0.0 oauth.music.amazon.com
+0.0.0.0 auth.music.amazon.com
+
+# User authentication and accounts
+0.0.0.0 accounts.music.amazon.com
+0.0.0.0 signin.music.amazon.com
+0.0.0.0 login.music.amazon.com
+0.0.0.0 myaccount.music.amazon.com
+0.0.0.0 profile.music.amazon.com
+0.0.0.0 profiles.music.amazon.com
+
+# Audio streaming and playback
+0.0.0.0 audio.music.amazon.com
+0.0.0.0 media.music.amazon.com
+0.0.0.0 play.music.amazon.com
+0.0.0.0 player.music.amazon.com
+0.0.0.0 playback.music.amazon.com
+0.0.0.0 stream.music.amazon.com
+0.0.0.0 streams.music.amazon.com
+0.0.0.0 streaming.music.amazon.com
+
+# Amazon CloudFront CDN infrastructure
+0.0.0.0 cdn.music.amazon.com
+0.0.0.0 static.music.amazon.com
+0.0.0.0 assets.music.amazon.com
+0.0.0.0 resources.music.amazon.com
+0.0.0.0 content.music.amazon.com
+
+# CloudFront edge locations (based on Amazon's global infrastructure)
+0.0.0.0 d1.music.amazon.com
+0.0.0.0 d2.music.amazon.com
+0.0.0.0 d3.music.amazon.com
+0.0.0.0 d4.music.amazon.com
+0.0.0.0 d5.music.amazon.com
+0.0.0.0 d6.music.amazon.com
+0.0.0.0 d7.music.amazon.com
+0.0.0.0 d8.music.amazon.com
+0.0.0.0 d9.music.amazon.com
+0.0.0.0 d10.music.amazon.com
+
+# Analytics and tracking
+0.0.0.0 analytics.music.amazon.com
+0.0.0.0 stats.music.amazon.com
+0.0.0.0 metrics.music.amazon.com
+0.0.0.0 tracking.music.amazon.com
+0.0.0.0 telemetry.music.amazon.com
+
+# Search and discovery
+0.0.0.0 search.music.amazon.com
+0.0.0.0 discover.music.amazon.com
+0.0.0.0 discovery.music.amazon.com
+0.0.0.0 recommendations.music.amazon.com
+0.0.0.0 recommend.music.amazon.com
+
+# Advertising and monetization
+0.0.0.0 ads.music.amazon.com
+0.0.0.0 advertising.music.amazon.com
+0.0.0.0 adnxs.music.amazon.com
+0.0.0.0 adserver.music.amazon.com
+0.0.0.0 adsystem.music.amazon.com
+
+# Developer and partner services
+0.0.0.0 developer.music.amazon.com
+0.0.0.0 developers.music.amazon.com
+0.0.0.0 partners.music.amazon.com
+0.0.0.0 partner.music.amazon.com
+
+# Support and help
+0.0.0.0 support.music.amazon.com
+0.0.0.0 help.music.amazon.com
+0.0.0.0 customer.music.amazon.com
+0.0.0.0 customerservice.music.amazon.com
+
+# News and press
+0.0.0.0 news.music.amazon.com
+0.0.0.0 press.music.amazon.com
+0.0.0.0 newsroom.music.amazon.com
+0.0.0.0 blog.music.amazon.com
+
+# Social and community
+0.0.0.0 community.music.amazon.com
+0.0.0.0 social.music.amazon.com
+0.0.0.0 friends.music.amazon.com
+0.0.0.0 connect.music.amazon.com
+
+# Live and events
+0.0.0.0 live.music.amazon.com
+0.0.0.0 events.music.amazon.com
+0.0.0.0 concerts.music.amazon.com
+0.0.0.0 shows.music.amazon.com
+
+# Podcasts and Audible integration
+0.0.0.0 podcasts.music.amazon.com
+0.0.0.0 podcast.music.amazon.com
+0.0.0.0 audible.music.amazon.com
+
+# Premium and subscription
+0.0.0.0 unlimited.music.amazon.com
+0.0.0.0 prime.music.amazon.com
+0.0.0.0 hd.music.amazon.com
+0.0.0.0 subscribe.music.amazon.com
+0.0.0.0 subscription.music.amazon.com
+0.0.0.0 billing.music.amazon.com
+
+# Artists and creators
+0.0.0.0 artists.music.amazon.com
+0.0.0.0 artist.music.amazon.com
+0.0.0.0 creators.music.amazon.com
+0.0.0.0 creator.music.amazon.com
+
+# Lyrics
+0.0.0.0 lyrics.music.amazon.com
+
+# Regional domains
+0.0.0.0 music.amazon.co.uk
+0.0.0.0 music.amazon.ca
+0.0.0.0 music.amazon.com.au
+0.0.0.0 music.amazon.de
+0.0.0.0 music.amazon.fr
+0.0.0.0 music.amazon.it
+0.0.0.0 music.amazon.es
+0.0.0.0 music.amazon.nl
+0.0.0.0 music.amazon.com.br
+0.0.0.0 music.amazon.co.jp
+0.0.0.0 music.amazon.in
+0.0.0.0 music.amazon.com.mx
+0.0.0.0 music.amazon.sg
+0.0.0.0 music.amazon.com.tr
+0.0.0.0 music.amazon.ae
+0.0.0.0 music.amazon.sa
+0.0.0.0 music.amazon.se
+0.0.0.0 music.amazon.pl
+0.0.0.0 music.amazon.eg
+
+# Testing and staging
+0.0.0.0 test.music.amazon.com
+0.0.0.0 testing.music.amazon.com
+0.0.0.0 stage.music.amazon.com
+0.0.0.0 staging.music.amazon.com
+0.0.0.0 dev.music.amazon.com
+0.0.0.0 development.music.amazon.com
+0.0.0.0 qa.music.amazon.com
+0.0.0.0 uat.music.amazon.com
+0.0.0.0 beta.music.amazon.com
+0.0.0.0 preview.music.amazon.com
+
+# Platform integrations
+0.0.0.0 facebook.music.amazon.com
+0.0.0.0 twitter.music.amazon.com
+0.0.0.0 instagram.music.amazon.com
+0.0.0.0 youtube.music.amazon.com
+
+# Alexa integration
+0.0.0.0 alexa.music.amazon.com
+0.0.0.0 voice.music.amazon.com
+0.0.0.0 echo.music.amazon.com
+
+# Fire TV and device integration
+0.0.0.0 firetv.music.amazon.com
+0.0.0.0 fire.music.amazon.com
+0.0.0.0 kindle.music.amazon.com
+0.0.0.0 tablet.music.amazon.com
+
+# Device specific
+0.0.0.0 tv.music.amazon.com
+0.0.0.0 car.music.amazon.com
+0.0.0.0 smart.music.amazon.com
+0.0.0.0 auto.music.amazon.com
+
+# Backend services
+0.0.0.0 backend.music.amazon.com
+0.0.0.0 service.music.amazon.com
+0.0.0.0 services.music.amazon.com
+0.0.0.0 microservice.music.amazon.com
+0.0.0.0 microservices.music.amazon.com
+
+# Security and encryption
+0.0.0.0 security.music.amazon.com
+0.0.0.0 ssl.music.amazon.com
+0.0.0.0 secure.music.amazon.com
+0.0.0.0 encryption.music.amazon.com
+
+# Machine learning and AI
+0.0.0.0 ml.music.amazon.com
+0.0.0.0 ai.music.amazon.com
+0.0.0.0 algorithm.music.amazon.com
+0.0.0.0 algorithms.music.amazon.com
+
+# Business and enterprise
+0.0.0.0 business.music.amazon.com
+0.0.0.0 enterprise.music.amazon.com
+0.0.0.0 corporate.music.amazon.com
+0.0.0.0 b2b.music.amazon.com
+
+# Legal and compliance
+0.0.0.0 legal.music.amazon.com
+0.0.0.0 privacy.music.amazon.com
+0.0.0.0 terms.music.amazon.com
+0.0.0.0 compliance.music.amazon.com
+
+# Email and notifications
+0.0.0.0 email.music.amazon.com
+0.0.0.0 mail.music.amazon.com
+0.0.0.0 notifications.music.amazon.com
+0.0.0.0 notify.music.amazon.com
+
+# File and asset storage (S3 integration)
+0.0.0.0 files.music.amazon.com
+0.0.0.0 uploads.music.amazon.com
+0.0.0.0 download.music.amazon.com
+0.0.0.0 storage.music.amazon.com
+0.0.0.0 bucket.music.amazon.com
+0.0.0.0 s3.music.amazon.com
+
+# Image serving
+0.0.0.0 images.music.amazon.com
+0.0.0.0 img.music.amazon.com
+0.0.0.0 image.music.amazon.com
+0.0.0.0 pics.music.amazon.com
+0.0.0.0 pictures.music.amazon.com
+0.0.0.0 photos.music.amazon.com
+0.0.0.0 covers.music.amazon.com
+0.0.0.0 artwork.music.amazon.com
+0.0.0.0 artworks.music.amazon.com
+0.0.0.0 thumbnails.music.amazon.com
+0.0.0.0 thumb.music.amazon.com
+
+# Internal tools and admin
+0.0.0.0 admin.music.amazon.com
+0.0.0.0 internal.music.amazon.com
+0.0.0.0 intranet.music.amazon.com
+0.0.0.0 staff.music.amazon.com
+0.0.0.0 employee.music.amazon.com
+0.0.0.0 tools.music.amazon.com
+
+# Monitoring and logging
+0.0.0.0 monitoring.music.amazon.com
+0.0.0.0 logs.music.amazon.com
+0.0.0.0 logging.music.amazon.com
+0.0.0.0 errors.music.amazon.com
+0.0.0.0 sentry.music.amazon.com
+
+# Load balancing and infrastructure
+0.0.0.0 lb.music.amazon.com
+0.0.0.0 loadbalancer.music.amazon.com
+0.0.0.0 edge.music.amazon.com
+0.0.0.0 proxy.music.amazon.com
+0.0.0.0 gateway.music.amazon.com
+0.0.0.0 router.music.amazon.com
+
+# Geographic and regional CDN
+0.0.0.0 us.music.amazon.com
+0.0.0.0 eu.music.amazon.com
+0.0.0.0 asia.music.amazon.com
+0.0.0.0 ap.music.amazon.com
+0.0.0.0 na.music.amazon.com
+0.0.0.0 sa.music.amazon.com
+
+# Event tracking and data collection
+0.0.0.0 events.music.amazon.com
+0.0.0.0 event.music.amazon.com
+0.0.0.0 data.music.amazon.com
+0.0.0.0 collect.music.amazon.com
+0.0.0.0 beacon.music.amazon.com
+
+# Third-party integrations
+0.0.0.0 facebook.music.amazon.com
+0.0.0.0 fb.music.amazon.com
+0.0.0.0 google.music.amazon.com
+0.0.0.0 goog.music.amazon.com
+0.0.0.0 apple.music.amazon.com
+0.0.0.0 spotify.music.amazon.com
+0.0.0.0 microsoft.music.amazon.com
+
+# WebRTC and real-time communication
+0.0.0.0 webrtc.music.amazon.com
+0.0.0.0 rtc.music.amazon.com
+0.0.0.0 realtime.music.amazon.com
+0.0.0.0 socket.music.amazon.com
+0.0.0.0 websocket.music.amazon.com
+
+# Experimental and feature flags
+0.0.0.0 experiments.music.amazon.com
+0.0.0.0 experiment.music.amazon.com
+0.0.0.0 feature.music.amazon.com
+0.0.0.0 features.music.amazon.com
+0.0.0.0 flags.music.amazon.com
+0.0.0.0 ab.music.amazon.com
+0.0.0.0 abtest.music.amazon.com
+
+# Legacy domains
+0.0.0.0 old.music.amazon.com
+0.0.0.0 legacy.music.amazon.com
+0.0.0.0 archive.music.amazon.com
+0.0.0.0 backup.music.amazon.com
+
+# Specialized services
+0.0.0.0 queue.music.amazon.com
+0.0.0.0 session.music.amazon.com
+0.0.0.0 cache.music.amazon.com
+0.0.0.0 redis.music.amazon.com
+0.0.0.0 database.music.amazon.com
+0.0.0.0 db.music.amazon.com
+
+# Version control and deployment
+0.0.0.0 git.music.amazon.com
+0.0.0.0 github.music.amazon.com
+0.0.0.0 deploy.music.amazon.com
+0.0.0.0 deployment.music.amazon.com
+0.0.0.0 ci.music.amazon.com
+0.0.0.0 cd.music.amazon.com
+0.0.0.0 jenkins.music.amazon.com
+0.0.0.0 gitlab.music.amazon.com
+
+# Documentation and resources
+0.0.0.0 docs.music.amazon.com
+0.0.0.0 documentation.music.amazon.com
+0.0.0.0 resources.music.amazon.com
+0.0.0.0 guide.music.amazon.com
+0.0.0.0 guides.music.amazon.com
+0.0.0.0 tutorial.music.amazon.com
+0.0.0.0 tutorials.music.amazon.com
+
+# GraphQL and modern APIs
+0.0.0.0 graphql.music.amazon.com
+0.0.0.0 gql.music.amazon.com
+0.0.0.0 apollo.music.amazon.com
+0.0.0.0 federation.music.amazon.com
+
+# Message queues and event streaming
+0.0.0.0 kafka.music.amazon.com
+0.0.0.0 sqs.music.amazon.com
+0.0.0.0 sns.music.amazon.com
+0.0.0.0 kinesis.music.amazon.com
+0.0.0.0 pubsub.music.amazon.com
+0.0.0.0 messaging.music.amazon.com
+
+# Payment and monetization
+0.0.0.0 payment.music.amazon.com
+0.0.0.0 payments.music.amazon.com
+0.0.0.0 pay.music.amazon.com
+0.0.0.0 checkout.music.amazon.com
+
+# Download and offline
+0.0.0.0 downloads.music.amazon.com
+0.0.0.0 offline.music.amazon.com
+0.0.0.0 sync.music.amazon.com
+
+# Charts and trending
+0.0.0.0 charts.music.amazon.com
+0.0.0.0 trending.music.amazon.com
+0.0.0.0 top.music.amazon.com
+0.0.0.0 popular.music.amazon.com
+
+# Genres and categories
+0.0.0.0 rock.music.amazon.com
+0.0.0.0 pop.music.amazon.com
+0.0.0.0 jazz.music.amazon.com
+0.0.0.0 classical.music.amazon.com
+0.0.0.0 country.music.amazon.com
+0.0.0.0 hiphop.music.amazon.com
+0.0.0.0 electronic.music.amazon.com
+0.0.0.0 folk.music.amazon.com
+
+# User generated content
+0.0.0.0 ugc.music.amazon.com
+0.0.0.0 user.music.amazon.com
+0.0.0.0 users.music.amazon.com
+0.0.0.0 playlists.music.amazon.com
+0.0.0.0 playlist.music.amazon.com
+
+# Mood-based playlists
+0.0.0.0 mood.music.amazon.com
+0.0.0.0 moods.music.amazon.com
+0.0.0.0 party.music.amazon.com
+0.0.0.0 workout.music.amazon.com
+0.0.0.0 sleep.music.amazon.com
+0.0.0.0 relax.music.amazon.com
+0.0.0.0 focus.music.amazon.com
+
+# Amazon Prime integration
+0.0.0.0 prime.music.amazon.com
+0.0.0.0 primemusic.amazon.com
+0.0.0.0 www.primemusic.amazon.com
+
+# Amazon Web Services integration
+0.0.0.0 aws.music.amazon.com
+0.0.0.0 ec2.music.amazon.com
+0.0.0.0 lambda.music.amazon.com
+0.0.0.0 dynamodb.music.amazon.com
+0.0.0.0 rds.music.amazon.com
+0.0.0.0 elasticache.music.amazon.com
+
+# Container and orchestration
+0.0.0.0 docker.music.amazon.com
+0.0.0.0 kubernetes.music.amazon.com
+0.0.0.0 k8s.music.amazon.com
+0.0.0.0 ecs.music.amazon.com
+0.0.0.0 fargate.music.amazon.com
+
+# Smart home integration
+0.0.0.0 smarthome.music.amazon.com
+0.0.0.0 iot.music.amazon.com
+0.0.0.0 connected.music.amazon.com
+
+# Gaming integration
+0.0.0.0 gaming.music.amazon.com
+0.0.0.0 games.music.amazon.com
+0.0.0.0 twitch.music.amazon.com
+
+# Whole Foods integration
+0.0.0.0 wholefoods.music.amazon.com
+0.0.0.0 grocery.music.amazon.com
+
+# Delivery and logistics
+0.0.0.0 delivery.music.amazon.com
+0.0.0.0 logistics.music.amazon.com
+0.0.0.0 fulfillment.music.amazon.com
+
+# Fashion and style
+0.0.0.0 fashion.music.amazon.com
+0.0.0.0 style.music.amazon.com
+
+# Books and reading
+0.0.0.0 books.music.amazon.com
+0.0.0.0 reading.music.amazon.com
+
+# Video integration
+0.0.0.0 video.music.amazon.com
+0.0.0.0 primevideo.music.amazon.com
+
+# Cloud and enterprise services
+0.0.0.0 cloud.music.amazon.com
+0.0.0.0 enterprise.music.amazon.com
+0.0.0.0 workspace.music.amazon.com
+
+# Health and wellness
+0.0.0.0 health.music.amazon.com
+0.0.0.0 wellness.music.amazon.com
+0.0.0.0 meditation.music.amazon.com
+
+# Travel and transportation
+0.0.0.0 travel.music.amazon.com
+0.0.0.0 transportation.music.amazon.com
+
+# Weather integration
+0.0.0.0 weather.music.amazon.com
+
+# News integration
+0.0.0.0 news.music.amazon.com
+
+# Sports integration
+0.0.0.0 sports.music.amazon.com
+
+# Financial services
+0.0.0.0 financial.music.amazon.com
+0.0.0.0 banking.music.amazon.com
+
+# Advertising platform
+0.0.0.0 advertising.music.amazon.com
+0.0.0.0 dsp.music.amazon.com
+0.0.0.0 aam.music.amazon.com
+
+# Machine learning platforms
+0.0.0.0 sagemaker.music.amazon.com
+0.0.0.0 comprehend.music.amazon.com
+0.0.0.0 rekognition.music.amazon.com
+0.0.0.0 polly.music.amazon.com
+0.0.0.0 lex.music.amazon.com
+
+# Blockchain and cryptocurrency
+0.0.0.0 blockchain.music.amazon.com
+0.0.0.0 crypto.music.amazon.com
+
+# Sustainability and environment
+0.0.0.0 sustainability.music.amazon.com
+0.0.0.0 green.music.amazon.com
+0.0.0.0 carbon.music.amazon.com
+
+# Research and development
+0.0.0.0 research.music.amazon.com
+0.0.0.0 r-and-d.music.amazon.com
+0.0.0.0 innovation.music.amazon.com
+0.0.0.0 lab.music.amazon.com
+0.0.0.0 labs.music.amazon.com
+
+# International expansion
+0.0.0.0 international.music.amazon.com
+0.0.0.0 global.music.amazon.com
+0.0.0.0 worldwide.music.amazon.com
+
+# Marketplace integration
+0.0.0.0 marketplace.music.amazon.com
+0.0.0.0 seller.music.amazon.com
+0.0.0.0 vendors.music.amazon.com
+
+# Quality assurance
+0.0.0.0 quality.music.amazon.com
+0.0.0.0 testing.music.amazon.com
+0.0.0.0 validation.music.amazon.com 

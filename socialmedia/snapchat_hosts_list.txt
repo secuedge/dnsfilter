@@ -1,0 +1,357 @@
+# Snapchat - Social media and messaging platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 snapchat.com
+0.0.0.0 www.snapchat.com
+
+# Mobile and app related
+0.0.0.0 app.snapchat.com
+0.0.0.0 apps.snapchat.com
+0.0.0.0 m.snapchat.com
+0.0.0.0 mobile.snapchat.com
+0.0.0.0 android.snapchat.com
+0.0.0.0 ios.snapchat.com
+
+# API endpoints (based on sc-gw.com research)
+0.0.0.0 api.snapchat.com
+0.0.0.0 gcp.api.snapchat.com
+0.0.0.0 aws.api.snapchat.com
+0.0.0.0 aws-cf.api.snapchat.com
+0.0.0.0 staging-gcp.api.snapchat.com
+0.0.0.0 direct-response-gcp.api.snapchat.com
+0.0.0.0 bitmoji.api.snapchat.com
+0.0.0.0 gateway.snapchat.com
+
+# Regional API endpoints (based on research)
+0.0.0.0 us-central1-gcp.api.snapchat.com
+0.0.0.0 us-east4-gcp.api.snapchat.com
+0.0.0.0 us-east1-aws.api.snapchat.com
+0.0.0.0 us-east1-aws-cf.api.snapchat.com
+0.0.0.0 us-east1-aws-acc.api.snapchat.com
+0.0.0.0 us-west2-aws.api.snapchat.com
+0.0.0.0 us-west2-aws-cf.api.snapchat.com
+0.0.0.0 europe-west1-gcp.api.snapchat.com
+0.0.0.0 eu-west1-aws.api.snapchat.com
+0.0.0.0 eu-west1-aws-cf.api.snapchat.com
+0.0.0.0 asia-southeast1-gcp.api.snapchat.com
+0.0.0.0 ap-southeast1-aws.api.snapchat.com
+0.0.0.0 ap-southeast1-aws-cf.api.snapchat.com
+0.0.0.0 asia-south1-gcp.api.snapchat.com
+0.0.0.0 ap-south1-aws.api.snapchat.com
+
+# Version-specific API endpoints
+0.0.0.0 usc1-gcp-v62.api.snapchat.com
+0.0.0.0 usc1-gcp-v61.api.snapchat.com
+0.0.0.0 use4-gcp-v4.api.snapchat.com
+0.0.0.0 use4-gcp-v6.api.snapchat.com
+
+# Gateway domains (based on sc-gw.com research)
+0.0.0.0 sc-gw.com
+0.0.0.0 www.sc-gw.com
+0.0.0.0 aws.duplex.sc-gw.com
+0.0.0.0 us-east1-aws.duplex.sc-gw.com
+0.0.0.0 us-east1-aws.api.sc-gw.com
+
+# Duplex infrastructure (based on aws.duplex.snapchat.com research)
+0.0.0.0 duplex.snapchat.com
+0.0.0.0 aws.duplex.snapchat.com
+0.0.0.0 ap-south-1.aws.duplex.snapchat.com
+
+# Chat infrastructure (based on research)
+0.0.0.0 chat.snapchat.com
+0.0.0.0 chat-gateway-prod.chat.snapchat.com
+0.0.0.0 chat-gateway026-prod.chat.snapchat.com
+0.0.0.0 chat-gateway028-prod.chat.snapchat.com
+0.0.0.0 chat-gateway030-prod.chat.snapchat.com
+0.0.0.0 chat-gateway032-prod.chat.snapchat.com
+0.0.0.0 chat-gateway038-prod.chat.snapchat.com
+0.0.0.0 chat-gateway043-prod.chat.snapchat.com
+0.0.0.0 chat-gateway047-prod.chat.snapchat.com
+0.0.0.0 chat-gateway051-prod.chat.snapchat.com
+0.0.0.0 chat-gateway052-prod.chat.snapchat.com
+0.0.0.0 chat-gateway055-prod.chat.snapchat.com
+0.0.0.0 chat-gateway059-prod.chat.snapchat.com
+0.0.0.0 chat-gateway060-prod.chat.snapchat.com
+0.0.0.0 chat-gateway065-prod.chat.snapchat.com
+0.0.0.0 chat-gateway079-prod.chat.snapchat.com
+0.0.0.0 chat-gateway080-prod.chat.snapchat.com
+0.0.0.0 chat-gateway103-prod.chat.snapchat.com
+0.0.0.0 chat-gateway107-prod.chat.snapchat.com
+0.0.0.0 chat-gateway108-prod.chat.snapchat.com
+0.0.0.0 chat-gateway112-prod.chat.snapchat.com
+0.0.0.0 chat-gateway118-prod.chat.snapchat.com
+0.0.0.0 chat-gateway123-prod.chat.snapchat.com
+
+# Analytics and tracking (based on tr.snapchat.com research)
+0.0.0.0 tr.snapchat.com
+0.0.0.0 tr2.snapchat.com
+0.0.0.0 tr6.snapchat.com
+0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 app-analytics-v2.snapchat.com
+0.0.0.0 analytics.snapchat.com
+0.0.0.0 tracking.snapchat.com
+0.0.0.0 track.snapchat.com
+0.0.0.0 tracker.snapchat.com
+0.0.0.0 metrics.snapchat.com
+0.0.0.0 stats.snapchat.com
+0.0.0.0 pixel.snapchat.com
+0.0.0.0 beacon.snapchat.com
+0.0.0.0 data.snapchat.com
+0.0.0.0 events.snapchat.com
+
+# CDN and static content
+0.0.0.0 cdn.snapchat.com
+0.0.0.0 cdn1.snapchat.com
+0.0.0.0 cdn2.snapchat.com
+0.0.0.0 cdn3.snapchat.com
+0.0.0.0 static.snapchat.com
+0.0.0.0 static1.snapchat.com
+0.0.0.0 static2.snapchat.com
+0.0.0.0 assets.snapchat.com
+0.0.0.0 media.snapchat.com
+0.0.0.0 content.snapchat.com
+
+# Image and media servers
+0.0.0.0 img.snapchat.com
+0.0.0.0 img1.snapchat.com
+0.0.0.0 img2.snapchat.com
+0.0.0.0 img3.snapchat.com
+0.0.0.0 images.snapchat.com
+0.0.0.0 pics.snapchat.com
+0.0.0.0 photos.snapchat.com
+0.0.0.0 video.snapchat.com
+0.0.0.0 videos.snapchat.com
+0.0.0.0 webattachments.snapchat.com
+
+# User authentication and security
+0.0.0.0 auth.snapchat.com
+0.0.0.0 login.snapchat.com
+0.0.0.0 signin.snapchat.com
+0.0.0.0 accounts.snapchat.com
+0.0.0.0 account.snapchat.com
+0.0.0.0 secure.snapchat.com
+0.0.0.0 ssl.snapchat.com
+0.0.0.0 profile.snapchat.com
+0.0.0.0 user.snapchat.com
+0.0.0.0 users.snapchat.com
+0.0.0.0 my.snapchat.com
+
+# Stories and content features (based on research)
+0.0.0.0 story.snapchat.com
+0.0.0.0 stories.snapchat.com
+0.0.0.0 pro-stories.snapchat.com
+0.0.0.0 pro-accounts.snapchat.com
+0.0.0.0 shows.snapchat.com
+
+# Support and help
+0.0.0.0 support.snapchat.com
+0.0.0.0 help.snapchat.com
+0.0.0.0 customer.snapchat.com
+0.0.0.0 service.snapchat.com
+0.0.0.0 care.snapchat.com
+0.0.0.0 faq.snapchat.com
+0.0.0.0 feedback.snapchat.com
+0.0.0.0 contact.snapchat.com
+
+# Search and discovery
+0.0.0.0 search.snapchat.com
+0.0.0.0 find.snapchat.com
+0.0.0.0 discover.snapchat.com
+0.0.0.0 suggest.snapchat.com
+0.0.0.0 recommendation.snapchat.com
+0.0.0.0 reco.snapchat.com
+
+# Email and notifications
+0.0.0.0 mail.snapchat.com
+0.0.0.0 email.snapchat.com
+0.0.0.0 newsletter.snapchat.com
+0.0.0.0 notifications.snapchat.com
+0.0.0.0 push.snapchat.com
+
+# Social and community
+0.0.0.0 social.snapchat.com
+0.0.0.0 community.snapchat.com
+0.0.0.0 blog.snapchat.com
+0.0.0.0 news.snapchat.com
+0.0.0.0 reviews.snapchat.com
+0.0.0.0 share.snapchat.com
+
+# Admin and backend
+0.0.0.0 admin.snapchat.com
+0.0.0.0 manage.snapchat.com
+0.0.0.0 dashboard.snapchat.com
+0.0.0.0 console.snapchat.com
+0.0.0.0 backend.snapchat.com
+
+# Geographic and regional
+0.0.0.0 us.snapchat.com
+0.0.0.0 uk.snapchat.com
+0.0.0.0 eu.snapchat.com
+0.0.0.0 asia.snapchat.com
+0.0.0.0 global.snapchat.com
+
+# Development and staging
+0.0.0.0 dev.snapchat.com
+0.0.0.0 test.snapchat.com
+0.0.0.0 staging.snapchat.com
+0.0.0.0 qa.snapchat.com
+0.0.0.0 beta.snapchat.com
+0.0.0.0 demo.snapchat.com
+0.0.0.0 intg.snapchat.com
+
+# Business and advertising
+0.0.0.0 business.snapchat.com
+0.0.0.0 ads.snapchat.com
+0.0.0.0 advertising.snapchat.com
+0.0.0.0 marketing.snapchat.com
+0.0.0.0 campaign.snapchat.com
+0.0.0.0 advertiser.snapchat.com
+0.0.0.0 admanager.snapchat.com
+
+# Corporate and informational
+0.0.0.0 careers.snapchat.com
+0.0.0.0 jobs.snapchat.com
+0.0.0.0 press.snapchat.com
+0.0.0.0 about.snapchat.com
+0.0.0.0 legal.snapchat.com
+0.0.0.0 privacy.snapchat.com
+0.0.0.0 terms.snapchat.com
+0.0.0.0 investor.snapchat.com
+0.0.0.0 investors.snapchat.com
+
+# Load balancers and infrastructure
+0.0.0.0 lb.snapchat.com
+0.0.0.0 lb1.snapchat.com
+0.0.0.0 lb2.snapchat.com
+0.0.0.0 proxy.snapchat.com
+0.0.0.0 cache.snapchat.com
+
+# Third-party integrations
+0.0.0.0 facebook.snapchat.com
+0.0.0.0 google.snapchat.com
+0.0.0.0 twitter.snapchat.com
+0.0.0.0 instagram.snapchat.com
+
+# Snap Studio and creative tools (based on research)
+0.0.0.0 studio.snapchat.com
+0.0.0.0 studio-app.snapchat.com
+0.0.0.0 studio-crash.snapchat.com
+0.0.0.0 lens.snapchat.com
+0.0.0.0 lenses.snapchat.com
+0.0.0.0 lensstudio.snapchat.com
+0.0.0.0 camera.snapchat.com
+0.0.0.0 filters.snapchat.com
+
+# Bitmoji integration
+0.0.0.0 bitmoji.snapchat.com
+0.0.0.0 bitstrips.snapchat.com
+0.0.0.0 avatar.snapchat.com
+0.0.0.0 avatars.snapchat.com
+
+# AR and technology features
+0.0.0.0 ar.snapchat.com
+0.0.0.0 augmented.snapchat.com
+0.0.0.0 reality.snapchat.com
+0.0.0.0 scan.snapchat.com
+0.0.0.0 scanner.snapchat.com
+0.0.0.0 recognition.snapchat.com
+
+# Maps and location features
+0.0.0.0 map.snapchat.com
+0.0.0.0 maps.snapchat.com
+0.0.0.0 location.snapchat.com
+0.0.0.0 places.snapchat.com
+0.0.0.0 geo.snapchat.com
+0.0.0.0 gps.snapchat.com
+
+# Gaming and entertainment
+0.0.0.0 games.snapchat.com
+0.0.0.0 gaming.snapchat.com
+0.0.0.0 play.snapchat.com
+0.0.0.0 entertainment.snapchat.com
+
+# Memories and storage
+0.0.0.0 memories.snapchat.com
+0.0.0.0 storage.snapchat.com
+0.0.0.0 backup.snapchat.com
+0.0.0.0 cloud.snapchat.com
+
+# Spectacles and hardware
+0.0.0.0 spectacles.snapchat.com
+0.0.0.0 hardware.snapchat.com
+0.0.0.0 wearables.snapchat.com
+0.0.0.0 glasses.snapchat.com
+
+# MVM (based on research)
+0.0.0.0 mvm.snapchat.com
+
+# Click tracking and links (based on research)
+0.0.0.0 click.snapchat.com
+0.0.0.0 links.snapchat.com
+0.0.0.0 redirect.snapchat.com
+
+# Stickers and content (based on research)
+0.0.0.0 topic-sticker-vending.snapchat.com
+0.0.0.0 stickers.snapchat.com
+0.0.0.0 sticker.snapchat.com
+
+# Jaguar (internal service based on research)
+0.0.0.0 jaguar-prod.snapchat.com
+
+# AI and machine learning
+0.0.0.0 ai.snapchat.com
+0.0.0.0 ml.snapchat.com
+0.0.0.0 machinelearning.snapchat.com
+0.0.0.0 recommend.snapchat.com
+
+# Trust and safety
+0.0.0.0 trust.snapchat.com
+0.0.0.0 safety.snapchat.com
+0.0.0.0 security.snapchat.com
+0.0.0.0 verification.snapchat.com
+0.0.0.0 moderation.snapchat.com
+
+# Creator and publisher tools
+0.0.0.0 creator.snapchat.com
+0.0.0.0 creators.snapchat.com
+0.0.0.0 publisher.snapchat.com
+0.0.0.0 publishers.snapchat.com
+0.0.0.0 partner.snapchat.com
+0.0.0.0 partners.snapchat.com
+
+# Insights and analytics
+0.0.0.0 insights.snapchat.com
+0.0.0.0 market.snapchat.com
+0.0.0.0 marketplace.snapchat.com
+0.0.0.0 trends.snapchat.com
+0.0.0.0 pulse.snapchat.com
+
+# Customer service features
+0.0.0.0 chat.snapchat.com
+0.0.0.0 livechat.snapchat.com
+0.0.0.0 message.snapchat.com
+0.0.0.0 messenger.snapchat.com
+
+# Special features
+0.0.0.0 spotlight.snapchat.com
+0.0.0.0 premium.snapchat.com
+0.0.0.0 plus.snapchat.com
+0.0.0.0 pro.snapchat.com
+
+# Events and campaigns
+0.0.0.0 events.snapchat.com
+0.0.0.0 event.snapchat.com
+0.0.0.0 campaign.snapchat.com
+0.0.0.0 campaigns.snapchat.com
+
+# Technology and engineering
+0.0.0.0 tech.snapchat.com
+0.0.0.0 technology.snapchat.com
+0.0.0.0 engineering.snapchat.com
+0.0.0.0 innovation.snapchat.com
+0.0.0.0 research.snapchat.com
+
+# Store and commerce
+0.0.0.0 store.snapchat.com
+0.0.0.0 shop.snapchat.com
+0.0.0.0 commerce.snapchat.com
+0.0.0.0 shopping.snapchat.com 

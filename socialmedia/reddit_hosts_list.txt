@@ -1,0 +1,371 @@
+# Reddit - Social media and content aggregation platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+
+# Official alternative/historical versions
+0.0.0.0 old.reddit.com
+0.0.0.0 new.reddit.com
+0.0.0.0 beta.reddit.com
+
+# URL shortener
+0.0.0.0 redd.it
+0.0.0.0 www.redd.it
+
+# Mobile and app related
+0.0.0.0 m.reddit.com
+0.0.0.0 mobile.reddit.com
+0.0.0.0 app.reddit.com
+0.0.0.0 apps.reddit.com
+0.0.0.0 android.reddit.com
+0.0.0.0 ios.reddit.com
+
+# API endpoints (based on research)
+0.0.0.0 api.reddit.com
+0.0.0.0 oauth.reddit.com
+0.0.0.0 gateway.reddit.com
+0.0.0.0 gateway.reddit.com
+
+# Reddit's static content and CDN (based on research)
+0.0.0.0 redditstatic.com
+0.0.0.0 www.redditstatic.com
+0.0.0.0 i.redd.it
+0.0.0.0 v.redd.it
+0.0.0.0 preview.redd.it
+0.0.0.0 external-preview.redd.it
+0.0.0.0 thumbs.redd.it
+0.0.0.0 styles.redd.it
+
+# CDN and static content
+0.0.0.0 cdn.reddit.com
+0.0.0.0 static.reddit.com
+0.0.0.0 assets.reddit.com
+0.0.0.0 media.reddit.com
+0.0.0.0 content.reddit.com
+0.0.0.0 images.reddit.com
+0.0.0.0 img.reddit.com
+0.0.0.0 pics.reddit.com
+0.0.0.0 photos.reddit.com
+0.0.0.0 video.reddit.com
+0.0.0.0 videos.reddit.com
+
+# User authentication and accounts
+0.0.0.0 auth.reddit.com
+0.0.0.0 login.reddit.com
+0.0.0.0 signin.reddit.com
+0.0.0.0 signup.reddit.com
+0.0.0.0 register.reddit.com
+0.0.0.0 account.reddit.com
+0.0.0.0 accounts.reddit.com
+0.0.0.0 secure.reddit.com
+0.0.0.0 ssl.reddit.com
+
+# User profiles and settings
+0.0.0.0 profile.reddit.com
+0.0.0.0 user.reddit.com
+0.0.0.0 users.reddit.com
+0.0.0.0 my.reddit.com
+0.0.0.0 settings.reddit.com
+0.0.0.0 preferences.reddit.com
+
+# Subreddit and content features
+0.0.0.0 subreddit.reddit.com
+0.0.0.0 submit.reddit.com
+0.0.0.0 post.reddit.com
+0.0.0.0 posts.reddit.com
+0.0.0.0 comments.reddit.com
+0.0.0.0 voting.reddit.com
+0.0.0.0 upvote.reddit.com
+0.0.0.0 downvote.reddit.com
+
+# Messaging and chat
+0.0.0.0 chat.reddit.com
+0.0.0.0 messages.reddit.com
+0.0.0.0 message.reddit.com
+0.0.0.0 inbox.reddit.com
+0.0.0.0 dm.reddit.com
+0.0.0.0 mail.reddit.com
+
+# Live features
+0.0.0.0 live.reddit.com
+0.0.0.0 rpan.reddit.com
+0.0.0.0 broadcast.reddit.com
+0.0.0.0 streaming.reddit.com
+
+# Reddit Premium and awards
+0.0.0.0 premium.reddit.com
+0.0.0.0 gold.reddit.com
+0.0.0.0 awards.reddit.com
+0.0.0.0 coins.reddit.com
+
+# Search and discovery
+0.0.0.0 search.reddit.com
+0.0.0.0 find.reddit.com
+0.0.0.0 discover.reddit.com
+0.0.0.0 explore.reddit.com
+0.0.0.0 trending.reddit.com
+0.0.0.0 popular.reddit.com
+
+# Support and help
+0.0.0.0 support.reddit.com
+0.0.0.0 help.reddit.com
+0.0.0.0 customer.reddit.com
+0.0.0.0 service.reddit.com
+0.0.0.0 care.reddit.com
+0.0.0.0 faq.reddit.com
+0.0.0.0 feedback.reddit.com
+0.0.0.0 contact.reddit.com
+
+# Email and notifications
+0.0.0.0 email.reddit.com
+0.0.0.0 newsletter.reddit.com
+0.0.0.0 notifications.reddit.com
+0.0.0.0 push.reddit.com
+0.0.0.0 alerts.reddit.com
+
+# Analytics and tracking (based on research showing Google Analytics)
+0.0.0.0 analytics.reddit.com
+0.0.0.0 tracking.reddit.com
+0.0.0.0 track.reddit.com
+0.0.0.0 metrics.reddit.com
+0.0.0.0 stats.reddit.com
+0.0.0.0 data.reddit.com
+0.0.0.0 events.reddit.com
+0.0.0.0 pixel.reddit.com
+0.0.0.0 beacon.reddit.com
+
+# Admin and moderation
+0.0.0.0 admin.reddit.com
+0.0.0.0 mod.reddit.com
+0.0.0.0 moderation.reddit.com
+0.0.0.0 moderator.reddit.com
+0.0.0.0 manage.reddit.com
+0.0.0.0 dashboard.reddit.com
+0.0.0.0 console.reddit.com
+0.0.0.0 backend.reddit.com
+
+# Development and staging
+0.0.0.0 dev.reddit.com
+0.0.0.0 test.reddit.com
+0.0.0.0 staging.reddit.com
+0.0.0.0 qa.reddit.com
+0.0.0.0 demo.reddit.com
+
+# Business and advertising (based on research showing Google Ads)
+0.0.0.0 business.reddit.com
+0.0.0.0 ads.reddit.com
+0.0.0.0 advertising.reddit.com
+0.0.0.0 promoted.reddit.com
+0.0.0.0 sponsor.reddit.com
+0.0.0.0 marketing.reddit.com
+0.0.0.0 campaign.reddit.com
+0.0.0.0 campaigns.reddit.com
+
+# Corporate and informational
+0.0.0.0 about.reddit.com
+0.0.0.0 legal.reddit.com
+0.0.0.0 privacy.reddit.com
+0.0.0.0 terms.reddit.com
+0.0.0.0 press.reddit.com
+0.0.0.0 blog.reddit.com
+0.0.0.0 news.reddit.com
+0.0.0.0 careers.reddit.com
+0.0.0.0 jobs.reddit.com
+
+# Developer and API related
+0.0.0.0 developers.reddit.com
+0.0.0.0 developer.reddit.com
+0.0.0.0 docs.reddit.com
+0.0.0.0 documentation.reddit.com
+0.0.0.0 api-docs.reddit.com
+
+# Load balancers and infrastructure (based on research showing Fastly CDN)
+0.0.0.0 lb.reddit.com
+0.0.0.0 proxy.reddit.com
+0.0.0.0 cache.reddit.com
+0.0.0.0 edge.reddit.com
+
+# Download and installation
+0.0.0.0 download.reddit.com
+0.0.0.0 install.reddit.com
+0.0.0.0 get.reddit.com
+
+# Status and monitoring
+0.0.0.0 status.reddit.com
+0.0.0.0 monitor.reddit.com
+0.0.0.0 health.reddit.com
+0.0.0.0 uptime.reddit.com
+
+# Security and verification
+0.0.0.0 verify.reddit.com
+0.0.0.0 verification.reddit.com
+0.0.0.0 security.reddit.com
+0.0.0.0 2fa.reddit.com
+
+# File and media upload
+0.0.0.0 upload.reddit.com
+0.0.0.0 files.reddit.com
+0.0.0.0 storage.reddit.com
+
+# Webhooks and integrations
+0.0.0.0 webhook.reddit.com
+0.0.0.0 webhooks.reddit.com
+0.0.0.0 integration.reddit.com
+0.0.0.0 integrations.reddit.com
+
+# Activity and feeds
+0.0.0.0 activity.reddit.com
+0.0.0.0 feed.reddit.com
+0.0.0.0 feeds.reddit.com
+0.0.0.0 rss.reddit.com
+0.0.0.0 timeline.reddit.com
+
+# Geographic and regional
+0.0.0.0 us.reddit.com
+0.0.0.0 eu.reddit.com
+0.0.0.0 asia.reddit.com
+0.0.0.0 global.reddit.com
+
+# Voting and engagement
+0.0.0.0 vote.reddit.com
+0.0.0.0 votes.reddit.com
+0.0.0.0 karma.reddit.com
+0.0.0.0 engagement.reddit.com
+
+# Special features
+0.0.0.0 ama.reddit.com
+0.0.0.0 iama.reddit.com
+0.0.0.0 polls.reddit.com
+0.0.0.0 quiz.reddit.com
+0.0.0.0 survey.reddit.com
+
+# Reporting and safety
+0.0.0.0 report.reddit.com
+0.0.0.0 reports.reddit.com
+0.0.0.0 safety.reddit.com
+0.0.0.0 abuse.reddit.com
+
+# Reddit community features
+0.0.0.0 community.reddit.com
+0.0.0.0 social.reddit.com
+0.0.0.0 connect.reddit.com
+
+# Content creation tools
+0.0.0.0 create.reddit.com
+0.0.0.0 editor.reddit.com
+0.0.0.0 compose.reddit.com
+
+# Third-party and external integrations
+0.0.0.0 external.reddit.com
+0.0.0.0 embed.reddit.com
+0.0.0.0 widget.reddit.com
+0.0.0.0 widgets.reddit.com
+
+# Moderation tools
+0.0.0.0 modmail.reddit.com
+0.0.0.0 modqueue.reddit.com
+0.0.0.0 modlog.reddit.com
+0.0.0.0 automod.reddit.com
+
+# Reddit coins and economy
+0.0.0.0 economy.reddit.com
+0.0.0.0 wallet.reddit.com
+0.0.0.0 payment.reddit.com
+0.0.0.0 payments.reddit.com
+
+# Collections and saved content
+0.0.0.0 saved.reddit.com
+0.0.0.0 collections.reddit.com
+0.0.0.0 library.reddit.com
+0.0.0.0 archive.reddit.com
+
+# Performance and optimization
+0.0.0.0 performance.reddit.com
+0.0.0.0 optimization.reddit.com
+0.0.0.0 speed.reddit.com
+
+# Event and community management
+0.0.0.0 events.reddit.com
+0.0.0.0 calendar.reddit.com
+0.0.0.0 meetup.reddit.com
+
+# User-generated content categories
+0.0.0.0 gaming.reddit.com
+0.0.0.0 sports.reddit.com
+0.0.0.0 music.reddit.com
+0.0.0.0 movies.reddit.com
+0.0.0.0 tv.reddit.com
+0.0.0.0 tech.reddit.com
+0.0.0.0 science.reddit.com
+
+# Content filtering and personalization
+0.0.0.0 filter.reddit.com
+0.0.0.0 personalize.reddit.com
+0.0.0.0 recommend.reddit.com
+0.0.0.0 suggestion.reddit.com
+
+# Reddit experimental features
+0.0.0.0 experimental.reddit.com
+0.0.0.0 labs.reddit.com
+0.0.0.0 beta.reddit.com
+
+# Cross-posting and sharing
+0.0.0.0 crosspost.reddit.com
+0.0.0.0 share.reddit.com
+0.0.0.0 sharing.reddit.com
+
+# Accessibility features
+0.0.0.0 accessibility.reddit.com
+0.0.0.0 a11y.reddit.com
+
+# Machine learning and AI features
+0.0.0.0 ai.reddit.com
+0.0.0.0 ml.reddit.com
+0.0.0.0 algorithm.reddit.com
+
+# Content recommendations
+0.0.0.0 recommendations.reddit.com
+0.0.0.0 trending.reddit.com
+0.0.0.0 hot.reddit.com
+0.0.0.0 rising.reddit.com
+
+# Internationalization
+0.0.0.0 i18n.reddit.com
+0.0.0.0 localization.reddit.com
+0.0.0.0 translate.reddit.com
+
+# User onboarding
+0.0.0.0 onboarding.reddit.com
+0.0.0.0 welcome.reddit.com
+0.0.0.0 tutorial.reddit.com
+
+# Content policy and guidelines
+0.0.0.0 policy.reddit.com
+0.0.0.0 guidelines.reddit.com
+0.0.0.0 rules.reddit.com
+
+# Third-party app authentication
+0.0.0.0 3rdparty.reddit.com
+0.0.0.0 apps-auth.reddit.com
+0.0.0.0 client.reddit.com
+
+# Backup and redundancy
+0.0.0.0 backup.reddit.com
+0.0.0.0 redundancy.reddit.com
+0.0.0.0 failover.reddit.com
+
+# Configuration and deployment
+0.0.0.0 config.reddit.com
+0.0.0.0 deploy.reddit.com
+0.0.0.0 deployment.reddit.com
+
+# Logging and debugging
+0.0.0.0 log.reddit.com
+0.0.0.0 logs.reddit.com
+0.0.0.0 debug.reddit.com
+0.0.0.0 trace.reddit.com
+
+# Quality assurance
+0.0.0.0 quality.reddit.com
+0.0.0.0 qc.reddit.com
+0.0.0.0 reliability.reddit.com 

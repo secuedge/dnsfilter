@@ -1,0 +1,373 @@
+# RARBG - Historically Significant Torrent Site (SHUT DOWN 2023) (Comprehensive Block List)
+# Main historical domains
+0.0.0.0 rarbg.to
+0.0.0.0 www.rarbg.to
+0.0.0.0 rarbg.is
+0.0.0.0 www.rarbg.is
+0.0.0.0 rarbg.me
+0.0.0.0 www.rarbg.me
+
+# Historical alternative domains
+0.0.0.0 rarbg.com
+0.0.0.0 www.rarbg.com
+0.0.0.0 rarbg.org
+0.0.0.0 www.rarbg.org
+0.0.0.0 rarbg.net
+0.0.0.0 www.rarbg.net
+0.0.0.0 rarbg.info
+0.0.0.0 www.rarbg.info
+
+# Mobile and app domains
+0.0.0.0 m.rarbg.to
+0.0.0.0 mobile.rarbg.to
+0.0.0.0 app.rarbg.to
+0.0.0.0 api.rarbg.to
+
+# Common subdomain variations
+0.0.0.0 search.rarbg.to
+0.0.0.0 browse.rarbg.to
+0.0.0.0 movies.rarbg.to
+0.0.0.0 tv.rarbg.to
+0.0.0.0 games.rarbg.to
+0.0.0.0 software.rarbg.to
+0.0.0.0 music.rarbg.to
+0.0.0.0 xxx.rarbg.to
+0.0.0.0 download.rarbg.to
+0.0.0.0 torrent.rarbg.to
+0.0.0.0 magnet.rarbg.to
+0.0.0.0 trending.rarbg.to
+0.0.0.0 popular.rarbg.to
+0.0.0.0 latest.rarbg.to
+0.0.0.0 new.rarbg.to
+0.0.0.0 recent.rarbg.to
+0.0.0.0 top.rarbg.to
+
+# Static content and CDN
+0.0.0.0 static.rarbg.to
+0.0.0.0 cdn.rarbg.to
+0.0.0.0 assets.rarbg.to
+0.0.0.0 img.rarbg.to
+0.0.0.0 images.rarbg.to
+0.0.0.0 thumbs.rarbg.to
+0.0.0.0 covers.rarbg.to
+0.0.0.0 posters.rarbg.to
+
+# User and community features
+0.0.0.0 user.rarbg.to
+0.0.0.0 profile.rarbg.to
+0.0.0.0 account.rarbg.to
+0.0.0.0 login.rarbg.to
+0.0.0.0 register.rarbg.to
+0.0.0.0 upload.rarbg.to
+
+# RSS and feeds
+0.0.0.0 rss.rarbg.to
+0.0.0.0 feed.rarbg.to
+0.0.0.0 feeds.rarbg.to
+
+# Administrative and backend
+0.0.0.0 admin.rarbg.to
+0.0.0.0 beta.rarbg.to
+0.0.0.0 test.rarbg.to
+0.0.0.0 dev.rarbg.to
+0.0.0.0 staging.rarbg.to
+
+# Help and support
+0.0.0.0 help.rarbg.to
+0.0.0.0 support.rarbg.to
+0.0.0.0 faq.rarbg.to
+0.0.0.0 about.rarbg.to
+0.0.0.0 contact.rarbg.to
+
+# Mirror and proxy variations
+0.0.0.0 rarbgmirror.com
+0.0.0.0 www.rarbgmirror.com
+0.0.0.0 rarbgproxy.com
+0.0.0.0 www.rarbgproxy.com
+0.0.0.0 rarbgunblocked.com
+0.0.0.0 www.rarbgunblocked.com
+0.0.0.0 rarbgunblocker.com
+0.0.0.0 www.rarbgunblocker.com
+
+# Alternative naming conventions
+0.0.0.0 rarbgtorrent.com
+0.0.0.0 www.rarbgtorrent.com
+0.0.0.0 rarbgtorrents.com
+0.0.0.0 www.rarbgtorrents.com
+0.0.0.0 rarbgmovies.com
+0.0.0.0 www.rarbgmovies.com
+
+# Country-specific domains
+0.0.0.0 rarbg.us
+0.0.0.0 www.rarbg.us
+0.0.0.0 rarbg.uk
+0.0.0.0 www.rarbg.uk
+0.0.0.0 rarbg.eu
+0.0.0.0 www.rarbg.eu
+0.0.0.0 rarbg.ca
+0.0.0.0 www.rarbg.ca
+0.0.0.0 rarbg.au
+0.0.0.0 www.rarbg.au
+0.0.0.0 rarbg.de
+0.0.0.0 www.rarbg.de
+0.0.0.0 rarbg.fr
+0.0.0.0 www.rarbg.fr
+0.0.0.0 rarbg.it
+0.0.0.0 www.rarbg.it
+0.0.0.0 rarbg.es
+0.0.0.0 www.rarbg.es
+0.0.0.0 rarbg.nl
+0.0.0.0 www.rarbg.nl
+0.0.0.0 rarbg.be
+0.0.0.0 www.rarbg.be
+0.0.0.0 rarbg.se
+0.0.0.0 www.rarbg.se
+0.0.0.0 rarbg.no
+0.0.0.0 www.rarbg.no
+0.0.0.0 rarbg.dk
+0.0.0.0 www.rarbg.dk
+0.0.0.0 rarbg.fi
+0.0.0.0 www.rarbg.fi
+0.0.0.0 rarbg.pl
+0.0.0.0 www.rarbg.pl
+0.0.0.0 rarbg.cz
+0.0.0.0 www.rarbg.cz
+0.0.0.0 rarbg.hu
+0.0.0.0 www.rarbg.hu
+0.0.0.0 rarbg.ru
+0.0.0.0 www.rarbg.ru
+0.0.0.0 rarbg.jp
+0.0.0.0 www.rarbg.jp
+0.0.0.0 rarbg.kr
+0.0.0.0 www.rarbg.kr
+0.0.0.0 rarbg.cn
+0.0.0.0 www.rarbg.cn
+0.0.0.0 rarbg.in
+0.0.0.0 www.rarbg.in
+0.0.0.0 rarbg.br
+0.0.0.0 www.rarbg.br
+0.0.0.0 rarbg.mx
+0.0.0.0 www.rarbg.mx
+0.0.0.0 rarbg.ar
+0.0.0.0 www.rarbg.ar
+
+# Common TLD variations
+0.0.0.0 rarbg.cc
+0.0.0.0 www.rarbg.cc
+0.0.0.0 rarbg.io
+0.0.0.0 www.rarbg.io
+0.0.0.0 rarbg.biz
+0.0.0.0 www.rarbg.biz
+0.0.0.0 rarbg.tv
+0.0.0.0 www.rarbg.tv
+0.0.0.0 rarbg.ws
+0.0.0.0 www.rarbg.ws
+0.0.0.0 rarbg.co
+0.0.0.0 www.rarbg.co
+
+# New generic TLD variations
+0.0.0.0 rarbg.movie
+0.0.0.0 www.rarbg.movie
+0.0.0.0 rarbg.film
+0.0.0.0 www.rarbg.film
+0.0.0.0 rarbg.video
+0.0.0.0 www.rarbg.video
+0.0.0.0 rarbg.media
+0.0.0.0 www.rarbg.media
+0.0.0.0 rarbg.download
+0.0.0.0 www.rarbg.download
+0.0.0.0 rarbg.torrent
+0.0.0.0 www.rarbg.torrent
+0.0.0.0 rarbg.online
+0.0.0.0 www.rarbg.online
+0.0.0.0 rarbg.site
+0.0.0.0 www.rarbg.site
+0.0.0.0 rarbg.web
+0.0.0.0 www.rarbg.web
+0.0.0.0 rarbg.live
+0.0.0.0 www.rarbg.live
+0.0.0.0 rarbg.stream
+0.0.0.0 www.rarbg.stream
+0.0.0.0 rarbg.click
+0.0.0.0 www.rarbg.click
+0.0.0.0 rarbg.link
+0.0.0.0 www.rarbg.link
+0.0.0.0 rarbg.today
+0.0.0.0 www.rarbg.today
+0.0.0.0 rarbg.now
+0.0.0.0 www.rarbg.now
+0.0.0.0 rarbg.here
+0.0.0.0 www.rarbg.here
+0.0.0.0 rarbg.free
+0.0.0.0 www.rarbg.free
+0.0.0.0 rarbg.top
+0.0.0.0 www.rarbg.top
+0.0.0.0 rarbg.best
+0.0.0.0 www.rarbg.best
+0.0.0.0 rarbg.new
+0.0.0.0 www.rarbg.new
+0.0.0.0 rarbg.pro
+0.0.0.0 www.rarbg.pro
+0.0.0.0 rarbg.plus
+0.0.0.0 www.rarbg.plus
+0.0.0.0 rarbg.vip
+0.0.0.0 www.rarbg.vip
+0.0.0.0 rarbg.premium
+0.0.0.0 www.rarbg.premium
+0.0.0.0 rarbg.gold
+0.0.0.0 www.rarbg.gold
+0.0.0.0 rarbg.super
+0.0.0.0 www.rarbg.super
+0.0.0.0 rarbg.ultra
+0.0.0.0 www.rarbg.ultra
+0.0.0.0 rarbg.max
+0.0.0.0 www.rarbg.max
+0.0.0.0 rarbg.mega
+0.0.0.0 www.rarbg.mega
+0.0.0.0 rarbg.fast
+0.0.0.0 www.rarbg.fast
+0.0.0.0 rarbg.quick
+0.0.0.0 www.rarbg.quick
+0.0.0.0 rarbg.instant
+0.0.0.0 www.rarbg.instant
+0.0.0.0 rarbg.direct
+0.0.0.0 www.rarbg.direct
+0.0.0.0 rarbg.easy
+0.0.0.0 www.rarbg.easy
+0.0.0.0 rarbg.simple
+0.0.0.0 www.rarbg.simple
+0.0.0.0 rarbg.smart
+0.0.0.0 www.rarbg.smart
+0.0.0.0 rarbg.cool
+0.0.0.0 www.rarbg.cool
+0.0.0.0 rarbg.fun
+0.0.0.0 www.rarbg.fun
+0.0.0.0 rarbg.hot
+0.0.0.0 www.rarbg.hot
+0.0.0.0 rarbg.fire
+0.0.0.0 www.rarbg.fire
+0.0.0.0 rarbg.win
+0.0.0.0 www.rarbg.win
+0.0.0.0 rarbg.star
+0.0.0.0 www.rarbg.star
+0.0.0.0 rarbg.world
+0.0.0.0 www.rarbg.world
+0.0.0.0 rarbg.global
+0.0.0.0 www.rarbg.global
+0.0.0.0 rarbg.network
+0.0.0.0 www.rarbg.network
+0.0.0.0 rarbg.cloud
+0.0.0.0 www.rarbg.cloud
+0.0.0.0 rarbg.host
+0.0.0.0 www.rarbg.host
+0.0.0.0 rarbg.space
+0.0.0.0 www.rarbg.space
+0.0.0.0 rarbg.zone
+0.0.0.0 www.rarbg.zone
+
+# Alternative spellings and variations
+0.0.0.0 rarbg1.to
+0.0.0.0 www.rarbg1.to
+0.0.0.0 rarbg2.to
+0.0.0.0 www.rarbg2.to
+0.0.0.0 rarbg3.to
+0.0.0.0 www.rarbg3.to
+
+# Common misspellings
+0.0.0.0 rarbq.to
+0.0.0.0 www.rarbq.to
+0.0.0.0 rarbgto.com
+0.0.0.0 www.rarbgto.com
+0.0.0.0 rarbg-to.com
+0.0.0.0 www.rarbg-to.com
+0.0.0.0 rarbg_to.com
+0.0.0.0 www.rarbg_to.com
+
+# Backup and mirror domains
+0.0.0.0 backup.rarbg.to
+0.0.0.0 mirror.rarbg.to
+0.0.0.0 clone.rarbg.to
+0.0.0.0 copy.rarbg.to
+
+# Historical domains (known to have been used)
+0.0.0.0 rarbg.be
+0.0.0.0 www.rarbg.be
+0.0.0.0 rarbg.li
+0.0.0.0 www.rarbg.li
+0.0.0.0 rarbg.ch
+0.0.0.0 www.rarbg.ch
+0.0.0.0 rarbg.im
+0.0.0.0 www.rarbg.im
+
+# Clone and fake sites (these often appear after shutdown)
+0.0.0.0 rarbgenter.com
+0.0.0.0 www.rarbgenter.com
+0.0.0.0 rarbgaccess.com
+0.0.0.0 www.rarbgaccess.com
+0.0.0.0 rarbgway.com
+0.0.0.0 www.rarbgway.com
+0.0.0.0 rarbggo.com
+0.0.0.0 www.rarbggo.com
+0.0.0.0 rarbgnew.com
+0.0.0.0 www.rarbgnew.com
+
+# Regional variations
+0.0.0.0 rarbg.asia
+0.0.0.0 www.rarbg.asia
+0.0.0.0 rarbg.africa
+0.0.0.0 www.rarbg.africa
+0.0.0.0 rarbg.am
+0.0.0.0 www.rarbg.am
+0.0.0.0 rarbg.tw
+0.0.0.0 www.rarbg.tw
+0.0.0.0 rarbg.hk
+0.0.0.0 www.rarbg.hk
+0.0.0.0 rarbg.sg
+0.0.0.0 www.rarbg.sg
+0.0.0.0 rarbg.my
+0.0.0.0 www.rarbg.my
+0.0.0.0 rarbg.th
+0.0.0.0 www.rarbg.th
+0.0.0.0 rarbg.ph
+0.0.0.0 www.rarbg.ph
+0.0.0.0 rarbg.id
+0.0.0.0 www.rarbg.id
+0.0.0.0 rarbg.vn
+0.0.0.0 www.rarbg.vn
+
+# European variations
+0.0.0.0 rarbg.at
+0.0.0.0 www.rarbg.at
+0.0.0.0 rarbg.pt
+0.0.0.0 www.rarbg.pt
+0.0.0.0 rarbg.gr
+0.0.0.0 www.rarbg.gr
+0.0.0.0 rarbg.ro
+0.0.0.0 www.rarbg.ro
+0.0.0.0 rarbg.bg
+0.0.0.0 www.rarbg.bg
+0.0.0.0 rarbg.hr
+0.0.0.0 www.rarbg.hr
+0.0.0.0 rarbg.si
+0.0.0.0 www.rarbg.si
+0.0.0.0 rarbg.sk
+0.0.0.0 www.rarbg.sk
+0.0.0.0 rarbg.lt
+0.0.0.0 www.rarbg.lt
+0.0.0.0 rarbg.lv
+0.0.0.0 www.rarbg.lv
+0.0.0.0 rarbg.ee
+0.0.0.0 www.rarbg.ee
+
+# Application and tracker subdomains
+0.0.0.0 tracker.rarbg.to
+0.0.0.0 announce.rarbg.to
+0.0.0.0 scrape.rarbg.to
+
+# Alternative tracker domains that might be used
+0.0.0.0 tracker.rarbg.me
+0.0.0.0 announce.rarbg.me
+0.0.0.0 scrape.rarbg.me
+0.0.0.0 tracker.rarbg.is
+0.0.0.0 announce.rarbg.is
+0.0.0.0 scrape.rarbg.is 

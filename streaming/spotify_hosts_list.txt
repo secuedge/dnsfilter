@@ -1,0 +1,529 @@
+# Spotify - Swedish music streaming platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 spotify.com
+0.0.0.0 www.spotify.com
+
+# Mobile and app related
+0.0.0.0 m.spotify.com
+0.0.0.0 mobile.spotify.com
+0.0.0.0 app.spotify.com
+0.0.0.0 apps.spotify.com
+0.0.0.0 android.spotify.com
+0.0.0.0 ios.spotify.com
+
+# API endpoints (based on research showing api endpoints)
+0.0.0.0 api.spotify.com
+0.0.0.0 gateway.spotify.com
+0.0.0.0 data.spotify.com
+0.0.0.0 oauth.spotify.com
+0.0.0.0 auth.spotify.com
+
+# User authentication and accounts
+0.0.0.0 accounts.spotify.com
+0.0.0.0 signin.spotify.com
+0.0.0.0 login.spotify.com
+0.0.0.0 myaccount.spotify.com
+0.0.0.0 profile.spotify.com
+0.0.0.0 profiles.spotify.com
+
+# Video streaming and playback
+0.0.0.0 video.spotify.com
+0.0.0.0 videos.spotify.com
+0.0.0.0 stream.spotify.com
+0.0.0.0 streams.spotify.com
+0.0.0.0 streaming.spotify.com
+
+# Audio streaming and playback
+0.0.0.0 audio.spotify.com
+0.0.0.0 media.spotify.com
+0.0.0.0 play.spotify.com
+0.0.0.0 player.spotify.com
+0.0.0.0 playback.spotify.com
+
+# Fastly CDN infrastructure (based on research showing Fastly usage)
+0.0.0.0 cdn.spotify.com
+0.0.0.0 static.spotify.com
+0.0.0.0 assets.spotify.com
+0.0.0.0 resources.spotify.com
+0.0.0.0 content.spotify.com
+
+# SpotifyCDN domains (based on research showing spotifycdn.com)
+0.0.0.0 spotifycdn.com
+0.0.0.0 www.spotifycdn.com
+0.0.0.0 image-cdn-fa.spotifycdn.com
+0.0.0.0 image-cdn-fb.spotifycdn.com
+0.0.0.0 image-cdn-fc.spotifycdn.com
+0.0.0.0 image-cdn-fd.spotifycdn.com
+0.0.0.0 image-cdn-fe.spotifycdn.com
+0.0.0.0 image-cdn-ff.spotifycdn.com
+0.0.0.0 audio-cdn-fa.spotifycdn.com
+0.0.0.0 audio-cdn-fb.spotifycdn.com
+0.0.0.0 audio-cdn-fc.spotifycdn.com
+0.0.0.0 audio-cdn-fd.spotifycdn.com
+0.0.0.0 audio-cdn-fe.spotifycdn.com
+0.0.0.0 audio-cdn-ff.spotifycdn.com
+0.0.0.0 media-cdn-fa.spotifycdn.com
+0.0.0.0 media-cdn-fb.spotifycdn.com
+0.0.0.0 media-cdn-fc.spotifycdn.com
+0.0.0.0 media-cdn-fd.spotifycdn.com
+0.0.0.0 media-cdn-fe.spotifycdn.com
+0.0.0.0 media-cdn-ff.spotifycdn.com
+
+# Fastly CDN edge servers (based on research showing Fastly infrastructure)
+0.0.0.0 a.scdn.co
+0.0.0.0 b.scdn.co
+0.0.0.0 c.scdn.co
+0.0.0.0 d.scdn.co
+0.0.0.0 e.scdn.co
+0.0.0.0 f.scdn.co
+0.0.0.0 g.scdn.co
+0.0.0.0 h.scdn.co
+0.0.0.0 i.scdn.co
+0.0.0.0 j.scdn.co
+0.0.0.0 k.scdn.co
+0.0.0.0 l.scdn.co
+0.0.0.0 m.scdn.co
+0.0.0.0 n.scdn.co
+0.0.0.0 o.scdn.co
+0.0.0.0 p.scdn.co
+0.0.0.0 q.scdn.co
+0.0.0.0 r.scdn.co
+0.0.0.0 s.scdn.co
+0.0.0.0 t.scdn.co
+0.0.0.0 u.scdn.co
+0.0.0.0 v.scdn.co
+0.0.0.0 w.scdn.co
+0.0.0.0 x.scdn.co
+0.0.0.0 y.scdn.co
+0.0.0.0 z.scdn.co
+
+# Web Player and Desktop App
+0.0.0.0 open.spotify.com
+0.0.0.0 web.spotify.com
+0.0.0.0 webplayer.spotify.com
+0.0.0.0 desktop.spotify.com
+0.0.0.0 download.spotify.com
+0.0.0.0 downloads.spotify.com
+
+# Analytics and tracking
+0.0.0.0 analytics.spotify.com
+0.0.0.0 stats.spotify.com
+0.0.0.0 metrics.spotify.com
+0.0.0.0 tracking.spotify.com
+0.0.0.0 telemetry.spotify.com
+
+# Search and discovery
+0.0.0.0 search.spotify.com
+0.0.0.0 discover.spotify.com
+0.0.0.0 discovery.spotify.com
+0.0.0.0 recommendations.spotify.com
+0.0.0.0 recommend.spotify.com
+
+# Advertising and monetization
+0.0.0.0 ads.spotify.com
+0.0.0.0 advertising.spotify.com
+0.0.0.0 adnxs.spotify.com
+0.0.0.0 adserver.spotify.com
+0.0.0.0 adsystem.spotify.com
+
+# Developer and partner services
+0.0.0.0 developer.spotify.com
+0.0.0.0 developers.spotify.com
+0.0.0.0 partners.spotify.com
+0.0.0.0 partner.spotify.com
+
+# Support and help
+0.0.0.0 support.spotify.com
+0.0.0.0 help.spotify.com
+0.0.0.0 customer.spotify.com
+0.0.0.0 customerservice.spotify.com
+
+# News and press
+0.0.0.0 news.spotify.com
+0.0.0.0 press.spotify.com
+0.0.0.0 newsroom.spotify.com
+0.0.0.0 blog.spotify.com
+
+# Social and community
+0.0.0.0 community.spotify.com
+0.0.0.0 social.spotify.com
+0.0.0.0 friends.spotify.com
+0.0.0.0 connect.spotify.com
+
+# Live and events
+0.0.0.0 live.spotify.com
+0.0.0.0 events.spotify.com
+0.0.0.0 concerts.spotify.com
+0.0.0.0 shows.spotify.com
+
+# Podcasts
+0.0.0.0 podcasts.spotify.com
+0.0.0.0 podcast.spotify.com
+0.0.0.0 anchor.fm
+0.0.0.0 www.anchor.fm
+
+# Premium and subscription
+0.0.0.0 premium.spotify.com
+0.0.0.0 subscribe.spotify.com
+0.0.0.0 subscription.spotify.com
+0.0.0.0 billing.spotify.com
+
+# Artists and creators
+0.0.0.0 artists.spotify.com
+0.0.0.0 artist.spotify.com
+0.0.0.0 creators.spotify.com
+0.0.0.0 creator.spotify.com
+
+# Genius integration (based on research)
+0.0.0.0 genius.spotify.com
+0.0.0.0 lyrics.spotify.com
+
+# Regional domains
+0.0.0.0 spotify.co.uk
+0.0.0.0 spotify.ca
+0.0.0.0 spotify.com.au
+0.0.0.0 spotify.de
+0.0.0.0 spotify.fr
+0.0.0.0 spotify.it
+0.0.0.0 spotify.es
+0.0.0.0 spotify.se
+0.0.0.0 spotify.no
+0.0.0.0 spotify.dk
+0.0.0.0 spotify.fi
+0.0.0.0 spotify.nl
+0.0.0.0 spotify.be
+0.0.0.0 spotify.ch
+0.0.0.0 spotify.at
+0.0.0.0 spotify.pl
+0.0.0.0 spotify.cz
+0.0.0.0 spotify.hu
+0.0.0.0 spotify.pt
+0.0.0.0 spotify.ie
+0.0.0.0 spotify.mx
+0.0.0.0 spotify.br
+0.0.0.0 spotify.ar
+0.0.0.0 spotify.cl
+0.0.0.0 spotify.co
+0.0.0.0 spotify.pe
+0.0.0.0 spotify.ec
+0.0.0.0 spotify.uy
+0.0.0.0 spotify.py
+0.0.0.0 spotify.bo
+0.0.0.0 spotify.ve
+0.0.0.0 spotify.pa
+0.0.0.0 spotify.cr
+0.0.0.0 spotify.gt
+0.0.0.0 spotify.hn
+0.0.0.0 spotify.sv
+0.0.0.0 spotify.ni
+0.0.0.0 spotify.do
+0.0.0.0 spotify.jp
+0.0.0.0 spotify.kr
+0.0.0.0 spotify.tw
+0.0.0.0 spotify.hk
+0.0.0.0 spotify.sg
+0.0.0.0 spotify.my
+0.0.0.0 spotify.th
+0.0.0.0 spotify.ph
+0.0.0.0 spotify.id
+0.0.0.0 spotify.vn
+0.0.0.0 spotify.in
+0.0.0.0 spotify.ae
+0.0.0.0 spotify.sa
+0.0.0.0 spotify.eg
+0.0.0.0 spotify.ma
+0.0.0.0 spotify.tn
+0.0.0.0 spotify.dz
+0.0.0.0 spotify.jo
+0.0.0.0 spotify.lb
+0.0.0.0 spotify.kw
+0.0.0.0 spotify.qa
+0.0.0.0 spotify.bh
+0.0.0.0 spotify.om
+0.0.0.0 spotify.il
+0.0.0.0 spotify.tr
+0.0.0.0 spotify.za
+0.0.0.0 spotify.ng
+0.0.0.0 spotify.ke
+0.0.0.0 spotify.gh
+0.0.0.0 spotify.ug
+0.0.0.0 spotify.tz
+0.0.0.0 spotify.zw
+0.0.0.0 spotify.mw
+0.0.0.0 spotify.zm
+0.0.0.0 spotify.na
+0.0.0.0 spotify.bw
+0.0.0.0 spotify.sz
+0.0.0.0 spotify.ls
+0.0.0.0 spotify.mu
+0.0.0.0 spotify.sc
+0.0.0.0 spotify.mg
+0.0.0.0 spotify.km
+0.0.0.0 spotify.mz
+0.0.0.0 spotify.ao
+0.0.0.0 spotify.cv
+0.0.0.0 spotify.st
+0.0.0.0 spotify.gq
+0.0.0.0 spotify.ga
+0.0.0.0 spotify.cm
+0.0.0.0 spotify.cf
+0.0.0.0 spotify.td
+0.0.0.0 spotify.ne
+0.0.0.0 spotify.bf
+0.0.0.0 spotify.ml
+0.0.0.0 spotify.sn
+0.0.0.0 spotify.gm
+0.0.0.0 spotify.gw
+0.0.0.0 spotify.gn
+0.0.0.0 spotify.sl
+0.0.0.0 spotify.lr
+0.0.0.0 spotify.ci
+0.0.0.0 spotify.tg
+0.0.0.0 spotify.bj
+0.0.0.0 spotify.ru
+0.0.0.0 spotify.by
+0.0.0.0 spotify.ua
+0.0.0.0 spotify.md
+0.0.0.0 spotify.ro
+0.0.0.0 spotify.bg
+0.0.0.0 spotify.rs
+0.0.0.0 spotify.me
+0.0.0.0 spotify.ba
+0.0.0.0 spotify.hr
+0.0.0.0 spotify.si
+0.0.0.0 spotify.sk
+0.0.0.0 spotify.mk
+0.0.0.0 spotify.al
+0.0.0.0 spotify.gr
+0.0.0.0 spotify.cy
+0.0.0.0 spotify.mt
+0.0.0.0 spotify.ee
+0.0.0.0 spotify.lv
+0.0.0.0 spotify.lt
+0.0.0.0 spotify.is
+0.0.0.0 spotify.fo
+0.0.0.0 spotify.gl
+0.0.0.0 spotify.ad
+0.0.0.0 spotify.mc
+0.0.0.0 spotify.sm
+0.0.0.0 spotify.va
+0.0.0.0 spotify.li
+0.0.0.0 spotify.lu
+
+# Testing and staging
+0.0.0.0 test.spotify.com
+0.0.0.0 testing.spotify.com
+0.0.0.0 stage.spotify.com
+0.0.0.0 staging.spotify.com
+0.0.0.0 dev.spotify.com
+0.0.0.0 development.spotify.com
+0.0.0.0 qa.spotify.com
+0.0.0.0 uat.spotify.com
+0.0.0.0 beta.spotify.com
+0.0.0.0 preview.spotify.com
+
+# Platform integrations
+0.0.0.0 facebook.spotify.com
+0.0.0.0 twitter.spotify.com
+0.0.0.0 instagram.spotify.com
+0.0.0.0 discord.spotify.com
+0.0.0.0 twitch.spotify.com
+0.0.0.0 youtube.spotify.com
+
+# Technology platforms
+0.0.0.0 alexa.spotify.com
+0.0.0.0 google.spotify.com
+0.0.0.0 assistant.spotify.com
+0.0.0.0 siri.spotify.com
+0.0.0.0 cortana.spotify.com
+
+# Device specific
+0.0.0.0 tv.spotify.com
+0.0.0.0 car.spotify.com
+0.0.0.0 xbox.spotify.com
+0.0.0.0 playstation.spotify.com
+0.0.0.0 nintendo.spotify.com
+0.0.0.0 chromecast.spotify.com
+0.0.0.0 roku.spotify.com
+0.0.0.0 firetv.spotify.com
+0.0.0.0 appletv.spotify.com
+
+# Backend services
+0.0.0.0 backend.spotify.com
+0.0.0.0 service.spotify.com
+0.0.0.0 services.spotify.com
+0.0.0.0 microservice.spotify.com
+0.0.0.0 microservices.spotify.com
+
+# Security and encryption
+0.0.0.0 security.spotify.com
+0.0.0.0 ssl.spotify.com
+0.0.0.0 secure.spotify.com
+0.0.0.0 encryption.spotify.com
+
+# Machine learning and AI
+0.0.0.0 ml.spotify.com
+0.0.0.0 ai.spotify.com
+0.0.0.0 algorithm.spotify.com
+0.0.0.0 algorithms.spotify.com
+
+# Business and enterprise
+0.0.0.0 business.spotify.com
+0.0.0.0 enterprise.spotify.com
+0.0.0.0 corporate.spotify.com
+0.0.0.0 b2b.spotify.com
+
+# Legal and compliance
+0.0.0.0 legal.spotify.com
+0.0.0.0 privacy.spotify.com
+0.0.0.0 terms.spotify.com
+0.0.0.0 compliance.spotify.com
+
+# Email and notifications
+0.0.0.0 email.spotify.com
+0.0.0.0 mail.spotify.com
+0.0.0.0 notifications.spotify.com
+0.0.0.0 notify.spotify.com
+
+# File and asset storage
+0.0.0.0 files.spotify.com
+0.0.0.0 uploads.spotify.com
+0.0.0.0 download.spotify.com
+0.0.0.0 storage.spotify.com
+0.0.0.0 bucket.spotify.com
+
+# Image serving
+0.0.0.0 images.spotify.com
+0.0.0.0 img.spotify.com
+0.0.0.0 image.spotify.com
+0.0.0.0 pics.spotify.com
+0.0.0.0 pictures.spotify.com
+0.0.0.0 photos.spotify.com
+0.0.0.0 covers.spotify.com
+0.0.0.0 artwork.spotify.com
+0.0.0.0 artworks.spotify.com
+0.0.0.0 thumbnails.spotify.com
+0.0.0.0 thumb.spotify.com
+
+# Internal tools and admin
+0.0.0.0 admin.spotify.com
+0.0.0.0 internal.spotify.com
+0.0.0.0 intranet.spotify.com
+0.0.0.0 staff.spotify.com
+0.0.0.0 employee.spotify.com
+0.0.0.0 tools.spotify.com
+
+# Monitoring and logging
+0.0.0.0 monitoring.spotify.com
+0.0.0.0 logs.spotify.com
+0.0.0.0 logging.spotify.com
+0.0.0.0 errors.spotify.com
+0.0.0.0 sentry.spotify.com
+
+# Load balancing and infrastructure
+0.0.0.0 lb.spotify.com
+0.0.0.0 loadbalancer.spotify.com
+0.0.0.0 edge.spotify.com
+0.0.0.0 proxy.spotify.com
+0.0.0.0 gateway.spotify.com
+0.0.0.0 router.spotify.com
+
+# Geographic and regional CDN
+0.0.0.0 us.spotify.com
+0.0.0.0 eu.spotify.com
+0.0.0.0 asia.spotify.com
+0.0.0.0 ap.spotify.com
+0.0.0.0 na.spotify.com
+0.0.0.0 sa.spotify.com
+0.0.0.0 af.spotify.com
+0.0.0.0 oc.spotify.com
+
+# Event tracking and data collection
+0.0.0.0 events.spotify.com
+0.0.0.0 event.spotify.com
+0.0.0.0 data.spotify.com
+0.0.0.0 collect.spotify.com
+0.0.0.0 beacon.spotify.com
+
+# Third-party integrations
+0.0.0.0 facebook.spotify.com
+0.0.0.0 fb.spotify.com
+0.0.0.0 google.spotify.com
+0.0.0.0 goog.spotify.com
+0.0.0.0 apple.spotify.com
+0.0.0.0 amazon.spotify.com
+0.0.0.0 microsoft.spotify.com
+
+# WebRTC and real-time communication
+0.0.0.0 webrtc.spotify.com
+0.0.0.0 rtc.spotify.com
+0.0.0.0 realtime.spotify.com
+0.0.0.0 socket.spotify.com
+0.0.0.0 websocket.spotify.com
+
+# Experimental and feature flags
+0.0.0.0 experiments.spotify.com
+0.0.0.0 experiment.spotify.com
+0.0.0.0 feature.spotify.com
+0.0.0.0 features.spotify.com
+0.0.0.0 flags.spotify.com
+0.0.0.0 ab.spotify.com
+0.0.0.0 abtest.spotify.com
+
+# Legacy domains
+0.0.0.0 old.spotify.com
+0.0.0.0 legacy.spotify.com
+0.0.0.0 archive.spotify.com
+0.0.0.0 backup.spotify.com
+
+# Specialized services
+0.0.0.0 queue.spotify.com
+0.0.0.0 session.spotify.com
+0.0.0.0 cache.spotify.com
+0.0.0.0 redis.spotify.com
+0.0.0.0 database.spotify.com
+0.0.0.0 db.spotify.com
+
+# Version control and deployment
+0.0.0.0 git.spotify.com
+0.0.0.0 github.spotify.com
+0.0.0.0 deploy.spotify.com
+0.0.0.0 deployment.spotify.com
+0.0.0.0 ci.spotify.com
+0.0.0.0 cd.spotify.com
+0.0.0.0 jenkins.spotify.com
+0.0.0.0 gitlab.spotify.com
+
+# Documentation and resources
+0.0.0.0 docs.spotify.com
+0.0.0.0 documentation.spotify.com
+0.0.0.0 resources.spotify.com
+0.0.0.0 guide.spotify.com
+0.0.0.0 guides.spotify.com
+0.0.0.0 tutorial.spotify.com
+0.0.0.0 tutorials.spotify.com
+
+# GraphQL and modern APIs
+0.0.0.0 graphql.spotify.com
+0.0.0.0 gql.spotify.com
+0.0.0.0 apollo.spotify.com
+0.0.0.0 federation.spotify.com
+
+# Kubernetes and container orchestration
+0.0.0.0 k8s.spotify.com
+0.0.0.0 kubernetes.spotify.com
+0.0.0.0 docker.spotify.com
+0.0.0.0 container.spotify.com
+0.0.0.0 containers.spotify.com
+
+# Message queues and event streaming
+0.0.0.0 kafka.spotify.com
+0.0.0.0 rabbitmq.spotify.com
+0.0.0.0 pubsub.spotify.com
+0.0.0.0 messaging.spotify.com
+0.0.0.0 queue.spotify.com
+
+# Backstage (open source platform by Spotify)
+0.0.0.0 backstage.spotify.com
+0.0.0.0 backstage.io
+0.0.0.0 www.backstage.io 

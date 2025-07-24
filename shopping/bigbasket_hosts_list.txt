@@ -1,0 +1,306 @@
+# BigBasket - Online grocery platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 bigbasket.com
+0.0.0.0 www.bigbasket.com
+
+# Mobile and app related
+0.0.0.0 m.bigbasket.com
+0.0.0.0 mobile.bigbasket.com
+0.0.0.0 app.bigbasket.com
+0.0.0.0 apps.bigbasket.com
+0.0.0.0 android.bigbasket.com
+0.0.0.0 ios.bigbasket.com
+
+# API endpoints
+0.0.0.0 api.bigbasket.com
+0.0.0.0 api1.bigbasket.com
+0.0.0.0 api2.bigbasket.com
+0.0.0.0 apis.bigbasket.com
+0.0.0.0 mapi.bigbasket.com
+0.0.0.0 gateway.bigbasket.com
+0.0.0.0 rest.bigbasket.com
+
+# Content delivery networks (CDN)
+0.0.0.0 cdn.bigbasket.com
+0.0.0.0 cdn1.bigbasket.com
+0.0.0.0 cdn2.bigbasket.com
+0.0.0.0 cdn3.bigbasket.com
+0.0.0.0 static.bigbasket.com
+0.0.0.0 static1.bigbasket.com
+0.0.0.0 static2.bigbasket.com
+0.0.0.0 assets.bigbasket.com
+0.0.0.0 media.bigbasket.com
+0.0.0.0 content.bigbasket.com
+
+# Image and media servers
+0.0.0.0 img.bigbasket.com
+0.0.0.0 img1.bigbasket.com
+0.0.0.0 img2.bigbasket.com
+0.0.0.0 img3.bigbasket.com
+0.0.0.0 images.bigbasket.com
+0.0.0.0 pics.bigbasket.com
+0.0.0.0 photos.bigbasket.com
+0.0.0.0 video.bigbasket.com
+0.0.0.0 videos.bigbasket.com
+
+# Analytics and tracking
+0.0.0.0 analytics.bigbasket.com
+0.0.0.0 tracking.bigbasket.com
+0.0.0.0 track.bigbasket.com
+0.0.0.0 tracker.bigbasket.com
+0.0.0.0 metrics.bigbasket.com
+0.0.0.0 stats.bigbasket.com
+0.0.0.0 pixel.bigbasket.com
+0.0.0.0 beacon.bigbasket.com
+0.0.0.0 data.bigbasket.com
+0.0.0.0 events.bigbasket.com
+
+# Shopping and commerce
+0.0.0.0 shop.bigbasket.com
+0.0.0.0 store.bigbasket.com
+0.0.0.0 cart.bigbasket.com
+0.0.0.0 checkout.bigbasket.com
+0.0.0.0 payment.bigbasket.com
+0.0.0.0 payments.bigbasket.com
+0.0.0.0 pay.bigbasket.com
+0.0.0.0 wallet.bigbasket.com
+
+# User authentication and security
+0.0.0.0 login.bigbasket.com
+0.0.0.0 auth.bigbasket.com
+0.0.0.0 secure.bigbasket.com
+0.0.0.0 ssl.bigbasket.com
+0.0.0.0 accounts.bigbasket.com
+0.0.0.0 account.bigbasket.com
+0.0.0.0 profile.bigbasket.com
+0.0.0.0 user.bigbasket.com
+0.0.0.0 users.bigbasket.com
+
+# Support and help
+0.0.0.0 support.bigbasket.com
+0.0.0.0 help.bigbasket.com
+0.0.0.0 customer.bigbasket.com
+0.0.0.0 service.bigbasket.com
+0.0.0.0 care.bigbasket.com
+0.0.0.0 faq.bigbasket.com
+0.0.0.0 feedback.bigbasket.com
+
+# Search and recommendation
+0.0.0.0 search.bigbasket.com
+0.0.0.0 suggest.bigbasket.com
+0.0.0.0 recommendation.bigbasket.com
+0.0.0.0 reco.bigbasket.com
+0.0.0.0 personalization.bigbasket.com
+
+# Email and notifications
+0.0.0.0 mail.bigbasket.com
+0.0.0.0 email.bigbasket.com
+0.0.0.0 newsletter.bigbasket.com
+0.0.0.0 notifications.bigbasket.com
+0.0.0.0 push.bigbasket.com
+
+# Social and community
+0.0.0.0 social.bigbasket.com
+0.0.0.0 community.bigbasket.com
+0.0.0.0 blog.bigbasket.com
+0.0.0.0 stories.bigbasket.com
+0.0.0.0 reviews.bigbasket.com
+0.0.0.0 share.bigbasket.com
+
+# Admin and backend
+0.0.0.0 admin.bigbasket.com
+0.0.0.0 manage.bigbasket.com
+0.0.0.0 dashboard.bigbasket.com
+0.0.0.0 console.bigbasket.com
+0.0.0.0 backend.bigbasket.com
+
+# Geographic and regional
+0.0.0.0 in.bigbasket.com
+0.0.0.0 india.bigbasket.com
+
+# Development and staging
+0.0.0.0 dev.bigbasket.com
+0.0.0.0 test.bigbasket.com
+0.0.0.0 staging.bigbasket.com
+0.0.0.0 qa.bigbasket.com
+0.0.0.0 beta.bigbasket.com
+0.0.0.0 demo.bigbasket.com
+
+# Seller and business services
+0.0.0.0 seller.bigbasket.com
+0.0.0.0 sellers.bigbasket.com
+0.0.0.0 vendor.bigbasket.com
+0.0.0.0 vendors.bigbasket.com
+0.0.0.0 partner.bigbasket.com
+0.0.0.0 partners.bigbasket.com
+0.0.0.0 business.bigbasket.com
+0.0.0.0 b2b.bigbasket.com
+
+# Corporate and informational
+0.0.0.0 careers.bigbasket.com
+0.0.0.0 jobs.bigbasket.com
+0.0.0.0 press.bigbasket.com
+0.0.0.0 news.bigbasket.com
+0.0.0.0 about.bigbasket.com
+0.0.0.0 contact.bigbasket.com
+0.0.0.0 legal.bigbasket.com
+0.0.0.0 privacy.bigbasket.com
+0.0.0.0 terms.bigbasket.com
+
+# Load balancers and infrastructure
+0.0.0.0 lb.bigbasket.com
+0.0.0.0 lb1.bigbasket.com
+0.0.0.0 lb2.bigbasket.com
+0.0.0.0 proxy.bigbasket.com
+0.0.0.0 cache.bigbasket.com
+
+# Third-party integrations
+0.0.0.0 facebook.bigbasket.com
+0.0.0.0 google.bigbasket.com
+0.0.0.0 twitter.bigbasket.com
+0.0.0.0 instagram.bigbasket.com
+
+# Special campaigns and events
+0.0.0.0 sale.bigbasket.com
+0.0.0.0 offers.bigbasket.com
+0.0.0.0 deals.bigbasket.com
+0.0.0.0 discount.bigbasket.com
+0.0.0.0 festival.bigbasket.com
+0.0.0.0 megasale.bigbasket.com
+
+# Grocery categories
+0.0.0.0 grocery.bigbasket.com
+0.0.0.0 fruits.bigbasket.com
+0.0.0.0 vegetables.bigbasket.com
+0.0.0.0 dairy.bigbasket.com
+0.0.0.0 bakery.bigbasket.com
+0.0.0.0 meat.bigbasket.com
+0.0.0.0 seafood.bigbasket.com
+0.0.0.0 beverages.bigbasket.com
+0.0.0.0 snacks.bigbasket.com
+0.0.0.0 frozen.bigbasket.com
+0.0.0.0 organic.bigbasket.com
+0.0.0.0 fresh.bigbasket.com
+
+# Home and personal care
+0.0.0.0 homecare.bigbasket.com
+0.0.0.0 personalcare.bigbasket.com
+0.0.0.0 beauty.bigbasket.com
+0.0.0.0 health.bigbasket.com
+0.0.0.0 wellness.bigbasket.com
+0.0.0.0 pharmacy.bigbasket.com
+0.0.0.0 medicine.bigbasket.com
+
+# Baby and kids
+0.0.0.0 baby.bigbasket.com
+0.0.0.0 kids.bigbasket.com
+0.0.0.0 toddler.bigbasket.com
+
+# Pet care
+0.0.0.0 pet.bigbasket.com
+0.0.0.0 pets.bigbasket.com
+0.0.0.0 petcare.bigbasket.com
+
+# Gift services
+0.0.0.0 gift.bigbasket.com
+0.0.0.0 gifts.bigbasket.com
+0.0.0.0 giftcard.bigbasket.com
+0.0.0.0 voucher.bigbasket.com
+
+# AWS infrastructure (based on AWS case study research)
+0.0.0.0 aws.bigbasket.com
+0.0.0.0 cloud.bigbasket.com
+0.0.0.0 storage.bigbasket.com
+
+# Logistics and fulfillment
+0.0.0.0 logistics.bigbasket.com
+0.0.0.0 fulfillment.bigbasket.com
+0.0.0.0 warehouse.bigbasket.com
+0.0.0.0 delivery.bigbasket.com
+0.0.0.0 shipping.bigbasket.com
+
+# Subscription services
+0.0.0.0 subscription.bigbasket.com
+0.0.0.0 subscribe.bigbasket.com
+0.0.0.0 recurring.bigbasket.com
+
+# Customer experience features
+0.0.0.0 cx.bigbasket.com
+0.0.0.0 customerexperience.bigbasket.com
+0.0.0.0 ux.bigbasket.com
+
+# Inventory management
+0.0.0.0 inventory.bigbasket.com
+0.0.0.0 stock.bigbasket.com
+0.0.0.0 availability.bigbasket.com
+
+# Location and mapping
+0.0.0.0 location.bigbasket.com
+0.0.0.0 map.bigbasket.com
+0.0.0.0 maps.bigbasket.com
+0.0.0.0 gps.bigbasket.com
+
+# Express delivery
+0.0.0.0 express.bigbasket.com
+0.0.0.0 instant.bigbasket.com
+0.0.0.0 quick.bigbasket.com
+0.0.0.0 rapid.bigbasket.com
+
+# Loyalty and rewards
+0.0.0.0 loyalty.bigbasket.com
+0.0.0.0 rewards.bigbasket.com
+0.0.0.0 points.bigbasket.com
+0.0.0.0 cashback.bigbasket.com
+
+# Quality and freshness
+0.0.0.0 quality.bigbasket.com
+0.0.0.0 freshness.bigbasket.com
+0.0.0.0 guarantee.bigbasket.com
+
+# Recipe and cooking
+0.0.0.0 recipe.bigbasket.com
+0.0.0.0 recipes.bigbasket.com
+0.0.0.0 cooking.bigbasket.com
+0.0.0.0 chef.bigbasket.com
+
+# Content and editorial
+0.0.0.0 magazine.bigbasket.com
+0.0.0.0 editorial.bigbasket.com
+0.0.0.0 content.bigbasket.com
+
+# Marketing and promotions
+0.0.0.0 marketing.bigbasket.com
+0.0.0.0 promo.bigbasket.com
+0.0.0.0 campaign.bigbasket.com
+
+# Tech blog (based on tech.bigbasket.com research)
+0.0.0.0 tech.bigbasket.com
+0.0.0.0 engineering.bigbasket.com
+0.0.0.0 developer.bigbasket.com
+
+# Chat and call functionality
+0.0.0.0 chat.bigbasket.com
+0.0.0.0 call.bigbasket.com
+0.0.0.0 livechat.bigbasket.com
+
+# Interactive services
+0.0.0.0 interactive.bigbasket.com
+0.0.0.0 suggestions.bigbasket.com
+0.0.0.0 quiz.bigbasket.com
+
+# Nutrition and health
+0.0.0.0 nutrition.bigbasket.com
+0.0.0.0 nutritionist.bigbasket.com
+0.0.0.0 diet.bigbasket.com
+
+# Schedule and slot management
+0.0.0.0 schedule.bigbasket.com
+0.0.0.0 slot.bigbasket.com
+0.0.0.0 booking.bigbasket.com
+
+# Additional services
+0.0.0.0 returns.bigbasket.com
+0.0.0.0 refund.bigbasket.com
+0.0.0.0 exchange.bigbasket.com
+0.0.0.0 warranty.bigbasket.com
+0.0.0.0 track-order.bigbasket.com 

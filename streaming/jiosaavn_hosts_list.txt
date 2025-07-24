@@ -1,0 +1,447 @@
+# JioSaavn - Reliance Jio's music streaming platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 jiosaavn.com
+0.0.0.0 www.jiosaavn.com
+
+# Jio ecosystem integration
+0.0.0.0 saavn.jio.com
+0.0.0.0 music.jio.com
+0.0.0.0 songs.jio.com
+
+# Legacy Saavn domains (acquired by Jio)
+0.0.0.0 saavn.com
+0.0.0.0 www.saavn.com
+
+# Mobile and app related
+0.0.0.0 m.jiosaavn.com
+0.0.0.0 mobile.jiosaavn.com
+0.0.0.0 app.jiosaavn.com
+0.0.0.0 apps.jiosaavn.com
+0.0.0.0 android.jiosaavn.com
+0.0.0.0 ios.jiosaavn.com
+
+# API endpoints
+0.0.0.0 api.jiosaavn.com
+0.0.0.0 gateway.jiosaavn.com
+0.0.0.0 data.jiosaavn.com
+0.0.0.0 oauth.jiosaavn.com
+0.0.0.0 auth.jiosaavn.com
+
+# User authentication and accounts
+0.0.0.0 accounts.jiosaavn.com
+0.0.0.0 signin.jiosaavn.com
+0.0.0.0 login.jiosaavn.com
+0.0.0.0 myaccount.jiosaavn.com
+0.0.0.0 profile.jiosaavn.com
+0.0.0.0 profiles.jiosaavn.com
+
+# Audio streaming and playback
+0.0.0.0 audio.jiosaavn.com
+0.0.0.0 media.jiosaavn.com
+0.0.0.0 play.jiosaavn.com
+0.0.0.0 player.jiosaavn.com
+0.0.0.0 playback.jiosaavn.com
+0.0.0.0 stream.jiosaavn.com
+0.0.0.0 streams.jiosaavn.com
+0.0.0.0 streaming.jiosaavn.com
+
+# CDN infrastructure
+0.0.0.0 cdn.jiosaavn.com
+0.0.0.0 static.jiosaavn.com
+0.0.0.0 assets.jiosaavn.com
+0.0.0.0 resources.jiosaavn.com
+0.0.0.0 content.jiosaavn.com
+
+# Analytics and tracking
+0.0.0.0 analytics.jiosaavn.com
+0.0.0.0 stats.jiosaavn.com
+0.0.0.0 metrics.jiosaavn.com
+0.0.0.0 tracking.jiosaavn.com
+0.0.0.0 telemetry.jiosaavn.com
+
+# Search and discovery
+0.0.0.0 search.jiosaavn.com
+0.0.0.0 discover.jiosaavn.com
+0.0.0.0 discovery.jiosaavn.com
+0.0.0.0 recommendations.jiosaavn.com
+0.0.0.0 recommend.jiosaavn.com
+
+# Advertising and monetization
+0.0.0.0 ads.jiosaavn.com
+0.0.0.0 advertising.jiosaavn.com
+0.0.0.0 adnxs.jiosaavn.com
+0.0.0.0 adserver.jiosaavn.com
+0.0.0.0 adsystem.jiosaavn.com
+
+# Developer and partner services
+0.0.0.0 developer.jiosaavn.com
+0.0.0.0 developers.jiosaavn.com
+0.0.0.0 partners.jiosaavn.com
+0.0.0.0 partner.jiosaavn.com
+
+# Support and help
+0.0.0.0 support.jiosaavn.com
+0.0.0.0 help.jiosaavn.com
+0.0.0.0 customer.jiosaavn.com
+0.0.0.0 customerservice.jiosaavn.com
+
+# News and press
+0.0.0.0 news.jiosaavn.com
+0.0.0.0 press.jiosaavn.com
+0.0.0.0 newsroom.jiosaavn.com
+0.0.0.0 blog.jiosaavn.com
+
+# Social and community
+0.0.0.0 community.jiosaavn.com
+0.0.0.0 social.jiosaavn.com
+0.0.0.0 friends.jiosaavn.com
+0.0.0.0 connect.jiosaavn.com
+
+# Live and events
+0.0.0.0 live.jiosaavn.com
+0.0.0.0 events.jiosaavn.com
+0.0.0.0 concerts.jiosaavn.com
+0.0.0.0 shows.jiosaavn.com
+
+# Podcasts
+0.0.0.0 podcasts.jiosaavn.com
+0.0.0.0 podcast.jiosaavn.com
+
+# Premium and subscription
+0.0.0.0 premium.jiosaavn.com
+0.0.0.0 pro.jiosaavn.com
+0.0.0.0 subscribe.jiosaavn.com
+0.0.0.0 subscription.jiosaavn.com
+0.0.0.0 billing.jiosaavn.com
+
+# Artists and creators
+0.0.0.0 artists.jiosaavn.com
+0.0.0.0 artist.jiosaavn.com
+0.0.0.0 creators.jiosaavn.com
+0.0.0.0 creator.jiosaavn.com
+
+# Lyrics
+0.0.0.0 lyrics.jiosaavn.com
+
+# Regional domains
+0.0.0.0 jiosaavn.in
+0.0.0.0 www.jiosaavn.in
+0.0.0.0 jiosaavn.co.in
+0.0.0.0 www.jiosaavn.co.in
+
+# Testing and staging
+0.0.0.0 test.jiosaavn.com
+0.0.0.0 testing.jiosaavn.com
+0.0.0.0 stage.jiosaavn.com
+0.0.0.0 staging.jiosaavn.com
+0.0.0.0 dev.jiosaavn.com
+0.0.0.0 development.jiosaavn.com
+0.0.0.0 qa.jiosaavn.com
+0.0.0.0 uat.jiosaavn.com
+0.0.0.0 beta.jiosaavn.com
+0.0.0.0 preview.jiosaavn.com
+
+# Platform integrations
+0.0.0.0 facebook.jiosaavn.com
+0.0.0.0 twitter.jiosaavn.com
+0.0.0.0 instagram.jiosaavn.com
+0.0.0.0 youtube.jiosaavn.com
+
+# Technology platforms
+0.0.0.0 alexa.jiosaavn.com
+0.0.0.0 google.jiosaavn.com
+0.0.0.0 assistant.jiosaavn.com
+
+# Device specific
+0.0.0.0 tv.jiosaavn.com
+0.0.0.0 car.jiosaavn.com
+0.0.0.0 smart.jiosaavn.com
+0.0.0.0 jiofiber.jiosaavn.com
+0.0.0.0 jiophone.jiosaavn.com
+
+# Backend services
+0.0.0.0 backend.jiosaavn.com
+0.0.0.0 service.jiosaavn.com
+0.0.0.0 services.jiosaavn.com
+0.0.0.0 microservice.jiosaavn.com
+0.0.0.0 microservices.jiosaavn.com
+
+# Security and encryption
+0.0.0.0 security.jiosaavn.com
+0.0.0.0 ssl.jiosaavn.com
+0.0.0.0 secure.jiosaavn.com
+0.0.0.0 encryption.jiosaavn.com
+
+# Machine learning and AI
+0.0.0.0 ml.jiosaavn.com
+0.0.0.0 ai.jiosaavn.com
+0.0.0.0 algorithm.jiosaavn.com
+0.0.0.0 algorithms.jiosaavn.com
+
+# Business and enterprise
+0.0.0.0 business.jiosaavn.com
+0.0.0.0 enterprise.jiosaavn.com
+0.0.0.0 corporate.jiosaavn.com
+0.0.0.0 b2b.jiosaavn.com
+
+# Legal and compliance
+0.0.0.0 legal.jiosaavn.com
+0.0.0.0 privacy.jiosaavn.com
+0.0.0.0 terms.jiosaavn.com
+0.0.0.0 compliance.jiosaavn.com
+
+# Email and notifications
+0.0.0.0 email.jiosaavn.com
+0.0.0.0 mail.jiosaavn.com
+0.0.0.0 notifications.jiosaavn.com
+0.0.0.0 notify.jiosaavn.com
+
+# File and asset storage
+0.0.0.0 files.jiosaavn.com
+0.0.0.0 uploads.jiosaavn.com
+0.0.0.0 download.jiosaavn.com
+0.0.0.0 storage.jiosaavn.com
+0.0.0.0 bucket.jiosaavn.com
+
+# Image serving
+0.0.0.0 images.jiosaavn.com
+0.0.0.0 img.jiosaavn.com
+0.0.0.0 image.jiosaavn.com
+0.0.0.0 pics.jiosaavn.com
+0.0.0.0 pictures.jiosaavn.com
+0.0.0.0 photos.jiosaavn.com
+0.0.0.0 covers.jiosaavn.com
+0.0.0.0 artwork.jiosaavn.com
+0.0.0.0 artworks.jiosaavn.com
+0.0.0.0 thumbnails.jiosaavn.com
+0.0.0.0 thumb.jiosaavn.com
+
+# Internal tools and admin
+0.0.0.0 admin.jiosaavn.com
+0.0.0.0 internal.jiosaavn.com
+0.0.0.0 intranet.jiosaavn.com
+0.0.0.0 staff.jiosaavn.com
+0.0.0.0 employee.jiosaavn.com
+0.0.0.0 tools.jiosaavn.com
+
+# Monitoring and logging
+0.0.0.0 monitoring.jiosaavn.com
+0.0.0.0 logs.jiosaavn.com
+0.0.0.0 logging.jiosaavn.com
+0.0.0.0 errors.jiosaavn.com
+0.0.0.0 sentry.jiosaavn.com
+
+# Load balancing and infrastructure
+0.0.0.0 lb.jiosaavn.com
+0.0.0.0 loadbalancer.jiosaavn.com
+0.0.0.0 edge.jiosaavn.com
+0.0.0.0 proxy.jiosaavn.com
+0.0.0.0 gateway.jiosaavn.com
+0.0.0.0 router.jiosaavn.com
+
+# Geographic and regional CDN
+0.0.0.0 us.jiosaavn.com
+0.0.0.0 india.jiosaavn.com
+0.0.0.0 in.jiosaavn.com
+0.0.0.0 asia.jiosaavn.com
+0.0.0.0 ap.jiosaavn.com
+
+# Event tracking and data collection
+0.0.0.0 events.jiosaavn.com
+0.0.0.0 event.jiosaavn.com
+0.0.0.0 data.jiosaavn.com
+0.0.0.0 collect.jiosaavn.com
+0.0.0.0 beacon.jiosaavn.com
+
+# Third-party integrations
+0.0.0.0 facebook.jiosaavn.com
+0.0.0.0 fb.jiosaavn.com
+0.0.0.0 google.jiosaavn.com
+0.0.0.0 goog.jiosaavn.com
+0.0.0.0 apple.jiosaavn.com
+0.0.0.0 amazon.jiosaavn.com
+0.0.0.0 microsoft.jiosaavn.com
+
+# WebRTC and real-time communication
+0.0.0.0 webrtc.jiosaavn.com
+0.0.0.0 rtc.jiosaavn.com
+0.0.0.0 realtime.jiosaavn.com
+0.0.0.0 socket.jiosaavn.com
+0.0.0.0 websocket.jiosaavn.com
+
+# Experimental and feature flags
+0.0.0.0 experiments.jiosaavn.com
+0.0.0.0 experiment.jiosaavn.com
+0.0.0.0 feature.jiosaavn.com
+0.0.0.0 features.jiosaavn.com
+0.0.0.0 flags.jiosaavn.com
+0.0.0.0 ab.jiosaavn.com
+0.0.0.0 abtest.jiosaavn.com
+
+# Legacy domains
+0.0.0.0 old.jiosaavn.com
+0.0.0.0 legacy.jiosaavn.com
+0.0.0.0 archive.jiosaavn.com
+0.0.0.0 backup.jiosaavn.com
+
+# Specialized services
+0.0.0.0 queue.jiosaavn.com
+0.0.0.0 session.jiosaavn.com
+0.0.0.0 cache.jiosaavn.com
+0.0.0.0 redis.jiosaavn.com
+0.0.0.0 database.jiosaavn.com
+0.0.0.0 db.jiosaavn.com
+
+# Version control and deployment
+0.0.0.0 git.jiosaavn.com
+0.0.0.0 github.jiosaavn.com
+0.0.0.0 deploy.jiosaavn.com
+0.0.0.0 deployment.jiosaavn.com
+0.0.0.0 ci.jiosaavn.com
+0.0.0.0 cd.jiosaavn.com
+0.0.0.0 jenkins.jiosaavn.com
+0.0.0.0 gitlab.jiosaavn.com
+
+# Documentation and resources
+0.0.0.0 docs.jiosaavn.com
+0.0.0.0 documentation.jiosaavn.com
+0.0.0.0 resources.jiosaavn.com
+0.0.0.0 guide.jiosaavn.com
+0.0.0.0 guides.jiosaavn.com
+0.0.0.0 tutorial.jiosaavn.com
+0.0.0.0 tutorials.jiosaavn.com
+
+# GraphQL and modern APIs
+0.0.0.0 graphql.jiosaavn.com
+0.0.0.0 gql.jiosaavn.com
+0.0.0.0 apollo.jiosaavn.com
+0.0.0.0 federation.jiosaavn.com
+
+# Message queues and event streaming
+0.0.0.0 kafka.jiosaavn.com
+0.0.0.0 rabbitmq.jiosaavn.com
+0.0.0.0 pubsub.jiosaavn.com
+0.0.0.0 messaging.jiosaavn.com
+
+# Payment and monetization
+0.0.0.0 payment.jiosaavn.com
+0.0.0.0 payments.jiosaavn.com
+0.0.0.0 pay.jiosaavn.com
+0.0.0.0 checkout.jiosaavn.com
+
+# Radio and live streaming
+0.0.0.0 radio.jiosaavn.com
+0.0.0.0 fm.jiosaavn.com
+0.0.0.0 broadcast.jiosaavn.com
+
+# Language specific domains
+0.0.0.0 hindi.jiosaavn.com
+0.0.0.0 english.jiosaavn.com
+0.0.0.0 punjabi.jiosaavn.com
+0.0.0.0 tamil.jiosaavn.com
+0.0.0.0 telugu.jiosaavn.com
+0.0.0.0 bengali.jiosaavn.com
+0.0.0.0 gujarati.jiosaavn.com
+0.0.0.0 marathi.jiosaavn.com
+0.0.0.0 kannada.jiosaavn.com
+0.0.0.0 malayalam.jiosaavn.com
+0.0.0.0 bhojpuri.jiosaavn.com
+0.0.0.0 rajasthani.jiosaavn.com
+0.0.0.0 haryanvi.jiosaavn.com
+0.0.0.0 assamese.jiosaavn.com
+0.0.0.0 oriya.jiosaavn.com
+
+# Download and offline
+0.0.0.0 downloads.jiosaavn.com
+0.0.0.0 offline.jiosaavn.com
+0.0.0.0 sync.jiosaavn.com
+
+# Charts and trending
+0.0.0.0 charts.jiosaavn.com
+0.0.0.0 trending.jiosaavn.com
+0.0.0.0 top.jiosaavn.com
+0.0.0.0 popular.jiosaavn.com
+
+# Genres and categories
+0.0.0.0 bollywood.jiosaavn.com
+0.0.0.0 classical.jiosaavn.com
+0.0.0.0 devotional.jiosaavn.com
+0.0.0.0 folk.jiosaavn.com
+0.0.0.0 ghazal.jiosaavn.com
+0.0.0.0 sufi.jiosaavn.com
+
+# User generated content
+0.0.0.0 ugc.jiosaavn.com
+0.0.0.0 user.jiosaavn.com
+0.0.0.0 users.jiosaavn.com
+0.0.0.0 playlists.jiosaavn.com
+0.0.0.0 playlist.jiosaavn.com
+
+# Wellness and meditation
+0.0.0.0 meditation.jiosaavn.com
+0.0.0.0 wellness.jiosaavn.com
+0.0.0.0 yoga.jiosaavn.com
+0.0.0.0 spiritual.jiosaavn.com
+
+# Festival and occasion-based
+0.0.0.0 festival.jiosaavn.com
+0.0.0.0 festivals.jiosaavn.com
+0.0.0.0 diwali.jiosaavn.com
+0.0.0.0 holi.jiosaavn.com
+0.0.0.0 navratri.jiosaavn.com
+0.0.0.0 karva.jiosaavn.com
+0.0.0.0 wedding.jiosaavn.com
+0.0.0.0 valentine.jiosaavn.com
+
+# Mood-based playlists
+0.0.0.0 mood.jiosaavn.com
+0.0.0.0 moods.jiosaavn.com
+0.0.0.0 party.jiosaavn.com
+0.0.0.0 romance.jiosaavn.com
+0.0.0.0 workout.jiosaavn.com
+0.0.0.0 sleep.jiosaavn.com
+0.0.0.0 relax.jiosaavn.com
+
+# Jio specific integration domains
+0.0.0.0 jio.jiosaavn.com
+0.0.0.0 jioapps.jiosaavn.com
+0.0.0.0 jiostore.jiosaavn.com
+0.0.0.0 jiotv.jiosaavn.com
+0.0.0.0 jiocinema.jiosaavn.com
+0.0.0.0 jiomoney.jiosaavn.com
+0.0.0.0 jiosecurity.jiosaavn.com
+0.0.0.0 jiocloudpc.jiosaavn.com
+0.0.0.0 jiodrive.jiosaavn.com
+0.0.0.0 jiomags.jiosaavn.com
+0.0.0.0 jiopages.jiosaavn.com
+0.0.0.0 jiomeet.jiosaavn.com
+0.0.0.0 jiochat.jiosaavn.com
+0.0.0.0 jiohealth.jiosaavn.com
+0.0.0.0 myapp.jiosaavn.com
+
+# 5G and next-gen technology
+0.0.0.0 5g.jiosaavn.com
+0.0.0.0 nextgen.jiosaavn.com
+0.0.0.0 future.jiosaavn.com
+
+# Cross-platform sync
+0.0.0.0 cross.jiosaavn.com
+0.0.0.0 multidevice.jiosaavn.com
+0.0.0.0 everywhere.jiosaavn.com
+
+# Gaming integration (Jio's gaming initiatives)
+0.0.0.0 gaming.jiosaavn.com
+0.0.0.0 games.jiosaavn.com
+0.0.0.0 esports.jiosaavn.com
+
+# Educational content
+0.0.0.0 education.jiosaavn.com
+0.0.0.0 learn.jiosaavn.com
+0.0.0.0 learning.jiosaavn.com
+0.0.0.0 study.jiosaavn.com
+
+# Health and fitness
+0.0.0.0 health.jiosaavn.com
+0.0.0.0 fitness.jiosaavn.com
+0.0.0.0 running.jiosaavn.com
+0.0.0.0 gym.jiosaavn.com 

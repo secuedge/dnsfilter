@@ -1,0 +1,341 @@
+
+
+# =============================================================================
+# DISCORD
+# =============================================================================
+# Main Discord domains
+0.0.0.0 discord.com
+0.0.0.0 www.discord.com
+0.0.0.0 discordapp.com
+0.0.0.0 www.discordapp.com
+0.0.0.0 discord.gg
+0.0.0.0 www.discord.gg
+
+# Discord APIs and services
+0.0.0.0 gateway.discord.gg
+0.0.0.0 api.discord.com
+0.0.0.0 cdn.discordapp.com
+0.0.0.0 media.discordapp.net
+
+# Discord voice and streaming
+0.0.0.0 discord-attachments-uploads-prd.storage.googleapis.com
+0.0.0.0 images-ext-1.discordapp.net
+0.0.0.0 images-ext-2.discordapp.net
+
+# Discord authentication
+0.0.0.0 auth.discord.com
+0.0.0.0 login.discordapp.com
+
+# Discord support and community
+0.0.0.0 support.discord.com
+0.0.0.0 www.support.discord.com
+0.0.0.0 status.discord.com
+
+# =============================================================================
+# TWITCH
+# =============================================================================
+# Main Twitch domains
+0.0.0.0 twitch.tv
+0.0.0.0 www.twitch.tv
+0.0.0.0 m.twitch.tv
+0.0.0.0 player.twitch.tv
+
+# Twitch APIs and services
+0.0.0.0 api.twitch.tv
+0.0.0.0 gql.twitch.tv
+0.0.0.0 pubsub-edge.twitch.tv
+0.0.0.0 irc-ws.chat.twitch.tv
+
+# Twitch CDN and streaming
+0.0.0.0 static-cdn.jtvnw.net
+0.0.0.0 vod-secure.twitch.tv
+0.0.0.0 vod-metro.twitch.tv
+0.0.0.0 usher.ttvnw.net
+
+# Twitch authentication
+0.0.0.0 id.twitch.tv
+0.0.0.0 passport.twitch.tv
+
+# Twitch clips and highlights
+0.0.0.0 clips.twitch.tv
+0.0.0.0 www.clips.twitch.tv
+
+# Twitch Prime (Amazon integration)
+0.0.0.0 twitchprime.com
+0.0.0.0 www.twitchprime.com
+
+# =============================================================================
+# STEAM COMMUNITY
+# =============================================================================
+# Main Steam Community domains
+0.0.0.0 steamcommunity.com
+0.0.0.0 www.steamcommunity.com
+
+# Steam profiles and groups
+0.0.0.0 steamcommunity.com/profiles
+0.0.0.0 steamcommunity.com/groups
+0.0.0.0 steamcommunity.com/id
+
+# Steam Workshop
+0.0.0.0 steamworkshop.com
+0.0.0.0 www.steamworkshop.com
+
+# Steam discussions and forums
+0.0.0.0 steamcommunity.com/discussions
+0.0.0.0 steamcommunity.com/app
+
+# Steam user-generated content
+0.0.0.0 steamuserimages-a.akamaihd.net
+0.0.0.0 steamcommunity-a.akamaihd.net
+
+# =============================================================================
+# YOUTUBE GAMING
+# =============================================================================
+# YouTube Gaming specific
+0.0.0.0 gaming.youtube.com
+0.0.0.0 www.gaming.youtube.com
+
+# YouTube Live streaming (gaming)
+0.0.0.0 youtube.com/gaming
+0.0.0.0 www.youtube.com/gaming
+
+# YouTube Creator Studio (gaming)
+0.0.0.0 studio.youtube.com
+0.0.0.0 www.studio.youtube.com
+
+# =============================================================================
+# REDDIT GAMING COMMUNITIES
+# =============================================================================
+# Reddit main domains
+0.0.0.0 reddit.com
+0.0.0.0 www.reddit.com
+0.0.0.0 old.reddit.com
+0.0.0.0 m.reddit.com
+
+# Reddit APIs
+0.0.0.0 oauth.reddit.com
+0.0.0.0 gateway.reddit.com
+
+# Reddit CDN
+0.0.0.0 i.redd.it
+0.0.0.0 v.redd.it
+0.0.0.0 external-preview.redd.it
+
+# =============================================================================
+# ESPORTS AND COMPETITIVE GAMING
+# =============================================================================
+
+# ESL Gaming
+0.0.0.0 eslgaming.com
+0.0.0.0 www.eslgaming.com
+0.0.0.0 play.eslgaming.com
+
+# Major League Gaming (MLG)
+0.0.0.0 mlg.com
+0.0.0.0 www.mlg.com
+
+# DreamHack
+0.0.0.0 dreamhack.com
+0.0.0.0 www.dreamhack.com
+
+# Intel Extreme Masters
+0.0.0.0 intelextrememasters.com
+0.0.0.0 www.intelextrememasters.com
+
+# FACEIT
+0.0.0.0 faceit.com
+0.0.0.0 www.faceit.com
+
+# ESEA
+0.0.0.0 esea.net
+0.0.0.0 www.esea.net
+
+# Liquipedia (Esports wiki)
+0.0.0.0 liquipedia.net
+0.0.0.0 www.liquipedia.net
+
+# =============================================================================
+# GAME-SPECIFIC COMMUNITIES
+# =============================================================================
+
+# Counter-Strike communities
+0.0.0.0 hltv.org
+0.0.0.0 www.hltv.org
+
+# League of Legends
+0.0.0.0 leagueoflegends.com
+0.0.0.0 www.leagueoflegends.com
+0.0.0.0 na.leagueoflegends.com
+0.0.0.0 euw.leagueoflegends.com
+
+# Dota 2
+0.0.0.0 dota2.com
+0.0.0.0 www.dota2.com
+
+# World of Warcraft communities
+0.0.0.0 wowhead.com
+0.0.0.0 www.wowhead.com
+0.0.0.0 icy-veins.com
+0.0.0.0 www.icy-veins.com
+
+# Minecraft communities
+0.0.0.0 minecraft.net
+0.0.0.0 www.minecraft.net
+0.0.0.0 minecraftforge.net
+0.0.0.0 www.minecraftforge.net
+
+# Fortnite communities
+0.0.0.0 fortnitetracker.com
+0.0.0.0 www.fortnitetracker.com
+
+# =============================================================================
+# GAMING FORUMS AND COMMUNITIES
+# =============================================================================
+
+# NeoGAF
+0.0.0.0 neogaf.com
+0.0.0.0 www.neogaf.com
+
+# ResetEra
+0.0.0.0 resetera.com
+0.0.0.0 www.resetera.com
+
+# GameFAQs
+0.0.0.0 gamefaqs.gamespot.com
+0.0.0.0 www.gamefaqs.gamespot.com
+
+# IGN Community
+0.0.0.0 ign.com
+0.0.0.0 www.ign.com
+
+# GameSpot Community
+0.0.0.0 gamespot.com
+0.0.0.0 www.gamespot.com
+
+# Giant Bomb
+0.0.0.0 giantbomb.com
+0.0.0.0 www.giantbomb.com
+
+# Polygon
+0.0.0.0 polygon.com
+0.0.0.0 www.polygon.com
+
+# Kotaku
+0.0.0.0 kotaku.com
+0.0.0.0 www.kotaku.com
+
+# PC Gamer
+0.0.0.0 pcgamer.com
+0.0.0.0 www.pcgamer.com
+
+# =============================================================================
+# GAMING SOCIAL NETWORKS
+# =============================================================================
+
+# Razer Cortex (Gaming social)
+0.0.0.0 cortex.razer.com
+0.0.0.0 www.cortex.razer.com
+
+# NVIDIA GeForce Experience
+0.0.0.0 geforcenow.nvidia.com
+0.0.0.0 www.geforcenow.nvidia.com
+
+# AMD Gaming Social
+0.0.0.0 amd.com
+0.0.0.0 www.amd.com
+
+# =============================================================================
+# GAMING VOICE CHAT SERVICES
+# =============================================================================
+
+# TeamSpeak
+0.0.0.0 teamspeak.com
+0.0.0.0 www.teamspeak.com
+
+# Ventrilo
+0.0.0.0 ventrilo.com
+0.0.0.0 www.ventrilo.com
+
+# Mumble
+0.0.0.0 mumble.info
+0.0.0.0 www.mumble.info
+
+# =============================================================================
+# GAMING STATISTICS AND TRACKING
+# =============================================================================
+
+# Steam Stats
+0.0.0.0 steamcharts.com
+0.0.0.0 www.steamcharts.com
+0.0.0.0 steamspy.com
+0.0.0.0 www.steamspy.com
+
+# OP.GG (League of Legends stats)
+0.0.0.0 op.gg
+0.0.0.0 www.op.gg
+
+# Dotabuff (Dota 2 stats)
+0.0.0.0 dotabuff.com
+0.0.0.0 www.dotabuff.com
+
+# Overbuff (Overwatch stats)
+0.0.0.0 overbuff.com
+0.0.0.0 www.overbuff.com
+
+# =============================================================================
+# GAMING MATCHMAKING SERVICES
+# =============================================================================
+
+# FACEIT (competitive matchmaking)
+0.0.0.0 faceit.com
+0.0.0.0 www.faceit.com
+
+# GameBattles
+0.0.0.0 gamebattles.majorleaguegaming.com
+0.0.0.0 www.gamebattles.majorleaguegaming.com
+
+# Challengeme.gg
+0.0.0.0 challengeme.gg
+0.0.0.0 www.challengeme.gg
+
+# =============================================================================
+# GAMING CONTENT CREATION PLATFORMS
+# =============================================================================
+
+# OBS Studio (streaming software)
+0.0.0.0 obsproject.com
+0.0.0.0 www.obsproject.com
+
+# Streamlabs
+0.0.0.0 streamlabs.com
+0.0.0.0 www.streamlabs.com
+
+# XSplit
+0.0.0.0 xsplit.com
+0.0.0.0 www.xsplit.com
+
+# =============================================================================
+# GAMING TOURNAMENT PLATFORMS
+# =============================================================================
+
+# Battlefy
+0.0.0.0 battlefy.com
+0.0.0.0 www.battlefy.com
+
+# Toornament
+0.0.0.0 toornament.com
+0.0.0.0 www.toornament.com
+
+# Challonge
+0.0.0.0 challonge.com
+0.0.0.0 www.challonge.com
+
+# Smash.gg
+0.0.0.0 smash.gg
+0.0.0.0 www.smash.gg
+0.0.0.0 start.gg
+0.0.0.0 www.start.gg
+
+# =============================================================================
+# END OF GAMING COMMUNITIES & SOCIAL HOSTS LIST
+# ============================================================================= 

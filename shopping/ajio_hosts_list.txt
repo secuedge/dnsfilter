@@ -1,0 +1,212 @@
+# Ajio - Reliance fashion and lifestyle e-commerce platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 ajio.com
+0.0.0.0 www.ajio.com
+
+# Mobile and app related
+0.0.0.0 m.ajio.com
+0.0.0.0 mobile.ajio.com
+0.0.0.0 app.ajio.com
+0.0.0.0 apps.ajio.com
+0.0.0.0 android.ajio.com
+0.0.0.0 ios.ajio.com
+
+# API endpoints
+0.0.0.0 api.ajio.com
+0.0.0.0 api1.ajio.com
+0.0.0.0 api2.ajio.com
+0.0.0.0 apis.ajio.com
+0.0.0.0 mapi.ajio.com
+0.0.0.0 gateway.ajio.com
+0.0.0.0 rest.ajio.com
+
+# Content delivery networks (CDN)
+0.0.0.0 cdn.ajio.com
+0.0.0.0 cdn1.ajio.com
+0.0.0.0 cdn2.ajio.com
+0.0.0.0 cdn3.ajio.com
+0.0.0.0 static.ajio.com
+0.0.0.0 static1.ajio.com
+0.0.0.0 static2.ajio.com
+0.0.0.0 assets.ajio.com
+0.0.0.0 media.ajio.com
+0.0.0.0 content.ajio.com
+
+# Image and media servers
+0.0.0.0 img.ajio.com
+0.0.0.0 img1.ajio.com
+0.0.0.0 img2.ajio.com
+0.0.0.0 img3.ajio.com
+0.0.0.0 images.ajio.com
+0.0.0.0 pics.ajio.com
+0.0.0.0 photos.ajio.com
+0.0.0.0 video.ajio.com
+0.0.0.0 videos.ajio.com
+
+# Analytics and tracking (based on CleverTap partnership research)
+0.0.0.0 analytics.ajio.com
+0.0.0.0 tracking.ajio.com
+0.0.0.0 track.ajio.com
+0.0.0.0 tracker.ajio.com
+0.0.0.0 metrics.ajio.com
+0.0.0.0 stats.ajio.com
+0.0.0.0 pixel.ajio.com
+0.0.0.0 beacon.ajio.com
+0.0.0.0 data.ajio.com
+0.0.0.0 events.ajio.com
+
+# Shopping and commerce
+0.0.0.0 shop.ajio.com
+0.0.0.0 store.ajio.com
+0.0.0.0 cart.ajio.com
+0.0.0.0 checkout.ajio.com
+0.0.0.0 payment.ajio.com
+0.0.0.0 payments.ajio.com
+0.0.0.0 pay.ajio.com
+0.0.0.0 wallet.ajio.com
+
+# User authentication and security
+0.0.0.0 login.ajio.com
+0.0.0.0 auth.ajio.com
+0.0.0.0 secure.ajio.com
+0.0.0.0 ssl.ajio.com
+0.0.0.0 accounts.ajio.com
+0.0.0.0 account.ajio.com
+0.0.0.0 profile.ajio.com
+0.0.0.0 user.ajio.com
+0.0.0.0 users.ajio.com
+
+# Support and help
+0.0.0.0 support.ajio.com
+0.0.0.0 help.ajio.com
+0.0.0.0 customer.ajio.com
+0.0.0.0 service.ajio.com
+0.0.0.0 care.ajio.com
+0.0.0.0 faq.ajio.com
+0.0.0.0 feedback.ajio.com
+
+# Search and recommendation
+0.0.0.0 search.ajio.com
+0.0.0.0 suggest.ajio.com
+0.0.0.0 recommendation.ajio.com
+0.0.0.0 reco.ajio.com
+0.0.0.0 personalization.ajio.com
+
+# Email and notifications
+0.0.0.0 mail.ajio.com
+0.0.0.0 email.ajio.com
+0.0.0.0 newsletter.ajio.com
+0.0.0.0 notifications.ajio.com
+0.0.0.0 push.ajio.com
+
+# Social and community
+0.0.0.0 social.ajio.com
+0.0.0.0 community.ajio.com
+0.0.0.0 blog.ajio.com
+0.0.0.0 stories.ajio.com
+0.0.0.0 reviews.ajio.com
+0.0.0.0 share.ajio.com
+
+# Admin and backend
+0.0.0.0 admin.ajio.com
+0.0.0.0 manage.ajio.com
+0.0.0.0 dashboard.ajio.com
+0.0.0.0 console.ajio.com
+0.0.0.0 backend.ajio.com
+
+# Geographic and regional
+0.0.0.0 in.ajio.com
+0.0.0.0 india.ajio.com
+0.0.0.0 metro.ajio.com
+0.0.0.0 nonmetro.ajio.com
+
+# Development and staging
+0.0.0.0 dev.ajio.com
+0.0.0.0 test.ajio.com
+0.0.0.0 staging.ajio.com
+0.0.0.0 qa.ajio.com
+0.0.0.0 beta.ajio.com
+0.0.0.0 demo.ajio.com
+
+# Seller and business services (based on seller.ajio.com research)
+0.0.0.0 seller.ajio.com
+0.0.0.0 sellers.ajio.com
+0.0.0.0 vendor.ajio.com
+0.0.0.0 vendors.ajio.com
+0.0.0.0 partner.ajio.com
+0.0.0.0 partners.ajio.com
+0.0.0.0 business.ajio.com
+0.0.0.0 commerce.ajio.com
+
+# Corporate and informational
+0.0.0.0 careers.ajio.com
+0.0.0.0 jobs.ajio.com
+0.0.0.0 press.ajio.com
+0.0.0.0 news.ajio.com
+0.0.0.0 about.ajio.com
+0.0.0.0 contact.ajio.com
+0.0.0.0 legal.ajio.com
+0.0.0.0 privacy.ajio.com
+0.0.0.0 terms.ajio.com
+
+# Load balancers and infrastructure
+0.0.0.0 lb.ajio.com
+0.0.0.0 lb1.ajio.com
+0.0.0.0 lb2.ajio.com
+0.0.0.0 proxy.ajio.com
+0.0.0.0 cache.ajio.com
+
+# Third-party integrations
+0.0.0.0 facebook.ajio.com
+0.0.0.0 google.ajio.com
+0.0.0.0 twitter.ajio.com
+0.0.0.0 instagram.ajio.com
+
+# Special Ajio services and features (based on research)
+0.0.0.0 luxe.ajio.com
+0.0.0.0 ajiogram.ajio.com
+0.0.0.0 sneakerhood.ajio.com
+0.0.0.0 d2c.ajio.com
+0.0.0.0 exclusive.ajio.com
+
+# Special campaigns and events (based on Big Bold Sale research)
+0.0.0.0 bigboldsale.ajio.com
+0.0.0.0 bbs.ajio.com
+0.0.0.0 allstarssale.ajio.com
+0.0.0.0 sale.ajio.com
+0.0.0.0 offers.ajio.com
+0.0.0.0 deals.ajio.com
+0.0.0.0 discount.ajio.com
+
+# Fashion categories and collections
+0.0.0.0 fashion.ajio.com
+0.0.0.0 lifestyle.ajio.com
+0.0.0.0 ethnic.ajio.com
+0.0.0.0 western.ajio.com
+0.0.0.0 men.ajio.com
+0.0.0.0 women.ajio.com
+0.0.0.0 kids.ajio.com
+0.0.0.0 footwear.ajio.com
+
+# Brand-specific subdomains
+0.0.0.0 nike.ajio.com
+0.0.0.0 adidas.ajio.com
+0.0.0.0 puma.ajio.com
+0.0.0.0 levis.ajio.com
+0.0.0.0 gap.ajio.com
+
+# Reliance integration
+0.0.0.0 reliance.ajio.com
+0.0.0.0 retail.ajio.com
+0.0.0.0 jio.ajio.com
+
+# Additional services
+0.0.0.0 returns.ajio.com
+0.0.0.0 exchange.ajio.com
+0.0.0.0 refund.ajio.com
+0.0.0.0 warranty.ajio.com
+0.0.0.0 size.ajio.com
+0.0.0.0 fit.ajio.com
+0.0.0.0 style.ajio.com
+0.0.0.0 trend.ajio.com
+0.0.0.0 fashion-trends.ajio.com 

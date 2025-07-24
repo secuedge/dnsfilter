@@ -1,0 +1,157 @@
+# Myntra - Fashion and lifestyle e-commerce (Comprehensive Block List)
+# Main domains
+0.0.0.0 myntra.com
+0.0.0.0 www.myntra.com
+
+# Mobile and app related
+0.0.0.0 m.myntra.com
+0.0.0.0 mobile.myntra.com
+0.0.0.0 app.myntra.com
+0.0.0.0 apps.myntra.com
+
+# API endpoints
+0.0.0.0 api.myntra.com
+0.0.0.0 api1.myntra.com
+0.0.0.0 api2.myntra.com
+0.0.0.0 apis.myntra.com
+0.0.0.0 mapi.myntra.com
+0.0.0.0 gateway.myntra.com
+
+# Content delivery networks (CDN)
+0.0.0.0 cdn.myntra.com
+0.0.0.0 cdn1.myntra.com
+0.0.0.0 cdn2.myntra.com
+0.0.0.0 cdn3.myntra.com
+0.0.0.0 static.myntra.com
+0.0.0.0 static1.myntra.com
+0.0.0.0 static2.myntra.com
+0.0.0.0 assets.myntra.com
+0.0.0.0 media.myntra.com
+0.0.0.0 content.myntra.com
+
+# Image and media servers
+0.0.0.0 img.myntra.com
+0.0.0.0 img1.myntra.com
+0.0.0.0 img2.myntra.com
+0.0.0.0 img3.myntra.com
+0.0.0.0 images.myntra.com
+0.0.0.0 pics.myntra.com
+0.0.0.0 photos.myntra.com
+0.0.0.0 video.myntra.com
+0.0.0.0 videos.myntra.com
+
+# Analytics and tracking
+0.0.0.0 analytics.myntra.com
+0.0.0.0 tracking.myntra.com
+0.0.0.0 track.myntra.com
+0.0.0.0 tracker.myntra.com
+0.0.0.0 metrics.myntra.com
+0.0.0.0 stats.myntra.com
+0.0.0.0 pixel.myntra.com
+0.0.0.0 beacon.myntra.com
+0.0.0.0 data.myntra.com
+
+# Shopping and commerce
+0.0.0.0 shop.myntra.com
+0.0.0.0 store.myntra.com
+0.0.0.0 cart.myntra.com
+0.0.0.0 checkout.myntra.com
+0.0.0.0 payment.myntra.com
+0.0.0.0 payments.myntra.com
+0.0.0.0 pay.myntra.com
+0.0.0.0 wallet.myntra.com
+
+# User authentication and security
+0.0.0.0 login.myntra.com
+0.0.0.0 auth.myntra.com
+0.0.0.0 secure.myntra.com
+0.0.0.0 ssl.myntra.com
+0.0.0.0 accounts.myntra.com
+0.0.0.0 account.myntra.com
+0.0.0.0 profile.myntra.com
+0.0.0.0 user.myntra.com
+0.0.0.0 users.myntra.com
+
+# Support and help
+0.0.0.0 support.myntra.com
+0.0.0.0 help.myntra.com
+0.0.0.0 customer.myntra.com
+0.0.0.0 service.myntra.com
+0.0.0.0 care.myntra.com
+0.0.0.0 faq.myntra.com
+0.0.0.0 feedback.myntra.com
+
+# Search and recommendation
+0.0.0.0 search.myntra.com
+0.0.0.0 suggest.myntra.com
+0.0.0.0 recommendation.myntra.com
+0.0.0.0 reco.myntra.com
+0.0.0.0 personalization.myntra.com
+
+# Email and notifications
+0.0.0.0 mail.myntra.com
+0.0.0.0 email.myntra.com
+0.0.0.0 newsletter.myntra.com
+0.0.0.0 notifications.myntra.com
+0.0.0.0 push.myntra.com
+
+# Social and community
+0.0.0.0 social.myntra.com
+0.0.0.0 community.myntra.com
+0.0.0.0 blog.myntra.com
+0.0.0.0 stories.myntra.com
+0.0.0.0 reviews.myntra.com
+0.0.0.0 share.myntra.com
+
+# Admin and backend
+0.0.0.0 admin.myntra.com
+0.0.0.0 manage.myntra.com
+0.0.0.0 dashboard.myntra.com
+0.0.0.0 console.myntra.com
+0.0.0.0 backend.myntra.com
+
+# Geographic and regional
+0.0.0.0 in.myntra.com
+0.0.0.0 india.myntra.com
+0.0.0.0 us.myntra.com
+0.0.0.0 uk.myntra.com
+0.0.0.0 global.myntra.com
+
+# Development and staging
+0.0.0.0 dev.myntra.com
+0.0.0.0 test.myntra.com
+0.0.0.0 staging.myntra.com
+0.0.0.0 qa.myntra.com
+0.0.0.0 beta.myntra.com
+0.0.0.0 demo.myntra.com
+
+# Additional services
+0.0.0.0 affiliate.myntra.com
+0.0.0.0 partner.myntra.com
+0.0.0.0 partners.myntra.com
+0.0.0.0 seller.myntra.com
+0.0.0.0 sellers.myntra.com
+0.0.0.0 vendor.myntra.com
+0.0.0.0 vendors.myntra.com
+0.0.0.0 careers.myntra.com
+0.0.0.0 jobs.myntra.com
+0.0.0.0 press.myntra.com
+0.0.0.0 news.myntra.com
+0.0.0.0 about.myntra.com
+0.0.0.0 contact.myntra.com
+0.0.0.0 legal.myntra.com
+0.0.0.0 privacy.myntra.com
+0.0.0.0 terms.myntra.com
+
+# Load balancers and infrastructure
+0.0.0.0 lb.myntra.com
+0.0.0.0 lb1.myntra.com
+0.0.0.0 lb2.myntra.com
+0.0.0.0 proxy.myntra.com
+0.0.0.0 cache.myntra.com
+
+# Third-party integrations
+0.0.0.0 facebook.myntra.com
+0.0.0.0 google.myntra.com
+0.0.0.0 twitter.myntra.com
+0.0.0.0 instagram.myntra.com 

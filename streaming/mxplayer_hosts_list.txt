@@ -1,0 +1,404 @@
+# MX Player - Amazon's streaming platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 mxplayer.in
+0.0.0.0 www.mxplayer.in
+
+# Mobile and app related
+0.0.0.0 m.mxplayer.in
+0.0.0.0 mobile.mxplayer.in
+0.0.0.0 app.mxplayer.in
+0.0.0.0 apps.mxplayer.in
+0.0.0.0 android.mxplayer.in
+0.0.0.0 ios.mxplayer.in
+
+# API endpoints
+0.0.0.0 api.mxplayer.in
+0.0.0.0 gateway.mxplayer.in
+0.0.0.0 data.mxplayer.in
+0.0.0.0 oauth.mxplayer.in
+0.0.0.0 auth.mxplayer.in
+
+# User authentication and accounts
+0.0.0.0 accounts.mxplayer.in
+0.0.0.0 signin.mxplayer.in
+0.0.0.0 login.mxplayer.in
+0.0.0.0 myaccount.mxplayer.in
+0.0.0.0 profile.mxplayer.in
+0.0.0.0 profiles.mxplayer.in
+
+# Video streaming and playback
+0.0.0.0 video.mxplayer.in
+0.0.0.0 videos.mxplayer.in
+0.0.0.0 streaming.mxplayer.in
+0.0.0.0 stream.mxplayer.in
+0.0.0.0 player.mxplayer.in
+0.0.0.0 playback.mxplayer.in
+
+# Content delivery and assets (AWS-based infrastructure)
+0.0.0.0 cdn.mxplayer.in
+0.0.0.0 assets.mxplayer.in
+0.0.0.0 images.mxplayer.in
+0.0.0.0 thumbnails.mxplayer.in
+0.0.0.0 artwork.mxplayer.in
+0.0.0.0 content.mxplayer.in
+
+# Search and discovery
+0.0.0.0 search.mxplayer.in
+0.0.0.0 discover.mxplayer.in
+0.0.0.0 browse.mxplayer.in
+0.0.0.0 catalog.mxplayer.in
+0.0.0.0 titles.mxplayer.in
+
+# MX Player Analytics and tracking
+0.0.0.0 analytics.mxplayer.in
+0.0.0.0 tracking.mxplayer.in
+0.0.0.0 metrics.mxplayer.in
+0.0.0.0 stats.mxplayer.in
+0.0.0.0 insights.mxplayer.in
+
+# DRM and licensing
+0.0.0.0 drm.mxplayer.in
+0.0.0.0 license.mxplayer.in
+0.0.0.0 widevine.mxplayer.in
+0.0.0.0 playready.mxplayer.in
+
+# Adaptive streaming
+0.0.0.0 dash.mxplayer.in
+0.0.0.0 hls.mxplayer.in
+0.0.0.0 manifest.mxplayer.in
+0.0.0.0 manifests.mxplayer.in
+
+# Downloads and offline
+0.0.0.0 download.mxplayer.in
+0.0.0.0 downloads.mxplayer.in
+0.0.0.0 offline.mxplayer.in
+
+# Live TV and sports
+0.0.0.0 live.mxplayer.in
+0.0.0.0 livetv.mxplayer.in
+0.0.0.0 sports.mxplayer.in
+0.0.0.0 cricket.mxplayer.in
+
+# News content
+0.0.0.0 news.mxplayer.in
+
+# Premium and subscription services
+0.0.0.0 premium.mxplayer.in
+0.0.0.0 subscription.mxplayer.in
+0.0.0.0 subscriptions.mxplayer.in
+
+# Kids and family
+0.0.0.0 kids.mxplayer.in
+0.0.0.0 family.mxplayer.in
+0.0.0.0 junior.mxplayer.in
+
+# Smart TV and device specific
+0.0.0.0 tv.mxplayer.in
+0.0.0.0 firetv.mxplayer.in
+0.0.0.0 roku.mxplayer.in
+0.0.0.0 chromecast.mxplayer.in
+0.0.0.0 appletv.mxplayer.in
+0.0.0.0 smarttv.mxplayer.in
+
+# Gaming console integration
+0.0.0.0 xbox.mxplayer.in
+0.0.0.0 playstation.mxplayer.in
+0.0.0.0 nintendo.mxplayer.in
+
+# Support and help
+0.0.0.0 help.mxplayer.in
+0.0.0.0 support.mxplayer.in
+0.0.0.0 customer.mxplayer.in
+
+# Settings and preferences
+0.0.0.0 settings.mxplayer.in
+0.0.0.0 preferences.mxplayer.in
+0.0.0.0 config.mxplayer.in
+
+# Watch history and recommendations
+0.0.0.0 history.mxplayer.in
+0.0.0.0 watchlist.mxplayer.in
+0.0.0.0 recommendations.mxplayer.in
+0.0.0.0 suggest.mxplayer.in
+
+# Social and sharing features
+0.0.0.0 social.mxplayer.in
+0.0.0.0 share.mxplayer.in
+0.0.0.0 sharing.mxplayer.in
+
+# Notifications and alerts
+0.0.0.0 notifications.mxplayer.in
+0.0.0.0 alerts.mxplayer.in
+0.0.0.0 messages.mxplayer.in
+
+# Billing and payments
+0.0.0.0 billing.mxplayer.in
+0.0.0.0 payment.mxplayer.in
+0.0.0.0 payments.mxplayer.in
+
+# Corporate and press
+0.0.0.0 about.mxplayer.in
+0.0.0.0 press.mxplayer.in
+0.0.0.0 media.mxplayer.in
+0.0.0.0 blog.mxplayer.in
+
+# Careers and jobs
+0.0.0.0 careers.mxplayer.in
+0.0.0.0 jobs.mxplayer.in
+
+# Testing and development
+0.0.0.0 test.mxplayer.in
+0.0.0.0 testing.mxplayer.in
+0.0.0.0 dev.mxplayer.in
+0.0.0.0 staging.mxplayer.in
+0.0.0.0 beta.mxplayer.in
+
+# Internal and corporate
+0.0.0.0 internal.mxplayer.in
+0.0.0.0 corp.mxplayer.in
+
+# Load balancing and infrastructure
+0.0.0.0 lb.mxplayer.in
+0.0.0.0 proxy.mxplayer.in
+0.0.0.0 cache.mxplayer.in
+
+# AWS integration (Amazon-owned platform)
+0.0.0.0 aws.mxplayer.in
+0.0.0.0 cloudfront.mxplayer.in
+0.0.0.0 s3.mxplayer.in
+0.0.0.0 elemental.mxplayer.in
+
+# Security
+0.0.0.0 security.mxplayer.in
+0.0.0.0 secure.mxplayer.in
+0.0.0.0 2fa.mxplayer.in
+
+# Performance and optimization
+0.0.0.0 performance.mxplayer.in
+0.0.0.0 optimization.mxplayer.in
+0.0.0.0 speed.mxplayer.in
+
+# AI and machine learning
+0.0.0.0 ai.mxplayer.in
+0.0.0.0 ml.mxplayer.in
+
+# Video quality and encoding
+0.0.0.0 encoding.mxplayer.in
+0.0.0.0 hd.mxplayer.in
+0.0.0.0 4k.mxplayer.in
+0.0.0.0 uhd.mxplayer.in
+0.0.0.0 hdr.mxplayer.in
+0.0.0.0 dolby.mxplayer.in
+
+# Subtitles and localization
+0.0.0.0 subtitles.mxplayer.in
+0.0.0.0 captions.mxplayer.in
+0.0.0.0 localization.mxplayer.in
+0.0.0.0 translate.mxplayer.in
+0.0.0.0 i18n.mxplayer.in
+
+# Accessibility
+0.0.0.0 accessibility.mxplayer.in
+0.0.0.0 a11y.mxplayer.in
+
+# Parental controls
+0.0.0.0 parental.mxplayer.in
+0.0.0.0 controls.mxplayer.in
+
+# Reviews and ratings
+0.0.0.0 reviews.mxplayer.in
+0.0.0.0 ratings.mxplayer.in
+0.0.0.0 feedback.mxplayer.in
+
+# Documentation and guides
+0.0.0.0 docs.mxplayer.in
+0.0.0.0 guides.mxplayer.in
+0.0.0.0 help-center.mxplayer.in
+
+# Partner integration
+0.0.0.0 partners.mxplayer.in
+0.0.0.0 partner.mxplayer.in
+0.0.0.0 integration.mxplayer.in
+
+# Email and communications
+0.0.0.0 email.mxplayer.in
+0.0.0.0 mail.mxplayer.in
+0.0.0.0 communications.mxplayer.in
+
+# Legal and compliance
+0.0.0.0 legal.mxplayer.in
+0.0.0.0 terms.mxplayer.in
+0.0.0.0 privacy.mxplayer.in
+
+# Quality assurance
+0.0.0.0 quality.mxplayer.in
+0.0.0.0 qa.mxplayer.in
+0.0.0.0 qc.mxplayer.in
+
+# Monitoring and status
+0.0.0.0 status.mxplayer.in
+0.0.0.0 health.mxplayer.in
+0.0.0.0 monitoring.mxplayer.in
+
+# Tools and utilities
+0.0.0.0 tools.mxplayer.in
+0.0.0.0 utils.mxplayer.in
+0.0.0.0 utilities.mxplayer.in
+
+# Creator tools and resources
+0.0.0.0 creators.mxplayer.in
+0.0.0.0 filmmakers.mxplayer.in
+0.0.0.0 studios.mxplayer.in
+
+# Events and premieres
+0.0.0.0 events.mxplayer.in
+0.0.0.0 premieres.mxplayer.in
+0.0.0.0 screenings.mxplayer.in
+
+# Awards and recognition
+0.0.0.0 awards.mxplayer.in
+
+# Innovation and technology
+0.0.0.0 innovation.mxplayer.in
+0.0.0.0 technology.mxplayer.in
+0.0.0.0 tech.mxplayer.in
+
+# Research and experiments
+0.0.0.0 research.mxplayer.in
+0.0.0.0 experiments.mxplayer.in
+0.0.0.0 labs.mxplayer.in
+
+# Customer service
+0.0.0.0 service.mxplayer.in
+0.0.0.0 contact.mxplayer.in
+
+# Community features
+0.0.0.0 community.mxplayer.in
+0.0.0.0 forums.mxplayer.in
+
+# Geographic and location services
+0.0.0.0 geo.mxplayer.in
+0.0.0.0 location.mxplayer.in
+
+# Backup and redundancy
+0.0.0.0 backup.mxplayer.in
+0.0.0.0 failover.mxplayer.in
+
+# Configuration management
+0.0.0.0 config.mxplayer.in
+0.0.0.0 configuration.mxplayer.in
+
+# Data science and analytics
+0.0.0.0 datascience.mxplayer.in
+0.0.0.0 bigdata.mxplayer.in
+
+# Content moderation
+0.0.0.0 moderation.mxplayer.in
+0.0.0.0 safety.mxplayer.in
+
+# User experience
+0.0.0.0 ux.mxplayer.in
+0.0.0.0 ui.mxplayer.in
+0.0.0.0 design.mxplayer.in
+
+# Platform engineering
+0.0.0.0 platform.mxplayer.in
+0.0.0.0 engineering.mxplayer.in
+
+# Network operations
+0.0.0.0 network.mxplayer.in
+0.0.0.0 operations.mxplayer.in
+0.0.0.0 ops.mxplayer.in
+
+# Database services
+0.0.0.0 database.mxplayer.in
+0.0.0.0 db.mxplayer.in
+
+# Microservices
+0.0.0.0 microservices.mxplayer.in
+0.0.0.0 services.mxplayer.in
+
+# DevOps and deployment
+0.0.0.0 devops.mxplayer.in
+0.0.0.0 deployment.mxplayer.in
+0.0.0.0 deploy.mxplayer.in
+
+# Content protection and piracy
+0.0.0.0 protection.mxplayer.in
+0.0.0.0 antipiracy.mxplayer.in
+
+# Compliance and governance
+0.0.0.0 compliance.mxplayer.in
+0.0.0.0 governance.mxplayer.in
+
+# Risk management
+0.0.0.0 risk.mxplayer.in
+0.0.0.0 riskmanagement.mxplayer.in
+
+# Content acquisition and licensing
+0.0.0.0 acquisition.mxplayer.in
+0.0.0.0 licensing.mxplayer.in
+
+# International expansion
+0.0.0.0 global.mxplayer.in
+0.0.0.0 international.mxplayer.in
+
+# Financial services
+0.0.0.0 finance.mxplayer.in
+0.0.0.0 treasury.mxplayer.in
+
+# Partnerships and alliances
+0.0.0.0 alliances.mxplayer.in
+0.0.0.0 partnerships.mxplayer.in
+
+# Talent and recruitment
+0.0.0.0 talent.mxplayer.in
+0.0.0.0 recruitment.mxplayer.in
+
+# Culture and values
+0.0.0.0 culture.mxplayer.in
+0.0.0.0 values.mxplayer.in
+
+# Sustainability initiatives
+0.0.0.0 sustainability.mxplayer.in
+0.0.0.0 green.mxplayer.in
+
+# Diversity and inclusion
+0.0.0.0 diversity.mxplayer.in
+0.0.0.0 inclusion.mxplayer.in
+
+# Machine learning models
+0.0.0.0 models.mxplayer.in
+0.0.0.0 ml-models.mxplayer.in
+
+# Edge computing and CDN
+0.0.0.0 edge.mxplayer.in
+0.0.0.0 cdn1.mxplayer.in
+0.0.0.0 cdn2.mxplayer.in
+0.0.0.0 cdn3.mxplayer.in
+
+# Video transcoding and processing (based on research showing distributed transcoding)
+0.0.0.0 transcoding.mxplayer.in
+0.0.0.0 processing.mxplayer.in
+0.0.0.0 encoder.mxplayer.in
+
+# Educational content
+0.0.0.0 education.mxplayer.in
+0.0.0.0 edu.mxplayer.in
+
+# Merchandise and retail
+0.0.0.0 shop.mxplayer.in
+0.0.0.0 store.mxplayer.in
+0.0.0.0 merchandise.mxplayer.in
+
+# Music and audio
+0.0.0.0 music.mxplayer.in
+0.0.0.0 audio.mxplayer.in
+
+# Gaming integration
+0.0.0.0 games.mxplayer.in
+0.0.0.0 gaming.mxplayer.in
+
+# Amazon ecosystem integration
+0.0.0.0 amazon.mxplayer.in
+0.0.0.0 prime.mxplayer.in 

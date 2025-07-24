@@ -1,0 +1,261 @@
+# Tata CLiQ - Premium e-commerce and fashion platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 tatacliq.com
+0.0.0.0 www.tatacliq.com
+
+# Luxury platform (based on luxury.tatacliq.com research)
+0.0.0.0 luxury.tatacliq.com
+0.0.0.0 www.luxury.tatacliq.com
+
+# Mobile and app related
+0.0.0.0 m.tatacliq.com
+0.0.0.0 mobile.tatacliq.com
+0.0.0.0 app.tatacliq.com
+0.0.0.0 apps.tatacliq.com
+0.0.0.0 android.tatacliq.com
+0.0.0.0 ios.tatacliq.com
+
+# API endpoints
+0.0.0.0 api.tatacliq.com
+0.0.0.0 api1.tatacliq.com
+0.0.0.0 api2.tatacliq.com
+0.0.0.0 apis.tatacliq.com
+0.0.0.0 mapi.tatacliq.com
+0.0.0.0 gateway.tatacliq.com
+0.0.0.0 rest.tatacliq.com
+
+# Content delivery networks (CDN)
+0.0.0.0 cdn.tatacliq.com
+0.0.0.0 cdn1.tatacliq.com
+0.0.0.0 cdn2.tatacliq.com
+0.0.0.0 cdn3.tatacliq.com
+0.0.0.0 static.tatacliq.com
+0.0.0.0 static1.tatacliq.com
+0.0.0.0 static2.tatacliq.com
+0.0.0.0 assets.tatacliq.com
+0.0.0.0 media.tatacliq.com
+0.0.0.0 content.tatacliq.com
+
+# Image and media servers
+0.0.0.0 img.tatacliq.com
+0.0.0.0 img1.tatacliq.com
+0.0.0.0 img2.tatacliq.com
+0.0.0.0 img3.tatacliq.com
+0.0.0.0 images.tatacliq.com
+0.0.0.0 pics.tatacliq.com
+0.0.0.0 photos.tatacliq.com
+0.0.0.0 video.tatacliq.com
+0.0.0.0 videos.tatacliq.com
+
+# Analytics and tracking
+0.0.0.0 analytics.tatacliq.com
+0.0.0.0 tracking.tatacliq.com
+0.0.0.0 track.tatacliq.com
+0.0.0.0 tracker.tatacliq.com
+0.0.0.0 metrics.tatacliq.com
+0.0.0.0 stats.tatacliq.com
+0.0.0.0 pixel.tatacliq.com
+0.0.0.0 beacon.tatacliq.com
+0.0.0.0 data.tatacliq.com
+0.0.0.0 events.tatacliq.com
+
+# Shopping and commerce
+0.0.0.0 shop.tatacliq.com
+0.0.0.0 store.tatacliq.com
+0.0.0.0 cart.tatacliq.com
+0.0.0.0 checkout.tatacliq.com
+0.0.0.0 payment.tatacliq.com
+0.0.0.0 payments.tatacliq.com
+0.0.0.0 pay.tatacliq.com
+0.0.0.0 wallet.tatacliq.com
+
+# User authentication and security
+0.0.0.0 login.tatacliq.com
+0.0.0.0 auth.tatacliq.com
+0.0.0.0 secure.tatacliq.com
+0.0.0.0 ssl.tatacliq.com
+0.0.0.0 accounts.tatacliq.com
+0.0.0.0 account.tatacliq.com
+0.0.0.0 profile.tatacliq.com
+0.0.0.0 user.tatacliq.com
+0.0.0.0 users.tatacliq.com
+
+# Support and help
+0.0.0.0 support.tatacliq.com
+0.0.0.0 help.tatacliq.com
+0.0.0.0 customer.tatacliq.com
+0.0.0.0 service.tatacliq.com
+0.0.0.0 care.tatacliq.com
+0.0.0.0 faq.tatacliq.com
+0.0.0.0 feedback.tatacliq.com
+
+# Search and recommendation
+0.0.0.0 search.tatacliq.com
+0.0.0.0 suggest.tatacliq.com
+0.0.0.0 recommendation.tatacliq.com
+0.0.0.0 reco.tatacliq.com
+0.0.0.0 personalization.tatacliq.com
+
+# Email and notifications
+0.0.0.0 mail.tatacliq.com
+0.0.0.0 email.tatacliq.com
+0.0.0.0 newsletter.tatacliq.com
+0.0.0.0 notifications.tatacliq.com
+0.0.0.0 push.tatacliq.com
+
+# Social and community
+0.0.0.0 social.tatacliq.com
+0.0.0.0 community.tatacliq.com
+0.0.0.0 blog.tatacliq.com
+0.0.0.0 stories.tatacliq.com
+0.0.0.0 reviews.tatacliq.com
+0.0.0.0 share.tatacliq.com
+
+# Admin and backend
+0.0.0.0 admin.tatacliq.com
+0.0.0.0 manage.tatacliq.com
+0.0.0.0 dashboard.tatacliq.com
+0.0.0.0 console.tatacliq.com
+0.0.0.0 backend.tatacliq.com
+
+# Geographic and regional
+0.0.0.0 in.tatacliq.com
+0.0.0.0 india.tatacliq.com
+
+# Development and staging
+0.0.0.0 dev.tatacliq.com
+0.0.0.0 test.tatacliq.com
+0.0.0.0 staging.tatacliq.com
+0.0.0.0 qa.tatacliq.com
+0.0.0.0 beta.tatacliq.com
+0.0.0.0 demo.tatacliq.com
+
+# Seller and business services
+0.0.0.0 seller.tatacliq.com
+0.0.0.0 sellers.tatacliq.com
+0.0.0.0 vendor.tatacliq.com
+0.0.0.0 vendors.tatacliq.com
+0.0.0.0 partner.tatacliq.com
+0.0.0.0 partners.tatacliq.com
+0.0.0.0 business.tatacliq.com
+
+# Corporate and informational
+0.0.0.0 careers.tatacliq.com
+0.0.0.0 jobs.tatacliq.com
+0.0.0.0 press.tatacliq.com
+0.0.0.0 news.tatacliq.com
+0.0.0.0 about.tatacliq.com
+0.0.0.0 contact.tatacliq.com
+0.0.0.0 legal.tatacliq.com
+0.0.0.0 privacy.tatacliq.com
+0.0.0.0 terms.tatacliq.com
+
+# Load balancers and infrastructure
+0.0.0.0 lb.tatacliq.com
+0.0.0.0 lb1.tatacliq.com
+0.0.0.0 lb2.tatacliq.com
+0.0.0.0 proxy.tatacliq.com
+0.0.0.0 cache.tatacliq.com
+
+# Third-party integrations
+0.0.0.0 facebook.tatacliq.com
+0.0.0.0 google.tatacliq.com
+0.0.0.0 twitter.tatacliq.com
+0.0.0.0 instagram.tatacliq.com
+
+# Special campaigns and events
+0.0.0.0 sale.tatacliq.com
+0.0.0.0 offers.tatacliq.com
+0.0.0.0 deals.tatacliq.com
+0.0.0.0 discount.tatacliq.com
+0.0.0.0 festival.tatacliq.com
+0.0.0.0 megasale.tatacliq.com
+
+# Fashion categories (based on Tata CLiQ Fashion rebrand research)
+0.0.0.0 fashion.tatacliq.com
+0.0.0.0 apparel.tatacliq.com
+0.0.0.0 footwear.tatacliq.com
+0.0.0.0 watches.tatacliq.com
+0.0.0.0 accessories.tatacliq.com
+0.0.0.0 beauty.tatacliq.com
+0.0.0.0 gadgets.tatacliq.com
+0.0.0.0 home.tatacliq.com
+0.0.0.0 jewellery.tatacliq.com
+0.0.0.0 women.tatacliq.com
+0.0.0.0 men.tatacliq.com
+0.0.0.0 kids.tatacliq.com
+
+# Curated stores (based on research)
+0.0.0.0 sneaker.tatacliq.com
+0.0.0.0 sneakers.tatacliq.com
+0.0.0.0 indie.tatacliq.com
+0.0.0.0 lingerie.tatacliq.com
+0.0.0.0 winter.tatacliq.com
+0.0.0.0 wedding.tatacliq.com
+0.0.0.0 palette.tatacliq.com
+
+# e-Stylist and editorial (based on research)
+0.0.0.0 estylist.tatacliq.com
+0.0.0.0 e-stylist.tatacliq.com
+0.0.0.0 stylist.tatacliq.com
+0.0.0.0 editorial.tatacliq.com
+0.0.0.0 magazine.tatacliq.com
+
+# New features (based on research)
+0.0.0.0 fit.tatacliq.com
+0.0.0.0 fit-assessment.tatacliq.com
+0.0.0.0 virtual-try-on.tatacliq.com
+0.0.0.0 tryonvr.tatacliq.com
+0.0.0.0 tryon.tatacliq.com
+
+# Tata Digital ecosystem integration
+0.0.0.0 neu.tatacliq.com
+0.0.0.0 tatadigital.tatacliq.com
+0.0.0.0 digital.tatacliq.com
+
+# Brand partnerships (based on research)
+0.0.0.0 westside.tatacliq.com
+0.0.0.0 mulberry.tatacliq.com
+0.0.0.0 montblanc.tatacliq.com
+0.0.0.0 aspinal.tatacliq.com
+0.0.0.0 corneliani.tatacliq.com
+
+# Gift services
+0.0.0.0 gift.tatacliq.com
+0.0.0.0 gifts.tatacliq.com
+0.0.0.0 giftcard.tatacliq.com
+0.0.0.0 gifting.tatacliq.com
+
+# AWS infrastructure (based on AWS case study research)
+0.0.0.0 aws.tatacliq.com
+0.0.0.0 cloud.tatacliq.com
+0.0.0.0 storage.tatacliq.com
+
+# Logistics and fulfillment
+0.0.0.0 logistics.tatacliq.com
+0.0.0.0 fulfillment.tatacliq.com
+0.0.0.0 warehouse.tatacliq.com
+0.0.0.0 delivery.tatacliq.com
+0.0.0.0 shipping.tatacliq.com
+
+# Customer experience features
+0.0.0.0 cx.tatacliq.com
+0.0.0.0 customerexperience.tatacliq.com
+0.0.0.0 ux.tatacliq.com
+
+# Premium and luxury services
+0.0.0.0 premium.tatacliq.com
+0.0.0.0 vip.tatacliq.com
+0.0.0.0 exclusive.tatacliq.com
+
+# Style and fashion content
+0.0.0.0 style.tatacliq.com
+0.0.0.0 trends.tatacliq.com
+0.0.0.0 styling.tatacliq.com
+
+# Additional services
+0.0.0.0 returns.tatacliq.com
+0.0.0.0 refund.tatacliq.com
+0.0.0.0 exchange.tatacliq.com
+0.0.0.0 warranty.tatacliq.com
+0.0.0.0 track-order.tatacliq.com 

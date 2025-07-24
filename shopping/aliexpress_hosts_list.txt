@@ -1,0 +1,304 @@
+# AliExpress - Alibaba's global e-commerce platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 aliexpress.com
+0.0.0.0 www.aliexpress.com
+0.0.0.0 aliexpress.us
+0.0.0.0 www.aliexpress.us
+
+# Regional AliExpress domains
+0.0.0.0 aliexpress.ru
+0.0.0.0 www.aliexpress.ru
+0.0.0.0 ru.aliexpress.com
+0.0.0.0 es.aliexpress.com
+0.0.0.0 fr.aliexpress.com
+0.0.0.0 de.aliexpress.com
+0.0.0.0 it.aliexpress.com
+0.0.0.0 pt.aliexpress.com
+0.0.0.0 br.aliexpress.com
+0.0.0.0 ar.aliexpress.com
+0.0.0.0 pl.aliexpress.com
+0.0.0.0 nl.aliexpress.com
+0.0.0.0 tr.aliexpress.com
+
+# Mobile and app related
+0.0.0.0 m.aliexpress.com
+0.0.0.0 mobile.aliexpress.com
+0.0.0.0 app.aliexpress.com
+0.0.0.0 apps.aliexpress.com
+0.0.0.0 android.aliexpress.com
+0.0.0.0 ios.aliexpress.com
+
+# API endpoints
+0.0.0.0 api.aliexpress.com
+0.0.0.0 api1.aliexpress.com
+0.0.0.0 api2.aliexpress.com
+0.0.0.0 apis.aliexpress.com
+0.0.0.0 open.aliexpress.com
+0.0.0.0 openapi.aliexpress.com
+0.0.0.0 gateway.aliexpress.com
+0.0.0.0 rest.aliexpress.com
+
+# Alibaba CDN and static content (based on alicdn.com research)
+0.0.0.0 cdn.aliexpress.com
+0.0.0.0 cdn1.aliexpress.com
+0.0.0.0 cdn2.aliexpress.com
+0.0.0.0 cdn3.aliexpress.com
+0.0.0.0 static.aliexpress.com
+0.0.0.0 static1.aliexpress.com
+0.0.0.0 static2.aliexpress.com
+0.0.0.0 alicdn.com
+0.0.0.0 www.alicdn.com
+0.0.0.0 ae01.alicdn.com
+0.0.0.0 ae02.alicdn.com
+0.0.0.0 ae03.alicdn.com
+0.0.0.0 ae04.alicdn.com
+0.0.0.0 g.alicdn.com
+0.0.0.0 gw.alicdn.com
+0.0.0.0 assets.aliexpress.com
+0.0.0.0 media.aliexpress.com
+0.0.0.0 content.aliexpress.com
+
+# Image and media servers
+0.0.0.0 img.aliexpress.com
+0.0.0.0 img1.aliexpress.com
+0.0.0.0 img2.aliexpress.com
+0.0.0.0 img3.aliexpress.com
+0.0.0.0 images.aliexpress.com
+0.0.0.0 pics.aliexpress.com
+0.0.0.0 photos.aliexpress.com
+0.0.0.0 gallery.aliexpress.com
+0.0.0.0 video.aliexpress.com
+0.0.0.0 videos.aliexpress.com
+
+# Analytics and tracking
+0.0.0.0 analytics.aliexpress.com
+0.0.0.0 tracking.aliexpress.com
+0.0.0.0 track.aliexpress.com
+0.0.0.0 tracker.aliexpress.com
+0.0.0.0 metrics.aliexpress.com
+0.0.0.0 stats.aliexpress.com
+0.0.0.0 pixel.aliexpress.com
+0.0.0.0 beacon.aliexpress.com
+0.0.0.0 data.aliexpress.com
+0.0.0.0 events.aliexpress.com
+
+# Shopping and commerce
+0.0.0.0 shop.aliexpress.com
+0.0.0.0 store.aliexpress.com
+0.0.0.0 stores.aliexpress.com
+0.0.0.0 cart.aliexpress.com
+0.0.0.0 checkout.aliexpress.com
+0.0.0.0 payment.aliexpress.com
+0.0.0.0 payments.aliexpress.com
+0.0.0.0 pay.aliexpress.com
+0.0.0.0 alipay.aliexpress.com
+0.0.0.0 wallet.aliexpress.com
+
+# User authentication and security
+0.0.0.0 login.aliexpress.com
+0.0.0.0 signin.aliexpress.com
+0.0.0.0 auth.aliexpress.com
+0.0.0.0 secure.aliexpress.com
+0.0.0.0 ssl.aliexpress.com
+0.0.0.0 accounts.aliexpress.com
+0.0.0.0 account.aliexpress.com
+0.0.0.0 profile.aliexpress.com
+0.0.0.0 user.aliexpress.com
+0.0.0.0 users.aliexpress.com
+0.0.0.0 my.aliexpress.com
+
+# Support and help
+0.0.0.0 support.aliexpress.com
+0.0.0.0 help.aliexpress.com
+0.0.0.0 customer.aliexpress.com
+0.0.0.0 service.aliexpress.com
+0.0.0.0 care.aliexpress.com
+0.0.0.0 faq.aliexpress.com
+0.0.0.0 feedback.aliexpress.com
+0.0.0.0 contact.aliexpress.com
+
+# Search and recommendation
+0.0.0.0 search.aliexpress.com
+0.0.0.0 find.aliexpress.com
+0.0.0.0 suggest.aliexpress.com
+0.0.0.0 recommendation.aliexpress.com
+0.0.0.0 reco.aliexpress.com
+0.0.0.0 personalization.aliexpress.com
+
+# Email and notifications
+0.0.0.0 mail.aliexpress.com
+0.0.0.0 email.aliexpress.com
+0.0.0.0 newsletter.aliexpress.com
+0.0.0.0 notifications.aliexpress.com
+0.0.0.0 push.aliexpress.com
+
+# Social and community
+0.0.0.0 social.aliexpress.com
+0.0.0.0 community.aliexpress.com
+0.0.0.0 blog.aliexpress.com
+0.0.0.0 stories.aliexpress.com
+0.0.0.0 reviews.aliexpress.com
+0.0.0.0 share.aliexpress.com
+
+# Admin and backend
+0.0.0.0 admin.aliexpress.com
+0.0.0.0 manage.aliexpress.com
+0.0.0.0 dashboard.aliexpress.com
+0.0.0.0 console.aliexpress.com
+0.0.0.0 backend.aliexpress.com
+
+# Geographic and regional
+0.0.0.0 global.aliexpress.com
+0.0.0.0 worldwide.aliexpress.com
+0.0.0.0 international.aliexpress.com
+
+# Development and staging
+0.0.0.0 dev.aliexpress.com
+0.0.0.0 test.aliexpress.com
+0.0.0.0 staging.aliexpress.com
+0.0.0.0 qa.aliexpress.com
+0.0.0.0 beta.aliexpress.com
+0.0.0.0 demo.aliexpress.com
+
+# Seller services
+0.0.0.0 seller.aliexpress.com
+0.0.0.0 sellers.aliexpress.com
+0.0.0.0 selling.aliexpress.com
+0.0.0.0 sellercentral.aliexpress.com
+0.0.0.0 sellerhub.aliexpress.com
+0.0.0.0 partner.aliexpress.com
+0.0.0.0 partners.aliexpress.com
+0.0.0.0 business.aliexpress.com
+0.0.0.0 b2b.aliexpress.com
+
+# Corporate and informational
+0.0.0.0 careers.aliexpress.com
+0.0.0.0 jobs.aliexpress.com
+0.0.0.0 press.aliexpress.com
+0.0.0.0 news.aliexpress.com
+0.0.0.0 about.aliexpress.com
+0.0.0.0 legal.aliexpress.com
+0.0.0.0 privacy.aliexpress.com
+0.0.0.0 terms.aliexpress.com
+
+# Load balancers and infrastructure
+0.0.0.0 lb.aliexpress.com
+0.0.0.0 lb1.aliexpress.com
+0.0.0.0 lb2.aliexpress.com
+0.0.0.0 proxy.aliexpress.com
+0.0.0.0 cache.aliexpress.com
+
+# Third-party integrations
+0.0.0.0 facebook.aliexpress.com
+0.0.0.0 google.aliexpress.com
+0.0.0.0 twitter.aliexpress.com
+0.0.0.0 instagram.aliexpress.com
+
+# Special campaigns and events
+0.0.0.0 sale.aliexpress.com
+0.0.0.0 deals.aliexpress.com
+0.0.0.0 offers.aliexpress.com
+0.0.0.0 promotion.aliexpress.com
+0.0.0.0 promo.aliexpress.com
+0.0.0.0 discount.aliexpress.com
+0.0.0.0 flash.aliexpress.com
+0.0.0.0 flashsale.aliexpress.com
+0.0.0.0 campaign.aliexpress.com
+
+# Categories and browsing
+0.0.0.0 browse.aliexpress.com
+0.0.0.0 category.aliexpress.com
+0.0.0.0 categories.aliexpress.com
+0.0.0.0 fashion.aliexpress.com
+0.0.0.0 electronics.aliexpress.com
+0.0.0.0 home.aliexpress.com
+0.0.0.0 garden.aliexpress.com
+0.0.0.0 sports.aliexpress.com
+0.0.0.0 toys.aliexpress.com
+0.0.0.0 jewelry.aliexpress.com
+0.0.0.0 beauty.aliexpress.com
+
+# AliExpress premium services
+0.0.0.0 plus.aliexpress.com
+0.0.0.0 premium.aliexpress.com
+0.0.0.0 choice.aliexpress.com
+0.0.0.0 select.aliexpress.com
+
+# Shipping and logistics
+0.0.0.0 shipping.aliexpress.com
+0.0.0.0 ship.aliexpress.com
+0.0.0.0 logistics.aliexpress.com
+0.0.0.0 fulfillment.aliexpress.com
+0.0.0.0 delivery.aliexpress.com
+0.0.0.0 tracking-order.aliexpress.com
+
+# Advertising services
+0.0.0.0 advertising.aliexpress.com
+0.0.0.0 ads.aliexpress.com
+0.0.0.0 affiliate.aliexpress.com
+0.0.0.0 affiliates.aliexpress.com
+0.0.0.0 commission.aliexpress.com
+
+# AI and machine learning
+0.0.0.0 ai.aliexpress.com
+0.0.0.0 ml.aliexpress.com
+0.0.0.0 machinelearning.aliexpress.com
+0.0.0.0 recommend.aliexpress.com
+
+# Trust and safety
+0.0.0.0 trust.aliexpress.com
+0.0.0.0 safety.aliexpress.com
+0.0.0.0 security.aliexpress.com
+0.0.0.0 verification.aliexpress.com
+0.0.0.0 protection.aliexpress.com
+
+# Financial services
+0.0.0.0 finance.aliexpress.com
+0.0.0.0 credit.aliexpress.com
+0.0.0.0 loan.aliexpress.com
+0.0.0.0 insurance.aliexpress.com
+
+# Live streaming and social commerce
+0.0.0.0 live.aliexpress.com
+0.0.0.0 stream.aliexpress.com
+0.0.0.0 broadcast.aliexpress.com
+0.0.0.0 video-live.aliexpress.com
+
+# Marketplace insights
+0.0.0.0 insights.aliexpress.com
+0.0.0.0 market.aliexpress.com
+0.0.0.0 marketplace.aliexpress.com
+0.0.0.0 trends.aliexpress.com
+0.0.0.0 pulse.aliexpress.com
+
+# Language and localization
+0.0.0.0 locale.aliexpress.com
+0.0.0.0 lang.aliexpress.com
+0.0.0.0 i18n.aliexpress.com
+0.0.0.0 translate.aliexpress.com
+
+# Customer service features
+0.0.0.0 chat.aliexpress.com
+0.0.0.0 livechat.aliexpress.com
+0.0.0.0 message.aliexpress.com
+0.0.0.0 messenger.aliexpress.com
+
+# Coupon and rewards
+0.0.0.0 coupon.aliexpress.com
+0.0.0.0 coupons.aliexpress.com
+0.0.0.0 rewards.aliexpress.com
+0.0.0.0 points.aliexpress.com
+0.0.0.0 cashback.aliexpress.com
+
+# Games and gamification
+0.0.0.0 game.aliexpress.com
+0.0.0.0 games.aliexpress.com
+0.0.0.0 spin.aliexpress.com
+0.0.0.0 wheel.aliexpress.com
+0.0.0.0 lucky.aliexpress.com
+
+# Wholesale features
+0.0.0.0 wholesale.aliexpress.com
+0.0.0.0 bulk.aliexpress.com
+0.0.0.0 trade.aliexpress.com
+0.0.0.0 sourcing.aliexpress.com 

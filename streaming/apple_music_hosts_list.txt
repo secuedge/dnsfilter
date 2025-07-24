@@ -1,0 +1,420 @@
+# Apple Music - Apple's music streaming platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 music.apple.com
+0.0.0.0 www.music.apple.com
+
+# iTunes Store integration
+0.0.0.0 itunes.apple.com
+0.0.0.0 www.itunes.apple.com
+
+# Mobile and app related
+0.0.0.0 m.music.apple.com
+0.0.0.0 mobile.music.apple.com
+0.0.0.0 app.music.apple.com
+
+# API endpoints
+0.0.0.0 api.music.apple.com
+0.0.0.0 gateway.music.apple.com
+0.0.0.0 data.music.apple.com
+
+# Authentication (Apple ID integration)
+0.0.0.0 auth.music.apple.com
+0.0.0.0 signin.music.apple.com
+0.0.0.0 login.music.apple.com
+
+# Apple's CDN infrastructure
+0.0.0.0 cdn.music.apple.com
+0.0.0.0 static.music.apple.com
+0.0.0.0 assets.music.apple.com
+0.0.0.0 resources.music.apple.com
+0.0.0.0 content.music.apple.com
+
+# Audio streaming and playback
+0.0.0.0 audio.music.apple.com
+0.0.0.0 media.music.apple.com
+0.0.0.0 stream.music.apple.com
+0.0.0.0 streaming.music.apple.com
+0.0.0.0 play.music.apple.com
+0.0.0.0 player.music.apple.com
+
+# Apple's regional CDN (based on Apple's global infrastructure)
+0.0.0.0 a1.mzstatic.com
+0.0.0.0 a2.mzstatic.com
+0.0.0.0 a3.mzstatic.com
+0.0.0.0 a4.mzstatic.com
+0.0.0.0 a5.mzstatic.com
+0.0.0.0 is1.mzstatic.com
+0.0.0.0 is2.mzstatic.com
+0.0.0.0 is3.mzstatic.com
+0.0.0.0 is4.mzstatic.com
+0.0.0.0 is5.mzstatic.com
+
+# Music download and purchase
+0.0.0.0 buy.music.apple.com
+0.0.0.0 purchase.music.apple.com
+0.0.0.0 download.music.apple.com
+
+# Search and discovery
+0.0.0.0 search.music.apple.com
+0.0.0.0 discover.music.apple.com
+0.0.0.0 recommendations.music.apple.com
+
+# Radio and live content
+0.0.0.0 radio.music.apple.com
+0.0.0.0 beats1.music.apple.com
+0.0.0.0 live.music.apple.com
+
+# Artist services
+0.0.0.0 artist.music.apple.com
+0.0.0.0 artists.music.apple.com
+0.0.0.0 creator.music.apple.com
+
+# Analytics and tracking
+0.0.0.0 analytics.music.apple.com
+0.0.0.0 metrics.music.apple.com
+0.0.0.0 tracking.music.apple.com
+
+# Social and sharing
+0.0.0.0 social.music.apple.com
+0.0.0.0 share.music.apple.com
+0.0.0.0 connect.music.apple.com
+
+# Support and help
+0.0.0.0 support.music.apple.com
+0.0.0.0 help.music.apple.com
+
+# Business and enterprise
+0.0.0.0 business.music.apple.com
+0.0.0.0 enterprise.music.apple.com
+
+# Developer services
+0.0.0.0 developer.music.apple.com
+0.0.0.0 api.music.apple.com
+
+# Subscription and billing
+0.0.0.0 subscription.music.apple.com
+0.0.0.0 billing.music.apple.com
+
+# Image and artwork serving
+0.0.0.0 images.music.apple.com
+0.0.0.0 artwork.music.apple.com
+0.0.0.0 covers.music.apple.com
+
+# Device-specific integrations
+0.0.0.0 ios.music.apple.com
+0.0.0.0 iphone.music.apple.com
+0.0.0.0 ipad.music.apple.com
+0.0.0.0 mac.music.apple.com
+0.0.0.0 macos.music.apple.com
+0.0.0.0 watch.music.apple.com
+0.0.0.0 appletv.music.apple.com
+0.0.0.0 homepod.music.apple.com
+0.0.0.0 carplay.music.apple.com
+
+# Siri integration
+0.0.0.0 siri.music.apple.com
+0.0.0.0 voice.music.apple.com
+
+# iCloud integration
+0.0.0.0 icloud.music.apple.com
+0.0.0.0 sync.music.apple.com
+
+# Regional domains
+0.0.0.0 music.apple.co.uk
+0.0.0.0 music.apple.ca
+0.0.0.0 music.apple.com.au
+0.0.0.0 music.apple.de
+0.0.0.0 music.apple.fr
+0.0.0.0 music.apple.it
+0.0.0.0 music.apple.es
+0.0.0.0 music.apple.nl
+0.0.0.0 music.apple.be
+0.0.0.0 music.apple.ch
+0.0.0.0 music.apple.at
+0.0.0.0 music.apple.se
+0.0.0.0 music.apple.no
+0.0.0.0 music.apple.dk
+0.0.0.0 music.apple.fi
+0.0.0.0 music.apple.ie
+0.0.0.0 music.apple.pl
+0.0.0.0 music.apple.cz
+0.0.0.0 music.apple.hu
+0.0.0.0 music.apple.pt
+0.0.0.0 music.apple.mx
+0.0.0.0 music.apple.br
+0.0.0.0 music.apple.jp
+0.0.0.0 music.apple.kr
+0.0.0.0 music.apple.tw
+0.0.0.0 music.apple.hk
+0.0.0.0 music.apple.sg
+0.0.0.0 music.apple.my
+0.0.0.0 music.apple.th
+0.0.0.0 music.apple.ph
+0.0.0.0 music.apple.id
+0.0.0.0 music.apple.in
+0.0.0.0 music.apple.ae
+0.0.0.0 music.apple.sa
+0.0.0.0 music.apple.il
+0.0.0.0 music.apple.tr
+0.0.0.0 music.apple.za
+0.0.0.0 music.apple.ng
+0.0.0.0 music.apple.ke
+0.0.0.0 music.apple.ru
+
+# Testing and development
+0.0.0.0 beta.music.apple.com
+0.0.0.0 test.music.apple.com
+0.0.0.0 dev.music.apple.com
+
+# Backend services
+0.0.0.0 backend.music.apple.com
+0.0.0.0 service.music.apple.com
+0.0.0.0 microservice.music.apple.com
+
+# Security and encryption
+0.0.0.0 security.music.apple.com
+0.0.0.0 ssl.music.apple.com
+0.0.0.0 secure.music.apple.com
+
+# Machine learning and recommendations
+0.0.0.0 ml.music.apple.com
+0.0.0.0 ai.music.apple.com
+0.0.0.0 algorithm.music.apple.com
+
+# Content delivery
+0.0.0.0 edge.music.apple.com
+0.0.0.0 proxy.music.apple.com
+0.0.0.0 cache.music.apple.com
+
+# Monitoring and logging
+0.0.0.0 monitoring.music.apple.com
+0.0.0.0 logs.music.apple.com
+0.0.0.0 errors.music.apple.com
+
+# Real-time features
+0.0.0.0 realtime.music.apple.com
+0.0.0.0 websocket.music.apple.com
+0.0.0.0 socket.music.apple.com
+
+# Features and experiments
+0.0.0.0 experiments.music.apple.com
+0.0.0.0 features.music.apple.com
+0.0.0.0 flags.music.apple.com
+
+# User data and personalization
+0.0.0.0 user.music.apple.com
+0.0.0.0 profile.music.apple.com
+0.0.0.0 personalization.music.apple.com
+
+# Playlists and curation
+0.0.0.0 playlists.music.apple.com
+0.0.0.0 curated.music.apple.com
+0.0.0.0 editorial.music.apple.com
+
+# Charts and trending
+0.0.0.0 charts.music.apple.com
+0.0.0.0 trending.music.apple.com
+0.0.0.0 top.music.apple.com
+
+# Events and concerts
+0.0.0.0 events.music.apple.com
+0.0.0.0 concerts.music.apple.com
+0.0.0.0 shows.music.apple.com
+
+# Podcasts integration
+0.0.0.0 podcasts.music.apple.com
+
+# Classical music (Apple Music Classical)
+0.0.0.0 classical.music.apple.com
+
+# Lossless and spatial audio
+0.0.0.0 lossless.music.apple.com
+0.0.0.0 spatial.music.apple.com
+0.0.0.0 dolby.music.apple.com
+0.0.0.0 atmos.music.apple.com
+
+# Family sharing
+0.0.0.0 family.music.apple.com
+0.0.0.0 sharing.music.apple.com
+
+# Student and education
+0.0.0.0 student.music.apple.com
+0.0.0.0 education.music.apple.com
+0.0.0.0 edu.music.apple.com
+
+# Apple One bundle
+0.0.0.0 bundle.music.apple.com
+0.0.0.0 one.music.apple.com
+
+# Voice control and accessibility
+0.0.0.0 voice.music.apple.com
+0.0.0.0 accessibility.music.apple.com
+
+# Karaoke (Apple Music Sing)
+0.0.0.0 karaoke.music.apple.com
+0.0.0.0 sing.music.apple.com
+
+# Replay and year-end features
+0.0.0.0 replay.music.apple.com
+0.0.0.0 year.music.apple.com
+
+# Music videos
+0.0.0.0 videos.music.apple.com
+0.0.0.0 video.music.apple.com
+0.0.0.0 mv.music.apple.com
+
+# Live performances and sessions
+0.0.0.0 sessions.music.apple.com
+0.0.0.0 performances.music.apple.com
+
+# Lyrics and metadata
+0.0.0.0 lyrics.music.apple.com
+0.0.0.0 metadata.music.apple.com
+
+# Quality and audio settings
+0.0.0.0 quality.music.apple.com
+0.0.0.0 hifi.music.apple.com
+0.0.0.0 settings.music.apple.com
+
+# Offline and downloads
+0.0.0.0 offline.music.apple.com
+0.0.0.0 downloads.music.apple.com
+
+# Store integration
+0.0.0.0 store.music.apple.com
+0.0.0.0 shop.music.apple.com
+
+# Legacy iTunes domains
+0.0.0.0 ax.itunes.apple.com
+0.0.0.0 buy.itunes.apple.com
+0.0.0.0 se.itunes.apple.com
+0.0.0.0 su.itunes.apple.com
+0.0.0.0 phobos.apple.com
+0.0.0.0 init.itunes.apple.com
+0.0.0.0 p25-buy.itunes.apple.com
+0.0.0.0 s.mzstatic.com
+
+# Apple's specific infrastructure
+0.0.0.0 appleid.apple.com
+0.0.0.0 idmsa.apple.com
+0.0.0.0 gsa.apple.com
+
+# Apple News integration
+0.0.0.0 news.music.apple.com
+
+# Health and fitness integration
+0.0.0.0 health.music.apple.com
+0.0.0.0 fitness.music.apple.com
+0.0.0.0 workout.music.apple.com
+
+# Travel and location-based
+0.0.0.0 travel.music.apple.com
+0.0.0.0 location.music.apple.com
+
+# Gaming integration
+0.0.0.0 gaming.music.apple.com
+0.0.0.0 games.music.apple.com
+
+# Weather integration
+0.0.0.0 weather.music.apple.com
+
+# Automotive and CarPlay
+0.0.0.0 automotive.music.apple.com
+0.0.0.0 car.music.apple.com
+
+# Smart home integration
+0.0.0.0 homekit.music.apple.com
+0.0.0.0 home.music.apple.com
+
+# TV and visual content
+0.0.0.0 tv.music.apple.com
+0.0.0.0 visual.music.apple.com
+
+# Fitness+ integration
+0.0.0.0 fitnessplus.music.apple.com
+
+# Conference and events (WWDC, etc.)
+0.0.0.0 wwdc.music.apple.com
+0.0.0.0 conference.music.apple.com
+
+# Books integration
+0.0.0.0 books.music.apple.com
+
+# Arcade integration
+0.0.0.0 arcade.music.apple.com
+
+# Wallet and payments
+0.0.0.0 wallet.music.apple.com
+0.0.0.0 pay.music.apple.com
+
+# Mail integration
+0.0.0.0 mail.music.apple.com
+
+# Calendar integration
+0.0.0.0 calendar.music.apple.com
+
+# Photos integration
+0.0.0.0 photos.music.apple.com
+
+# Maps integration
+0.0.0.0 maps.music.apple.com
+
+# Safari integration
+0.0.0.0 safari.music.apple.com
+
+# Files app integration
+0.0.0.0 files.music.apple.com
+
+# FaceTime integration
+0.0.0.0 facetime.music.apple.com
+
+# Messages integration
+0.0.0.0 messages.music.apple.com
+
+# AirPlay and streaming
+0.0.0.0 airplay.music.apple.com
+
+# Time-sensitive notifications
+0.0.0.0 notifications.music.apple.com
+
+# Screen Time integration
+0.0.0.0 screentime.music.apple.com
+
+# Focus modes
+0.0.0.0 focus.music.apple.com
+
+# Shortcuts integration
+0.0.0.0 shortcuts.music.apple.com
+
+# Control Center
+0.0.0.0 control.music.apple.com
+
+# Lock screen widgets
+0.0.0.0 lockscreen.music.apple.com
+
+# Today view widgets
+0.0.0.0 widget.music.apple.com
+0.0.0.0 widgets.music.apple.com
+
+# Continuity features
+0.0.0.0 continuity.music.apple.com
+0.0.0.0 handoff.music.apple.com
+
+# Universal Control
+0.0.0.0 universal.music.apple.com
+
+# AirDrop integration
+0.0.0.0 airdrop.music.apple.com
+
+# iMessage Apps
+0.0.0.0 imessage.music.apple.com
+
+# App Store integration
+0.0.0.0 appstore.music.apple.com
+
+# TestFlight integration
+0.0.0.0 testflight.music.apple.com
+
+# Xcode and development
+0.0.0.0 xcode.music.apple.com
+0.0.0.0 development.music.apple.com 

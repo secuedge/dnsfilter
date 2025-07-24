@@ -1,0 +1,211 @@
+# LimeTorrents - Popular Torrent Site (Comprehensive Block List)
+# Main domains
+0.0.0.0 limetorrents.info
+0.0.0.0 www.limetorrents.info
+0.0.0.0 limetorrents.cc
+0.0.0.0 www.limetorrents.cc
+0.0.0.0 limetorrents.asia
+0.0.0.0 www.limetorrents.asia
+
+# Alternative domains
+0.0.0.0 limetorrents.com
+0.0.0.0 www.limetorrents.com
+0.0.0.0 limetorrents.org
+0.0.0.0 www.limetorrents.org
+0.0.0.0 limetorrents.net
+0.0.0.0 www.limetorrents.net
+0.0.0.0 limetorrents.me
+0.0.0.0 www.limetorrents.me
+0.0.0.0 limetorrents.co
+0.0.0.0 www.limetorrents.co
+
+# Mobile and app domains
+0.0.0.0 m.limetorrents.info
+0.0.0.0 mobile.limetorrents.info
+0.0.0.0 app.limetorrents.info
+0.0.0.0 api.limetorrents.info
+
+# Common subdomain variations
+0.0.0.0 search.limetorrents.info
+0.0.0.0 browse.limetorrents.info
+0.0.0.0 movies.limetorrents.info
+0.0.0.0 tv.limetorrents.info
+0.0.0.0 games.limetorrents.info
+0.0.0.0 software.limetorrents.info
+0.0.0.0 music.limetorrents.info
+0.0.0.0 apps.limetorrents.info
+0.0.0.0 anime.limetorrents.info
+0.0.0.0 xxx.limetorrents.info
+0.0.0.0 download.limetorrents.info
+0.0.0.0 torrent.limetorrents.info
+0.0.0.0 magnet.limetorrents.info
+0.0.0.0 trending.limetorrents.info
+0.0.0.0 popular.limetorrents.info
+0.0.0.0 latest.limetorrents.info
+0.0.0.0 new.limetorrents.info
+0.0.0.0 recent.limetorrents.info
+0.0.0.0 top.limetorrents.info
+
+# Static content and CDN
+0.0.0.0 static.limetorrents.info
+0.0.0.0 cdn.limetorrents.info
+0.0.0.0 assets.limetorrents.info
+0.0.0.0 img.limetorrents.info
+0.0.0.0 images.limetorrents.info
+0.0.0.0 thumbs.limetorrents.info
+0.0.0.0 covers.limetorrents.info
+0.0.0.0 posters.limetorrents.info
+
+# User and community features
+0.0.0.0 user.limetorrents.info
+0.0.0.0 profile.limetorrents.info
+0.0.0.0 account.limetorrents.info
+0.0.0.0 login.limetorrents.info
+0.0.0.0 register.limetorrents.info
+0.0.0.0 upload.limetorrents.info
+
+# RSS and feeds
+0.0.0.0 rss.limetorrents.info
+0.0.0.0 feed.limetorrents.info
+0.0.0.0 feeds.limetorrents.info
+
+# Administrative and backend
+0.0.0.0 admin.limetorrents.info
+0.0.0.0 beta.limetorrents.info
+0.0.0.0 test.limetorrents.info
+0.0.0.0 dev.limetorrents.info
+0.0.0.0 staging.limetorrents.info
+
+# Mirror and proxy variations
+0.0.0.0 limetorrentsmirror.com
+0.0.0.0 www.limetorrentsmirror.com
+0.0.0.0 limetorrentsproxy.com
+0.0.0.0 www.limetorrentsproxy.com
+0.0.0.0 limetorrentsunblocked.com
+0.0.0.0 www.limetorrentsunblocked.com
+
+# Alternative naming conventions
+0.0.0.0 lime-torrents.com
+0.0.0.0 www.lime-torrents.com
+0.0.0.0 lime_torrents.com
+0.0.0.0 www.lime_torrents.com
+0.0.0.0 limetorrent.com
+0.0.0.0 www.limetorrent.com
+0.0.0.0 limetorrent.info
+0.0.0.0 www.limetorrent.info
+
+# Country-specific domains
+0.0.0.0 limetorrents.us
+0.0.0.0 www.limetorrents.us
+0.0.0.0 limetorrents.uk
+0.0.0.0 www.limetorrents.uk
+0.0.0.0 limetorrents.eu
+0.0.0.0 www.limetorrents.eu
+0.0.0.0 limetorrents.ca
+0.0.0.0 www.limetorrents.ca
+0.0.0.0 limetorrents.au
+0.0.0.0 www.limetorrents.au
+0.0.0.0 limetorrents.de
+0.0.0.0 www.limetorrents.de
+0.0.0.0 limetorrents.fr
+0.0.0.0 www.limetorrents.fr
+0.0.0.0 limetorrents.it
+0.0.0.0 www.limetorrents.it
+0.0.0.0 limetorrents.es
+0.0.0.0 www.limetorrents.es
+0.0.0.0 limetorrents.nl
+0.0.0.0 www.limetorrents.nl
+0.0.0.0 limetorrents.be
+0.0.0.0 www.limetorrents.be
+0.0.0.0 limetorrents.se
+0.0.0.0 www.limetorrents.se
+0.0.0.0 limetorrents.no
+0.0.0.0 www.limetorrents.no
+0.0.0.0 limetorrents.dk
+0.0.0.0 www.limetorrents.dk
+0.0.0.0 limetorrents.fi
+0.0.0.0 www.limetorrents.fi
+0.0.0.0 limetorrents.pl
+0.0.0.0 www.limetorrents.pl
+0.0.0.0 limetorrents.cz
+0.0.0.0 www.limetorrents.cz
+0.0.0.0 limetorrents.hu
+0.0.0.0 www.limetorrents.hu
+0.0.0.0 limetorrents.ru
+0.0.0.0 www.limetorrents.ru
+0.0.0.0 limetorrents.jp
+0.0.0.0 www.limetorrents.jp
+0.0.0.0 limetorrents.kr
+0.0.0.0 www.limetorrents.kr
+0.0.0.0 limetorrents.cn
+0.0.0.0 www.limetorrents.cn
+0.0.0.0 limetorrents.in
+0.0.0.0 www.limetorrents.in
+0.0.0.0 limetorrents.br
+0.0.0.0 www.limetorrents.br
+
+# Common TLD variations
+0.0.0.0 limetorrents.io
+0.0.0.0 www.limetorrents.io
+0.0.0.0 limetorrents.biz
+0.0.0.0 www.limetorrents.biz
+0.0.0.0 limetorrents.tv
+0.0.0.0 www.limetorrents.tv
+0.0.0.0 limetorrents.ws
+0.0.0.0 www.limetorrents.ws
+0.0.0.0 limetorrents.to
+0.0.0.0 www.limetorrents.to
+
+# New generic TLD variations
+0.0.0.0 limetorrents.movie
+0.0.0.0 www.limetorrents.movie
+0.0.0.0 limetorrents.film
+0.0.0.0 www.limetorrents.film
+0.0.0.0 limetorrents.video
+0.0.0.0 www.limetorrents.video
+0.0.0.0 limetorrents.media
+0.0.0.0 www.limetorrents.media
+0.0.0.0 limetorrents.download
+0.0.0.0 www.limetorrents.download
+0.0.0.0 limetorrents.torrent
+0.0.0.0 www.limetorrents.torrent
+0.0.0.0 limetorrents.online
+0.0.0.0 www.limetorrents.online
+0.0.0.0 limetorrents.site
+0.0.0.0 www.limetorrents.site
+0.0.0.0 limetorrents.web
+0.0.0.0 www.limetorrents.web
+0.0.0.0 limetorrents.live
+0.0.0.0 www.limetorrents.live
+0.0.0.0 limetorrents.stream
+0.0.0.0 www.limetorrents.stream
+0.0.0.0 limetorrents.top
+0.0.0.0 www.limetorrents.top
+0.0.0.0 limetorrents.best
+0.0.0.0 www.limetorrents.best
+0.0.0.0 limetorrents.free
+0.0.0.0 www.limetorrents.free
+0.0.0.0 limetorrents.pro
+0.0.0.0 www.limetorrents.pro
+0.0.0.0 limetorrents.vip
+0.0.0.0 www.limetorrents.vip
+0.0.0.0 limetorrents.world
+0.0.0.0 www.limetorrents.world
+0.0.0.0 limetorrents.zone
+0.0.0.0 www.limetorrents.zone
+
+# Number variations
+0.0.0.0 limetorrents1.info
+0.0.0.0 www.limetorrents1.info
+0.0.0.0 limetorrents2.info
+0.0.0.0 www.limetorrents2.info
+0.0.0.0 limetorrents3.info
+0.0.0.0 www.limetorrents3.info
+
+# Common misspellings
+0.0.0.0 limetorrent.info
+0.0.0.0 www.limetorrent.info
+0.0.0.0 limetorents.info
+0.0.0.0 www.limetorents.info
+0.0.0.0 limtorrents.info
+0.0.0.0 www.limtorrents.info 

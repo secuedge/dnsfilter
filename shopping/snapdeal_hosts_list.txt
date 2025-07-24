@@ -1,0 +1,253 @@
+# Snapdeal - Value e-commerce platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 snapdeal.com
+0.0.0.0 www.snapdeal.com
+
+# Mobile and app related
+0.0.0.0 m.snapdeal.com
+0.0.0.0 mobile.snapdeal.com
+0.0.0.0 app.snapdeal.com
+0.0.0.0 apps.snapdeal.com
+0.0.0.0 android.snapdeal.com
+0.0.0.0 ios.snapdeal.com
+
+# API endpoints
+0.0.0.0 api.snapdeal.com
+0.0.0.0 api1.snapdeal.com
+0.0.0.0 api2.snapdeal.com
+0.0.0.0 apis.snapdeal.com
+0.0.0.0 mapi.snapdeal.com
+0.0.0.0 gateway.snapdeal.com
+0.0.0.0 rest.snapdeal.com
+
+# Content delivery networks (CDN)
+0.0.0.0 cdn.snapdeal.com
+0.0.0.0 cdn1.snapdeal.com
+0.0.0.0 cdn2.snapdeal.com
+0.0.0.0 cdn3.snapdeal.com
+0.0.0.0 static.snapdeal.com
+0.0.0.0 static1.snapdeal.com
+0.0.0.0 static2.snapdeal.com
+0.0.0.0 assets.snapdeal.com
+0.0.0.0 media.snapdeal.com
+0.0.0.0 content.snapdeal.com
+
+# Image and media servers
+0.0.0.0 img.snapdeal.com
+0.0.0.0 img1.snapdeal.com
+0.0.0.0 img2.snapdeal.com
+0.0.0.0 img3.snapdeal.com
+0.0.0.0 images.snapdeal.com
+0.0.0.0 pics.snapdeal.com
+0.0.0.0 photos.snapdeal.com
+0.0.0.0 video.snapdeal.com
+0.0.0.0 videos.snapdeal.com
+
+# Analytics and tracking
+0.0.0.0 analytics.snapdeal.com
+0.0.0.0 tracking.snapdeal.com
+0.0.0.0 track.snapdeal.com
+0.0.0.0 tracker.snapdeal.com
+0.0.0.0 metrics.snapdeal.com
+0.0.0.0 stats.snapdeal.com
+0.0.0.0 pixel.snapdeal.com
+0.0.0.0 beacon.snapdeal.com
+0.0.0.0 data.snapdeal.com
+0.0.0.0 events.snapdeal.com
+
+# Shopping and commerce
+0.0.0.0 shop.snapdeal.com
+0.0.0.0 store.snapdeal.com
+0.0.0.0 cart.snapdeal.com
+0.0.0.0 checkout.snapdeal.com
+0.0.0.0 payment.snapdeal.com
+0.0.0.0 payments.snapdeal.com
+0.0.0.0 pay.snapdeal.com
+0.0.0.0 wallet.snapdeal.com
+
+# User authentication and security (based on authorize.snapdeal.com research)
+0.0.0.0 login.snapdeal.com
+0.0.0.0 auth.snapdeal.com
+0.0.0.0 authorize.snapdeal.com
+0.0.0.0 secure.snapdeal.com
+0.0.0.0 ssl.snapdeal.com
+0.0.0.0 accounts.snapdeal.com
+0.0.0.0 account.snapdeal.com
+0.0.0.0 profile.snapdeal.com
+0.0.0.0 user.snapdeal.com
+0.0.0.0 users.snapdeal.com
+
+# Support and help
+0.0.0.0 support.snapdeal.com
+0.0.0.0 help.snapdeal.com
+0.0.0.0 customer.snapdeal.com
+0.0.0.0 service.snapdeal.com
+0.0.0.0 care.snapdeal.com
+0.0.0.0 faq.snapdeal.com
+0.0.0.0 feedback.snapdeal.com
+
+# Search and recommendation
+0.0.0.0 search.snapdeal.com
+0.0.0.0 suggest.snapdeal.com
+0.0.0.0 recommendation.snapdeal.com
+0.0.0.0 reco.snapdeal.com
+0.0.0.0 personalization.snapdeal.com
+
+# Email and notifications
+0.0.0.0 mail.snapdeal.com
+0.0.0.0 email.snapdeal.com
+0.0.0.0 newsletter.snapdeal.com
+0.0.0.0 notifications.snapdeal.com
+0.0.0.0 push.snapdeal.com
+
+# Social and community
+0.0.0.0 social.snapdeal.com
+0.0.0.0 community.snapdeal.com
+0.0.0.0 blog.snapdeal.com
+0.0.0.0 stories.snapdeal.com
+0.0.0.0 reviews.snapdeal.com
+0.0.0.0 share.snapdeal.com
+
+# Admin and backend
+0.0.0.0 admin.snapdeal.com
+0.0.0.0 manage.snapdeal.com
+0.0.0.0 dashboard.snapdeal.com
+0.0.0.0 console.snapdeal.com
+0.0.0.0 backend.snapdeal.com
+
+# Geographic and regional (based on non-metro focus research)
+0.0.0.0 in.snapdeal.com
+0.0.0.0 india.snapdeal.com
+0.0.0.0 bharat.snapdeal.com
+0.0.0.0 nonmetro.snapdeal.com
+0.0.0.0 tier2.snapdeal.com
+0.0.0.0 tier3.snapdeal.com
+
+# Development and staging
+0.0.0.0 dev.snapdeal.com
+0.0.0.0 test.snapdeal.com
+0.0.0.0 staging.snapdeal.com
+0.0.0.0 qa.snapdeal.com
+0.0.0.0 beta.snapdeal.com
+0.0.0.0 demo.snapdeal.com
+
+# Seller and business services
+0.0.0.0 seller.snapdeal.com
+0.0.0.0 sellers.snapdeal.com
+0.0.0.0 vendor.snapdeal.com
+0.0.0.0 vendors.snapdeal.com
+0.0.0.0 partner.snapdeal.com
+0.0.0.0 partners.snapdeal.com
+0.0.0.0 business.snapdeal.com
+
+# Corporate and informational (based on impactatsnapdeal.com research)
+0.0.0.0 careers.snapdeal.com
+0.0.0.0 jobs.snapdeal.com
+0.0.0.0 press.snapdeal.com
+0.0.0.0 news.snapdeal.com
+0.0.0.0 about.snapdeal.com
+0.0.0.0 contact.snapdeal.com
+0.0.0.0 legal.snapdeal.com
+0.0.0.0 privacy.snapdeal.com
+0.0.0.0 terms.snapdeal.com
+0.0.0.0 impact.snapdeal.com
+0.0.0.0 impactatsnapdeal.com
+
+# Load balancers and infrastructure
+0.0.0.0 lb.snapdeal.com
+0.0.0.0 lb1.snapdeal.com
+0.0.0.0 lb2.snapdeal.com
+0.0.0.0 proxy.snapdeal.com
+0.0.0.0 cache.snapdeal.com
+
+# Third-party integrations
+0.0.0.0 facebook.snapdeal.com
+0.0.0.0 google.snapdeal.com
+0.0.0.0 twitter.snapdeal.com
+0.0.0.0 instagram.snapdeal.com
+
+# Special campaigns and events
+0.0.0.0 sale.snapdeal.com
+0.0.0.0 offers.snapdeal.com
+0.0.0.0 deals.snapdeal.com
+0.0.0.0 discount.snapdeal.com
+0.0.0.0 festival.snapdeal.com
+0.0.0.0 megasale.snapdeal.com
+
+# Product categories (based on ONDC launch research)
+0.0.0.0 fashion.snapdeal.com
+0.0.0.0 home.snapdeal.com
+0.0.0.0 beauty.snapdeal.com
+0.0.0.0 electronics.snapdeal.com
+0.0.0.0 women.snapdeal.com
+0.0.0.0 men.snapdeal.com
+0.0.0.0 kids.snapdeal.com
+
+# Special Snapdeal initiatives (based on research)
+0.0.0.0 sunshine.snapdeal.com
+0.0.0.0 sanjeevani.snapdeal.com
+0.0.0.0 brandshield.snapdeal.com
+0.0.0.0 jaldipayments.snapdeal.com
+
+# ONDC integration (based on research)
+0.0.0.0 ondc.snapdeal.com
+0.0.0.0 network.snapdeal.com
+
+# Logistics and fulfillment
+0.0.0.0 logistics.snapdeal.com
+0.0.0.0 fulfillment.snapdeal.com
+0.0.0.0 warehouse.snapdeal.com
+0.0.0.0 delivery.snapdeal.com
+0.0.0.0 shipping.snapdeal.com
+
+# Technology infrastructure (based on tech blog research)
+0.0.0.0 tech.snapdeal.com
+0.0.0.0 technology.snapdeal.com
+0.0.0.0 engineering.snapdeal.com
+0.0.0.0 spark.snapdeal.com
+0.0.0.0 aerospike.snapdeal.com
+0.0.0.0 kafka.snapdeal.com
+
+# Multi-lingual support (based on 8 languages research)
+0.0.0.0 hindi.snapdeal.com
+0.0.0.0 tamil.snapdeal.com
+0.0.0.0 telugu.snapdeal.com
+0.0.0.0 bengali.snapdeal.com
+0.0.0.0 marathi.snapdeal.com
+0.0.0.0 gujarati.snapdeal.com
+0.0.0.0 kannada.snapdeal.com
+0.0.0.0 malayalam.snapdeal.com
+
+# Dispute resolution (based on Sama partnership research)
+0.0.0.0 dispute.snapdeal.com
+0.0.0.0 resolution.snapdeal.com
+0.0.0.0 sama.snapdeal.com
+
+# Artisan and craft support (based on Vocal for Local research)
+0.0.0.0 artisan.snapdeal.com
+0.0.0.0 craftsmen.snapdeal.com
+0.0.0.0 patriotic.snapdeal.com
+0.0.0.0 vocal.snapdeal.com
+0.0.0.0 local.snapdeal.com
+
+# Women entrepreneurs (based on FLO collaboration research)
+0.0.0.0 women.snapdeal.com
+0.0.0.0 flo.snapdeal.com
+0.0.0.0 entrepreneur.snapdeal.com
+
+# Chat and customer experience (based on chat system research)
+0.0.0.0 chat.snapdeal.com
+0.0.0.0 customerexperience.snapdeal.com
+0.0.0.0 cx.snapdeal.com
+
+# Value commerce focus (based on value e-commerce positioning)
+0.0.0.0 value.snapdeal.com
+0.0.0.0 affordable.snapdeal.com
+0.0.0.0 budget.snapdeal.com
+
+# Additional services
+0.0.0.0 returns.snapdeal.com
+0.0.0.0 refund.snapdeal.com
+0.0.0.0 exchange.snapdeal.com
+0.0.0.0 warranty.snapdeal.com
+0.0.0.0 track-order.snapdeal.com 

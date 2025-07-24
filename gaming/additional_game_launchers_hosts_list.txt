@@ -1,0 +1,357 @@
+
+# =============================================================================
+# ROCKSTAR GAMES LAUNCHER
+# =============================================================================
+# Main Rockstar Games domains
+0.0.0.0 rockstargames.com
+0.0.0.0 www.rockstargames.com
+0.0.0.0 store.rockstargames.com
+0.0.0.0 gamedownloads.rockstargames.com
+
+# Rockstar Social Club
+0.0.0.0 socialclub.rockstargames.com
+0.0.0.0 www.socialclub.rockstargames.com
+0.0.0.0 scapi.rockstargames.com
+
+# Rockstar Games Launcher services
+0.0.0.0 launcher.rockstargames.com
+0.0.0.0 entitlements.rockstargames.com
+0.0.0.0 telemetry.rockstargames.com
+
+# Rockstar CDN and downloads
+0.0.0.0 media.rockstargames.com
+0.0.0.0 videos.rockstargames.com
+0.0.0.0 img.rockstargames.com
+
+# Rockstar support
+0.0.0.0 support.rockstargames.com
+0.0.0.0 www.support.rockstargames.com
+
+# =============================================================================
+# BETHESDA LAUNCHER (NOW MOSTLY INTEGRATED INTO STEAM)
+# =============================================================================
+# Main Bethesda domains
+0.0.0.0 bethesda.net
+0.0.0.0 www.bethesda.net
+0.0.0.0 launcher.bethesda.net
+0.0.0.0 account.bethesda.net
+
+# Bethesda Game Studios
+0.0.0.0 bethesdagamestudios.com
+0.0.0.0 www.bethesdagamestudios.com
+
+# Bethesda Softworks
+0.0.0.0 bethsoft.com
+0.0.0.0 www.bethsoft.com
+
+# ZeniMax (parent company)
+0.0.0.0 zenimax.com
+0.0.0.0 www.zenimax.com
+
+# =============================================================================
+# RIOT GAMES (RIOT CLIENT)
+# =============================================================================
+# Main Riot Games domains
+0.0.0.0 riotgames.com
+0.0.0.0 www.riotgames.com
+0.0.0.0 auth.riotgames.com
+0.0.0.0 account.riotgames.com
+
+# Riot Client and services
+0.0.0.0 clientconfig.rpg.riotgames.com
+0.0.0.0 entitlements.auth.riotgames.com
+0.0.0.0 playerpreferences.riotgames.com
+
+# League of Legends
+0.0.0.0 leagueoflegends.com
+0.0.0.0 www.leagueoflegends.com
+0.0.0.0 na.leagueoflegends.com
+0.0.0.0 euw.leagueoflegends.com
+
+# VALORANT
+0.0.0.0 playvalorant.com
+0.0.0.0 www.playvalorant.com
+0.0.0.0 valorant-api.com
+
+# Teamfight Tactics
+0.0.0.0 teamfighttactics.leagueoflegends.com
+0.0.0.0 www.teamfighttactics.leagueoflegends.com
+
+# Legends of Runeterra
+0.0.0.0 playruneterra.com
+0.0.0.0 www.playruneterra.com
+
+# =============================================================================
+# EPIC GAMES STORE (ADDITIONAL DOMAINS)
+# =============================================================================
+# Epic Games additional services
+0.0.0.0 epicgames.dev
+0.0.0.0 www.epicgames.dev
+0.0.0.0 dev.epicgames.com
+0.0.0.0 www.dev.epicgames.com
+
+# Epic Online Services
+0.0.0.0 eosapi.epicgames.com
+0.0.0.0 api.epicgames.dev
+
+# =============================================================================
+# AMAZON GAMES
+# =============================================================================
+# Amazon Games main domains
+0.0.0.0 amazongames.com
+0.0.0.0 www.amazongames.com
+
+# Amazon Game Studios
+0.0.0.0 amazongamestudios.com
+0.0.0.0 www.amazongamestudios.com
+
+# New World (Amazon game)
+0.0.0.0 newworld.com
+0.0.0.0 www.newworld.com
+
+# Lost Ark (Amazon published)
+0.0.0.0 lostark.com
+0.0.0.0 www.lostark.com
+
+# =============================================================================
+# PLAYFAB (MICROSOFT)
+# =============================================================================
+# PlayFab gaming services
+0.0.0.0 playfab.com
+0.0.0.0 www.playfab.com
+0.0.0.0 api.playfab.com
+
+# =============================================================================
+# TWITCH GAMES / TWITCH LAUNCHER
+# =============================================================================
+# Twitch Desktop App (discontinued)
+0.0.0.0 app.twitch.tv
+0.0.0.0 www.app.twitch.tv
+0.0.0.0 desktop.twitch.tv
+
+# Twitch Prime Gaming
+0.0.0.0 gaming.amazon.com
+0.0.0.0 www.gaming.amazon.com
+
+# =============================================================================
+# DISCORD GAME STORE (DISCONTINUED)
+# =============================================================================
+# Discord Store (historical)
+0.0.0.0 store.discord.com
+0.0.0.0 www.store.discord.com
+
+# =============================================================================
+# HUMBLE BUNDLE
+# =============================================================================
+# Humble Bundle main domains
+0.0.0.0 humblebundle.com
+0.0.0.0 www.humblebundle.com
+0.0.0.0 humble.com
+0.0.0.0 www.humble.com
+
+# Humble Choice
+0.0.0.0 humblechoice.com
+0.0.0.0 www.humblechoice.com
+
+# =============================================================================
+# ITCH.IO
+# =============================================================================
+# Itch.io indie game platform
+0.0.0.0 itch.io
+0.0.0.0 www.itch.io
+
+# Itch.io app and client
+0.0.0.0 app.itch.io
+0.0.0.0 api.itch.io
+
+# =============================================================================
+# GAMEPASS PC (MICROSOFT STORE)
+# =============================================================================
+# Microsoft Store (PC Gaming)
+0.0.0.0 microsoft.com
+0.0.0.0 www.microsoft.com
+0.0.0.0 store.microsoft.com
+
+# Xbox app for PC
+0.0.0.0 xbox.com
+0.0.0.0 www.xbox.com
+
+# =============================================================================
+# ALIENWARE ARENA
+# =============================================================================
+# Alienware gaming platform
+0.0.0.0 alienwarearena.com
+0.0.0.0 www.alienwarearena.com
+
+# =============================================================================
+# RAZER CORTEX
+# =============================================================================
+# Razer Cortex game optimizer and launcher
+0.0.0.0 cortex.razer.com
+0.0.0.0 www.cortex.razer.com
+0.0.0.0 razer.com
+0.0.0.0 www.razer.com
+
+# =============================================================================
+# NVIDIA GEFORCE EXPERIENCE
+# =============================================================================
+# GeForce Experience (game optimization)
+0.0.0.0 geforce.com
+0.0.0.0 www.geforce.com
+0.0.0.0 gfe.nvidia.com
+
+# =============================================================================
+# AMD RADEON SOFTWARE
+# =============================================================================
+# AMD gaming software
+0.0.0.0 amd.com
+0.0.0.0 www.amd.com
+0.0.0.0 support.amd.com
+
+# =============================================================================
+# OPERA GX GAMING BROWSER
+# =============================================================================
+# Opera GX gaming browser
+0.0.0.0 opera.com
+0.0.0.0 www.opera.com
+0.0.0.0 gx.opera.com
+
+# =============================================================================
+# GAME JOLT
+# =============================================================================
+# Game Jolt indie platform
+0.0.0.0 gamejolt.com
+0.0.0.0 www.gamejolt.com
+0.0.0.0 api.gamejolt.com
+
+# =============================================================================
+# KARTRIDGE (KONGREGATE)
+# =============================================================================
+# Kartridge gaming platform
+0.0.0.0 kartridge.com
+0.0.0.0 www.kartridge.com
+
+# Kongregate
+0.0.0.0 kongregate.com
+0.0.0.0 www.kongregate.com
+
+# =============================================================================
+# ROBOT CACHE
+# =============================================================================
+# Robot Cache gaming platform
+0.0.0.0 robotcache.com
+0.0.0.0 www.robotcache.com
+
+# =============================================================================
+# INDIEGALA
+# =============================================================================
+# IndieGala game store
+0.0.0.0 indiegala.com
+0.0.0.0 www.indiegala.com
+
+# =============================================================================
+# FANATICAL
+# =============================================================================
+# Fanatical game store
+0.0.0.0 fanatical.com
+0.0.0.0 www.fanatical.com
+
+# =============================================================================
+# GREEN MAN GAMING
+# =============================================================================
+# Green Man Gaming store
+0.0.0.0 greenmangaming.com
+0.0.0.0 www.greenmangaming.com
+
+# =============================================================================
+# GAMERSGATE
+# =============================================================================
+# GamersGate store
+0.0.0.0 gamersgate.com
+0.0.0.0 www.gamersgate.com
+
+# =============================================================================
+# DIRECT2DRIVE
+# =============================================================================
+# Direct2Drive store
+0.0.0.0 direct2drive.com
+0.0.0.0 www.direct2drive.com
+
+# =============================================================================
+# MICROSOFT FLIGHT SIMULATOR STORE
+# =============================================================================
+# Microsoft Flight Simulator marketplace
+0.0.0.0 flightsimulator.com
+0.0.0.0 www.flightsimulator.com
+
+# =============================================================================
+# PARADOX LAUNCHER
+# =============================================================================
+# Paradox Interactive launcher
+0.0.0.0 paradoxplaza.com
+0.0.0.0 www.paradoxplaza.com
+0.0.0.0 launcher.paradoxplaza.com
+
+# =============================================================================
+# WARGAMING.NET GAME CENTER
+# =============================================================================
+# Wargaming.net launcher
+0.0.0.0 wargaming.net
+0.0.0.0 www.wargaming.net
+
+# World of Tanks
+0.0.0.0 worldoftanks.com
+0.0.0.0 www.worldoftanks.com
+
+# World of Warships
+0.0.0.0 worldofwarships.com
+0.0.0.0 www.worldofwarships.com
+
+# =============================================================================
+# NEXON LAUNCHER
+# =============================================================================
+# Nexon game launcher
+0.0.0.0 nexon.com
+0.0.0.0 www.nexon.com
+0.0.0.0 launcher.nexon.com
+
+# =============================================================================
+# NCSOFT LAUNCHER
+# =============================================================================
+# NCsoft launcher
+0.0.0.0 ncsoft.com
+0.0.0.0 www.ncsoft.com
+
+# Guild Wars 2
+0.0.0.0 guildwars2.com
+0.0.0.0 www.guildwars2.com
+
+# =============================================================================
+# ARC GAMES (PERFECT WORLD)
+# =============================================================================
+# Arc Games launcher
+0.0.0.0 arcgames.com
+0.0.0.0 www.arcgames.com
+
+# Perfect World Entertainment
+0.0.0.0 perfectworld.com
+0.0.0.0 www.perfectworld.com
+
+# =============================================================================
+# SMITE / HI-REZ STUDIOS LAUNCHER
+# =============================================================================
+# Hi-Rez Studios
+0.0.0.0 hirezstudios.com
+0.0.0.0 www.hirezstudios.com
+
+# Smite
+0.0.0.0 smitegame.com
+0.0.0.0 www.smitegame.com
+
+# Paladins
+0.0.0.0 paladins.com
+0.0.0.0 www.paladins.com
+
+# =============================================================================
+# END OF ADDITIONAL GAME LAUNCHERS HOSTS LIST
+# ============================================================================= 

@@ -1,0 +1,361 @@
+
+
+# =============================================================================
+# STEAM (VALVE CORPORATION)
+# =============================================================================
+# Main Steam domains
+0.0.0.0 steampowered.com
+0.0.0.0 www.steampowered.com
+0.0.0.0 store.steampowered.com
+0.0.0.0 steamcommunity.com
+0.0.0.0 www.steamcommunity.com
+
+# Steam client and API services
+0.0.0.0 api.steampowered.com
+0.0.0.0 partner.steampowered.com
+0.0.0.0 help.steampowered.com
+0.0.0.0 support.steampowered.com
+0.0.0.0 steamcommunity-a.akamaihd.net
+
+# Steam CDN and content delivery
+0.0.0.0 cdn.akamai.steamstatic.com
+0.0.0.0 steamcdn-a.akamaihd.net
+0.0.0.0 steamuserimages-a.akamaihd.net
+0.0.0.0 steamstore-a.akamaihd.net
+0.0.0.0 steampipe.akamaized.net
+0.0.0.0 steamcommunity-a.akamaihd.net
+
+# Steam servers and infrastructure
+0.0.0.0 cm.steampowered.com
+0.0.0.0 clientconfig.akamai.steamstatic.com
+0.0.0.0 steamstat.us
+0.0.0.0 www.steamstat.us
+
+# Steam Workshop and user content
+0.0.0.0 steamworkshop.com
+0.0.0.0 www.steamworkshop.com
+0.0.0.0 workshop.steampowered.com
+
+# Steam authentication and login
+0.0.0.0 login.steampowered.com
+0.0.0.0 steamlogin.steampowered.com
+0.0.0.0 checkout.steampowered.com
+
+# Steam broadcasting and media
+0.0.0.0 broadcast.steampowered.com
+0.0.0.0 steambroadcast.akamaized.net
+
+# Steam VR and related services
+0.0.0.0 steamvr.com
+0.0.0.0 www.steamvr.com
+
+# Regional Steam domains
+0.0.0.0 store.steampowered.com.cn
+0.0.0.0 steamcommunity.com.cn
+
+# =============================================================================
+# EPIC GAMES STORE
+# =============================================================================
+# Main Epic Games domains
+0.0.0.0 epicgames.com
+0.0.0.0 www.epicgames.com
+0.0.0.0 store.epicgames.com
+0.0.0.0 launcher.store.epicgames.com
+
+# Epic Games services and APIs
+0.0.0.0 api.epicgames.dev
+0.0.0.0 graphql.epicgames.com
+0.0.0.0 eulatracking-public-service-prod06.ol.epicgames.com
+0.0.0.0 talon-service-prod06.ecosec.on.epicgames.com
+
+# Epic Games CDN and downloads
+0.0.0.0 epicgames-download1.akamaized.net
+0.0.0.0 download.epicgames.com
+0.0.0.0 download2.epicgames.com
+0.0.0.0 download3.epicgames.com
+0.0.0.0 download4.epicgames.com
+0.0.0.0 fastly-download.epicgames.com
+
+# Epic Games launcher and client
+0.0.0.0 launcher-public-service-prod06.ol.epicgames.com
+0.0.0.0 launcher-website-prod07.ol.epicgames.com
+
+# Epic Games authentication
+0.0.0.0 account-public-service-prod03.ol.epicgames.com
+0.0.0.0 accounts.epicgames.com
+0.0.0.0 www.accounts.epicgames.com
+
+# Unreal Engine (Epic Games)
+0.0.0.0 unrealengine.com
+0.0.0.0 www.unrealengine.com
+0.0.0.0 docs.unrealengine.com
+0.0.0.0 www.docs.unrealengine.com
+
+# Epic Games support and community
+0.0.0.0 dev.epicgames.com
+0.0.0.0 www.dev.epicgames.com
+0.0.0.0 forums.epicgames.com
+0.0.0.0 www.forums.epicgames.com
+
+# Fortnite (Epic Games)
+0.0.0.0 fortnite.com
+0.0.0.0 www.fortnite.com
+0.0.0.0 fortnitecontent-website-prod07.ol.epicgames.com
+
+# =============================================================================
+# ORIGIN (EA)
+# =============================================================================
+# Main Origin domains
+0.0.0.0 origin.com
+0.0.0.0 www.origin.com
+0.0.0.0 accounts.ea.com
+0.0.0.0 signin.ea.com
+
+# EA Play and subscription services
+0.0.0.0 eaplay.com
+0.0.0.0 www.eaplay.com
+0.0.0.0 subscription.ea.com
+
+# EA main domains
+0.0.0.0 ea.com
+0.0.0.0 www.ea.com
+0.0.0.0 help.ea.com
+0.0.0.0 www.help.ea.com
+
+# EA CDN and downloads
+0.0.0.0 download.ea.com
+0.0.0.0 eaassets-a.akamaihd.net
+0.0.0.0 media.contentapi.ea.com
+0.0.0.0 ssl-lvlt.ea.com
+
+# EA authentication and services
+0.0.0.0 gateway.ea.com
+0.0.0.0 api1.origin.com
+0.0.0.0 api2.origin.com
+0.0.0.0 api3.origin.com
+0.0.0.0 api4.origin.com
+
+# EA game-specific services
+0.0.0.0 battlelog.battlefield.com
+0.0.0.0 www.battlelog.battlefield.com
+0.0.0.0 battlefield.com
+0.0.0.0 www.battlefield.com
+
+# EA Sports services
+0.0.0.0 easports.com
+0.0.0.0 www.easports.com
+0.0.0.0 fifa.com
+0.0.0.0 www.fifa.com
+
+# =============================================================================
+# UPLAY / UBISOFT CONNECT
+# =============================================================================
+# Main Ubisoft domains
+0.0.0.0 ubisoft.com
+0.0.0.0 www.ubisoft.com
+0.0.0.0 store.ubisoft.com
+0.0.0.0 account.ubisoft.com
+
+# Ubisoft Connect (formerly Uplay)
+0.0.0.0 connect.ubisoft.com
+0.0.0.0 uplay.ubisoft.com
+0.0.0.0 uplaypc.ubisoft.com
+
+# Ubisoft services and APIs
+0.0.0.0 api-ubiservices.ubi.com
+0.0.0.0 public-ubiservices.ubi.com
+0.0.0.0 msr-public-ubiservices.ubi.com
+0.0.0.0 prod.trackmania.core.nadeo.online
+
+# Ubisoft CDN and downloads
+0.0.0.0 ubistatic-a.akamaihd.net
+0.0.0.0 ubistatic9-a.akamaihd.net
+0.0.0.0 staticctf.akamaized.net
+0.0.0.0 ubisoft-orbit-savegames.s3.amazonaws.com
+
+# Ubisoft game services
+0.0.0.0 game-rainbow6.ubi.com
+0.0.0.0 ghost-recon.ubisoft.com
+0.0.0.0 www.ghost-recon.ubisoft.com
+0.0.0.0 assassinscreed.ubisoft.com
+0.0.0.0 www.assassinscreed.ubisoft.com
+
+# Ubisoft support
+0.0.0.0 support.ubisoft.com
+0.0.0.0 www.support.ubisoft.com
+0.0.0.0 forums.ubisoft.com
+0.0.0.0 www.forums.ubisoft.com
+
+# =============================================================================
+# GOG (CD PROJEKT)
+# =============================================================================
+# Main GOG domains
+0.0.0.0 gog.com
+0.0.0.0 www.gog.com
+0.0.0.0 embed.gog.com
+0.0.0.0 www.embed.gog.com
+
+# GOG Galaxy client
+0.0.0.0 galaxy.gog.com
+0.0.0.0 www.galaxy.gog.com
+0.0.0.0 cfg.gog.com
+0.0.0.0 remote-config.gog.com
+
+# GOG CDN and downloads
+0.0.0.0 cdn.gog.com
+0.0.0.0 gog-cdn-lumen.secure2.footprint.net
+0.0.0.0 gog-cdn-fastly.secure2.footprint.net
+
+# GOG services and APIs
+0.0.0.0 api.gog.com
+0.0.0.0 menu.gog.com
+0.0.0.0 reviews.gog.com
+0.0.0.0 www.reviews.gog.com
+
+# GOG authentication
+0.0.0.0 auth.gog.com
+0.0.0.0 login.gog.com
+
+# GOG support and community
+0.0.0.0 support.gog.com
+0.0.0.0 www.support.gog.com
+
+# =============================================================================
+# BATTLE.NET (BLIZZARD ENTERTAINMENT)
+# =============================================================================
+# Main Battle.net domains
+0.0.0.0 battle.net
+0.0.0.0 www.battle.net
+0.0.0.0 us.battle.net
+0.0.0.0 eu.battle.net
+0.0.0.0 kr.battle.net
+
+# Blizzard main domains
+0.0.0.0 blizzard.com
+0.0.0.0 www.blizzard.com
+0.0.0.0 account.blizzard.com
+
+# Battle.net services and APIs
+0.0.0.0 us.api.blizzard.com
+0.0.0.0 eu.api.blizzard.com
+0.0.0.0 kr.api.blizzard.com
+0.0.0.0 oauth.battle.net
+
+# Blizzard CDN and downloads
+0.0.0.0 blzddist1-a.akamaihd.net
+0.0.0.0 blzddist2-a.akamaihd.net
+0.0.0.0 blzddist3-a.akamaihd.net
+0.0.0.0 blzddist4-a.akamaihd.net
+0.0.0.0 dist.blizzard.com
+
+# Blizzard game services
+0.0.0.0 worldofwarcraft.com
+0.0.0.0 www.worldofwarcraft.com
+0.0.0.0 diablo3.com
+0.0.0.0 www.diablo3.com
+0.0.0.0 starcraft2.com
+0.0.0.0 www.starcraft2.com
+0.0.0.0 overwatch.com
+0.0.0.0 www.overwatch.com
+0.0.0.0 hearthstone.com
+0.0.0.0 www.hearthstone.com
+
+# Blizzard eSports
+0.0.0.0 overwatchleague.com
+0.0.0.0 www.overwatchleague.com
+0.0.0.0 playoverwatch.com
+0.0.0.0 www.playoverwatch.com
+
+# Blizzard support
+0.0.0.0 support.blizzard.com
+0.0.0.0 www.support.blizzard.com
+
+# =============================================================================
+# ADDITIONAL GAMING PLATFORMS
+# =============================================================================
+
+# Bethesda Launcher (now mostly integrated into Steam)
+0.0.0.0 bethesda.net
+0.0.0.0 www.bethesda.net
+0.0.0.0 account.bethesda.net
+0.0.0.0 launcher.bethesda.net
+
+# Rockstar Games Launcher
+0.0.0.0 rockstargames.com
+0.0.0.0 www.rockstargames.com
+0.0.0.0 socialclub.rockstargames.com
+0.0.0.0 www.socialclub.rockstargames.com
+
+# Activision domains
+0.0.0.0 activision.com
+0.0.0.0 www.activision.com
+0.0.0.0 profile.callofduty.com
+0.0.0.0 www.callofduty.com
+
+# 2K Games
+0.0.0.0 2k.com
+0.0.0.0 www.2k.com
+0.0.0.0 2kgames.com
+0.0.0.0 www.2kgames.com
+
+# Take-Two Interactive
+0.0.0.0 take2games.com
+0.0.0.0 www.take2games.com
+
+# Square Enix
+0.0.0.0 square-enix.com
+0.0.0.0 www.square-enix.com
+0.0.0.0 store.eu.square-enix.com
+
+# Capcom
+0.0.0.0 capcom.com
+0.0.0.0 www.capcom.com
+0.0.0.0 capcom-unity.com
+0.0.0.0 www.capcom-unity.com
+
+# =============================================================================
+# GAMING ANALYTICS AND TELEMETRY
+# =============================================================================
+
+# Steam analytics
+0.0.0.0 steamstats.valve.net
+0.0.0.0 media.steampowered.com
+
+# Epic Games analytics
+0.0.0.0 tracking.epicgames.com
+0.0.0.0 analytics.epicgames.com
+
+# EA analytics
+0.0.0.0 telemetry.ea.com
+0.0.0.0 metrics.ea.com
+
+# Ubisoft analytics
+0.0.0.0 ubisoft.demdex.net
+0.0.0.0 onlineconfig.ubisoft.com
+
+# Blizzard analytics
+0.0.0.0 blizzard.demdex.net
+0.0.0.0 telemetry.blizzard.com
+
+# =============================================================================
+# GAMING PAYMENT AND WALLET SERVICES
+# =============================================================================
+
+# Steam Wallet
+0.0.0.0 steamwallet.com
+0.0.0.0 www.steamwallet.com
+
+# Epic Games payments
+0.0.0.0 payment-website-pci.ol.epicgames.com
+
+# Origin/EA payments
+0.0.0.0 payment.ea.com
+0.0.0.0 checkout.ea.com
+
+# Battle.net payments
+0.0.0.0 shop.battle.net
+0.0.0.0 us.shop.battle.net
+
+# =============================================================================
+# END OF GAMING PLATFORMS HOSTS LIST
+# ============================================================================= 

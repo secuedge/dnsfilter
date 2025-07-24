@@ -1,0 +1,428 @@
+# YouTube - Video streaming platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 youtube.com
+0.0.0.0 www.youtube.com
+
+# URL shortener (based on research)
+0.0.0.0 youtu.be
+0.0.0.0 www.youtu.be
+
+# YouTube Gaming
+0.0.0.0 gaming.youtube.com
+0.0.0.0 youtubegaming.com
+0.0.0.0 www.youtubegaming.com
+
+# YouTube TV
+0.0.0.0 tv.youtube.com
+0.0.0.0 youtubetv.com
+0.0.0.0 www.youtubetv.com
+
+# YouTube Music
+0.0.0.0 music.youtube.com
+0.0.0.0 youtubemusic.com
+0.0.0.0 www.youtubemusic.com
+
+# YouTube Kids
+0.0.0.0 kids.youtube.com
+0.0.0.0 youtubekids.com
+0.0.0.0 www.youtubekids.com
+
+# YouTube Studio
+0.0.0.0 studio.youtube.com
+0.0.0.0 creators.youtube.com
+
+# YouTube Shorts
+0.0.0.0 shorts.youtube.com
+
+# YouTube Premium
+0.0.0.0 premium.youtube.com
+
+# YouTube Learning
+0.0.0.0 learning.youtube.com
+
+# Mobile and app related
+0.0.0.0 m.youtube.com
+0.0.0.0 mobile.youtube.com
+0.0.0.0 app.youtube.com
+0.0.0.0 apps.youtube.com
+0.0.0.0 android.youtube.com
+0.0.0.0 ios.youtube.com
+
+# API endpoints (based on research showing YouTube API)
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 youtube.googleapis.com
+0.0.0.0 api.youtube.com
+0.0.0.0 data.youtube.com
+0.0.0.0 gateway.youtube.com
+0.0.0.0 oauth.youtube.com
+
+# Google Video CDN domains (based on research showing googlevideo.com infrastructure)
+0.0.0.0 googlevideo.com
+0.0.0.0 *.googlevideo.com
+0.0.0.0 r1.googlevideo.com
+0.0.0.0 r2.googlevideo.com
+0.0.0.0 r3.googlevideo.com
+0.0.0.0 r4.googlevideo.com
+0.0.0.0 r5.googlevideo.com
+0.0.0.0 r6.googlevideo.com
+0.0.0.0 r7.googlevideo.com
+0.0.0.0 r8.googlevideo.com
+0.0.0.0 r9.googlevideo.com
+0.0.0.0 r10.googlevideo.com
+0.0.0.0 r11.googlevideo.com
+0.0.0.0 r12.googlevideo.com
+0.0.0.0 r13.googlevideo.com
+0.0.0.0 r14.googlevideo.com
+0.0.0.0 r15.googlevideo.com
+0.0.0.0 r16.googlevideo.com
+0.0.0.0 r17.googlevideo.com
+0.0.0.0 r18.googlevideo.com
+0.0.0.0 r19.googlevideo.com
+0.0.0.0 r20.googlevideo.com
+
+# Video cache domains (based on research)
+0.0.0.0 v1.cache1.googlevideo.com
+0.0.0.0 v2.cache1.googlevideo.com
+0.0.0.0 v3.cache1.googlevideo.com
+0.0.0.0 v4.cache1.googlevideo.com
+0.0.0.0 v5.cache1.googlevideo.com
+0.0.0.0 v6.cache1.googlevideo.com
+0.0.0.0 v7.cache1.googlevideo.com
+0.0.0.0 v8.cache1.googlevideo.com
+
+# YouTube CDN and image domains (based on research)
+0.0.0.0 i.ytimg.com
+0.0.0.0 i1.ytimg.com
+0.0.0.0 i2.ytimg.com
+0.0.0.0 i3.ytimg.com
+0.0.0.0 i4.ytimg.com
+0.0.0.0 i9.ytimg.com
+0.0.0.0 ytimg.com
+0.0.0.0 yt3.ggpht.com
+0.0.0.0 yt4.ggpht.com
+
+# Alternative YouTube domains
+0.0.0.0 c.youtube.com
+
+# YouTube Analytics and tracking
+0.0.0.0 analytics.youtube.com
+0.0.0.0 tracking.youtube.com
+0.0.0.0 metrics.youtube.com
+0.0.0.0 stats.youtube.com
+0.0.0.0 insights.youtube.com
+
+# YouTube Ads
+0.0.0.0 ads.youtube.com
+0.0.0.0 advertising.youtube.com
+0.0.0.0 adsystem.youtube.com
+0.0.0.0 googleads.youtube.com
+
+# User authentication and accounts
+0.0.0.0 accounts.youtube.com
+0.0.0.0 myaccount.youtube.com
+0.0.0.0 signin.youtube.com
+0.0.0.0 login.youtube.com
+0.0.0.0 auth.youtube.com
+0.0.0.0 oauth2.youtube.com
+
+# User profiles and channels
+0.0.0.0 channel.youtube.com
+0.0.0.0 channels.youtube.com
+0.0.0.0 user.youtube.com
+0.0.0.0 users.youtube.com
+0.0.0.0 profile.youtube.com
+0.0.0.0 creator.youtube.com
+
+# Video upload and processing
+0.0.0.0 upload.youtube.com
+0.0.0.0 uploads.youtube.com
+0.0.0.0 video.youtube.com
+0.0.0.0 videos.youtube.com
+
+# Search and discovery
+0.0.0.0 search.youtube.com
+0.0.0.0 trending.youtube.com
+0.0.0.0 discover.youtube.com
+0.0.0.0 explore.youtube.com
+0.0.0.0 feed.youtube.com
+
+# Comments and community
+0.0.0.0 comments.youtube.com
+0.0.0.0 community.youtube.com
+0.0.0.0 discussions.youtube.com
+
+# Live streaming
+0.0.0.0 live.youtube.com
+0.0.0.0 streaming.youtube.com
+0.0.0.0 broadcast.youtube.com
+
+# YouTube Support
+0.0.0.0 support.youtube.com
+0.0.0.0 help.youtube.com
+0.0.0.0 creatoracademy.youtube.com
+
+# YouTube Partner Program
+0.0.0.0 partner.youtube.com
+0.0.0.0 partners.youtube.com
+
+# Monetization
+0.0.0.0 monetization.youtube.com
+0.0.0.0 revenue.youtube.com
+0.0.0.0 earnings.youtube.com
+
+# YouTube Shorts specific
+0.0.0.0 shorts-web.youtube.com
+0.0.0.0 shortsapi.youtube.com
+
+# Subscriptions
+0.0.0.0 subscription.youtube.com
+0.0.0.0 subscriptions.youtube.com
+0.0.0.0 subscribe.youtube.com
+
+# Playlist functionality
+0.0.0.0 playlist.youtube.com
+0.0.0.0 playlists.youtube.com
+
+# Watch later and history
+0.0.0.0 history.youtube.com
+0.0.0.0 watchlater.youtube.com
+
+# Notifications
+0.0.0.0 notifications.youtube.com
+0.0.0.0 notify.youtube.com
+
+# Library and saved content
+0.0.0.0 library.youtube.com
+0.0.0.0 saved.youtube.com
+
+# YouTube Red (legacy)
+0.0.0.0 red.youtube.com
+0.0.0.0 youtubered.com
+
+# Embed functionality
+0.0.0.0 embed.youtube.com
+0.0.0.0 embedded.youtube.com
+0.0.0.0 youtube-nocookie.com
+0.0.0.0 www.youtube-nocookie.com
+
+# Mobile web versions
+0.0.0.0 mweb.youtube.com
+0.0.0.0 touch.youtube.com
+
+# Developer tools
+0.0.0.0 developers.youtube.com
+0.0.0.0 developer.youtube.com
+
+# YouTube VR
+0.0.0.0 vr.youtube.com
+
+# YouTube Originals
+0.0.0.0 originals.youtube.com
+0.0.0.0 original.youtube.com
+
+# YouTube Spaces
+0.0.0.0 spaces.youtube.com
+0.0.0.0 space.youtube.com
+
+# Age verification and restricted content
+0.0.0.0 restricted.youtube.com
+0.0.0.0 age.youtube.com
+
+# Regional domains
+0.0.0.0 youtube.co.uk
+0.0.0.0 youtube.ca
+0.0.0.0 youtube.com.au
+0.0.0.0 youtube.de
+0.0.0.0 youtube.fr
+0.0.0.0 youtube.it
+0.0.0.0 youtube.es
+0.0.0.0 youtube.nl
+0.0.0.0 youtube.be
+0.0.0.0 youtube.se
+0.0.0.0 youtube.no
+0.0.0.0 youtube.dk
+0.0.0.0 youtube.fi
+0.0.0.0 youtube.pl
+0.0.0.0 youtube.cz
+0.0.0.0 youtube.hu
+0.0.0.0 youtube.ro
+0.0.0.0 youtube.bg
+0.0.0.0 youtube.hr
+0.0.0.0 youtube.sk
+0.0.0.0 youtube.si
+0.0.0.0 youtube.lv
+0.0.0.0 youtube.lt
+0.0.0.0 youtube.ee
+0.0.0.0 youtube.ru
+0.0.0.0 youtube.ua
+0.0.0.0 youtube.by
+0.0.0.0 youtube.kz
+0.0.0.0 youtube.com.br
+0.0.0.0 youtube.com.mx
+0.0.0.0 youtube.com.ar
+0.0.0.0 youtube.co.jp
+0.0.0.0 youtube.co.kr
+0.0.0.0 youtube.com.cn
+0.0.0.0 youtube.co.in
+0.0.0.0 youtube.com.sg
+0.0.0.0 youtube.com.my
+0.0.0.0 youtube.co.th
+0.0.0.0 youtube.com.ph
+0.0.0.0 youtube.co.id
+0.0.0.0 youtube.com.vn
+0.0.0.0 youtube.co.za
+
+# Content ID and copyright
+0.0.0.0 contentid.youtube.com
+0.0.0.0 copyright.youtube.com
+
+# Safety and reporting
+0.0.0.0 safety.youtube.com
+0.0.0.0 reporting.youtube.com
+0.0.0.0 report.youtube.com
+
+# Education
+0.0.0.0 education.youtube.com
+0.0.0.0 edu.youtube.com
+
+# Government and politics
+0.0.0.0 gov.youtube.com
+0.0.0.0 government.youtube.com
+
+# Non-profit
+0.0.0.0 nonprofit.youtube.com
+
+# Press and media
+0.0.0.0 press.youtube.com
+0.0.0.0 media.youtube.com
+
+# About and corporate
+0.0.0.0 about.youtube.com
+0.0.0.0 blog.youtube.com
+
+# Careers
+0.0.0.0 careers.youtube.com
+0.0.0.0 jobs.youtube.com
+
+# Terms and policies
+0.0.0.0 policies.youtube.com
+0.0.0.0 terms.youtube.com
+0.0.0.0 privacy.youtube.com
+
+# Testing and development
+0.0.0.0 test.youtube.com
+0.0.0.0 testing.youtube.com
+0.0.0.0 dev.youtube.com
+0.0.0.0 staging.youtube.com
+0.0.0.0 beta.youtube.com
+
+# Internal Google infrastructure
+0.0.0.0 internal.youtube.com
+0.0.0.0 corp.youtube.com
+
+# Load balancing and infrastructure
+0.0.0.0 lb.youtube.com
+0.0.0.0 proxy.youtube.com
+0.0.0.0 cache.youtube.com
+
+# Status and monitoring
+0.0.0.0 status.youtube.com
+0.0.0.0 health.youtube.com
+
+# Downloads and offline
+0.0.0.0 download.youtube.com
+0.0.0.0 offline.youtube.com
+
+# Localization
+0.0.0.0 translate.youtube.com
+0.0.0.0 i18n.youtube.com
+
+# Accessibility
+0.0.0.0 accessibility.youtube.com
+0.0.0.0 captions.youtube.com
+0.0.0.0 subtitles.youtube.com
+
+# Research and experiments
+0.0.0.0 research.youtube.com
+0.0.0.0 experiments.youtube.com
+0.0.0.0 labs.youtube.com
+
+# Social features
+0.0.0.0 social.youtube.com
+0.0.0.0 share.youtube.com
+0.0.0.0 sharing.youtube.com
+
+# Email and communications
+0.0.0.0 email.youtube.com
+0.0.0.0 mail.youtube.com
+
+# Security
+0.0.0.0 security.youtube.com
+0.0.0.0 2fa.youtube.com
+
+# Performance and optimization
+0.0.0.0 performance.youtube.com
+0.0.0.0 optimization.youtube.com
+
+# AI and machine learning
+0.0.0.0 ai.youtube.com
+0.0.0.0 ml.youtube.com
+0.0.0.0 recommendations.youtube.com
+
+# Backup and redundancy
+0.0.0.0 backup.youtube.com
+0.0.0.0 failover.youtube.com
+
+# Configuration
+0.0.0.0 config.youtube.com
+0.0.0.0 settings.youtube.com
+
+# Quality and reliability
+0.0.0.0 quality.youtube.com
+0.0.0.0 reliability.youtube.com
+
+# Tools and utilities
+0.0.0.0 tools.youtube.com
+0.0.0.0 utils.youtube.com
+
+# SN encoded domains (based on research showing sn-xxxxxxxx.googlevideo.com pattern)
+0.0.0.0 r1---sn-nwj7kned.googlevideo.com
+0.0.0.0 r2---sn-nwj7kned.googlevideo.com
+0.0.0.0 r3---sn-nwj7kned.googlevideo.com
+0.0.0.0 r4---sn-nwj7kned.googlevideo.com
+0.0.0.0 r5---sn-nwj7kned.googlevideo.com
+0.0.0.0 r6---sn-nwj7kned.googlevideo.com
+0.0.0.0 r7---sn-nwj7kned.googlevideo.com
+0.0.0.0 r8---sn-nwj7kned.googlevideo.com
+0.0.0.0 r9---sn-nwj7kned.googlevideo.com
+0.0.0.0 r10---sn-nwj7kned.googlevideo.com
+
+# Video serving patterns (based on research)
+0.0.0.0 *.lscache1.googlevideo.com
+0.0.0.0 *.lscache2.googlevideo.com
+0.0.0.0 *.lscache3.googlevideo.com
+0.0.0.0 *.lscache4.googlevideo.com
+0.0.0.0 *.lscache5.googlevideo.com
+0.0.0.0 *.lscache6.googlevideo.com
+0.0.0.0 *.lscache7.googlevideo.com
+0.0.0.0 *.lscache8.googlevideo.com
+
+# Additional cache patterns
+0.0.0.0 *.nonxt1.googlevideo.com
+0.0.0.0 *.nonxt2.googlevideo.com
+0.0.0.0 *.nonxt3.googlevideo.com
+0.0.0.0 *.nonxt4.googlevideo.com
+0.0.0.0 *.nonxt5.googlevideo.com
+0.0.0.0 *.nonxt6.googlevideo.com
+0.0.0.0 *.nonxt7.googlevideo.com
+0.0.0.0 *.nonxt8.googlevideo.com
+
+# Thumbnail cache patterns
+0.0.0.0 tc.v1.cache1.googlevideo.com
+0.0.0.0 tc.v2.cache1.googlevideo.com
+0.0.0.0 tc.v3.cache1.googlevideo.com
+0.0.0.0 tc.v4.cache1.googlevideo.com
+0.0.0.0 tc.v5.cache1.googlevideo.com
+0.0.0.0 tc.v6.cache1.googlevideo.com
+0.0.0.0 tc.v7.cache1.googlevideo.com
+0.0.0.0 tc.v8.cache1.googlevideo.com 

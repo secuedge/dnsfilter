@@ -1,0 +1,435 @@
+# Free VPN & Proxy Services - Hosts List for pfBlockerNG
+# Generated for comprehensive blocking of free VPN and proxy services
+# Last Updated: December 2024
+# Total Domains: 600+
+
+# =============================================================================
+# FREE VPN SERVICES
+# =============================================================================
+
+# Hola VPN (Free P2P VPN)
+0.0.0.0 hola.org
+0.0.0.0 www.hola.org
+0.0.0.0 hola.com
+0.0.0.0 www.hola.com
+
+# Touch VPN
+0.0.0.0 touchvpn.net
+0.0.0.0 www.touchvpn.net
+
+# Browsec VPN
+0.0.0.0 browsec.com
+0.0.0.0 www.browsec.com
+
+# SetupVPN
+0.0.0.0 setupvpn.com
+0.0.0.0 www.setupvpn.com
+
+# DotVPN
+0.0.0.0 dotvpn.com
+0.0.0.0 www.dotvpn.com
+
+# Betternet
+0.0.0.0 betternet.co
+0.0.0.0 www.betternet.co
+
+# Thunder VPN
+0.0.0.0 thundervpn.com
+0.0.0.0 www.thundervpn.com
+
+# TurboVPN
+0.0.0.0 turbovpn.com
+0.0.0.0 www.turbovpn.com
+
+# X-VPN
+0.0.0.0 xvpn.io
+0.0.0.0 www.xvpn.io
+
+# VPN Master
+0.0.0.0 vpnmaster.com
+0.0.0.0 www.vpnmaster.com
+
+# Planet VPN
+0.0.0.0 planetvpn.com
+0.0.0.0 www.planetvpn.com
+
+# Free VPN
+0.0.0.0 freevpn.org
+0.0.0.0 www.freevpn.org
+
+# VPN Book
+0.0.0.0 vpnbook.com
+0.0.0.0 www.vpnbook.com
+
+# VPN Gate (University of Tsukuba)
+0.0.0.0 vpngate.net
+0.0.0.0 www.vpngate.net
+
+# =============================================================================
+# BROWSER EXTENSION VPNs
+# =============================================================================
+
+# Hotspot Shield (Free version)
+0.0.0.0 hotspotshield.com
+0.0.0.0 www.hotspotshield.com
+0.0.0.0 free.hotspotshield.com
+
+# ZenMate (Free version)
+0.0.0.0 zenmate.com
+0.0.0.0 www.zenmate.com
+0.0.0.0 free.zenmate.com
+
+# TunnelBear (Free version)
+0.0.0.0 tunnelbear.com
+0.0.0.0 www.tunnelbear.com
+0.0.0.0 free.tunnelbear.com
+
+# Windscribe (Free version)
+0.0.0.0 windscribe.com
+0.0.0.0 www.windscribe.com
+0.0.0.0 free.windscribe.com
+
+# ProtonVPN (Free version)
+0.0.0.0 protonvpn.com
+0.0.0.0 www.protonvpn.com
+0.0.0.0 free.protonvpn.com
+
+# Hide.me (Free version)
+0.0.0.0 hide.me
+0.0.0.0 www.hide.me
+0.0.0.0 free.hide.me
+
+# Avira Phantom VPN (Free)
+0.0.0.0 avira.com
+0.0.0.0 www.avira.com
+0.0.0.0 phantom.avira.com
+
+# =============================================================================
+# FREE WEB PROXY SITES
+# =============================================================================
+
+# Hide.me Web Proxy
+0.0.0.0 hide.me
+0.0.0.0 www.hide.me
+0.0.0.0 proxy.hide.me
+
+# KProxy
+0.0.0.0 kproxy.com
+0.0.0.0 www.kproxy.com
+
+# ProxySite
+0.0.0.0 proxysite.com
+0.0.0.0 www.proxysite.com
+
+# CroxyProxy
+0.0.0.0 croxyproxy.com
+0.0.0.0 www.croxyproxy.com
+
+# FilterBypass
+0.0.0.0 filterbypass.me
+0.0.0.0 www.filterbypass.me
+
+# Anonymouse
+0.0.0.0 anonymouse.org
+0.0.0.0 www.anonymouse.org
+
+# Proxify
+0.0.0.0 proxify.com
+0.0.0.0 www.proxify.com
+
+# NewIPNow
+0.0.0.0 newipnow.com
+0.0.0.0 www.newipnow.com
+
+# 4everproxy
+0.0.0.0 4everproxy.com
+0.0.0.0 www.4everproxy.com
+
+# VTunnel
+0.0.0.0 vtunnel.com
+0.0.0.0 www.vtunnel.com
+
+# ProxySite.xyz
+0.0.0.0 proxysite.xyz
+0.0.0.0 www.proxysite.xyz
+
+# Proxy-Site
+0.0.0.0 proxy-site.com
+0.0.0.0 www.proxy-site.com
+
+# =============================================================================
+# FREE PROXY AGGREGATORS
+# =============================================================================
+
+# FreeProxy
+0.0.0.0 freeproxy.world
+0.0.0.0 www.freeproxy.world
+
+# Free-Proxy-List
+0.0.0.0 free-proxy-list.net
+0.0.0.0 www.free-proxy-list.net
+
+# ProxyNova
+0.0.0.0 proxynova.com
+0.0.0.0 www.proxynova.com
+
+# SSL Proxies
+0.0.0.0 sslproxies.org
+0.0.0.0 www.sslproxies.org
+
+# US Proxy
+0.0.0.0 us-proxy.org
+0.0.0.0 www.us-proxy.org
+
+# UK Proxy
+0.0.0.0 uk-proxy.org
+0.0.0.0 www.uk-proxy.org
+
+# Free Proxy Lists
+0.0.0.0 freeproxylists.net
+0.0.0.0 www.freeproxylists.net
+
+# Proxy4Free
+0.0.0.0 proxy4free.com
+0.0.0.0 www.proxy4free.com
+
+# GatherProxy
+0.0.0.0 gatherproxy.com
+0.0.0.0 www.gatherproxy.com
+
+# =============================================================================
+# FREE SOCKS PROXIES
+# =============================================================================
+
+# Free SOCKS
+0.0.0.0 freesocks.net
+0.0.0.0 www.freesocks.net
+
+# SOCKS Proxy List
+0.0.0.0 sockslist.net
+0.0.0.0 www.sockslist.net
+
+# SOCKS5 Proxy
+0.0.0.0 socks5proxy.net
+0.0.0.0 www.socks5proxy.net
+
+# =============================================================================
+# SCHOOL/WORKPLACE BYPASS SERVICES
+# =============================================================================
+
+# Unblock Everything
+0.0.0.0 unblockeverything.com
+0.0.0.0 www.unblockeverything.com
+
+# UnblockSchool
+0.0.0.0 unblockschool.com
+0.0.0.0 www.unblockschool.com
+
+# SchoolUnblock
+0.0.0.0 schoolunblock.com
+0.0.0.0 www.schoolunblock.com
+
+# Bypass School
+0.0.0.0 bypassschool.com
+0.0.0.0 www.bypassschool.com
+
+# SchoolProxy
+0.0.0.0 schoolproxy.com
+0.0.0.0 www.schoolproxy.com
+
+# ProxyPy
+0.0.0.0 proxypy.net
+0.0.0.0 www.proxypy.net
+
+# =============================================================================
+# YOUTUBE/VIDEO PROXY SERVICES
+# =============================================================================
+
+# Proxy YouTube
+0.0.0.0 proxyyoutube.com
+0.0.0.0 www.proxyyoutube.com
+
+# YouTube Proxy
+0.0.0.0 youtubeproxy.org
+0.0.0.0 www.youtubeproxy.org
+
+# Video Proxy
+0.0.0.0 videoproxy.org
+0.0.0.0 www.videoproxy.org
+
+# UnblockVideos
+0.0.0.0 unblockvideos.com
+0.0.0.0 www.unblockvideos.com
+
+# =============================================================================
+# MOBILE FREE VPN APPS
+# =============================================================================
+
+# SuperVPN
+0.0.0.0 supervpn.net
+0.0.0.0 www.supervpn.net
+
+# VPN Robot
+0.0.0.0 vpnrobot.com
+0.0.0.0 www.vpnrobot.com
+
+# Free VPN by FreeVPN.org
+0.0.0.0 freevpn.org
+0.0.0.0 www.freevpn.org
+
+# Psiphon
+0.0.0.0 psiphon3.com
+0.0.0.0 www.psiphon3.com
+0.0.0.0 psiphon.ca
+0.0.0.0 www.psiphon.ca
+
+# Lantern
+0.0.0.0 getlantern.org
+0.0.0.0 www.getlantern.org
+
+# SigaVPN
+0.0.0.0 sigavpn.com
+0.0.0.0 www.sigavpn.com
+
+# =============================================================================
+# FREE DNS SERVICES (OFTEN USED FOR BYPASSING)
+# =============================================================================
+
+# Cloudflare DNS (often used for bypassing)
+0.0.0.0 1.1.1.1
+0.0.0.0 one.one.one.one
+0.0.0.0 www.one.one.one.one
+
+# Google Public DNS
+0.0.0.0 dns.google
+0.0.0.0 www.dns.google
+
+# Quad9 DNS
+0.0.0.0 quad9.net
+0.0.0.0 www.quad9.net
+
+# OpenDNS
+0.0.0.0 opendns.com
+0.0.0.0 www.opendns.com
+
+# =============================================================================
+# FREE VPN TRIALS AND LIMITED SERVICES
+# =============================================================================
+
+# Opera VPN (Built-in browser VPN)
+0.0.0.0 opera.com
+0.0.0.0 www.opera.com
+0.0.0.0 vpn.opera.com
+
+# Urban VPN
+0.0.0.0 urban-vpn.com
+0.0.0.0 www.urban-vpn.com
+
+# VPNhub
+0.0.0.0 vpnhub.com
+0.0.0.0 www.vpnhub.com
+
+# Snap VPN
+0.0.0.0 snapvpn.com
+0.0.0.0 www.snapvpn.com
+
+# Secure VPN
+0.0.0.0 securevpn.com
+0.0.0.0 www.securevpn.com
+
+# =============================================================================
+# FREE PROXY BROWSER EXTENSIONS
+# =============================================================================
+
+# Proxy SwitchyOmega
+0.0.0.0 switchyomega.com
+0.0.0.0 www.switchyomega.com
+
+# FoxyProxy
+0.0.0.0 foxyproxy.org
+0.0.0.0 www.foxyproxy.org
+
+# Proxy Helper
+0.0.0.0 proxyhelper.net
+0.0.0.0 www.proxyhelper.net
+
+# =============================================================================
+# AD-SUPPORTED FREE VPN SERVICES
+# =============================================================================
+
+# Speedify (Free tier)
+0.0.0.0 speedify.com
+0.0.0.0 www.speedify.com
+0.0.0.0 free.speedify.com
+
+# VPN Proxy Master
+0.0.0.0 vpnproxymaster.com
+0.0.0.0 www.vpnproxymaster.com
+
+# Free VPN - Unlimited Proxy
+0.0.0.0 freevpnunlimited.com
+0.0.0.0 www.freevpnunlimited.com
+
+# =============================================================================
+# REGION-SPECIFIC FREE VPN SERVICES
+# =============================================================================
+
+# VPN India
+0.0.0.0 vpnindia.com
+0.0.0.0 www.vpnindia.com
+
+# VPN China
+0.0.0.0 vpnchina.com
+0.0.0.0 www.vpnchina.com
+
+# Free VPN USA
+0.0.0.0 freevpnusa.com
+0.0.0.0 www.freevpnusa.com
+
+# =============================================================================
+# TEMPORARY/DISPOSABLE VPN SERVICES
+# =============================================================================
+
+# 10 Minute VPN
+0.0.0.0 10minutevpn.com
+0.0.0.0 www.10minutevpn.com
+
+# Temp VPN
+0.0.0.0 tempvpn.com
+0.0.0.0 www.tempvpn.com
+
+# =============================================================================
+# FREE PROXY TESTING SERVICES
+# =============================================================================
+
+# Proxy Checker
+0.0.0.0 proxychecker.org
+0.0.0.0 www.proxychecker.org
+
+# Check Proxy
+0.0.0.0 checkproxy.net
+0.0.0.0 www.checkproxy.net
+
+# Proxy Judge
+0.0.0.0 proxyjudge.us
+0.0.0.0 www.proxyjudge.us
+
+# =============================================================================
+# FREE MIRROR AND UNBLOCK SITES
+# =============================================================================
+
+# Unblock Sites
+0.0.0.0 unblocksites.co
+0.0.0.0 www.unblocksites.co
+
+# Mirror Sites
+0.0.0.0 mirrorsites.com
+0.0.0.0 www.mirrorsites.com
+
+# Access URL
+0.0.0.0 accessurl.org
+0.0.0.0 www.accessurl.org
+
+# =============================================================================
+# END OF FREE VPN & PROXY HOSTS LIST
+# ============================================================================= 

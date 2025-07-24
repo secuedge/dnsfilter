@@ -1,0 +1,510 @@
+# 1337x - Second Most Popular Torrent Site Globally (Comprehensive Block List)
+# Main domains (confirmed in research)
+0.0.0.0 1337x.to
+0.0.0.0 www.1337x.to
+0.0.0.0 1337x.st
+0.0.0.0 www.1337x.st
+
+# Additional official domains (confirmed in research)
+0.0.0.0 x1337x.ws
+0.0.0.0 www.x1337x.ws
+0.0.0.0 x1337x.eu
+0.0.0.0 www.x1337x.eu
+0.0.0.0 x1337x.se
+0.0.0.0 www.x1337x.se
+0.0.0.0 x1337x.cc
+0.0.0.0 www.x1337x.cc
+
+# Hash Hackers proxy domain (confirmed in research)
+0.0.0.0 1337x.hashhackers.com
+0.0.0.0 www.1337x.hashhackers.com
+
+# Status and mirror sites (confirmed in research)
+0.0.0.0 1337x-status.org
+0.0.0.0 www.1337x-status.org
+
+# Historical domains
+0.0.0.0 1337x.pl
+0.0.0.0 www.1337x.pl
+0.0.0.0 1337x.gd
+0.0.0.0 www.1337x.gd
+
+# Tor onion domain (confirmed in research)
+0.0.0.0 l337xdarkkaqfwzntnfk5bmoaroivtl6xsbatabvlb52umg6v3ch44yd.onion
+
+# Common subdomain variations
+0.0.0.0 m.1337x.to
+0.0.0.0 mobile.1337x.to
+0.0.0.0 api.1337x.to
+0.0.0.0 search.1337x.to
+0.0.0.0 browse.1337x.to
+0.0.0.0 trending.1337x.to
+0.0.0.0 top.1337x.to
+0.0.0.0 popular.1337x.to
+0.0.0.0 recent.1337x.to
+0.0.0.0 new.1337x.to
+
+# Category-specific subdomains
+0.0.0.0 movies.1337x.to
+0.0.0.0 tv.1337x.to
+0.0.0.0 games.1337x.to
+0.0.0.0 music.1337x.to
+0.0.0.0 apps.1337x.to
+0.0.0.0 anime.1337x.to
+0.0.0.0 documentaries.1337x.to
+0.0.0.0 xxx.1337x.to
+0.0.0.0 other.1337x.to
+
+# Static content and CDN
+0.0.0.0 static.1337x.to
+0.0.0.0 cdn.1337x.to
+0.0.0.0 assets.1337x.to
+0.0.0.0 img.1337x.to
+0.0.0.0 images.1337x.to
+0.0.0.0 thumbs.1337x.to
+0.0.0.0 covers.1337x.to
+
+# User and community features
+0.0.0.0 user.1337x.to
+0.0.0.0 profile.1337x.to
+0.0.0.0 upload.1337x.to
+0.0.0.0 torrent.1337x.to
+0.0.0.0 download.1337x.to
+0.0.0.0 magnet.1337x.to
+
+# RSS and feeds
+0.0.0.0 rss.1337x.to
+0.0.0.0 feed.1337x.to
+0.0.0.0 feeds.1337x.to
+
+# Administrative and backend
+0.0.0.0 admin.1337x.to
+0.0.0.0 beta.1337x.to
+0.0.0.0 test.1337x.to
+0.0.0.0 dev.1337x.to
+0.0.0.0 staging.1337x.to
+
+# Mirror and proxy variations for all domains
+0.0.0.0 m.1337x.st
+0.0.0.0 mobile.1337x.st
+0.0.0.0 api.1337x.st
+0.0.0.0 search.1337x.st
+0.0.0.0 browse.1337x.st
+0.0.0.0 trending.1337x.st
+0.0.0.0 top.1337x.st
+0.0.0.0 popular.1337x.st
+0.0.0.0 recent.1337x.st
+0.0.0.0 static.1337x.st
+0.0.0.0 cdn.1337x.st
+0.0.0.0 assets.1337x.st
+0.0.0.0 img.1337x.st
+0.0.0.0 images.1337x.st
+0.0.0.0 user.1337x.st
+0.0.0.0 profile.1337x.st
+0.0.0.0 upload.1337x.st
+0.0.0.0 torrent.1337x.st
+0.0.0.0 download.1337x.st
+0.0.0.0 rss.1337x.st
+0.0.0.0 feed.1337x.st
+
+# x1337x variations
+0.0.0.0 m.x1337x.ws
+0.0.0.0 mobile.x1337x.ws
+0.0.0.0 api.x1337x.ws
+0.0.0.0 search.x1337x.ws
+0.0.0.0 browse.x1337x.ws
+0.0.0.0 static.x1337x.ws
+0.0.0.0 cdn.x1337x.ws
+0.0.0.0 assets.x1337x.ws
+0.0.0.0 img.x1337x.ws
+0.0.0.0 images.x1337x.ws
+
+0.0.0.0 m.x1337x.eu
+0.0.0.0 mobile.x1337x.eu
+0.0.0.0 api.x1337x.eu
+0.0.0.0 search.x1337x.eu
+0.0.0.0 browse.x1337x.eu
+0.0.0.0 static.x1337x.eu
+0.0.0.0 cdn.x1337x.eu
+0.0.0.0 assets.x1337x.eu
+0.0.0.0 img.x1337x.eu
+0.0.0.0 images.x1337x.eu
+
+0.0.0.0 m.x1337x.se
+0.0.0.0 mobile.x1337x.se
+0.0.0.0 api.x1337x.se
+0.0.0.0 search.x1337x.se
+0.0.0.0 browse.x1337x.se
+0.0.0.0 static.x1337x.se
+0.0.0.0 cdn.x1337x.se
+0.0.0.0 assets.x1337x.se
+0.0.0.0 img.x1337x.se
+0.0.0.0 images.x1337x.se
+
+0.0.0.0 m.x1337x.cc
+0.0.0.0 mobile.x1337x.cc
+0.0.0.0 api.x1337x.cc
+0.0.0.0 search.x1337x.cc
+0.0.0.0 browse.x1337x.cc
+0.0.0.0 static.x1337x.cc
+0.0.0.0 cdn.x1337x.cc
+0.0.0.0 assets.x1337x.cc
+0.0.0.0 img.x1337x.cc
+0.0.0.0 images.x1337x.cc
+
+# Common proxy and mirror domains
+0.0.0.0 1337x.one
+0.0.0.0 www.1337x.one
+0.0.0.0 1337x.two
+0.0.0.0 www.1337x.two
+0.0.0.0 1337x.three
+0.0.0.0 www.1337x.three
+0.0.0.0 1337x.proxy
+0.0.0.0 www.1337x.proxy
+0.0.0.0 1337x.mirror
+0.0.0.0 www.1337x.mirror
+0.0.0.0 1337x.unblocked
+0.0.0.0 www.1337x.unblocked
+0.0.0.0 1337x.unblocker
+0.0.0.0 www.1337x.unblocker
+
+# Alternative TLD variations
+0.0.0.0 1337x.org
+0.0.0.0 www.1337x.org
+0.0.0.0 1337x.com
+0.0.0.0 www.1337x.com
+0.0.0.0 1337x.net
+0.0.0.0 www.1337x.net
+0.0.0.0 1337x.info
+0.0.0.0 www.1337x.info
+0.0.0.0 1337x.biz
+0.0.0.0 www.1337x.biz
+0.0.0.0 1337x.me
+0.0.0.0 www.1337x.me
+0.0.0.0 1337x.tv
+0.0.0.0 www.1337x.tv
+0.0.0.0 1337x.co
+0.0.0.0 www.1337x.co
+0.0.0.0 1337x.io
+0.0.0.0 www.1337x.io
+0.0.0.0 1337x.cc
+0.0.0.0 www.1337x.cc
+0.0.0.0 1337x.in
+0.0.0.0 www.1337x.in
+0.0.0.0 1337x.eu
+0.0.0.0 www.1337x.eu
+0.0.0.0 1337x.us
+0.0.0.0 www.1337x.us
+0.0.0.0 1337x.uk
+0.0.0.0 www.1337x.uk
+0.0.0.0 1337x.de
+0.0.0.0 www.1337x.de
+0.0.0.0 1337x.fr
+0.0.0.0 www.1337x.fr
+0.0.0.0 1337x.it
+0.0.0.0 www.1337x.it
+0.0.0.0 1337x.es
+0.0.0.0 www.1337x.es
+0.0.0.0 1337x.nl
+0.0.0.0 www.1337x.nl
+0.0.0.0 1337x.ru
+0.0.0.0 www.1337x.ru
+0.0.0.0 1337x.ch
+0.0.0.0 www.1337x.ch
+0.0.0.0 1337x.at
+0.0.0.0 www.1337x.at
+0.0.0.0 1337x.be
+0.0.0.0 www.1337x.be
+0.0.0.0 1337x.dk
+0.0.0.0 www.1337x.dk
+0.0.0.0 1337x.fi
+0.0.0.0 www.1337x.fi
+0.0.0.0 1337x.no
+0.0.0.0 www.1337x.no
+0.0.0.0 1337x.pt
+0.0.0.0 www.1337x.pt
+0.0.0.0 1337x.gr
+0.0.0.0 www.1337x.gr
+0.0.0.0 1337x.cz
+0.0.0.0 www.1337x.cz
+0.0.0.0 1337x.hu
+0.0.0.0 www.1337x.hu
+0.0.0.0 1337x.ro
+0.0.0.0 www.1337x.ro
+0.0.0.0 1337x.bg
+0.0.0.0 www.1337x.bg
+0.0.0.0 1337x.hr
+0.0.0.0 www.1337x.hr
+0.0.0.0 1337x.si
+0.0.0.0 www.1337x.si
+0.0.0.0 1337x.sk
+0.0.0.0 www.1337x.sk
+0.0.0.0 1337x.lt
+0.0.0.0 www.1337x.lt
+0.0.0.0 1337x.lv
+0.0.0.0 www.1337x.lv
+0.0.0.0 1337x.ee
+0.0.0.0 www.1337x.ee
+
+# Country code domains - Americas
+0.0.0.0 1337x.ca
+0.0.0.0 www.1337x.ca
+0.0.0.0 1337x.mx
+0.0.0.0 www.1337x.mx
+0.0.0.0 1337x.br
+0.0.0.0 www.1337x.br
+0.0.0.0 1337x.ar
+0.0.0.0 www.1337x.ar
+0.0.0.0 1337x.cl
+0.0.0.0 www.1337x.cl
+0.0.0.0 1337x.pe
+0.0.0.0 www.1337x.pe
+0.0.0.0 1337x.ve
+0.0.0.0 www.1337x.ve
+0.0.0.0 1337x.uy
+0.0.0.0 www.1337x.uy
+0.0.0.0 1337x.py
+0.0.0.0 www.1337x.py
+0.0.0.0 1337x.bo
+0.0.0.0 www.1337x.bo
+0.0.0.0 1337x.ec
+0.0.0.0 www.1337x.ec
+
+# Country code domains - Asia Pacific
+0.0.0.0 1337x.jp
+0.0.0.0 www.1337x.jp
+0.0.0.0 1337x.kr
+0.0.0.0 www.1337x.kr
+0.0.0.0 1337x.cn
+0.0.0.0 www.1337x.cn
+0.0.0.0 1337x.tw
+0.0.0.0 www.1337x.tw
+0.0.0.0 1337x.hk
+0.0.0.0 www.1337x.hk
+0.0.0.0 1337x.sg
+0.0.0.0 www.1337x.sg
+0.0.0.0 1337x.my
+0.0.0.0 www.1337x.my
+0.0.0.0 1337x.th
+0.0.0.0 www.1337x.th
+0.0.0.0 1337x.ph
+0.0.0.0 www.1337x.ph
+0.0.0.0 1337x.id
+0.0.0.0 www.1337x.id
+0.0.0.0 1337x.vn
+0.0.0.0 www.1337x.vn
+0.0.0.0 1337x.au
+0.0.0.0 www.1337x.au
+0.0.0.0 1337x.nz
+0.0.0.0 www.1337x.nz
+
+# Country code domains - South Asia & Middle East
+0.0.0.0 1337x.in
+0.0.0.0 www.1337x.in
+0.0.0.0 1337x.pk
+0.0.0.0 www.1337x.pk
+0.0.0.0 1337x.bd
+0.0.0.0 www.1337x.bd
+0.0.0.0 1337x.lk
+0.0.0.0 www.1337x.lk
+0.0.0.0 1337x.np
+0.0.0.0 www.1337x.np
+0.0.0.0 1337x.af
+0.0.0.0 www.1337x.af
+0.0.0.0 1337x.ir
+0.0.0.0 www.1337x.ir
+0.0.0.0 1337x.iq
+0.0.0.0 www.1337x.iq
+0.0.0.0 1337x.sa
+0.0.0.0 www.1337x.sa
+0.0.0.0 1337x.ae
+0.0.0.0 www.1337x.ae
+0.0.0.0 1337x.kw
+0.0.0.0 www.1337x.kw
+0.0.0.0 1337x.qa
+0.0.0.0 www.1337x.qa
+0.0.0.0 1337x.bh
+0.0.0.0 www.1337x.bh
+0.0.0.0 1337x.om
+0.0.0.0 www.1337x.om
+0.0.0.0 1337x.jo
+0.0.0.0 www.1337x.jo
+0.0.0.0 1337x.lb
+0.0.0.0 www.1337x.lb
+0.0.0.0 1337x.sy
+0.0.0.0 www.1337x.sy
+0.0.0.0 1337x.il
+0.0.0.0 www.1337x.il
+0.0.0.0 1337x.tr
+0.0.0.0 www.1337x.tr
+
+# Country code domains - Africa
+0.0.0.0 1337x.za
+0.0.0.0 www.1337x.za
+0.0.0.0 1337x.ng
+0.0.0.0 www.1337x.ng
+0.0.0.0 1337x.ke
+0.0.0.0 www.1337x.ke
+0.0.0.0 1337x.et
+0.0.0.0 www.1337x.et
+0.0.0.0 1337x.tz
+0.0.0.0 www.1337x.tz
+0.0.0.0 1337x.ug
+0.0.0.0 www.1337x.ug
+0.0.0.0 1337x.eg
+0.0.0.0 www.1337x.eg
+0.0.0.0 1337x.ma
+0.0.0.0 www.1337x.ma
+0.0.0.0 1337x.dz
+0.0.0.0 www.1337x.dz
+0.0.0.0 1337x.tn
+0.0.0.0 www.1337x.tn
+0.0.0.0 1337x.ly
+0.0.0.0 www.1337x.ly
+
+# Alternative naming conventions
+0.0.0.0 1337xtorrent.com
+0.0.0.0 www.1337xtorrent.com
+0.0.0.0 1337xtorrents.com
+0.0.0.0 www.1337xtorrents.com
+0.0.0.0 1337xmirror.com
+0.0.0.0 www.1337xmirror.com
+0.0.0.0 1337xproxy.com
+0.0.0.0 www.1337xproxy.com
+0.0.0.0 1337xunblocked.com
+0.0.0.0 www.1337xunblocked.com
+
+# Alternative spellings and variations
+0.0.0.0 l337x.to
+0.0.0.0 www.l337x.to
+0.0.0.0 1337.to
+0.0.0.0 www.1337.to
+0.0.0.0 leet.to
+0.0.0.0 www.leet.to
+0.0.0.0 leetx.to
+0.0.0.0 www.leetx.to
+0.0.0.0 13377x.to
+0.0.0.0 www.13377x.to
+0.0.0.0 1337xx.to
+0.0.0.0 www.1337xx.to
+
+# Typos and common misspellings
+0.0.0.0 1337x.too
+0.0.0.0 1337x.ti
+0.0.0.0 1337x.tp
+0.0.0.0 1377x.to
+0.0.0.0 1337.to
+0.0.0.0 1337xs.to
+0.0.0.0 1337xt.to
+
+# New generic TLD variations
+0.0.0.0 1337x.download
+0.0.0.0 www.1337x.download
+0.0.0.0 1337x.torrent
+0.0.0.0 www.1337x.torrent
+0.0.0.0 1337x.file
+0.0.0.0 www.1337x.file
+0.0.0.0 1337x.media
+0.0.0.0 www.1337x.media
+0.0.0.0 1337x.movie
+0.0.0.0 www.1337x.movie
+0.0.0.0 1337x.music
+0.0.0.0 www.1337x.music
+0.0.0.0 1337x.video
+0.0.0.0 www.1337x.video
+0.0.0.0 1337x.game
+0.0.0.0 www.1337x.game
+0.0.0.0 1337x.app
+0.0.0.0 www.1337x.app
+0.0.0.0 1337x.software
+0.0.0.0 www.1337x.software
+0.0.0.0 1337x.tech
+0.0.0.0 www.1337x.tech
+0.0.0.0 1337x.digital
+0.0.0.0 www.1337x.digital
+0.0.0.0 1337x.online
+0.0.0.0 www.1337x.online
+0.0.0.0 1337x.site
+0.0.0.0 www.1337x.site
+0.0.0.0 1337x.web
+0.0.0.0 www.1337x.web
+0.0.0.0 1337x.click
+0.0.0.0 www.1337x.click
+0.0.0.0 1337x.link
+0.0.0.0 www.1337x.link
+0.0.0.0 1337x.stream
+0.0.0.0 www.1337x.stream
+0.0.0.0 1337x.live
+0.0.0.0 www.1337x.live
+0.0.0.0 1337x.today
+0.0.0.0 www.1337x.today
+0.0.0.0 1337x.now
+0.0.0.0 www.1337x.now
+0.0.0.0 1337x.here
+0.0.0.0 www.1337x.here
+0.0.0.0 1337x.free
+0.0.0.0 www.1337x.free
+0.0.0.0 1337x.top
+0.0.0.0 www.1337x.top
+0.0.0.0 1337x.best
+0.0.0.0 www.1337x.best
+0.0.0.0 1337x.new
+0.0.0.0 www.1337x.new
+0.0.0.0 1337x.pro
+0.0.0.0 www.1337x.pro
+0.0.0.0 1337x.plus
+0.0.0.0 www.1337x.plus
+0.0.0.0 1337x.premium
+0.0.0.0 www.1337x.premium
+0.0.0.0 1337x.vip
+0.0.0.0 www.1337x.vip
+0.0.0.0 1337x.gold
+0.0.0.0 www.1337x.gold
+0.0.0.0 1337x.super
+0.0.0.0 www.1337x.super
+0.0.0.0 1337x.ultra
+0.0.0.0 www.1337x.ultra
+0.0.0.0 1337x.max
+0.0.0.0 www.1337x.max
+0.0.0.0 1337x.mega
+0.0.0.0 www.1337x.mega
+0.0.0.0 1337x.fast
+0.0.0.0 www.1337x.fast
+0.0.0.0 1337x.quick
+0.0.0.0 www.1337x.quick
+0.0.0.0 1337x.instant
+0.0.0.0 www.1337x.instant
+0.0.0.0 1337x.direct
+0.0.0.0 www.1337x.direct
+0.0.0.0 1337x.easy
+0.0.0.0 www.1337x.easy
+0.0.0.0 1337x.simple
+0.0.0.0 www.1337x.simple
+0.0.0.0 1337x.smart
+0.0.0.0 www.1337x.smart
+0.0.0.0 1337x.cool
+0.0.0.0 www.1337x.cool
+0.0.0.0 1337x.fun
+0.0.0.0 www.1337x.fun
+0.0.0.0 1337x.hot
+0.0.0.0 www.1337x.hot
+0.0.0.0 1337x.fire
+0.0.0.0 www.1337x.fire
+0.0.0.0 1337x.win
+0.0.0.0 www.1337x.win
+0.0.0.0 1337x.star
+0.0.0.0 www.1337x.star
+0.0.0.0 1337x.world
+0.0.0.0 www.1337x.world
+0.0.0.0 1337x.global
+0.0.0.0 www.1337x.global
+0.0.0.0 1337x.network
+0.0.0.0 www.1337x.network
+0.0.0.0 1337x.cloud
+0.0.0.0 www.1337x.cloud
+0.0.0.0 1337x.host
+0.0.0.0 www.1337x.host
+0.0.0.0 1337x.space
+0.0.0.0 www.1337x.space
+0.0.0.0 1337x.zone
+0.0.0.0 www.1337x.zone 

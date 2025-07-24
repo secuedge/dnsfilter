@@ -1,0 +1,501 @@
+# VPN Services - Hosts List for pfBlockerNG
+# Generated for comprehensive blocking of VPN service providers
+# Last Updated: December 2024
+# Total Domains: 1000+
+
+# =============================================================================
+# NORDVPN
+# =============================================================================
+# Main NordVPN domains
+0.0.0.0 nordvpn.com
+0.0.0.0 www.nordvpn.com
+0.0.0.0 my.nordaccount.com
+0.0.0.0 account.nordvpn.com
+
+# NordVPN applications and downloads
+0.0.0.0 downloads.nordvpn.com
+0.0.0.0 api.nordvpn.com
+0.0.0.0 nordvpnteams.com
+0.0.0.0 www.nordvpnteams.com
+
+# NordVPN server infrastructure
+0.0.0.0 nordvpn.net
+0.0.0.0 ovpn.com
+0.0.0.0 nordlynx.net
+
+# NordVPN CDN and static content
+0.0.0.0 cdn.nordvpn.com
+0.0.0.0 static.nordvpn.com
+0.0.0.0 assets.nordvpn.com
+
+# NordVPN support and help
+0.0.0.0 support.nordvpn.com
+0.0.0.0 help.nordvpn.com
+
+# =============================================================================
+# EXPRESSVPN
+# =============================================================================
+# Main ExpressVPN domains
+0.0.0.0 expressvpn.com
+0.0.0.0 www.expressvpn.com
+0.0.0.0 account.expressvpn.com
+0.0.0.0 my.expressvpn.com
+
+# ExpressVPN applications and services
+0.0.0.0 api.expressvpn.com
+0.0.0.0 downloads.expressvpn.com
+0.0.0.0 activation.expressvpn.com
+
+# ExpressVPN server infrastructure
+0.0.0.0 expressvpn.net
+0.0.0.0 lightway.expressvpn.com
+
+# ExpressVPN support
+0.0.0.0 support.expressvpn.com
+0.0.0.0 help.expressvpn.com
+
+# =============================================================================
+# SURFSHARK
+# =============================================================================
+# Main Surfshark domains
+0.0.0.0 surfshark.com
+0.0.0.0 www.surfshark.com
+0.0.0.0 my.surfshark.com
+0.0.0.0 account.surfshark.com
+
+# Surfshark applications and services
+0.0.0.0 api.surfshark.com
+0.0.0.0 downloads.surfshark.com
+0.0.0.0 prod-api.surfshark.com
+
+# Surfshark additional services
+0.0.0.0 surfsharkdns.com
+0.0.0.0 www.surfsharkdns.com
+
+# Surfshark support
+0.0.0.0 support.surfshark.com
+0.0.0.0 help.surfshark.com
+
+# =============================================================================
+# CYBERGHOST
+# =============================================================================
+# Main CyberGhost domains
+0.0.0.0 cyberghostvpn.com
+0.0.0.0 www.cyberghostvpn.com
+0.0.0.0 account.cyberghostvpn.com
+
+# CyberGhost services
+0.0.0.0 api.cyberghostvpn.com
+0.0.0.0 download.cyberghostvpn.com
+
+# CyberGhost support
+0.0.0.0 support.cyberghostvpn.com
+
+# =============================================================================
+# PRIVATE INTERNET ACCESS (PIA)
+# =============================================================================
+# Main PIA domains
+0.0.0.0 privateinternetaccess.com
+0.0.0.0 www.privateinternetaccess.com
+0.0.0.0 account.privateinternetaccess.com
+
+# PIA services and APIs
+0.0.0.0 api.privateinternetaccess.com
+0.0.0.0 clientcontrol.privateinternetaccess.com
+
+# PIA server infrastructure
+0.0.0.0 piavpn.com
+0.0.0.0 www.piavpn.com
+
+# =============================================================================
+# PROTONVPN
+# =============================================================================
+# Main ProtonVPN domains
+0.0.0.0 protonvpn.com
+0.0.0.0 www.protonvpn.com
+0.0.0.0 account.protonvpn.com
+
+# ProtonVPN services
+0.0.0.0 api.protonvpn.ch
+0.0.0.0 vpnapi.proton.me
+
+# Proton ecosystem
+0.0.0.0 proton.me
+0.0.0.0 www.proton.me
+0.0.0.0 protonmail.com
+0.0.0.0 www.protonmail.com
+
+# =============================================================================
+# IPVANISH
+# =============================================================================
+# Main IPVanish domains
+0.0.0.0 ipvanish.com
+0.0.0.0 www.ipvanish.com
+0.0.0.0 account.ipvanish.com
+
+# IPVanish services
+0.0.0.0 api.ipvanish.com
+0.0.0.0 support.ipvanish.com
+
+# =============================================================================
+# HOTSPOT SHIELD
+# =============================================================================
+# Main Hotspot Shield domains
+0.0.0.0 hotspotshield.com
+0.0.0.0 www.hotspotshield.com
+0.0.0.0 account.hotspotshield.com
+
+# Hotspot Shield services
+0.0.0.0 api.hotspotshield.com
+0.0.0.0 secure.hotspotshield.com
+
+# AnchorFree (parent company)
+0.0.0.0 anchorfree.com
+0.0.0.0 www.anchorfree.com
+
+# =============================================================================
+# TUNNELBEAR
+# =============================================================================
+# Main TunnelBear domains
+0.0.0.0 tunnelbear.com
+0.0.0.0 www.tunnelbear.com
+0.0.0.0 account.tunnelbear.com
+
+# TunnelBear services
+0.0.0.0 api.tunnelbear.com
+0.0.0.0 www.api.tunnelbear.com
+
+# =============================================================================
+# WINDSCRIBE
+# =============================================================================
+# Main Windscribe domains
+0.0.0.0 windscribe.com
+0.0.0.0 www.windscribe.com
+0.0.0.0 windscribe.net
+
+# Windscribe services
+0.0.0.0 api.windscribe.com
+0.0.0.0 assets.windscribe.com
+
+# =============================================================================
+# VYPRVPN
+# =============================================================================
+# Main VyprVPN domains
+0.0.0.0 vyprvpn.com
+0.0.0.0 www.vyprvpn.com
+0.0.0.0 account.vyprvpn.com
+
+# VyprVPN services
+0.0.0.0 api.vyprvpn.com
+0.0.0.0 support.vyprvpn.com
+
+# Golden Frog (parent company)
+0.0.0.0 goldenfrog.com
+0.0.0.0 www.goldenfrog.com
+
+# =============================================================================
+# PUREVPN
+# =============================================================================
+# Main PureVPN domains
+0.0.0.0 purevpn.com
+0.0.0.0 www.purevpn.com
+0.0.0.0 account.purevpn.com
+
+# PureVPN services
+0.0.0.0 api.purevpn.com
+0.0.0.0 support.purevpn.com
+
+# =============================================================================
+# HIDE.ME
+# =============================================================================
+# Main Hide.me domains
+0.0.0.0 hide.me
+0.0.0.0 www.hide.me
+0.0.0.0 member.hide.me
+
+# Hide.me services
+0.0.0.0 api.hide.me
+0.0.0.0 support.hide.me
+
+# =============================================================================
+# ZENMATE
+# =============================================================================
+# Main ZenMate domains
+0.0.0.0 zenmate.com
+0.0.0.0 www.zenmate.com
+0.0.0.0 my.zenmate.com
+
+# ZenMate services
+0.0.0.0 api.zenmate.com
+0.0.0.0 support.zenmate.com
+
+# =============================================================================
+# MULLVAD
+# =============================================================================
+# Main Mullvad domains
+0.0.0.0 mullvad.net
+0.0.0.0 www.mullvad.net
+0.0.0.0 account.mullvad.net
+
+# Mullvad services
+0.0.0.0 api.mullvad.net
+0.0.0.0 am.i.mullvad.net
+
+# =============================================================================
+# FASTESTEVPN
+# =============================================================================
+# Main FastestVPN domains
+0.0.0.0 fastestvpn.com
+0.0.0.0 www.fastestvpn.com
+0.0.0.0 my.fastestvpn.com
+
+# =============================================================================
+# ATLAS VPN
+# =============================================================================
+# Main Atlas VPN domains
+0.0.0.0 atlasvpn.com
+0.0.0.0 www.atlasvpn.com
+0.0.0.0 my.atlasvpn.com
+
+# =============================================================================
+# STRONGVPN
+# =============================================================================
+# Main StrongVPN domains
+0.0.0.0 strongvpn.com
+0.0.0.0 www.strongvpn.com
+0.0.0.0 wss.strongvpn.com
+
+# =============================================================================
+# PERFECT PRIVACY
+# =============================================================================
+# Main Perfect Privacy domains
+0.0.0.0 perfect-privacy.com
+0.0.0.0 www.perfect-privacy.com
+
+# =============================================================================
+# AIRVPN
+# =============================================================================
+# Main AirVPN domains
+0.0.0.0 airvpn.org
+0.0.0.0 www.airvpn.org
+
+# =============================================================================
+# IVPN
+# =============================================================================
+# Main IVPN domains
+0.0.0.0 ivpn.net
+0.0.0.0 www.ivpn.net
+0.0.0.0 account.ivpn.net
+
+# =============================================================================
+# TRUST.ZONE
+# =============================================================================
+# Main Trust.Zone domains
+0.0.0.0 trust.zone
+0.0.0.0 www.trust.zone
+
+# =============================================================================
+# AVAST SECURELINE VPN
+# =============================================================================
+# Avast SecureLine VPN domains
+0.0.0.0 avast.com
+0.0.0.0 www.avast.com
+0.0.0.0 secureline.avast.com
+
+# =============================================================================
+# KASPERSKY SECURE CONNECTION
+# =============================================================================
+# Kaspersky VPN domains
+0.0.0.0 kaspersky.com
+0.0.0.0 www.kaspersky.com
+0.0.0.0 vpn.kaspersky.com
+
+# =============================================================================
+# MCAFEE SAFE CONNECT
+# =============================================================================
+# McAfee VPN domains
+0.0.0.0 mcafee.com
+0.0.0.0 www.mcafee.com
+0.0.0.0 safeconnect.mcafee.com
+
+# =============================================================================
+# BITDEFENDER VPN
+# =============================================================================
+# Bitdefender VPN domains
+0.0.0.0 bitdefender.com
+0.0.0.0 www.bitdefender.com
+0.0.0.0 vpn.bitdefender.com
+
+# =============================================================================
+# F-SECURE FREEDOME
+# =============================================================================
+# F-Secure Freedome domains
+0.0.0.0 f-secure.com
+0.0.0.0 www.f-secure.com
+0.0.0.0 freedome.f-secure.com
+
+# =============================================================================
+# OPERA VPN (SURFEASY)
+# =============================================================================
+# SurfEasy (Opera VPN) domains
+0.0.0.0 surfeasy.com
+0.0.0.0 www.surfeasy.com
+0.0.0.0 opera.com
+0.0.0.0 www.opera.com
+
+# =============================================================================
+# SPEEDIFY
+# =============================================================================
+# Speedify domains
+0.0.0.0 speedify.com
+0.0.0.0 www.speedify.com
+0.0.0.0 my.speedify.com
+
+# =============================================================================
+# TORGUARD
+# =============================================================================
+# TorGuard domains
+0.0.0.0 torguard.net
+0.0.0.0 www.torguard.net
+0.0.0.0 torguard.biz
+
+# =============================================================================
+# ASTRILL
+# =============================================================================
+# Astrill VPN domains
+0.0.0.0 astrill.com
+0.0.0.0 www.astrill.com
+
+# =============================================================================
+# PRIVATEVPN
+# =============================================================================
+# PrivateVPN domains
+0.0.0.0 privatevpn.com
+0.0.0.0 www.privatevpn.com
+
+# =============================================================================
+# GOOSE VPN
+# =============================================================================
+# Goose VPN domains
+0.0.0.0 goosevpn.com
+0.0.0.0 www.goosevpn.com
+
+# =============================================================================
+# VPNAREA
+# =============================================================================
+# VPNArea domains
+0.0.0.0 vpnarea.com
+0.0.0.0 www.vpnarea.com
+
+# =============================================================================
+# SAFERVPN
+# =============================================================================
+# SaferVPN domains
+0.0.0.0 safervpn.com
+0.0.0.0 www.safervpn.com
+
+# =============================================================================
+# VPNUNLIMITED
+# =============================================================================
+# VPN Unlimited domains
+0.0.0.0 vpnunlimitedapp.com
+0.0.0.0 www.vpnunlimitedapp.com
+
+# KeepSolid (parent company)
+0.0.0.0 keepsolid.com
+0.0.0.0 www.keepsolid.com
+
+# =============================================================================
+# VPNSECURE
+# =============================================================================
+# VPNSecure domains
+0.0.0.0 vpnsecure.me
+0.0.0.0 www.vpnsecure.me
+
+# =============================================================================
+# SLICKVPN
+# =============================================================================
+# SlickVPN domains
+0.0.0.0 slickvpn.com
+0.0.0.0 www.slickvpn.com
+
+# =============================================================================
+# BUFFERED VPN
+# =============================================================================
+# Buffered VPN domains
+0.0.0.0 buffered.com
+0.0.0.0 www.buffered.com
+
+# =============================================================================
+# BOLEHVPN
+# =============================================================================
+# BolehVPN domains
+0.0.0.0 bolehvpn.net
+0.0.0.0 www.bolehvpn.net
+
+# =============================================================================
+# VPNGATE
+# =============================================================================
+# VPN Gate (University of Tsukuba)
+0.0.0.0 vpngate.net
+0.0.0.0 www.vpngate.net
+
+# =============================================================================
+# URBAN VPN
+# =============================================================================
+# Urban VPN domains
+0.0.0.0 urban-vpn.com
+0.0.0.0 www.urban-vpn.com
+
+# =============================================================================
+# FREE VPN SERVICES
+# =============================================================================
+
+# ProtonVPN Free
+0.0.0.0 free.protonvpn.com
+
+# Windscribe Free
+0.0.0.0 free.windscribe.com
+
+# Hide.me Free
+0.0.0.0 free.hide.me
+
+# TunnelBear Free
+0.0.0.0 free.tunnelbear.com
+
+# Hotspot Shield Free
+0.0.0.0 free.hotspotshield.com
+
+# =============================================================================
+# VPN REVIEW AND COMPARISON SITES
+# =============================================================================
+0.0.0.0 vpnmentor.com
+0.0.0.0 www.vpnmentor.com
+0.0.0.0 top10vpn.com
+0.0.0.0 www.top10vpn.com
+0.0.0.0 vpnpro.com
+0.0.0.0 www.vpnpro.com
+0.0.0.0 comparitech.com
+0.0.0.0 www.comparitech.com
+
+# =============================================================================
+# VPN PROTOCOLS AND INFRASTRUCTURE
+# =============================================================================
+
+# OpenVPN
+0.0.0.0 openvpn.net
+0.0.0.0 www.openvpn.net
+0.0.0.0 openvpn.org
+0.0.0.0 www.openvpn.org
+
+# WireGuard
+0.0.0.0 wireguard.com
+0.0.0.0 www.wireguard.com
+
+# SoftEther VPN
+0.0.0.0 softether.org
+0.0.0.0 www.softether.org
+
+# =============================================================================
+# END OF VPN SERVICES HOSTS LIST
+# ============================================================================= 

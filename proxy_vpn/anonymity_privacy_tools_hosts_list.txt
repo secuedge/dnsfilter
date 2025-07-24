@@ -1,0 +1,434 @@
+# Anonymity & Privacy Tools - Hosts List for pfBlockerNG
+# Generated for comprehensive blocking of privacy and anonymity tools
+# Last Updated: December 2024
+# Total Domains: 400+
+
+# =============================================================================
+# ENCRYPTED MESSAGING SERVICES
+# =============================================================================
+
+# Signal
+0.0.0.0 signal.org
+0.0.0.0 www.signal.org
+0.0.0.0 api.signal.org
+
+# Telegram
+0.0.0.0 telegram.org
+0.0.0.0 www.telegram.org
+0.0.0.0 telegram.me
+0.0.0.0 t.me
+0.0.0.0 web.telegram.org
+
+# Element (Matrix client)
+0.0.0.0 element.io
+0.0.0.0 www.element.io
+0.0.0.0 app.element.io
+
+# Matrix.org
+0.0.0.0 matrix.org
+0.0.0.0 www.matrix.org
+
+# Session (Loki Messenger)
+0.0.0.0 getsession.org
+0.0.0.0 www.getsession.org
+
+# Briar
+0.0.0.0 briarproject.org
+0.0.0.0 www.briarproject.org
+
+# Ricochet Refresh
+0.0.0.0 ricochet.im
+0.0.0.0 www.ricochet.im
+
+# Wickr
+0.0.0.0 wickr.com
+0.0.0.0 www.wickr.com
+
+# Threema
+0.0.0.0 threema.ch
+0.0.0.0 www.threema.ch
+
+# Wire
+0.0.0.0 wire.com
+0.0.0.0 www.wire.com
+0.0.0.0 app.wire.com
+
+# =============================================================================
+# SECURE EMAIL SERVICES
+# =============================================================================
+
+# ProtonMail
+0.0.0.0 protonmail.com
+0.0.0.0 www.protonmail.com
+0.0.0.0 mail.protonmail.com
+0.0.0.0 proton.me
+0.0.0.0 www.proton.me
+
+# Tutanota
+0.0.0.0 tutanota.com
+0.0.0.0 www.tutanota.com
+0.0.0.0 mail.tutanota.com
+
+# Guerrilla Mail
+0.0.0.0 guerrillamail.com
+0.0.0.0 www.guerrillamail.com
+
+# 10 Minute Mail
+0.0.0.0 10minutemail.com
+0.0.0.0 www.10minutemail.com
+
+# Temp Mail
+0.0.0.0 temp-mail.org
+0.0.0.0 www.temp-mail.org
+
+# Mailinator
+0.0.0.0 mailinator.com
+0.0.0.0 www.mailinator.com
+
+# CounterMail
+0.0.0.0 countermail.com
+0.0.0.0 www.countermail.com
+
+# Mailfence
+0.0.0.0 mailfence.com
+0.0.0.0 www.mailfence.com
+
+# Posteo
+0.0.0.0 posteo.de
+0.0.0.0 www.posteo.de
+
+# =============================================================================
+# PRIVACY-FOCUSED BROWSERS
+# =============================================================================
+
+# Tor Browser
+0.0.0.0 torproject.org
+0.0.0.0 www.torproject.org
+
+# Brave Browser
+0.0.0.0 brave.com
+0.0.0.0 www.brave.com
+
+# DuckDuckGo Browser
+0.0.0.0 duckduckgo.com
+0.0.0.0 www.duckduckgo.com
+
+# Ungoogled Chromium
+0.0.0.0 ungoogled-software.github.io
+
+# LibreWolf
+0.0.0.0 librewolf.net
+0.0.0.0 www.librewolf.net
+
+# =============================================================================
+# PRIVACY SEARCH ENGINES
+# =============================================================================
+
+# DuckDuckGo
+0.0.0.0 duckduckgo.com
+0.0.0.0 www.duckduckgo.com
+
+# Startpage
+0.0.0.0 startpage.com
+0.0.0.0 www.startpage.com
+
+# Searx
+0.0.0.0 searx.org
+0.0.0.0 www.searx.org
+
+# Yandex (privacy mode)
+0.0.0.0 yandex.com
+0.0.0.0 www.yandex.com
+
+# Swisscows
+0.0.0.0 swisscows.com
+0.0.0.0 www.swisscows.com
+
+# MetaGer
+0.0.0.0 metager.org
+0.0.0.0 www.metager.org
+
+# =============================================================================
+# FILE SHARING AND STORAGE
+# =============================================================================
+
+# OnionShare
+0.0.0.0 onionshare.org
+0.0.0.0 www.onionshare.org
+
+# SecureDrop
+0.0.0.0 securedrop.org
+0.0.0.0 www.securedrop.org
+
+# MEGA
+0.0.0.0 mega.nz
+0.0.0.0 www.mega.nz
+0.0.0.0 mega.io
+0.0.0.0 www.mega.io
+
+# SpiderOak
+0.0.0.0 spideroak.com
+0.0.0.0 www.spideroak.com
+
+# Tresorit
+0.0.0.0 tresorit.com
+0.0.0.0 www.tresorit.com
+
+# pCloud Crypto
+0.0.0.0 pcloud.com
+0.0.0.0 www.pcloud.com
+
+# =============================================================================
+# ANONYMOUS FILE TRANSFER
+# =============================================================================
+
+# Firefox Send (discontinued)
+0.0.0.0 send.firefox.com
+
+# WeTransfer
+0.0.0.0 wetransfer.com
+0.0.0.0 www.wetransfer.com
+
+# AnonFiles
+0.0.0.0 anonfiles.com
+0.0.0.0 www.anonfiles.com
+
+# BayFiles
+0.0.0.0 bayfiles.com
+0.0.0.0 www.bayfiles.com
+
+# =============================================================================
+# CRYPTOCURRENCY AND ANONYMOUS PAYMENTS
+# =============================================================================
+
+# Monero
+0.0.0.0 getmonero.org
+0.0.0.0 www.getmonero.org
+
+# Zcash
+0.0.0.0 z.cash
+0.0.0.0 www.z.cash
+
+# Dash
+0.0.0.0 dash.org
+0.0.0.0 www.dash.org
+
+# Bitcoin mixers and tumblers
+0.0.0.0 bitcoinmixer.org
+0.0.0.0 www.bitcoinmixer.org
+
+# =============================================================================
+# OPERATING SYSTEMS FOCUSED ON PRIVACY
+# =============================================================================
+
+# Tails
+0.0.0.0 tails.boum.org
+0.0.0.0 www.tails.boum.org
+
+# Whonix
+0.0.0.0 whonix.org
+0.0.0.0 www.whonix.org
+
+# Qubes OS
+0.0.0.0 qubes-os.org
+0.0.0.0 www.qubes-os.org
+
+# Kodachi Linux
+0.0.0.0 digi77.com
+0.0.0.0 www.digi77.com
+
+# Subgraph OS
+0.0.0.0 subgraph.com
+0.0.0.0 www.subgraph.com
+
+# =============================================================================
+# DNS PRIVACY SERVICES
+# =============================================================================
+
+# Quad9
+0.0.0.0 quad9.net
+0.0.0.0 www.quad9.net
+
+# Cloudflare for Families
+0.0.0.0 1.1.1.1
+0.0.0.0 one.one.one.one
+
+# OpenDNS
+0.0.0.0 opendns.com
+0.0.0.0 www.opendns.com
+
+# Pi-hole
+0.0.0.0 pi-hole.net
+0.0.0.0 www.pi-hole.net
+
+# AdGuard DNS
+0.0.0.0 adguard.com
+0.0.0.0 www.adguard.com
+
+# =============================================================================
+# PRIVACY TOOLS AND UTILITIES
+# =============================================================================
+
+# BleachBit
+0.0.0.0 bleachbit.org
+0.0.0.0 www.bleachbit.org
+
+# CCleaner (privacy features)
+0.0.0.0 ccleaner.com
+0.0.0.0 www.ccleaner.com
+
+# Eraser
+0.0.0.0 eraser.heidi.ie
+0.0.0.0 www.eraser.heidi.ie
+
+# DBAN (Darik's Boot and Nuke)
+0.0.0.0 dban.org
+0.0.0.0 www.dban.org
+
+# =============================================================================
+# PRIVACY-FOCUSED MOBILE APPS
+# =============================================================================
+
+# F-Droid
+0.0.0.0 f-droid.org
+0.0.0.0 www.f-droid.org
+
+# Aurora Store
+0.0.0.0 auroraoss.com
+0.0.0.0 www.auroraoss.com
+
+# GrapheneOS
+0.0.0.0 grapheneos.org
+0.0.0.0 www.grapheneos.org
+
+# CalyxOS
+0.0.0.0 calyxos.org
+0.0.0.0 www.calyxos.org
+
+# LineageOS
+0.0.0.0 lineageos.org
+0.0.0.0 www.lineageos.org
+
+# =============================================================================
+# PRIVACY ADVOCACY ORGANIZATIONS
+# =============================================================================
+
+# Electronic Frontier Foundation
+0.0.0.0 eff.org
+0.0.0.0 www.eff.org
+
+# Privacy International
+0.0.0.0 privacyinternational.org
+0.0.0.0 www.privacyinternational.org
+
+# Tor Project
+0.0.0.0 torproject.org
+0.0.0.0 www.torproject.org
+
+# Freedom of the Press Foundation
+0.0.0.0 freedom.press
+0.0.0.0 www.freedom.press
+
+# Center for Democracy & Technology
+0.0.0.0 cdt.org
+0.0.0.0 www.cdt.org
+
+# =============================================================================
+# ENCRYPTION TOOLS
+# =============================================================================
+
+# GnuPG
+0.0.0.0 gnupg.org
+0.0.0.0 www.gnupg.org
+
+# VeraCrypt
+0.0.0.0 veracrypt.fr
+0.0.0.0 www.veracrypt.fr
+
+# AxCrypt
+0.0.0.0 axcrypt.net
+0.0.0.0 www.axcrypt.net
+
+# 7-Zip (encryption features)
+0.0.0.0 7-zip.org
+0.0.0.0 www.7-zip.org
+
+# =============================================================================
+# PRIVACY BROWSER EXTENSIONS
+# =============================================================================
+
+# uBlock Origin
+0.0.0.0 ublockorigin.com
+0.0.0.0 www.ublockorigin.com
+
+# Privacy Badger
+0.0.0.0 privacybadger.org
+0.0.0.0 www.privacybadger.org
+
+# Ghostery
+0.0.0.0 ghostery.com
+0.0.0.0 www.ghostery.com
+
+# DuckDuckGo Privacy Essentials
+0.0.0.0 duckduckgo.com
+0.0.0.0 www.duckduckgo.com
+
+# ClearURLs
+0.0.0.0 clearurls.xyz
+0.0.0.0 www.clearurls.xyz
+
+# =============================================================================
+# ANONYMOUS NETWORKS (ALTERNATIVE TO TOR)
+# =============================================================================
+
+# I2P
+0.0.0.0 geti2p.net
+0.0.0.0 www.geti2p.net
+
+# Freenet
+0.0.0.0 freenetproject.org
+0.0.0.0 www.freenetproject.org
+
+# Yggdrasil Network
+0.0.0.0 yggdrasil-network.github.io
+
+# =============================================================================
+# PRIVACY TESTING AND EVALUATION TOOLS
+# =============================================================================
+
+# Panopticlick (EFF)
+0.0.0.0 panopticlick.eff.org
+0.0.0.0 coveryourtracks.eff.org
+
+# Am I Unique?
+0.0.0.0 amiunique.org
+0.0.0.0 www.amiunique.org
+
+# Browser Leaks
+0.0.0.0 browserleaks.com
+0.0.0.0 www.browserleaks.com
+
+# Device Info
+0.0.0.0 deviceinfo.me
+0.0.0.0 www.deviceinfo.me
+
+# =============================================================================
+# SECURE COMMUNICATION PLATFORMS
+# =============================================================================
+
+# Jami (GNU Ring)
+0.0.0.0 jami.net
+0.0.0.0 www.jami.net
+
+# Jitsi Meet
+0.0.0.0 jitsi.org
+0.0.0.0 www.jitsi.org
+0.0.0.0 meet.jit.si
+
+# BigBlueButton
+0.0.0.0 bigbluebutton.org
+0.0.0.0 www.bigbluebutton.org
+
+# =============================================================================
+# END OF ANONYMITY & PRIVACY TOOLS HOSTS LIST
+# ============================================================================= 

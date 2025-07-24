@@ -1,0 +1,383 @@
+# YTS (YIFY) - Movie Torrents Site (Comprehensive Block List)
+# Main domains
+0.0.0.0 yts.mx
+0.0.0.0 www.yts.mx
+0.0.0.0 yts.lt
+0.0.0.0 www.yts.lt
+0.0.0.0 yts.am
+0.0.0.0 www.yts.am
+0.0.0.0 yts.ag
+0.0.0.0 www.yts.ag
+
+# YIFY branded domains
+0.0.0.0 yify.mx
+0.0.0.0 www.yify.mx
+0.0.0.0 yify.lt
+0.0.0.0 www.yify.lt
+0.0.0.0 yify.am
+0.0.0.0 www.yify.am
+0.0.0.0 yify.ag
+0.0.0.0 www.yify.ag
+
+# Historical and alternative domains
+0.0.0.0 yts.to
+0.0.0.0 www.yts.to
+0.0.0.0 yts.re
+0.0.0.0 www.yts.re
+0.0.0.0 yts.pe
+0.0.0.0 www.yts.pe
+0.0.0.0 yts.ch
+0.0.0.0 www.yts.ch
+0.0.0.0 yts.rs
+0.0.0.0 www.yts.rs
+
+# Mobile and app domains
+0.0.0.0 m.yts.mx
+0.0.0.0 mobile.yts.mx
+0.0.0.0 app.yts.mx
+0.0.0.0 api.yts.mx
+
+# Common subdomain variations
+0.0.0.0 search.yts.mx
+0.0.0.0 browse.yts.mx
+0.0.0.0 movies.yts.mx
+0.0.0.0 films.yts.mx
+0.0.0.0 download.yts.mx
+0.0.0.0 torrent.yts.mx
+0.0.0.0 magnet.yts.mx
+0.0.0.0 trending.yts.mx
+0.0.0.0 popular.yts.mx
+0.0.0.0 latest.yts.mx
+0.0.0.0 new.yts.mx
+0.0.0.0 recent.yts.mx
+
+# Static content and CDN
+0.0.0.0 static.yts.mx
+0.0.0.0 cdn.yts.mx
+0.0.0.0 assets.yts.mx
+0.0.0.0 img.yts.mx
+0.0.0.0 images.yts.mx
+0.0.0.0 thumbs.yts.mx
+0.0.0.0 covers.yts.mx
+0.0.0.0 posters.yts.mx
+
+# User and community features
+0.0.0.0 user.yts.mx
+0.0.0.0 profile.yts.mx
+0.0.0.0 account.yts.mx
+0.0.0.0 login.yts.mx
+0.0.0.0 register.yts.mx
+0.0.0.0 upload.yts.mx
+
+# RSS and feeds
+0.0.0.0 rss.yts.mx
+0.0.0.0 feed.yts.mx
+0.0.0.0 feeds.yts.mx
+
+# Administrative and backend
+0.0.0.0 admin.yts.mx
+0.0.0.0 beta.yts.mx
+0.0.0.0 test.yts.mx
+0.0.0.0 dev.yts.mx
+0.0.0.0 staging.yts.mx
+
+# Help and support
+0.0.0.0 help.yts.mx
+0.0.0.0 support.yts.mx
+0.0.0.0 faq.yts.mx
+0.0.0.0 about.yts.mx
+0.0.0.0 contact.yts.mx
+
+# Quality variations (YTS specialty)
+0.0.0.0 720p.yts.mx
+0.0.0.0 1080p.yts.mx
+0.0.0.0 bluray.yts.mx
+0.0.0.0 webrip.yts.mx
+0.0.0.0 brrip.yts.mx
+0.0.0.0 hdrip.yts.mx
+0.0.0.0 dvdrip.yts.mx
+
+# Common TLD variations
+0.0.0.0 yts.org
+0.0.0.0 www.yts.org
+0.0.0.0 yts.com
+0.0.0.0 www.yts.com
+0.0.0.0 yts.net
+0.0.0.0 www.yts.net
+0.0.0.0 yts.info
+0.0.0.0 www.yts.info
+0.0.0.0 yts.biz
+0.0.0.0 www.yts.biz
+0.0.0.0 yts.me
+0.0.0.0 www.yts.me
+0.0.0.0 yts.tv
+0.0.0.0 www.yts.tv
+0.0.0.0 yts.cc
+0.0.0.0 www.yts.cc
+0.0.0.0 yts.io
+0.0.0.0 www.yts.io
+
+# YIFY variations
+0.0.0.0 yify.org
+0.0.0.0 www.yify.org
+0.0.0.0 yify.com
+0.0.0.0 www.yify.com
+0.0.0.0 yify.net
+0.0.0.0 www.yify.net
+0.0.0.0 yify.info
+0.0.0.0 www.yify.info
+0.0.0.0 yify.biz
+0.0.0.0 www.yify.biz
+0.0.0.0 yify.me
+0.0.0.0 www.yify.me
+0.0.0.0 yify.tv
+0.0.0.0 www.yify.tv
+0.0.0.0 yify.cc
+0.0.0.0 www.yify.cc
+0.0.0.0 yify.io
+0.0.0.0 www.yify.io
+0.0.0.0 yify.to
+0.0.0.0 www.yify.to
+0.0.0.0 yify.re
+0.0.0.0 www.yify.re
+0.0.0.0 yify.pe
+0.0.0.0 www.yify.pe
+0.0.0.0 yify.ch
+0.0.0.0 www.yify.ch
+0.0.0.0 yify.rs
+0.0.0.0 www.yify.rs
+
+# Proxy and mirror variations
+0.0.0.0 ytsmirror.com
+0.0.0.0 www.ytsmirror.com
+0.0.0.0 ytsproxy.com
+0.0.0.0 www.ytsproxy.com
+0.0.0.0 ytsunblocked.com
+0.0.0.0 www.ytsunblocked.com
+0.0.0.0 ytsunblocker.com
+0.0.0.0 www.ytsunblocker.com
+
+# Alternative naming conventions
+0.0.0.0 ytstorrent.com
+0.0.0.0 www.ytstorrent.com
+0.0.0.0 ytstorrents.com
+0.0.0.0 www.ytstorrents.com
+0.0.0.0 ytsmovies.com
+0.0.0.0 www.ytsmovies.com
+0.0.0.0 yifyfilms.com
+0.0.0.0 www.yifyfilms.com
+0.0.0.0 yifymovies.com
+0.0.0.0 www.yifymovies.com
+0.0.0.0 yifytorrent.com
+0.0.0.0 www.yifytorrent.com
+0.0.0.0 yifytorrents.com
+0.0.0.0 www.yifytorrents.com
+
+# Country-specific domains
+0.0.0.0 yts.us
+0.0.0.0 www.yts.us
+0.0.0.0 yts.uk
+0.0.0.0 www.yts.uk
+0.0.0.0 yts.eu
+0.0.0.0 www.yts.eu
+0.0.0.0 yts.ca
+0.0.0.0 www.yts.ca
+0.0.0.0 yts.au
+0.0.0.0 www.yts.au
+0.0.0.0 yts.de
+0.0.0.0 www.yts.de
+0.0.0.0 yts.fr
+0.0.0.0 www.yts.fr
+0.0.0.0 yts.it
+0.0.0.0 www.yts.it
+0.0.0.0 yts.es
+0.0.0.0 www.yts.es
+0.0.0.0 yts.nl
+0.0.0.0 www.yts.nl
+0.0.0.0 yts.be
+0.0.0.0 www.yts.be
+0.0.0.0 yts.se
+0.0.0.0 www.yts.se
+0.0.0.0 yts.no
+0.0.0.0 www.yts.no
+0.0.0.0 yts.dk
+0.0.0.0 www.yts.dk
+0.0.0.0 yts.fi
+0.0.0.0 www.yts.fi
+0.0.0.0 yts.pl
+0.0.0.0 www.yts.pl
+0.0.0.0 yts.cz
+0.0.0.0 www.yts.cz
+0.0.0.0 yts.hu
+0.0.0.0 www.yts.hu
+0.0.0.0 yts.ru
+0.0.0.0 www.yts.ru
+0.0.0.0 yts.jp
+0.0.0.0 www.yts.jp
+0.0.0.0 yts.kr
+0.0.0.0 www.yts.kr
+0.0.0.0 yts.cn
+0.0.0.0 www.yts.cn
+0.0.0.0 yts.in
+0.0.0.0 www.yts.in
+0.0.0.0 yts.br
+0.0.0.0 www.yts.br
+0.0.0.0 yts.mx
+0.0.0.0 www.yts.mx
+0.0.0.0 yts.ar
+0.0.0.0 www.yts.ar
+
+# New generic TLD variations
+0.0.0.0 yts.movie
+0.0.0.0 www.yts.movie
+0.0.0.0 yts.film
+0.0.0.0 www.yts.film
+0.0.0.0 yts.video
+0.0.0.0 www.yts.video
+0.0.0.0 yts.media
+0.0.0.0 www.yts.media
+0.0.0.0 yts.download
+0.0.0.0 www.yts.download
+0.0.0.0 yts.torrent
+0.0.0.0 www.yts.torrent
+0.0.0.0 yts.online
+0.0.0.0 www.yts.online
+0.0.0.0 yts.site
+0.0.0.0 www.yts.site
+0.0.0.0 yts.web
+0.0.0.0 www.yts.web
+0.0.0.0 yts.live
+0.0.0.0 www.yts.live
+0.0.0.0 yts.stream
+0.0.0.0 www.yts.stream
+0.0.0.0 yts.click
+0.0.0.0 www.yts.click
+0.0.0.0 yts.link
+0.0.0.0 www.yts.link
+0.0.0.0 yts.today
+0.0.0.0 www.yts.today
+0.0.0.0 yts.now
+0.0.0.0 www.yts.now
+0.0.0.0 yts.here
+0.0.0.0 www.yts.here
+0.0.0.0 yts.free
+0.0.0.0 www.yts.free
+0.0.0.0 yts.top
+0.0.0.0 www.yts.top
+0.0.0.0 yts.best
+0.0.0.0 www.yts.best
+0.0.0.0 yts.new
+0.0.0.0 www.yts.new
+0.0.0.0 yts.pro
+0.0.0.0 www.yts.pro
+0.0.0.0 yts.plus
+0.0.0.0 www.yts.plus
+0.0.0.0 yts.vip
+0.0.0.0 www.yts.vip
+0.0.0.0 yts.premium
+0.0.0.0 www.yts.premium
+0.0.0.0 yts.gold
+0.0.0.0 www.yts.gold
+0.0.0.0 yts.super
+0.0.0.0 www.yts.super
+0.0.0.0 yts.ultra
+0.0.0.0 www.yts.ultra
+0.0.0.0 yts.max
+0.0.0.0 www.yts.max
+0.0.0.0 yts.mega
+0.0.0.0 www.yts.mega
+0.0.0.0 yts.fast
+0.0.0.0 www.yts.fast
+0.0.0.0 yts.quick
+0.0.0.0 www.yts.quick
+0.0.0.0 yts.instant
+0.0.0.0 www.yts.instant
+0.0.0.0 yts.direct
+0.0.0.0 www.yts.direct
+0.0.0.0 yts.easy
+0.0.0.0 www.yts.easy
+0.0.0.0 yts.simple
+0.0.0.0 www.yts.simple
+0.0.0.0 yts.smart
+0.0.0.0 www.yts.smart
+0.0.0.0 yts.cool
+0.0.0.0 www.yts.cool
+0.0.0.0 yts.fun
+0.0.0.0 www.yts.fun
+0.0.0.0 yts.hot
+0.0.0.0 www.yts.hot
+0.0.0.0 yts.fire
+0.0.0.0 www.yts.fire
+0.0.0.0 yts.win
+0.0.0.0 www.yts.win
+0.0.0.0 yts.star
+0.0.0.0 www.yts.star
+0.0.0.0 yts.world
+0.0.0.0 www.yts.world
+0.0.0.0 yts.global
+0.0.0.0 www.yts.global
+0.0.0.0 yts.network
+0.0.0.0 www.yts.network
+0.0.0.0 yts.cloud
+0.0.0.0 www.yts.cloud
+0.0.0.0 yts.host
+0.0.0.0 www.yts.host
+0.0.0.0 yts.space
+0.0.0.0 www.yts.space
+0.0.0.0 yts.zone
+0.0.0.0 www.yts.zone
+
+# Alternative spellings and typos
+0.0.0.0 yify.movie
+0.0.0.0 www.yify.movie
+0.0.0.0 yify.film
+0.0.0.0 www.yify.film
+0.0.0.0 yify.video
+0.0.0.0 www.yify.video
+0.0.0.0 yify.media
+0.0.0.0 www.yify.media
+0.0.0.0 yify.download
+0.0.0.0 www.yify.download
+0.0.0.0 yify.torrent
+0.0.0.0 www.yify.torrent
+0.0.0.0 yify.online
+0.0.0.0 www.yify.online
+0.0.0.0 yify.site
+0.0.0.0 www.yify.site
+0.0.0.0 yify.web
+0.0.0.0 www.yify.web
+0.0.0.0 yify.live
+0.0.0.0 www.yify.live
+0.0.0.0 yify.stream
+0.0.0.0 www.yify.stream
+0.0.0.0 yify.top
+0.0.0.0 www.yify.top
+0.0.0.0 yify.best
+0.0.0.0 www.yify.best
+0.0.0.0 yify.free
+0.0.0.0 www.yify.free
+0.0.0.0 yify.pro
+0.0.0.0 www.yify.pro
+0.0.0.0 yify.vip
+0.0.0.0 www.yify.vip
+0.0.0.0 yify.world
+0.0.0.0 www.yify.world
+
+# Common misspellings
+0.0.0.0 yts.m
+0.0.0.0 yts.mz
+0.0.0.0 yts.mx.com
+0.0.0.0 ytsmx.com
+0.0.0.0 www.ytsmx.com
+0.0.0.0 yts-mx.com
+0.0.0.0 www.yts-mx.com
+0.0.0.0 yts_mx.com
+0.0.0.0 www.yts_mx.com
+
+# Number variations
+0.0.0.0 yts1.mx
+0.0.0.0 www.yts1.mx
+0.0.0.0 yts2.mx
+0.0.0.0 www.yts2.mx
+0.0.0.0 yts3.mx
+0.0.0.0 www.yts3.mx 

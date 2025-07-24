@@ -1,0 +1,280 @@
+
+# =============================================================================
+# PLAYSTATION NETWORK (SONY)
+# =============================================================================
+# Main PlayStation domains
+0.0.0.0 playstation.com
+0.0.0.0 www.playstation.com
+0.0.0.0 store.playstation.com
+0.0.0.0 account.sonyentertainmentnetwork.com
+
+# PlayStation Network services
+0.0.0.0 sonyentertainmentnetwork.com
+0.0.0.0 www.sonyentertainmentnetwork.com
+0.0.0.0 auth.api.sonyentertainmentnetwork.com
+0.0.0.0 auth.api.np.ac.playstation.net
+
+# PlayStation Network APIs
+0.0.0.0 pl.playstation.net
+0.0.0.0 us-prof.np.community.playstation.net
+0.0.0.0 eu-prof.np.community.playstation.net
+0.0.0.0 asia-prof.np.community.playstation.net
+
+# PlayStation Store
+0.0.0.0 web.np.playstation.net
+0.0.0.0 commerce.api.playstation.com
+0.0.0.0 web.np.playstation.com
+
+# PlayStation Now (cloud gaming)
+0.0.0.0 playstationow.com
+0.0.0.0 www.playstationow.com
+0.0.0.0 psnow.playstation.com
+
+# PlayStation Plus
+0.0.0.0 playstationplus.com
+0.0.0.0 www.playstationplus.com
+
+# PlayStation CDN and downloads
+0.0.0.0 gs2.ww.prod.dl.playstation.net
+0.0.0.0 zeus.dl.playstation.net
+0.0.0.0 apollo.dl.playstation.net
+0.0.0.0 ares.dl.playstation.net
+
+# PlayStation system updates
+0.0.0.0 dus01.ps4.update.playstation.net
+0.0.0.0 gs2.ps5.update.playstation.net
+
+# PlayStation authentication and account
+0.0.0.0 signin.playstation.com
+0.0.0.0 ca.account.sony.com
+0.0.0.0 musicservices.playstation.com
+
+# PlayStation messaging and social
+0.0.0.0 us-gmsg.np.community.playstation.net
+0.0.0.0 eu-gmsg.np.community.playstation.net
+0.0.0.0 asia-gmsg.np.community.playstation.net
+
+# PlayStation support
+0.0.0.0 support.playstation.com
+0.0.0.0 www.support.playstation.com
+
+# =============================================================================
+# XBOX LIVE (MICROSOFT)
+# =============================================================================
+# Main Xbox domains
+0.0.0.0 xbox.com
+0.0.0.0 www.xbox.com
+0.0.0.0 live.xbox.com
+0.0.0.0 account.xbox.com
+
+# Xbox Live services
+0.0.0.0 xboxlive.com
+0.0.0.0 www.xboxlive.com
+0.0.0.0 api.xboxlive.com
+0.0.0.0 cert.xboxlive.com
+
+# Microsoft Store for Xbox
+0.0.0.0 microsoft.com
+0.0.0.0 www.microsoft.com
+0.0.0.0 login.microsoftonline.com
+0.0.0.0 login.live.com
+
+# Xbox Game Pass
+0.0.0.0 gamepass.com
+0.0.0.0 www.gamepass.com
+0.0.0.0 xboxgamepass.com
+0.0.0.0 www.xboxgamepass.com
+
+# Xbox CDN and downloads
+0.0.0.0 assets1.xboxlive.com
+0.0.0.0 assets2.xboxlive.com
+0.0.0.0 images-eds.xboxlive.com
+0.0.0.0 titlehub.xboxlive.com
+
+# Xbox system services
+0.0.0.0 xnotify.xboxlive.com
+0.0.0.0 xsts.auth.xboxlive.com
+0.0.0.0 user.auth.xboxlive.com
+0.0.0.0 device.auth.xboxlive.com
+
+# Xbox achievements and profiles
+0.0.0.0 profile.xboxlive.com
+0.0.0.0 achievements.xboxlive.com
+0.0.0.0 social.xboxlive.com
+
+# Xbox multiplayer and networking
+0.0.0.0 sessiondirectory.xboxlive.com
+0.0.0.0 multiplayer.xboxlive.com
+0.0.0.0 smartmatch.xboxlive.com
+
+# Xbox support and community
+0.0.0.0 support.xbox.com
+0.0.0.0 www.support.xbox.com
+0.0.0.0 enforcement.xbox.com
+
+# Windows Gaming (Xbox integration)
+0.0.0.0 gaming.xbox.com
+0.0.0.0 www.gaming.xbox.com
+
+# =============================================================================
+# NINTENDO ESHOP AND NINTENDO NETWORK
+# =============================================================================
+# Main Nintendo domains
+0.0.0.0 nintendo.com
+0.0.0.0 www.nintendo.com
+0.0.0.0 nintendo.net
+0.0.0.0 www.nintendo.net
+
+# Nintendo eShop
+0.0.0.0 eshop.nintendo.net
+0.0.0.0 www.eshop.nintendo.net
+0.0.0.0 ec.nintendo.com
+0.0.0.0 api.ec.nintendo.com
+
+# Nintendo Account services
+0.0.0.0 accounts.nintendo.com
+0.0.0.0 api.accounts.nintendo.com
+0.0.0.0 web.archive.nintendo.net
+
+# Nintendo Switch Online
+0.0.0.0 nintendoswitchonline.com
+0.0.0.0 www.nintendoswitchonline.com
+
+# Nintendo network services
+0.0.0.0 nncs1.app.nintendo.net
+0.0.0.0 nncs2.app.nintendo.net
+0.0.0.0 npns-dev.nintendo.net
+
+# Nintendo system updates and downloads
+0.0.0.0 sun.hac.lp1.d4c.nintendo.net
+0.0.0.0 aqua.hac.lp1.d4c.nintendo.net
+0.0.0.0 atum.hac.lp1.d4c.nintendo.net
+
+# Nintendo game services
+0.0.0.0 api.lp1.av5ja.srv.nintendo.net
+0.0.0.0 app.lp1.five.nintendo.net
+0.0.0.0 bcat-topics-lp1.cdn.nintendo.net
+
+# Nintendo telemetry and analytics
+0.0.0.0 receive-lp1.dg.srv.nintendo.net
+0.0.0.0 dc.services.nintendo.net
+
+# Nintendo support
+0.0.0.0 support.nintendo.com
+0.0.0.0 www.support.nintendo.com
+0.0.0.0 en-americas-support.nintendo.com
+
+# =============================================================================
+# STEAM DECK AND VALVE CONSOLE GAMING
+# =============================================================================
+# Steam Deck specific services
+0.0.0.0 steamdeck.com
+0.0.0.0 www.steamdeck.com
+0.0.0.0 store.steampowered.com/steamdeck
+
+# SteamOS updates
+0.0.0.0 steamos.org
+0.0.0.0 www.steamos.org
+
+# =============================================================================
+# LEGACY CONSOLE SERVICES
+# =============================================================================
+# PlayStation Portable (PSP) / PlayStation Vita
+0.0.0.0 commerce.api.playstation.com
+0.0.0.0 psp.update.playstation.net
+0.0.0.0 vita.update.playstation.net
+
+# Nintendo 3DS / Wii U (legacy)
+0.0.0.0 nintendowifi.net
+0.0.0.0 www.nintendowifi.net
+0.0.0.0 conntest.nintendowifi.net
+
+# Xbox 360 (legacy services)
+0.0.0.0 xbox360.com
+0.0.0.0 www.xbox360.com
+
+# =============================================================================
+# MOBILE GAMING CONSOLES
+# =============================================================================
+# Steam Deck
+0.0.0.0 client-download.steampowered.com
+0.0.0.0 repo.steampowered.com
+
+# Nintendo Switch Lite specific
+0.0.0.0 lp1.srv.nintendo.net
+
+# =============================================================================
+# CONSOLE GAMING COMMUNITIES AND SOCIAL
+# =============================================================================
+# PlayStation Community
+0.0.0.0 my.playstation.com
+0.0.0.0 www.my.playstation.com
+0.0.0.0 friends.sonyentertainmentnetwork.com
+
+# Xbox Community
+0.0.0.0 xbox.uservoice.com
+0.0.0.0 www.xbox.uservoice.com
+0.0.0.0 gamercard.xbox.com
+
+# Nintendo Community
+0.0.0.0 miiverse.nintendo.net
+0.0.0.0 www.miiverse.nintendo.net
+
+# =============================================================================
+# CONSOLE GAME STREAMING AND REMOTE PLAY
+# =============================================================================
+# PlayStation Remote Play
+0.0.0.0 remoteplay.dl.playstation.net
+0.0.0.0 stun.playstation.net
+
+# Xbox Remote Play / xCloud
+0.0.0.0 xcloud.microsoft.com
+0.0.0.0 www.xcloud.microsoft.com
+
+# =============================================================================
+# CONSOLE PAYMENT AND WALLET SERVICES
+# =============================================================================
+# PlayStation wallet
+0.0.0.0 wallet.dl.playstation.net
+0.0.0.0 commerce.api.playstation.com
+
+# Xbox payments
+0.0.0.0 commerce.microsoft.com
+0.0.0.0 account.microsoft.com
+
+# Nintendo payments
+0.0.0.0 npfl.c.app.nintendo.net
+
+# =============================================================================
+# CONSOLE GAME RATINGS AND CONTENT
+# =============================================================================
+# ESRB (Entertainment Software Rating Board)
+0.0.0.0 esrb.org
+0.0.0.0 www.esrb.org
+
+# PEGI (Pan European Game Information)
+0.0.0.0 pegi.info
+0.0.0.0 www.pegi.info
+
+# CERO (Computer Entertainment Rating Organization - Japan)
+0.0.0.0 cero.gr.jp
+0.0.0.0 www.cero.gr.jp
+
+# =============================================================================
+# CONSOLE ACCESSORIES AND HARDWARE SUPPORT
+# =============================================================================
+# PlayStation accessories
+0.0.0.0 dm.dl.playstation.net
+0.0.0.0 fus01.psp2.update.playstation.net
+
+# Xbox accessories
+0.0.0.0 device.auth.xboxlive.com
+0.0.0.0 licensing.xboxlive.com
+
+# Nintendo accessories
+0.0.0.0 nppl.c.app.nintendo.net
+0.0.0.0 dragons.hac.lp1.dragons.nintendo.net
+
+# =============================================================================
+# END OF CONSOLE GAMING HOSTS LIST
+# ============================================================================= 

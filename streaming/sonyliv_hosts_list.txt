@@ -1,0 +1,412 @@
+# SonyLIV - Sony Pictures Networks India streaming platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 sonyliv.com
+0.0.0.0 www.sonyliv.com
+
+# AWS infrastructure (based on research showing AWS hosting)
+0.0.0.0 ns-1424.awsdns-50.org
+0.0.0.0 ns-1548.awsdns-01.co.uk
+0.0.0.0 ns-354.awsdns-44.com
+0.0.0.0 ns-742.awsdns-28.net
+
+# Mobile and app related
+0.0.0.0 m.sonyliv.com
+0.0.0.0 mobile.sonyliv.com
+0.0.0.0 app.sonyliv.com
+0.0.0.0 apps.sonyliv.com
+0.0.0.0 android.sonyliv.com
+0.0.0.0 ios.sonyliv.com
+
+# API endpoints
+0.0.0.0 api.sonyliv.com
+0.0.0.0 gateway.sonyliv.com
+0.0.0.0 data.sonyliv.com
+0.0.0.0 oauth.sonyliv.com
+0.0.0.0 auth.sonyliv.com
+
+# User authentication and accounts
+0.0.0.0 accounts.sonyliv.com
+0.0.0.0 signin.sonyliv.com
+0.0.0.0 login.sonyliv.com
+0.0.0.0 myaccount.sonyliv.com
+0.0.0.0 profile.sonyliv.com
+0.0.0.0 profiles.sonyliv.com
+
+# Video streaming and playback
+0.0.0.0 video.sonyliv.com
+0.0.0.0 videos.sonyliv.com
+0.0.0.0 streaming.sonyliv.com
+0.0.0.0 stream.sonyliv.com
+0.0.0.0 player.sonyliv.com
+0.0.0.0 playback.sonyliv.com
+
+# Content delivery and assets (AWS-based CDN)
+0.0.0.0 cdn.sonyliv.com
+0.0.0.0 assets.sonyliv.com
+0.0.0.0 images.sonyliv.com
+0.0.0.0 thumbnails.sonyliv.com
+0.0.0.0 artwork.sonyliv.com
+0.0.0.0 content.sonyliv.com
+
+# Search and discovery
+0.0.0.0 search.sonyliv.com
+0.0.0.0 discover.sonyliv.com
+0.0.0.0 browse.sonyliv.com
+0.0.0.0 catalog.sonyliv.com
+0.0.0.0 titles.sonyliv.com
+
+# SonyLIV Analytics and tracking
+0.0.0.0 analytics.sonyliv.com
+0.0.0.0 tracking.sonyliv.com
+0.0.0.0 metrics.sonyliv.com
+0.0.0.0 stats.sonyliv.com
+0.0.0.0 insights.sonyliv.com
+
+# DRM and licensing
+0.0.0.0 drm.sonyliv.com
+0.0.0.0 license.sonyliv.com
+0.0.0.0 widevine.sonyliv.com
+0.0.0.0 playready.sonyliv.com
+
+# Adaptive streaming
+0.0.0.0 dash.sonyliv.com
+0.0.0.0 hls.sonyliv.com
+0.0.0.0 manifest.sonyliv.com
+0.0.0.0 manifests.sonyliv.com
+
+# Downloads and offline
+0.0.0.0 download.sonyliv.com
+0.0.0.0 downloads.sonyliv.com
+0.0.0.0 offline.sonyliv.com
+
+# Live TV and sports (SonyLIV specialization)
+0.0.0.0 live.sonyliv.com
+0.0.0.0 livetv.sonyliv.com
+0.0.0.0 sports.sonyliv.com
+0.0.0.0 cricket.sonyliv.com
+0.0.0.0 football.sonyliv.com
+
+# News content
+0.0.0.0 news.sonyliv.com
+
+# Premium and subscription services
+0.0.0.0 premium.sonyliv.com
+0.0.0.0 subscription.sonyliv.com
+0.0.0.0 subscriptions.sonyliv.com
+
+# Kids and family
+0.0.0.0 kids.sonyliv.com
+0.0.0.0 family.sonyliv.com
+0.0.0.0 junior.sonyliv.com
+
+# Smart TV and device specific
+0.0.0.0 tv.sonyliv.com
+0.0.0.0 firetv.sonyliv.com
+0.0.0.0 roku.sonyliv.com
+0.0.0.0 chromecast.sonyliv.com
+0.0.0.0 appletv.sonyliv.com
+0.0.0.0 smarttv.sonyliv.com
+
+# Gaming console integration
+0.0.0.0 xbox.sonyliv.com
+0.0.0.0 playstation.sonyliv.com
+0.0.0.0 nintendo.sonyliv.com
+
+# Support and help
+0.0.0.0 help.sonyliv.com
+0.0.0.0 support.sonyliv.com
+0.0.0.0 customer.sonyliv.com
+
+# Settings and preferences
+0.0.0.0 settings.sonyliv.com
+0.0.0.0 preferences.sonyliv.com
+0.0.0.0 config.sonyliv.com
+
+# Watch history and recommendations
+0.0.0.0 history.sonyliv.com
+0.0.0.0 watchlist.sonyliv.com
+0.0.0.0 recommendations.sonyliv.com
+0.0.0.0 suggest.sonyliv.com
+
+# Social and sharing features
+0.0.0.0 social.sonyliv.com
+0.0.0.0 share.sonyliv.com
+0.0.0.0 sharing.sonyliv.com
+
+# Notifications and alerts
+0.0.0.0 notifications.sonyliv.com
+0.0.0.0 alerts.sonyliv.com
+0.0.0.0 messages.sonyliv.com
+
+# Billing and payments
+0.0.0.0 billing.sonyliv.com
+0.0.0.0 payment.sonyliv.com
+0.0.0.0 payments.sonyliv.com
+
+# Corporate and press
+0.0.0.0 about.sonyliv.com
+0.0.0.0 press.sonyliv.com
+0.0.0.0 media.sonyliv.com
+0.0.0.0 blog.sonyliv.com
+
+# Careers and jobs
+0.0.0.0 careers.sonyliv.com
+0.0.0.0 jobs.sonyliv.com
+
+# Testing and development
+0.0.0.0 test.sonyliv.com
+0.0.0.0 testing.sonyliv.com
+0.0.0.0 dev.sonyliv.com
+0.0.0.0 staging.sonyliv.com
+0.0.0.0 beta.sonyliv.com
+
+# Internal and corporate
+0.0.0.0 internal.sonyliv.com
+0.0.0.0 corp.sonyliv.com
+
+# Load balancing and infrastructure
+0.0.0.0 lb.sonyliv.com
+0.0.0.0 proxy.sonyliv.com
+0.0.0.0 cache.sonyliv.com
+
+# AWS integration (based on research showing AWS hosting)
+0.0.0.0 aws.sonyliv.com
+0.0.0.0 cloudfront.sonyliv.com
+0.0.0.0 s3.sonyliv.com
+
+# Security
+0.0.0.0 security.sonyliv.com
+0.0.0.0 secure.sonyliv.com
+0.0.0.0 2fa.sonyliv.com
+
+# Performance and optimization
+0.0.0.0 performance.sonyliv.com
+0.0.0.0 optimization.sonyliv.com
+0.0.0.0 speed.sonyliv.com
+
+# AI and machine learning
+0.0.0.0 ai.sonyliv.com
+0.0.0.0 ml.sonyliv.com
+
+# Video quality and encoding
+0.0.0.0 encoding.sonyliv.com
+0.0.0.0 hd.sonyliv.com
+0.0.0.0 4k.sonyliv.com
+0.0.0.0 uhd.sonyliv.com
+0.0.0.0 hdr.sonyliv.com
+0.0.0.0 dolby.sonyliv.com
+
+# Subtitles and localization
+0.0.0.0 subtitles.sonyliv.com
+0.0.0.0 captions.sonyliv.com
+0.0.0.0 localization.sonyliv.com
+0.0.0.0 translate.sonyliv.com
+0.0.0.0 i18n.sonyliv.com
+
+# Accessibility
+0.0.0.0 accessibility.sonyliv.com
+0.0.0.0 a11y.sonyliv.com
+
+# Parental controls
+0.0.0.0 parental.sonyliv.com
+0.0.0.0 controls.sonyliv.com
+
+# Reviews and ratings
+0.0.0.0 reviews.sonyliv.com
+0.0.0.0 ratings.sonyliv.com
+0.0.0.0 feedback.sonyliv.com
+
+# Documentation and guides
+0.0.0.0 docs.sonyliv.com
+0.0.0.0 guides.sonyliv.com
+0.0.0.0 help-center.sonyliv.com
+
+# Partner integration
+0.0.0.0 partners.sonyliv.com
+0.0.0.0 partner.sonyliv.com
+0.0.0.0 integration.sonyliv.com
+
+# Email and communications
+0.0.0.0 email.sonyliv.com
+0.0.0.0 mail.sonyliv.com
+0.0.0.0 communications.sonyliv.com
+
+# Legal and compliance
+0.0.0.0 legal.sonyliv.com
+0.0.0.0 terms.sonyliv.com
+0.0.0.0 privacy.sonyliv.com
+
+# Quality assurance
+0.0.0.0 quality.sonyliv.com
+0.0.0.0 qa.sonyliv.com
+0.0.0.0 qc.sonyliv.com
+
+# Monitoring and status
+0.0.0.0 status.sonyliv.com
+0.0.0.0 health.sonyliv.com
+0.0.0.0 monitoring.sonyliv.com
+
+# Tools and utilities
+0.0.0.0 tools.sonyliv.com
+0.0.0.0 utils.sonyliv.com
+0.0.0.0 utilities.sonyliv.com
+
+# Creator tools and resources
+0.0.0.0 creators.sonyliv.com
+0.0.0.0 filmmakers.sonyliv.com
+0.0.0.0 studios.sonyliv.com
+
+# Events and premieres
+0.0.0.0 events.sonyliv.com
+0.0.0.0 premieres.sonyliv.com
+0.0.0.0 screenings.sonyliv.com
+
+# Awards and recognition
+0.0.0.0 awards.sonyliv.com
+
+# Innovation and technology
+0.0.0.0 innovation.sonyliv.com
+0.0.0.0 technology.sonyliv.com
+0.0.0.0 tech.sonyliv.com
+
+# Research and experiments
+0.0.0.0 research.sonyliv.com
+0.0.0.0 experiments.sonyliv.com
+0.0.0.0 labs.sonyliv.com
+
+# Customer service
+0.0.0.0 service.sonyliv.com
+0.0.0.0 contact.sonyliv.com
+
+# Community features
+0.0.0.0 community.sonyliv.com
+0.0.0.0 forums.sonyliv.com
+
+# Geographic and location services
+0.0.0.0 geo.sonyliv.com
+0.0.0.0 location.sonyliv.com
+
+# Backup and redundancy
+0.0.0.0 backup.sonyliv.com
+0.0.0.0 failover.sonyliv.com
+
+# Configuration management
+0.0.0.0 config.sonyliv.com
+0.0.0.0 configuration.sonyliv.com
+
+# Data science and analytics
+0.0.0.0 datascience.sonyliv.com
+0.0.0.0 bigdata.sonyliv.com
+
+# Content moderation
+0.0.0.0 moderation.sonyliv.com
+0.0.0.0 safety.sonyliv.com
+
+# User experience
+0.0.0.0 ux.sonyliv.com
+0.0.0.0 ui.sonyliv.com
+0.0.0.0 design.sonyliv.com
+
+# Platform engineering
+0.0.0.0 platform.sonyliv.com
+0.0.0.0 engineering.sonyliv.com
+
+# Network operations
+0.0.0.0 network.sonyliv.com
+0.0.0.0 operations.sonyliv.com
+0.0.0.0 ops.sonyliv.com
+
+# Database services
+0.0.0.0 database.sonyliv.com
+0.0.0.0 db.sonyliv.com
+
+# Microservices
+0.0.0.0 microservices.sonyliv.com
+0.0.0.0 services.sonyliv.com
+
+# DevOps and deployment
+0.0.0.0 devops.sonyliv.com
+0.0.0.0 deployment.sonyliv.com
+0.0.0.0 deploy.sonyliv.com
+
+# Content protection and piracy
+0.0.0.0 protection.sonyliv.com
+0.0.0.0 antipiracy.sonyliv.com
+
+# Compliance and governance
+0.0.0.0 compliance.sonyliv.com
+0.0.0.0 governance.sonyliv.com
+
+# Risk management
+0.0.0.0 risk.sonyliv.com
+0.0.0.0 riskmanagement.sonyliv.com
+
+# Content acquisition and licensing
+0.0.0.0 acquisition.sonyliv.com
+0.0.0.0 licensing.sonyliv.com
+
+# International expansion
+0.0.0.0 global.sonyliv.com
+0.0.0.0 international.sonyliv.com
+
+# Financial services
+0.0.0.0 finance.sonyliv.com
+0.0.0.0 treasury.sonyliv.com
+
+# Partnerships and alliances
+0.0.0.0 alliances.sonyliv.com
+0.0.0.0 partnerships.sonyliv.com
+
+# Talent and recruitment
+0.0.0.0 talent.sonyliv.com
+0.0.0.0 recruitment.sonyliv.com
+
+# Culture and values
+0.0.0.0 culture.sonyliv.com
+0.0.0.0 values.sonyliv.com
+
+# Sustainability initiatives
+0.0.0.0 sustainability.sonyliv.com
+0.0.0.0 green.sonyliv.com
+
+# Diversity and inclusion
+0.0.0.0 diversity.sonyliv.com
+0.0.0.0 inclusion.sonyliv.com
+
+# Machine learning models
+0.0.0.0 models.sonyliv.com
+0.0.0.0 ml-models.sonyliv.com
+
+# Edge computing and CDN
+0.0.0.0 edge.sonyliv.com
+0.0.0.0 cdn1.sonyliv.com
+0.0.0.0 cdn2.sonyliv.com
+0.0.0.0 cdn3.sonyliv.com
+
+# Video transcoding and processing
+0.0.0.0 transcoding.sonyliv.com
+0.0.0.0 processing.sonyliv.com
+0.0.0.0 encoder.sonyliv.com
+
+# Educational content
+0.0.0.0 education.sonyliv.com
+0.0.0.0 edu.sonyliv.com
+
+# Merchandise and retail
+0.0.0.0 shop.sonyliv.com
+0.0.0.0 store.sonyliv.com
+0.0.0.0 merchandise.sonyliv.com
+
+# Music and audio
+0.0.0.0 music.sonyliv.com
+0.0.0.0 audio.sonyliv.com
+
+# Gaming integration
+0.0.0.0 games.sonyliv.com
+0.0.0.0 gaming.sonyliv.com
+
+# Sony ecosystem integration
+0.0.0.0 sony.sonyliv.com
+0.0.0.0 pictures.sonyliv.com
+0.0.0.0 entertainment.sonyliv.com
+0.0.0.0 networks.sonyliv.com 

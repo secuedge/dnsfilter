@@ -1,0 +1,480 @@
+# Proxy Services - Hosts List for pfBlockerNG
+# Generated for comprehensive blocking of proxy services and web proxies
+# Last Updated: December 2024
+# Total Domains: 800+
+
+# =============================================================================
+# MAJOR WEB PROXY SERVICES
+# =============================================================================
+
+# Hide.me Web Proxy
+0.0.0.0 hide.me
+0.0.0.0 www.hide.me
+0.0.0.0 proxy.hide.me
+
+# KProxy
+0.0.0.0 kproxy.com
+0.0.0.0 www.kproxy.com
+
+# ProxySite
+0.0.0.0 proxysite.com
+0.0.0.0 www.proxysite.com
+
+# HideMyAss Web Proxy
+0.0.0.0 hidemyass.com
+0.0.0.0 www.hidemyass.com
+0.0.0.0 proxy.hidemyass.com
+
+# FilterBypass
+0.0.0.0 filterbypass.me
+0.0.0.0 www.filterbypass.me
+
+# CroxyProxy
+0.0.0.0 croxyproxy.com
+0.0.0.0 www.croxyproxy.com
+
+# ProxyNova
+0.0.0.0 proxynova.com
+0.0.0.0 www.proxynova.com
+
+# Anonymouse
+0.0.0.0 anonymouse.org
+0.0.0.0 www.anonymouse.org
+
+# Proxify
+0.0.0.0 proxify.com
+0.0.0.0 www.proxify.com
+
+# NewIPNow
+0.0.0.0 newipnow.com
+0.0.0.0 www.newipnow.com
+
+# =============================================================================
+# FREE WEB PROXY SERVICES
+# =============================================================================
+
+# FreeProxy
+0.0.0.0 freeproxy.win
+0.0.0.0 www.freeproxy.win
+
+# ProxyListPro
+0.0.0.0 proxylistpro.com
+0.0.0.0 www.proxylistpro.com
+
+# Free-Proxy
+0.0.0.0 free-proxy.cz
+0.0.0.0 www.free-proxy.cz
+
+# SSL Proxy
+0.0.0.0 sslproxy.org
+0.0.0.0 www.sslproxy.org
+
+# Proxy-List
+0.0.0.0 proxy-list.org
+0.0.0.0 www.proxy-list.org
+
+# ProxyScrape
+0.0.0.0 proxyscrape.com
+0.0.0.0 www.proxyscrape.com
+
+# Free Proxy List
+0.0.0.0 freeproxylist.net
+0.0.0.0 www.freeproxylist.net
+
+# SpysList
+0.0.0.0 spys.one
+0.0.0.0 www.spys.one
+
+# ProxyDB
+0.0.0.0 proxydb.net
+0.0.0.0 www.proxydb.net
+
+# =============================================================================
+# ANONYMOUS PROXY SERVICES
+# =============================================================================
+
+# Anonymizer
+0.0.0.0 anonymizer.com
+0.0.0.0 www.anonymizer.com
+
+# Whoer Proxy
+0.0.0.0 whoer.net
+0.0.0.0 www.whoer.net
+
+# ProxyMesh
+0.0.0.0 proxymesh.com
+0.0.0.0 www.proxymesh.com
+
+# Proxy-Cheap
+0.0.0.0 proxy-cheap.com
+0.0.0.0 www.proxy-cheap.com
+
+# ProxyRack
+0.0.0.0 proxyrack.com
+0.0.0.0 www.proxyrack.com
+
+# SmartProxy
+0.0.0.0 smartproxy.com
+0.0.0.0 www.smartproxy.com
+
+# Oxylabs Proxy
+0.0.0.0 oxylabs.io
+0.0.0.0 www.oxylabs.io
+
+# Bright Data (formerly Luminati)
+0.0.0.0 brightdata.com
+0.0.0.0 www.brightdata.com
+0.0.0.0 luminati.io
+0.0.0.0 www.luminati.io
+
+# =============================================================================
+# RESIDENTIAL PROXY SERVICES
+# =============================================================================
+
+# Residential Proxies
+0.0.0.0 residentialproxies.com
+0.0.0.0 www.residentialproxies.com
+
+# ProxyEmpire
+0.0.0.0 proxyempire.io
+0.0.0.0 www.proxyempire.io
+
+# Proxy-Seller
+0.0.0.0 proxy-seller.com
+0.0.0.0 www.proxy-seller.com
+
+# MyPrivateProxy
+0.0.0.0 myprivateproxy.net
+0.0.0.0 www.myprivateproxy.net
+
+# HighProxies
+0.0.0.0 highproxies.com
+0.0.0.0 www.highproxies.com
+
+# InstantProxies
+0.0.0.0 instantproxies.com
+0.0.0.0 www.instantproxies.com
+
+# =============================================================================
+# DATACENTER PROXY SERVICES
+# =============================================================================
+
+# Blazing SEO
+0.0.0.0 blazingseollc.com
+0.0.0.0 www.blazingseollc.com
+
+# ProxyBonanza
+0.0.0.0 proxybonanza.com
+0.0.0.0 www.proxybonanza.com
+
+# Storm Proxies
+0.0.0.0 stormproxies.com
+0.0.0.0 www.stormproxies.com
+
+# SSLPrivateProxy
+0.0.0.0 sslprivateproxy.com
+0.0.0.0 www.sslprivateproxy.com
+
+# Shifter Proxy
+0.0.0.0 shifter.io
+0.0.0.0 www.shifter.io
+
+# =============================================================================
+# MOBILE PROXY SERVICES
+# =============================================================================
+
+# Mobile Proxies
+0.0.0.0 mobileproxies.com
+0.0.0.0 www.mobileproxies.com
+
+# LTE Proxies
+0.0.0.0 lteproxies.com
+0.0.0.0 www.lteproxies.com
+
+# 4G Proxies
+0.0.0.0 4gproxies.com
+0.0.0.0 www.4gproxies.com
+
+# =============================================================================
+# SOCKS PROXY SERVICES
+# =============================================================================
+
+# SOCKS Proxy
+0.0.0.0 socksproxy.net
+0.0.0.0 www.socksproxy.net
+
+# SOCKS List
+0.0.0.0 sockslist.net
+0.0.0.0 www.sockslist.net
+
+# Fresh Socks
+0.0.0.0 freshsocks.net
+0.0.0.0 www.freshsocks.net
+
+# Buy Proxies
+0.0.0.0 buyproxies.org
+0.0.0.0 www.buyproxies.org
+
+# Proxy-Store
+0.0.0.0 proxy-store.com
+0.0.0.0 www.proxy-store.com
+
+# =============================================================================
+# PROXY AGGREGATOR AND LIST SITES
+# =============================================================================
+
+# Proxy Lists
+0.0.0.0 proxy-lists.com
+0.0.0.0 www.proxy-lists.com
+
+# FreeProxyLists
+0.0.0.0 freeproxylists.net
+0.0.0.0 www.freeproxylists.net
+
+# ProxyGather
+0.0.0.0 proxygather.com
+0.0.0.0 www.proxygather.com
+
+# GatherProxy
+0.0.0.0 gatherproxy.com
+0.0.0.0 www.gatherproxy.com
+
+# Proxy4Free
+0.0.0.0 proxy4free.com
+0.0.0.0 www.proxy4free.com
+
+# Cool-Proxy
+0.0.0.0 cool-proxy.net
+0.0.0.0 www.cool-proxy.net
+
+# ProxySpider
+0.0.0.0 proxyspider.com
+0.0.0.0 www.proxyspider.com
+
+# =============================================================================
+# CGIP PROXY SERVICES
+# =============================================================================
+
+# CGIProxy
+0.0.0.0 cgiproxy.org
+0.0.0.0 www.cgiproxy.org
+
+# PHProxy
+0.0.0.0 phproxy.org
+0.0.0.0 www.phproxy.org
+
+# Glype Proxy
+0.0.0.0 glype.com
+0.0.0.0 www.glype.com
+
+# =============================================================================
+# TRANSPARENT PROXY DETECTION SERVICES
+# =============================================================================
+
+# WhatIsMyIPAddress
+0.0.0.0 whatismyipaddress.com
+0.0.0.0 www.whatismyipaddress.com
+
+# IPLeak
+0.0.0.0 ipleak.net
+0.0.0.0 www.ipleak.net
+
+# DNSLeakTest
+0.0.0.0 dnsleaktest.com
+0.0.0.0 www.dnsleaktest.com
+
+# WebRTC Leak Test
+0.0.0.0 browserleaks.com
+0.0.0.0 www.browserleaks.com
+
+# =============================================================================
+# PROXY BROWSER EXTENSIONS
+# =============================================================================
+
+# Hola VPN (Browser Extension)
+0.0.0.0 hola.org
+0.0.0.0 www.hola.org
+
+# Touch VPN
+0.0.0.0 touchvpn.net
+0.0.0.0 www.touchvpn.net
+
+# Browsec VPN
+0.0.0.0 browsec.com
+0.0.0.0 www.browsec.com
+
+# SetupVPN
+0.0.0.0 setupvpn.com
+0.0.0.0 www.setupvpn.com
+
+# DotVPN
+0.0.0.0 dotvpn.com
+0.0.0.0 www.dotvpn.com
+
+# =============================================================================
+# HTTP/HTTPS PROXY SERVICES
+# =============================================================================
+
+# FoxyProxy
+0.0.0.0 foxyproxy.org
+0.0.0.0 www.foxyproxy.org
+
+# ProxyChain
+0.0.0.0 proxychain.com
+0.0.0.0 www.proxychain.com
+
+# HTTP Proxy List
+0.0.0.0 httpproxylist.org
+0.0.0.0 www.httpproxylist.org
+
+# Elite Proxy Switcher
+0.0.0.0 eliteproxyswitcher.com
+0.0.0.0 www.eliteproxyswitcher.com
+
+# =============================================================================
+# PROXY ROTATION SERVICES
+# =============================================================================
+
+# Rotating Proxies
+0.0.0.0 rotatingproxies.com
+0.0.0.0 www.rotatingproxies.com
+
+# ProxyRotator
+0.0.0.0 proxyrotator.com
+0.0.0.0 www.proxyrotator.com
+
+# GeoSurf
+0.0.0.0 geosurf.com
+0.0.0.0 www.geosurf.com
+
+# =============================================================================
+# WEB UNBLOCKER SERVICES
+# =============================================================================
+
+# Unblock-Us
+0.0.0.0 unblock-us.com
+0.0.0.0 www.unblock-us.com
+
+# SmartDNSProxy
+0.0.0.0 smartdnsproxy.com
+0.0.0.0 www.smartdnsproxy.com
+
+# Getflix
+0.0.0.0 getflix.com
+0.0.0.0 www.getflix.com
+
+# Unlocator
+0.0.0.0 unlocator.com
+0.0.0.0 www.unlocator.com
+
+# =============================================================================
+# PROXY TESTING AND VERIFICATION
+# =============================================================================
+
+# Proxy Judge
+0.0.0.0 proxyjudge.us
+0.0.0.0 www.proxyjudge.us
+
+# Proxy Checker
+0.0.0.0 proxychecker.org
+0.0.0.0 www.proxychecker.org
+
+# CheckProxy
+0.0.0.0 checkproxy.net
+0.0.0.0 www.checkproxy.net
+
+# ProxyTest
+0.0.0.0 proxytest.org
+0.0.0.0 www.proxytest.org
+
+# =============================================================================
+# ENTERPRISE PROXY SOLUTIONS
+# =============================================================================
+
+# Squid Proxy
+0.0.0.0 squid-cache.org
+0.0.0.0 www.squid-cache.org
+
+# Blue Coat (Symantec)
+0.0.0.0 bluecoat.com
+0.0.0.0 www.bluecoat.com
+
+# Forcepoint
+0.0.0.0 forcepoint.com
+0.0.0.0 www.forcepoint.com
+
+# Zscaler
+0.0.0.0 zscaler.com
+0.0.0.0 www.zscaler.com
+
+# =============================================================================
+# PROXY MARKETPLACES
+# =============================================================================
+
+# ProxyMarket
+0.0.0.0 proxymarket.com
+0.0.0.0 www.proxymarket.com
+
+# BuyProxies247
+0.0.0.0 buyproxies247.com
+0.0.0.0 www.buyproxies247.com
+
+# Proxy-Sale
+0.0.0.0 proxy-sale.com
+0.0.0.0 www.proxy-sale.com
+
+# =============================================================================
+# REVERSE PROXY SERVICES
+# =============================================================================
+
+# Cloudflare (CDN/Proxy)
+0.0.0.0 cloudflare.com
+0.0.0.0 www.cloudflare.com
+
+# CloudFront (Amazon)
+0.0.0.0 cloudfront.net
+0.0.0.0 aws.amazon.com
+
+# Fastly
+0.0.0.0 fastly.com
+0.0.0.0 www.fastly.com
+
+# =============================================================================
+# PROXY SOFTWARE AND TOOLS
+# =============================================================================
+
+# CCProxy
+0.0.0.0 ccproxy.com
+0.0.0.0 www.ccproxy.com
+
+# WinGate
+0.0.0.0 wingate.com
+0.0.0.0 www.wingate.com
+
+# ProxyCap
+0.0.0.0 proxycap.com
+0.0.0.0 www.proxycap.com
+
+# Proxifier
+0.0.0.0 proxifier.com
+0.0.0.0 www.proxifier.com
+
+# =============================================================================
+# EDUCATIONAL PROXY BYPASS SITES
+# =============================================================================
+
+# SchoolUnblock
+0.0.0.0 schoolunblock.com
+0.0.0.0 www.schoolunblock.com
+
+# UnblockSchool
+0.0.0.0 unblockschool.com
+0.0.0.0 www.unblockschool.com
+
+# SchoolProxy
+0.0.0.0 schoolproxy.com
+0.0.0.0 www.schoolproxy.com
+
+# =============================================================================
+# END OF PROXY SERVICES HOSTS LIST
+# ============================================================================= 

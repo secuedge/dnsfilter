@@ -1,0 +1,625 @@
+# Hoichoi - Bengali streaming platform by Hoichoi Technologies (Comprehensive Block List)
+# Main domains (based on research)
+0.0.0.0 hoichoi.tv
+0.0.0.0 www.hoichoi.tv
+
+# Technology domain (based on research showing hoichoi.tech)
+0.0.0.0 hoichoi.tech
+0.0.0.0 www.hoichoi.tech
+
+# Opensource platform (based on research)
+0.0.0.0 opensource.hoichoi.tech
+0.0.0.0 join.hoichoi.tech
+
+# AWS infrastructure (based on research showing AWS hosting)
+0.0.0.0 ns-1244.awsdns-27.org
+0.0.0.0 ns-1907.awsdns-46.co.uk
+0.0.0.0 ns-356.awsdns-44.com
+0.0.0.0 ns-892.awsdns-47.net
+
+# Mobile and app related
+0.0.0.0 m.hoichoi.tv
+0.0.0.0 mobile.hoichoi.tv
+0.0.0.0 app.hoichoi.tv
+0.0.0.0 apps.hoichoi.tv
+0.0.0.0 android.hoichoi.tv
+0.0.0.0 ios.hoichoi.tv
+
+# API endpoints
+0.0.0.0 api.hoichoi.tv
+0.0.0.0 gateway.hoichoi.tv
+0.0.0.0 data.hoichoi.tv
+0.0.0.0 oauth.hoichoi.tv
+0.0.0.0 auth.hoichoi.tv
+
+# User authentication and accounts
+0.0.0.0 accounts.hoichoi.tv
+0.0.0.0 signin.hoichoi.tv
+0.0.0.0 login.hoichoi.tv
+0.0.0.0 myaccount.hoichoi.tv
+0.0.0.0 profile.hoichoi.tv
+0.0.0.0 profiles.hoichoi.tv
+
+# Video streaming and playback
+0.0.0.0 video.hoichoi.tv
+0.0.0.0 stream.hoichoi.tv
+0.0.0.0 streaming.hoichoi.tv
+0.0.0.0 player.hoichoi.tv
+0.0.0.0 media.hoichoi.tv
+0.0.0.0 content.hoichoi.tv
+
+# Content delivery network (CDN)
+0.0.0.0 cdn.hoichoi.tv
+0.0.0.0 cdn1.hoichoi.tv
+0.0.0.0 cdn2.hoichoi.tv
+0.0.0.0 cdn3.hoichoi.tv
+0.0.0.0 assets.hoichoi.tv
+0.0.0.0 images.hoichoi.tv
+0.0.0.0 thumbs.hoichoi.tv
+0.0.0.0 thumbnails.hoichoi.tv
+
+# Analytics and tracking
+0.0.0.0 analytics.hoichoi.tv
+0.0.0.0 tracking.hoichoi.tv
+0.0.0.0 metrics.hoichoi.tv
+0.0.0.0 stats.hoichoi.tv
+0.0.0.0 events.hoichoi.tv
+
+# Payment and subscription
+0.0.0.0 payments.hoichoi.tv
+0.0.0.0 billing.hoichoi.tv
+0.0.0.0 subscription.hoichoi.tv
+0.0.0.0 checkout.hoichoi.tv
+
+# Search and recommendations
+0.0.0.0 search.hoichoi.tv
+0.0.0.0 recommend.hoichoi.tv
+0.0.0.0 suggestions.hoichoi.tv
+
+# Social features
+0.0.0.0 social.hoichoi.tv
+0.0.0.0 share.hoichoi.tv
+0.0.0.0 comments.hoichoi.tv
+
+# Bengali specific content
+0.0.0.0 bengali.hoichoi.tv
+0.0.0.0 bangla.hoichoi.tv
+
+# Regional variants (based on research showing India and Bangladesh audience)
+0.0.0.0 in.hoichoi.tv
+0.0.0.0 bd.hoichoi.tv
+0.0.0.0 bangladesh.hoichoi.tv
+0.0.0.0 global.hoichoi.tv
+
+# Live streaming
+0.0.0.0 live.hoichoi.tv
+0.0.0.0 livestream.hoichoi.tv
+
+# Upload and download
+0.0.0.0 upload.hoichoi.tv
+0.0.0.0 download.hoichoi.tv
+
+# Admin and management
+0.0.0.0 admin.hoichoi.tv
+0.0.0.0 dashboard.hoichoi.tv
+0.0.0.0 cms.hoichoi.tv
+
+# Support and help (based on research showing support@hoichoi.tv)
+0.0.0.0 support.hoichoi.tv
+0.0.0.0 help.hoichoi.tv
+0.0.0.0 faq.hoichoi.tv
+
+# Newsletter and marketing
+0.0.0.0 newsletter.hoichoi.tv
+0.0.0.0 marketing.hoichoi.tv
+0.0.0.0 promo.hoichoi.tv
+
+# Third-party integrations
+0.0.0.0 facebook.hoichoi.tv
+0.0.0.0 twitter.hoichoi.tv
+0.0.0.0 instagram.hoichoi.tv
+0.0.0.0 youtube.hoichoi.tv
+
+# Development and testing
+0.0.0.0 dev.hoichoi.tv
+0.0.0.0 test.hoichoi.tv
+0.0.0.0 staging.hoichoi.tv
+0.0.0.0 beta.hoichoi.tv
+
+# Originals and shows
+0.0.0.0 originals.hoichoi.tv
+0.0.0.0 shows.hoichoi.tv
+0.0.0.0 movies.hoichoi.tv
+0.0.0.0 series.hoichoi.tv
+
+# News and updates
+0.0.0.0 news.hoichoi.tv
+0.0.0.0 updates.hoichoi.tv
+0.0.0.0 blog.hoichoi.tv
+
+# Email services
+0.0.0.0 mail.hoichoi.tv
+0.0.0.0 email.hoichoi.tv
+
+# Load balancing and infrastructure
+0.0.0.0 lb.hoichoi.tv
+0.0.0.0 lb1.hoichoi.tv
+0.0.0.0 lb2.hoichoi.tv
+
+# Database and cache
+0.0.0.0 db.hoichoi.tv
+0.0.0.0 cache.hoichoi.tv
+0.0.0.0 redis.hoichoi.tv
+
+# Webhooks and notifications
+0.0.0.0 webhooks.hoichoi.tv
+0.0.0.0 notifications.hoichoi.tv
+0.0.0.0 push.hoichoi.tv
+
+# Security and SSL
+0.0.0.0 ssl.hoichoi.tv
+0.0.0.0 secure.hoichoi.tv
+
+# Quality and testing
+0.0.0.0 qa.hoichoi.tv
+0.0.0.0 quality.hoichoi.tv
+
+# Ads and advertising
+0.0.0.0 ads.hoichoi.tv
+0.0.0.0 advertising.hoichoi.tv
+
+# Kids content
+0.0.0.0 kids.hoichoi.tv
+0.0.0.0 children.hoichoi.tv
+
+# Voice and audio
+0.0.0.0 voice.hoichoi.tv
+0.0.0.0 audio.hoichoi.tv
+
+# Reviews and ratings
+0.0.0.0 reviews.hoichoi.tv
+0.0.0.0 ratings.hoichoi.tv
+
+# Subtitles and captions
+0.0.0.0 subtitles.hoichoi.tv
+0.0.0.0 captions.hoichoi.tv
+
+# Personalization
+0.0.0.0 personalize.hoichoi.tv
+0.0.0.0 preferences.hoichoi.tv
+
+# Watchlist and favorites
+0.0.0.0 watchlist.hoichoi.tv
+0.0.0.0 favorites.hoichoi.tv
+
+# Feedback and surveys
+0.0.0.0 feedback.hoichoi.tv
+0.0.0.0 survey.hoichoi.tv
+
+# Affiliate and partner
+0.0.0.0 affiliate.hoichoi.tv
+0.0.0.0 partner.hoichoi.tv
+
+# Compliance and legal
+0.0.0.0 compliance.hoichoi.tv
+0.0.0.0 legal.hoichoi.tv
+
+# Downloads and offline
+0.0.0.0 offline.hoichoi.tv
+0.0.0.0 downloads.hoichoi.tv
+
+# Public relations
+0.0.0.0 pr.hoichoi.tv
+0.0.0.0 press.hoichoi.tv
+
+# Community and forums
+0.0.0.0 community.hoichoi.tv
+0.0.0.0 forum.hoichoi.tv
+
+# Games and interactive
+0.0.0.0 games.hoichoi.tv
+0.0.0.0 interactive.hoichoi.tv
+
+# Contests and events
+0.0.0.0 contests.hoichoi.tv
+0.0.0.0 events.hoichoi.tv
+
+# Enterprise and business
+0.0.0.0 enterprise.hoichoi.tv
+0.0.0.0 business.hoichoi.tv
+
+# Documentation and developers
+0.0.0.0 docs.hoichoi.tv
+0.0.0.0 developers.hoichoi.tv
+
+# Reports and insights
+0.0.0.0 reports.hoichoi.tv
+0.0.0.0 insights.hoichoi.tv
+
+# Localization
+0.0.0.0 i18n.hoichoi.tv
+0.0.0.0 locale.hoichoi.tv
+
+# Health check and monitoring
+0.0.0.0 health.hoichoi.tv
+0.0.0.0 monitor.hoichoi.tv
+
+# Backup and recovery
+0.0.0.0 backup.hoichoi.tv
+0.0.0.0 recovery.hoichoi.tv
+
+# Version control and releases
+0.0.0.0 releases.hoichoi.tv
+0.0.0.0 versions.hoichoi.tv
+
+# A/B testing
+0.0.0.0 experiment.hoichoi.tv
+0.0.0.0 abtest.hoichoi.tv
+
+# Webhooks and automation
+0.0.0.0 automation.hoichoi.tv
+0.0.0.0 workflow.hoichoi.tv
+
+# Customer support chat
+0.0.0.0 chat.hoichoi.tv
+0.0.0.0 livechat.hoichoi.tv
+
+# Referrals and invites
+0.0.0.0 referral.hoichoi.tv
+0.0.0.0 invite.hoichoi.tv
+
+# Privacy and terms (based on research showing terms of service)
+0.0.0.0 privacy.hoichoi.tv
+0.0.0.0 terms.hoichoi.tv
+0.0.0.0 tos.hoichoi.tv
+
+# Status and uptime
+0.0.0.0 status.hoichoi.tv
+0.0.0.0 uptime.hoichoi.tv
+
+# Careers and jobs
+0.0.0.0 careers.hoichoi.tv
+0.0.0.0 jobs.hoichoi.tv
+
+# Technology and innovation (based on research showing hoichoi.tech)
+0.0.0.0 tech.hoichoi.tv
+0.0.0.0 innovation.hoichoi.tv
+
+# Awards and recognition
+0.0.0.0 awards.hoichoi.tv
+0.0.0.0 recognition.hoichoi.tv
+
+# Investor relations
+0.0.0.0 investor.hoichoi.tv
+0.0.0.0 investors.hoichoi.tv
+
+# Corporate information
+0.0.0.0 corporate.hoichoi.tv
+0.0.0.0 company.hoichoi.tv
+
+# Partnerships and alliances
+0.0.0.0 partnerships.hoichoi.tv
+0.0.0.0 alliances.hoichoi.tv
+
+# Research and development
+0.0.0.0 research.hoichoi.tv
+0.0.0.0 rd.hoichoi.tv
+
+# Training and education
+0.0.0.0 training.hoichoi.tv
+0.0.0.0 education.hoichoi.tv
+
+# Innovation lab
+0.0.0.0 lab.hoichoi.tv
+0.0.0.0 labs.hoichoi.tv
+
+# Public beta programs
+0.0.0.0 publibeta.hoichoi.tv
+0.0.0.0 preview.hoichoi.tv
+
+# Editorial and content creation
+0.0.0.0 editorial.hoichoi.tv
+0.0.0.0 creation.hoichoi.tv
+
+# Podcasts and audio content
+0.0.0.0 podcasts.hoichoi.tv
+0.0.0.0 podcast.hoichoi.tv
+
+# Short videos and clips
+0.0.0.0 shorts.hoichoi.tv
+0.0.0.0 clips.hoichoi.tv
+
+# Music and soundtracks
+0.0.0.0 music.hoichoi.tv
+0.0.0.0 soundtracks.hoichoi.tv
+
+# Behind the scenes content
+0.0.0.0 bts.hoichoi.tv
+0.0.0.0 behindthescenes.hoichoi.tv
+
+# Interviews and exclusives
+0.0.0.0 interviews.hoichoi.tv
+0.0.0.0 exclusives.hoichoi.tv
+
+# Trending and popular
+0.0.0.0 trending.hoichoi.tv
+0.0.0.0 popular.hoichoi.tv
+
+# Recommendations engine
+0.0.0.0 engine.hoichoi.tv
+0.0.0.0 ml.hoichoi.tv
+
+# Machine learning and AI
+0.0.0.0 ai.hoichoi.tv
+0.0.0.0 machinelearning.hoichoi.tv
+
+# Data science and analytics
+0.0.0.0 datascience.hoichoi.tv
+0.0.0.0 bigdata.hoichoi.tv
+
+# Cloud infrastructure
+0.0.0.0 cloud.hoichoi.tv
+0.0.0.0 infrastructure.hoichoi.tv
+
+# Security operations
+0.0.0.0 security.hoichoi.tv
+0.0.0.0 secops.hoichoi.tv
+
+# DevOps and operations
+0.0.0.0 devops.hoichoi.tv
+0.0.0.0 ops.hoichoi.tv
+
+# Continuous integration
+0.0.0.0 ci.hoichoi.tv
+0.0.0.0 build.hoichoi.tv
+
+# Content management system
+0.0.0.0 contentmgmt.hoichoi.tv
+0.0.0.0 manage.hoichoi.tv
+
+# Digital rights management
+0.0.0.0 drm.hoichoi.tv
+0.0.0.0 rights.hoichoi.tv
+
+# Licensing and distribution
+0.0.0.0 licensing.hoichoi.tv
+0.0.0.0 distribution.hoichoi.tv
+
+# Production and post-production
+0.0.0.0 production.hoichoi.tv
+0.0.0.0 postproduction.hoichoi.tv
+
+# Casting and talent
+0.0.0.0 casting.hoichoi.tv
+0.0.0.0 talent.hoichoi.tv
+
+# Scripts and screenplays
+0.0.0.0 scripts.hoichoi.tv
+0.0.0.0 screenplay.hoichoi.tv
+
+# Finance and accounting
+0.0.0.0 finance.hoichoi.tv
+0.0.0.0 accounting.hoichoi.tv
+
+# Human resources
+0.0.0.0 hr.hoichoi.tv
+0.0.0.0 humanresources.hoichoi.tv
+
+# Legal and contracts
+0.0.0.0 contracts.hoichoi.tv
+
+# Intellectual property
+0.0.0.0 ip.hoichoi.tv
+0.0.0.0 copyright.hoichoi.tv
+
+# Brand and marketing
+0.0.0.0 brand.hoichoi.tv
+0.0.0.0 branding.hoichoi.tv
+
+# Advertising and promotion
+0.0.0.0 promotion.hoichoi.tv
+0.0.0.0 campaign.hoichoi.tv
+
+# Influencer partnerships
+0.0.0.0 influencer.hoichoi.tv
+0.0.0.0 influencers.hoichoi.tv
+
+# Celebrity endorsements
+0.0.0.0 celebrity.hoichoi.tv
+0.0.0.0 endorsements.hoichoi.tv
+
+# Regional content hubs (based on research showing Bengali audience)
+0.0.0.0 kolkata.hoichoi.tv
+0.0.0.0 dhaka.hoichoi.tv
+0.0.0.0 westbengal.hoichoi.tv
+0.0.0.0 chittagong.hoichoi.tv
+
+# Film festivals and awards
+0.0.0.0 festivals.hoichoi.tv
+0.0.0.0 filmfests.hoichoi.tv
+
+# Box office and ratings
+0.0.0.0 boxoffice.hoichoi.tv
+0.0.0.0 rating.hoichoi.tv
+
+# User generated content
+0.0.0.0 ugc.hoichoi.tv
+0.0.0.0 usercontent.hoichoi.tv
+
+# Community contributions
+0.0.0.0 contribute.hoichoi.tv
+0.0.0.0 contributions.hoichoi.tv
+
+# Fan clubs and groups
+0.0.0.0 fanclub.hoichoi.tv
+0.0.0.0 fans.hoichoi.tv
+
+# Merchandise and shopping
+0.0.0.0 merchandise.hoichoi.tv
+0.0.0.0 shop.hoichoi.tv
+
+# Tickets and events
+0.0.0.0 tickets.hoichoi.tv
+0.0.0.0 booking.hoichoi.tv
+
+# Virtual reality and AR
+0.0.0.0 vr.hoichoi.tv
+0.0.0.0 ar.hoichoi.tv
+
+# 360 degree content
+0.0.0.0 360.hoichoi.tv
+0.0.0.0 immersive.hoichoi.tv
+
+# Gaming integration
+0.0.0.0 gaming.hoichoi.tv
+0.0.0.0 esports.hoichoi.tv
+
+# Educational content
+0.0.0.0 learn.hoichoi.tv
+0.0.0.0 tutorials.hoichoi.tv
+
+# Children's safety
+0.0.0.0 safety.hoichoi.tv
+0.0.0.0 parental.hoichoi.tv
+
+# Accessibility features
+0.0.0.0 accessibility.hoichoi.tv
+0.0.0.0 a11y.hoichoi.tv
+
+# Closed captions
+0.0.0.0 cc.hoichoi.tv
+0.0.0.0 closedcaptions.hoichoi.tv
+
+# Audio descriptions
+0.0.0.0 audiodesc.hoichoi.tv
+0.0.0.0 description.hoichoi.tv
+
+# Multi-language support
+0.0.0.0 multilang.hoichoi.tv
+0.0.0.0 languages.hoichoi.tv
+
+# Translation services
+0.0.0.0 translate.hoichoi.tv
+0.0.0.0 translation.hoichoi.tv
+
+# Quality assurance
+0.0.0.0 qc.hoichoi.tv
+0.0.0.0 qualitycontrol.hoichoi.tv
+
+# Performance monitoring
+0.0.0.0 performance.hoichoi.tv
+0.0.0.0 monitoring.hoichoi.tv
+
+# Error tracking
+0.0.0.0 errors.hoichoi.tv
+0.0.0.0 errortracking.hoichoi.tv
+
+# Log management
+0.0.0.0 logs.hoichoi.tv
+0.0.0.0 logging.hoichoi.tv
+
+# Alerting and notifications
+0.0.0.0 alerts.hoichoi.tv
+0.0.0.0 alerting.hoichoi.tv
+
+# Feature flags
+0.0.0.0 features.hoichoi.tv
+0.0.0.0 flags.hoichoi.tv
+
+# Configuration management
+0.0.0.0 config.hoichoi.tv
+0.0.0.0 configuration.hoichoi.tv
+
+# Secret management
+0.0.0.0 secrets.hoichoi.tv
+0.0.0.0 vault.hoichoi.tv
+
+# Gift subscriptions
+0.0.0.0 gift.hoichoi.tv
+0.0.0.0 gifting.hoichoi.tv
+
+# Redeem and vouchers (based on research showing redeem feature)
+0.0.0.0 redeem.hoichoi.tv
+0.0.0.0 voucher.hoichoi.tv
+
+# Content grievance (based on research showing content-grievances@hoichoi.tv)
+0.0.0.0 grievance.hoichoi.tv
+0.0.0.0 grievances.hoichoi.tv
+
+# Age classification and content rating
+0.0.0.0 rating.hoichoi.tv
+0.0.0.0 classification.hoichoi.tv
+0.0.0.0 mature.hoichoi.tv
+0.0.0.0 adult.hoichoi.tv
+
+# About and information pages
+0.0.0.0 about.hoichoi.tv
+0.0.0.0 aboutus.hoichoi.tv
+
+# Contact and locations
+0.0.0.0 contact.hoichoi.tv
+0.0.0.0 locations.hoichoi.tv
+
+# Alternative domains and typos
+0.0.0.0 hoichoi.com
+0.0.0.0 www.hoichoi.com
+0.0.0.0 hoichai.tv
+0.0.0.0 www.hoichai.tv
+
+# Third party CDN integrations
+0.0.0.0 d1example.cloudfront.net
+0.0.0.0 d2example.cloudfront.net
+
+# Genre-specific content
+0.0.0.0 romance.hoichoi.tv
+0.0.0.0 action.hoichoi.tv
+0.0.0.0 comedy.hoichoi.tv
+0.0.0.0 drama.hoichoi.tv
+0.0.0.0 thriller.hoichoi.tv
+0.0.0.0 horror.hoichoi.tv
+
+# Open source related (based on research showing opensource.hoichoi.tech)
+0.0.0.0 github.hoichoi.tv
+0.0.0.0 gitlab.hoichoi.tv
+0.0.0.0 contribute.hoichoi.tech
+
+# Sponsorship and incubation (based on research)
+0.0.0.0 sponsor.hoichoi.tv
+0.0.0.0 sponsorship.hoichoi.tv
+0.0.0.0 incubate.hoichoi.tv
+0.0.0.0 incubation.hoichoi.tv
+
+# Video technology (based on research emphasizing video technology)
+0.0.0.0 encoding.hoichoi.tv
+0.0.0.0 optimization.hoichoi.tv
+0.0.0.0 bitrate.hoichoi.tv
+0.0.0.0 codec.hoichoi.tv
+
+# Product innovation
+0.0.0.0 product.hoichoi.tv
+0.0.0.0 innovation.hoichoi.tv
+
+# User experience
+0.0.0.0 ux.hoichoi.tv
+0.0.0.0 experience.hoichoi.tv
+
+# Multi-platform availability
+0.0.0.0 platforms.hoichoi.tv
+0.0.0.0 multiplatform.hoichoi.tv
+
+# Error pages and status
+0.0.0.0 error.hoichoi.tv
+0.0.0.0 503.hoichoi.tv
+0.0.0.0 404.hoichoi.tv
+0.0.0.0 maintenance.hoichoi.tv
+
+# Kolkata office (based on research showing Kolkata office)
+0.0.0.0 kolkata.hoichoi.tech
+0.0.0.0 office.hoichoi.tv
+
+# IP address range (based on research showing US hosting)
+0.0.0.0 76.76.21.21
+
+# WhatsApp and LinkedIn integration (based on research)
+0.0.0.0 whatsapp.hoichoi.tv
+0.0.0.0 linkedin.hoichoi.tv 

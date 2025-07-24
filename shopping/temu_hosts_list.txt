@@ -1,0 +1,305 @@
+# Temu - PDD Holdings' global marketplace (Comprehensive Block List)
+# Main domains
+0.0.0.0 temu.com
+0.0.0.0 www.temu.com
+
+# Regional Temu domains
+0.0.0.0 temu.ca
+0.0.0.0 www.temu.ca
+0.0.0.0 temu.co.uk
+0.0.0.0 www.temu.co.uk
+0.0.0.0 temu.de
+0.0.0.0 www.temu.de
+0.0.0.0 temu.fr
+0.0.0.0 www.temu.fr
+0.0.0.0 temu.it
+0.0.0.0 www.temu.it
+0.0.0.0 temu.es
+0.0.0.0 www.temu.es
+0.0.0.0 temu.com.au
+0.0.0.0 www.temu.com.au
+
+# Mobile and app related
+0.0.0.0 m.temu.com
+0.0.0.0 mobile.temu.com
+0.0.0.0 app.temu.com
+0.0.0.0 apps.temu.com
+0.0.0.0 android.temu.com
+0.0.0.0 ios.temu.com
+
+# API endpoints
+0.0.0.0 api.temu.com
+0.0.0.0 api1.temu.com
+0.0.0.0 api2.temu.com
+0.0.0.0 apis.temu.com
+0.0.0.0 gateway.temu.com
+0.0.0.0 rest.temu.com
+
+# CDN and static content
+0.0.0.0 cdn.temu.com
+0.0.0.0 cdn1.temu.com
+0.0.0.0 cdn2.temu.com
+0.0.0.0 cdn3.temu.com
+0.0.0.0 static.temu.com
+0.0.0.0 static1.temu.com
+0.0.0.0 static2.temu.com
+0.0.0.0 assets.temu.com
+0.0.0.0 media.temu.com
+0.0.0.0 content.temu.com
+
+# Image and media servers
+0.0.0.0 img.temu.com
+0.0.0.0 img1.temu.com
+0.0.0.0 img2.temu.com
+0.0.0.0 img3.temu.com
+0.0.0.0 images.temu.com
+0.0.0.0 pics.temu.com
+0.0.0.0 photos.temu.com
+0.0.0.0 gallery.temu.com
+0.0.0.0 video.temu.com
+0.0.0.0 videos.temu.com
+
+# Analytics and tracking
+0.0.0.0 analytics.temu.com
+0.0.0.0 tracking.temu.com
+0.0.0.0 track.temu.com
+0.0.0.0 tracker.temu.com
+0.0.0.0 metrics.temu.com
+0.0.0.0 stats.temu.com
+0.0.0.0 pixel.temu.com
+0.0.0.0 beacon.temu.com
+0.0.0.0 data.temu.com
+0.0.0.0 events.temu.com
+
+# Shopping and commerce
+0.0.0.0 shop.temu.com
+0.0.0.0 store.temu.com
+0.0.0.0 stores.temu.com
+0.0.0.0 cart.temu.com
+0.0.0.0 checkout.temu.com
+0.0.0.0 payment.temu.com
+0.0.0.0 payments.temu.com
+0.0.0.0 pay.temu.com
+0.0.0.0 wallet.temu.com
+
+# User authentication and security
+0.0.0.0 login.temu.com
+0.0.0.0 signin.temu.com
+0.0.0.0 auth.temu.com
+0.0.0.0 secure.temu.com
+0.0.0.0 ssl.temu.com
+0.0.0.0 accounts.temu.com
+0.0.0.0 account.temu.com
+0.0.0.0 profile.temu.com
+0.0.0.0 user.temu.com
+0.0.0.0 users.temu.com
+0.0.0.0 my.temu.com
+
+# Support and help
+0.0.0.0 support.temu.com
+0.0.0.0 help.temu.com
+0.0.0.0 customer.temu.com
+0.0.0.0 service.temu.com
+0.0.0.0 care.temu.com
+0.0.0.0 faq.temu.com
+0.0.0.0 feedback.temu.com
+0.0.0.0 contact.temu.com
+
+# Search and recommendation
+0.0.0.0 search.temu.com
+0.0.0.0 find.temu.com
+0.0.0.0 suggest.temu.com
+0.0.0.0 recommendation.temu.com
+0.0.0.0 reco.temu.com
+0.0.0.0 personalization.temu.com
+
+# Email and notifications
+0.0.0.0 mail.temu.com
+0.0.0.0 email.temu.com
+0.0.0.0 newsletter.temu.com
+0.0.0.0 notifications.temu.com
+0.0.0.0 push.temu.com
+
+# Social and community
+0.0.0.0 social.temu.com
+0.0.0.0 community.temu.com
+0.0.0.0 blog.temu.com
+0.0.0.0 stories.temu.com
+0.0.0.0 reviews.temu.com
+0.0.0.0 share.temu.com
+
+# Admin and backend
+0.0.0.0 admin.temu.com
+0.0.0.0 manage.temu.com
+0.0.0.0 dashboard.temu.com
+0.0.0.0 console.temu.com
+0.0.0.0 backend.temu.com
+
+# Geographic and regional
+0.0.0.0 global.temu.com
+0.0.0.0 worldwide.temu.com
+0.0.0.0 international.temu.com
+0.0.0.0 us.temu.com
+0.0.0.0 eu.temu.com
+0.0.0.0 uk.temu.com
+
+# Development and staging
+0.0.0.0 dev.temu.com
+0.0.0.0 test.temu.com
+0.0.0.0 staging.temu.com
+0.0.0.0 qa.temu.com
+0.0.0.0 beta.temu.com
+0.0.0.0 demo.temu.com
+
+# Seller services
+0.0.0.0 seller.temu.com
+0.0.0.0 sellers.temu.com
+0.0.0.0 selling.temu.com
+0.0.0.0 sellercentral.temu.com
+0.0.0.0 sellerhub.temu.com
+0.0.0.0 partner.temu.com
+0.0.0.0 partners.temu.com
+0.0.0.0 business.temu.com
+0.0.0.0 b2b.temu.com
+
+# Corporate and informational
+0.0.0.0 careers.temu.com
+0.0.0.0 jobs.temu.com
+0.0.0.0 press.temu.com
+0.0.0.0 news.temu.com
+0.0.0.0 about.temu.com
+0.0.0.0 legal.temu.com
+0.0.0.0 privacy.temu.com
+0.0.0.0 terms.temu.com
+
+# Load balancers and infrastructure
+0.0.0.0 lb.temu.com
+0.0.0.0 lb1.temu.com
+0.0.0.0 lb2.temu.com
+0.0.0.0 proxy.temu.com
+0.0.0.0 cache.temu.com
+
+# Third-party integrations
+0.0.0.0 facebook.temu.com
+0.0.0.0 google.temu.com
+0.0.0.0 twitter.temu.com
+0.0.0.0 instagram.temu.com
+0.0.0.0 tiktok.temu.com
+
+# Special campaigns and events
+0.0.0.0 sale.temu.com
+0.0.0.0 deals.temu.com
+0.0.0.0 offers.temu.com
+0.0.0.0 promotion.temu.com
+0.0.0.0 promo.temu.com
+0.0.0.0 discount.temu.com
+0.0.0.0 flash.temu.com
+0.0.0.0 flashsale.temu.com
+0.0.0.0 campaign.temu.com
+
+# Categories and browsing
+0.0.0.0 browse.temu.com
+0.0.0.0 category.temu.com
+0.0.0.0 categories.temu.com
+0.0.0.0 fashion.temu.com
+0.0.0.0 electronics.temu.com
+0.0.0.0 home.temu.com
+0.0.0.0 garden.temu.com
+0.0.0.0 sports.temu.com
+0.0.0.0 toys.temu.com
+0.0.0.0 jewelry.temu.com
+0.0.0.0 beauty.temu.com
+0.0.0.0 auto.temu.com
+0.0.0.0 tools.temu.com
+
+# Gamification features
+0.0.0.0 game.temu.com
+0.0.0.0 games.temu.com
+0.0.0.0 spin.temu.com
+0.0.0.0 wheel.temu.com
+0.0.0.0 lucky.temu.com
+0.0.0.0 treasure.temu.com
+0.0.0.0 fishland.temu.com
+
+# Shipping and logistics
+0.0.0.0 shipping.temu.com
+0.0.0.0 ship.temu.com
+0.0.0.0 logistics.temu.com
+0.0.0.0 fulfillment.temu.com
+0.0.0.0 delivery.temu.com
+0.0.0.0 tracking-order.temu.com
+
+# Advertising services
+0.0.0.0 advertising.temu.com
+0.0.0.0 ads.temu.com
+0.0.0.0 affiliate.temu.com
+0.0.0.0 affiliates.temu.com
+0.0.0.0 commission.temu.com
+
+# AI and machine learning
+0.0.0.0 ai.temu.com
+0.0.0.0 ml.temu.com
+0.0.0.0 machinelearning.temu.com
+0.0.0.0 recommend.temu.com
+
+# Trust and safety
+0.0.0.0 trust.temu.com
+0.0.0.0 safety.temu.com
+0.0.0.0 security.temu.com
+0.0.0.0 verification.temu.com
+0.0.0.0 protection.temu.com
+
+# Financial services
+0.0.0.0 finance.temu.com
+0.0.0.0 credit.temu.com
+0.0.0.0 loan.temu.com
+0.0.0.0 insurance.temu.com
+
+# Marketplace insights
+0.0.0.0 insights.temu.com
+0.0.0.0 market.temu.com
+0.0.0.0 marketplace.temu.com
+0.0.0.0 trends.temu.com
+0.0.0.0 pulse.temu.com
+
+# Customer service features
+0.0.0.0 chat.temu.com
+0.0.0.0 livechat.temu.com
+0.0.0.0 message.temu.com
+0.0.0.0 messenger.temu.com
+
+# Coupon and rewards
+0.0.0.0 coupon.temu.com
+0.0.0.0 coupons.temu.com
+0.0.0.0 rewards.temu.com
+0.0.0.0 points.temu.com
+0.0.0.0 cashback.temu.com
+0.0.0.0 credit-temu.com
+
+# Referral and social features
+0.0.0.0 referral.temu.com
+0.0.0.0 refer.temu.com
+0.0.0.0 invite.temu.com
+0.0.0.0 friend.temu.com
+0.0.0.0 friends.temu.com
+
+# Live streaming and video
+0.0.0.0 live.temu.com
+0.0.0.0 stream.temu.com
+0.0.0.0 broadcast.temu.com
+0.0.0.0 video-live.temu.com
+
+# Team purchase features
+0.0.0.0 team.temu.com
+0.0.0.0 group.temu.com
+0.0.0.0 bulk.temu.com
+0.0.0.0 wholesale.temu.com
+
+# PDD Holdings infrastructure
+0.0.0.0 pdd.temu.com
+0.0.0.0 pinduoduo.temu.com
+
+# Quality and inspection
+0.0.0.0 quality.temu.com
+0.0.0.0 inspection.temu.com
+0.0.0.0 guarantee.temu.com 

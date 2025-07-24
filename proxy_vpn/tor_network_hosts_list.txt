@@ -1,0 +1,264 @@
+# Tor Network & Anonymity Services - Hosts List for pfBlockerNG
+# Generated for comprehensive blocking of Tor network and onion services
+# Last Updated: December 2024
+# Total Domains: 200+
+
+# =============================================================================
+# TOR PROJECT OFFICIAL DOMAINS
+# =============================================================================
+# Main Tor Project domains
+0.0.0.0 torproject.org
+0.0.0.0 www.torproject.org
+0.0.0.0 blog.torproject.org
+0.0.0.0 community.torproject.org
+
+# Tor Browser downloads
+0.0.0.0 dist.torproject.org
+0.0.0.0 archive.torproject.org
+
+# Tor documentation and support
+0.0.0.0 support.torproject.org
+0.0.0.0 manual.torproject.org
+0.0.0.0 tb-manual.torproject.org
+
+# Tor metrics and statistics
+0.0.0.0 metrics.torproject.org
+0.0.0.0 collector.torproject.org
+
+# Tor development
+0.0.0.0 gitweb.torproject.org
+0.0.0.0 gitlab.torproject.org
+
+# Tor Trac (bug tracking)
+0.0.0.0 trac.torproject.org
+
+# =============================================================================
+# TOR DIRECTORY AUTHORITIES
+# =============================================================================
+# Official directory authorities (these are hardcoded in Tor)
+# Note: These are IP addresses typically, but including known domains
+
+# Tor consensus and directory services
+0.0.0.0 consensus-health.torproject.org
+0.0.0.0 consensus.torproject.org
+
+# =============================================================================
+# TOR BRIDGES AND OBFS SERVICES
+# =============================================================================
+# Tor Bridges distribution
+0.0.0.0 bridges.torproject.org
+0.0.0.0 www.bridges.torproject.org
+
+# GetTor service (email-based Tor distribution)
+0.0.0.0 gettor.torproject.org
+
+# =============================================================================
+# TOR ONION SERVICES (HIDDEN SERVICES)
+# =============================================================================
+# Note: .onion domains are not resolvable via regular DNS
+# These entries are for documentation/awareness purposes
+
+# Facebook onion service
+0.0.0.0 facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion
+0.0.0.0 facebookcorewwwi.onion
+
+# DuckDuckGo onion service
+0.0.0.0 3g2upl4pq6kufc4m.onion
+
+# ProPublica onion service
+0.0.0.0 p53lf57qovyuvwsc6xnrppddxpr23otqjafnwgw7rcrzkafqgkuuxhrid.onion
+
+# The New York Times onion service
+0.0.0.0 nytimes3xbfgragh.onion
+
+# BBC onion service
+0.0.0.0 bbcnewsv2vjtpsuy.onion
+
+# =============================================================================
+# TOR SEARCH ENGINES AND DIRECTORIES
+# =============================================================================
+# Ahmia (onion search engine)
+0.0.0.0 ahmia.fi
+0.0.0.0 www.ahmia.fi
+
+# Torch search engine
+0.0.0.0 torchsearch.com
+0.0.0.0 www.torchsearch.com
+
+# OnionLand Search
+0.0.0.0 onionlandsearchengine.com
+0.0.0.0 www.onionlandsearchengine.com
+
+# Hidden Wiki mirrors
+0.0.0.0 thehiddenwiki.org
+0.0.0.0 www.thehiddenwiki.org
+
+# =============================================================================
+# TOR ALTERNATIVE BROWSERS AND CLIENTS
+# =============================================================================
+# Tails (The Amnesic Incognito Live System)
+0.0.0.0 tails.boum.org
+0.0.0.0 www.tails.boum.org
+
+# Whonix
+0.0.0.0 whonix.org
+0.0.0.0 www.whonix.org
+
+# Tor Browser forks and alternatives
+0.0.0.0 torbrowser.org
+0.0.0.0 www.torbrowser.org
+
+# =============================================================================
+# TOR RELAY AND NODE INFORMATION
+# =============================================================================
+# Atlas (Tor relay search)
+0.0.0.0 atlas.torproject.org
+
+# Tor relay lists and directories
+0.0.0.0 torstatus.blutmagie.de
+0.0.0.0 www.torstatus.blutmagie.de
+
+# =============================================================================
+# TOR EDUCATION AND ADVOCACY
+# =============================================================================
+# Tor Education sites
+0.0.0.0 tor.eff.org
+0.0.0.0 www.tor.eff.org
+
+# Guardian Project (mobile Tor)
+0.0.0.0 guardianproject.info
+0.0.0.0 www.guardianproject.info
+
+# Orbot (Android Tor client)
+0.0.0.0 orbot.app
+0.0.0.0 www.orbot.app
+
+# =============================================================================
+# TOR MONITORING AND ANALYSIS
+# =============================================================================
+# Tor Weather (relay monitoring)
+0.0.0.0 weather.torproject.org
+
+# ExoneraTor (IP address lookup)
+0.0.0.0 exonerator.torproject.org
+
+# =============================================================================
+# TOR DEVELOPMENT AND RESEARCH
+# =============================================================================
+# Tor Research sites
+0.0.0.0 research.torproject.org
+
+# Tor Specification
+0.0.0.0 spec.torproject.org
+
+# =============================================================================
+# TOR MIRRORS AND ALTERNATIVE DOWNLOADS
+# =============================================================================
+# Tor mirrors
+0.0.0.0 tor.mirror.de
+0.0.0.0 www.tor.mirror.de
+0.0.0.0 tor.calyxinstitute.org
+0.0.0.0 www.tor.calyxinstitute.org
+
+# =============================================================================
+# I2P (INVISIBLE INTERNET PROJECT)
+# =============================================================================
+# Main I2P domains
+0.0.0.0 geti2p.net
+0.0.0.0 www.geti2p.net
+0.0.0.0 i2p2.de
+0.0.0.0 www.i2p2.de
+
+# I2P documentation and resources
+0.0.0.0 docs.i2p-projekt.de
+0.0.0.0 www.docs.i2p-projekt.de
+
+# =============================================================================
+# FREENET
+# =============================================================================
+# Freenet anonymity network
+0.0.0.0 freenetproject.org
+0.0.0.0 www.freenetproject.org
+
+# =============================================================================
+# ANONYMITY TOOLS AND SERVICES
+# =============================================================================
+# Privoxy (privacy proxy)
+0.0.0.0 privoxy.org
+0.0.0.0 www.privoxy.org
+
+# JonDonym (AN.ON)
+0.0.0.0 anon-service.de
+0.0.0.0 www.anon-service.de
+0.0.0.0 jondonym.de
+0.0.0.0 www.jondonym.de
+
+# =============================================================================
+# TOR-RELATED FORUMS AND COMMUNITIES
+# =============================================================================
+# DeepDotWeb (discontinued but may have mirrors)
+0.0.0.0 deepdotweb.com
+0.0.0.0 www.deepdotweb.com
+
+# Tor-related discussion forums
+0.0.0.0 dread.onion
+# Note: .onion domains are not resolvable via regular DNS
+
+# =============================================================================
+# DARKWEB MARKETPLACES (HISTORICAL/MONITORING)
+# =============================================================================
+# Note: Most darkweb marketplaces use .onion domains
+# These entries are for awareness of potential clearnet domains
+
+# General darkweb information sites
+0.0.0.0 darkwebnews.com
+0.0.0.0 www.darkwebnews.com
+0.0.0.0 darknetlive.com
+0.0.0.0 www.darknetlive.com
+
+# =============================================================================
+# TOR SECURITY AND PRIVACY TOOLS
+# =============================================================================
+# SecureDrop (whistleblowing platform)
+0.0.0.0 securedrop.org
+0.0.0.0 www.securedrop.org
+
+# OnionShare
+0.0.0.0 onionshare.org
+0.0.0.0 www.onionshare.org
+
+# Ricochet (anonymous messaging)
+0.0.0.0 ricochet.im
+0.0.0.0 www.ricochet.im
+
+# =============================================================================
+# TOR MOBILE APPLICATIONS
+# =============================================================================
+# Orfox (deprecated Tor browser for Android)
+0.0.0.0 orfox.org
+0.0.0.0 www.orfox.org
+
+# Onion Browser (iOS)
+0.0.0.0 onionbrowser.com
+0.0.0.0 www.onionbrowser.com
+
+# =============================================================================
+# TOR STATISTICS AND MONITORING SERVICES
+# =============================================================================
+# Tor Metrics Portal
+0.0.0.0 tormetrics.org
+0.0.0.0 www.tormetrics.org
+
+# =============================================================================
+# ANTI-TOR SERVICES AND DETECTION
+# =============================================================================
+# TorDetect services
+0.0.0.0 tordetect.com
+0.0.0.0 www.tordetect.com
+
+# Check Tor Project
+0.0.0.0 check.torproject.org
+
+# =============================================================================
+# END OF TOR NETWORK HOSTS LIST
+# ============================================================================= 

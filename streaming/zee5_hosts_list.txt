@@ -1,0 +1,404 @@
+# ZEE5 - Zee Entertainment Enterprises streaming platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 zee5.com
+0.0.0.0 www.zee5.com
+
+# Regional and global domains
+0.0.0.0 zee5.global
+0.0.0.0 comingsoon.zee5.com
+
+# Mobile and app related
+0.0.0.0 m.zee5.com
+0.0.0.0 mobile.zee5.com
+0.0.0.0 app.zee5.com
+0.0.0.0 apps.zee5.com
+0.0.0.0 android.zee5.com
+0.0.0.0 ios.zee5.com
+
+# API endpoints
+0.0.0.0 api.zee5.com
+0.0.0.0 gateway.zee5.com
+0.0.0.0 data.zee5.com
+0.0.0.0 oauth.zee5.com
+0.0.0.0 auth.zee5.com
+
+# User authentication and accounts
+0.0.0.0 accounts.zee5.com
+0.0.0.0 signin.zee5.com
+0.0.0.0 login.zee5.com
+0.0.0.0 myaccount.zee5.com
+0.0.0.0 profile.zee5.com
+0.0.0.0 profiles.zee5.com
+
+# Video streaming and playback
+0.0.0.0 video.zee5.com
+0.0.0.0 videos.zee5.com
+0.0.0.0 streaming.zee5.com
+0.0.0.0 stream.zee5.com
+0.0.0.0 player.zee5.com
+0.0.0.0 playback.zee5.com
+
+# Content delivery and assets
+0.0.0.0 cdn.zee5.com
+0.0.0.0 assets.zee5.com
+0.0.0.0 images.zee5.com
+0.0.0.0 thumbnails.zee5.com
+0.0.0.0 artwork.zee5.com
+0.0.0.0 content.zee5.com
+
+# Search and discovery
+0.0.0.0 search.zee5.com
+0.0.0.0 discover.zee5.com
+0.0.0.0 browse.zee5.com
+0.0.0.0 catalog.zee5.com
+0.0.0.0 titles.zee5.com
+
+# ZEE5 Analytics and tracking
+0.0.0.0 analytics.zee5.com
+0.0.0.0 tracking.zee5.com
+0.0.0.0 metrics.zee5.com
+0.0.0.0 stats.zee5.com
+0.0.0.0 insights.zee5.com
+
+# DRM and licensing
+0.0.0.0 drm.zee5.com
+0.0.0.0 license.zee5.com
+0.0.0.0 widevine.zee5.com
+0.0.0.0 playready.zee5.com
+
+# Adaptive streaming
+0.0.0.0 dash.zee5.com
+0.0.0.0 hls.zee5.com
+0.0.0.0 manifest.zee5.com
+0.0.0.0 manifests.zee5.com
+
+# Downloads and offline
+0.0.0.0 download.zee5.com
+0.0.0.0 downloads.zee5.com
+0.0.0.0 offline.zee5.com
+
+# Live TV and sports
+0.0.0.0 live.zee5.com
+0.0.0.0 livetv.zee5.com
+0.0.0.0 sports.zee5.com
+0.0.0.0 cricket.zee5.com
+
+# News content
+0.0.0.0 news.zee5.com
+
+# Premium and subscription services
+0.0.0.0 premium.zee5.com
+0.0.0.0 subscription.zee5.com
+0.0.0.0 subscriptions.zee5.com
+
+# Kids and family
+0.0.0.0 kids.zee5.com
+0.0.0.0 family.zee5.com
+0.0.0.0 junior.zee5.com
+
+# Smart TV and device specific
+0.0.0.0 tv.zee5.com
+0.0.0.0 firetv.zee5.com
+0.0.0.0 roku.zee5.com
+0.0.0.0 chromecast.zee5.com
+0.0.0.0 appletv.zee5.com
+0.0.0.0 smarttv.zee5.com
+
+# Gaming console integration
+0.0.0.0 xbox.zee5.com
+0.0.0.0 playstation.zee5.com
+0.0.0.0 nintendo.zee5.com
+
+# Support and help
+0.0.0.0 help.zee5.com
+0.0.0.0 support.zee5.com
+0.0.0.0 customer.zee5.com
+
+# Settings and preferences
+0.0.0.0 settings.zee5.com
+0.0.0.0 preferences.zee5.com
+0.0.0.0 config.zee5.com
+
+# Watch history and recommendations
+0.0.0.0 history.zee5.com
+0.0.0.0 watchlist.zee5.com
+0.0.0.0 recommendations.zee5.com
+0.0.0.0 suggest.zee5.com
+
+# Social and sharing features
+0.0.0.0 social.zee5.com
+0.0.0.0 share.zee5.com
+0.0.0.0 sharing.zee5.com
+
+# Notifications and alerts
+0.0.0.0 notifications.zee5.com
+0.0.0.0 alerts.zee5.com
+0.0.0.0 messages.zee5.com
+
+# Billing and payments
+0.0.0.0 billing.zee5.com
+0.0.0.0 payment.zee5.com
+0.0.0.0 payments.zee5.com
+
+# Corporate and press
+0.0.0.0 about.zee5.com
+0.0.0.0 press.zee5.com
+0.0.0.0 media.zee5.com
+0.0.0.0 blog.zee5.com
+
+# Careers and jobs
+0.0.0.0 careers.zee5.com
+0.0.0.0 jobs.zee5.com
+
+# Testing and development
+0.0.0.0 test.zee5.com
+0.0.0.0 testing.zee5.com
+0.0.0.0 dev.zee5.com
+0.0.0.0 staging.zee5.com
+0.0.0.0 beta.zee5.com
+
+# Internal and corporate
+0.0.0.0 internal.zee5.com
+0.0.0.0 corp.zee5.com
+
+# Load balancing and infrastructure
+0.0.0.0 lb.zee5.com
+0.0.0.0 proxy.zee5.com
+0.0.0.0 cache.zee5.com
+
+# Security
+0.0.0.0 security.zee5.com
+0.0.0.0 secure.zee5.com
+0.0.0.0 2fa.zee5.com
+
+# Performance and optimization
+0.0.0.0 performance.zee5.com
+0.0.0.0 optimization.zee5.com
+0.0.0.0 speed.zee5.com
+
+# AI and machine learning
+0.0.0.0 ai.zee5.com
+0.0.0.0 ml.zee5.com
+
+# Video quality and encoding
+0.0.0.0 encoding.zee5.com
+0.0.0.0 hd.zee5.com
+0.0.0.0 4k.zee5.com
+0.0.0.0 uhd.zee5.com
+0.0.0.0 hdr.zee5.com
+0.0.0.0 dolby.zee5.com
+
+# Subtitles and localization
+0.0.0.0 subtitles.zee5.com
+0.0.0.0 captions.zee5.com
+0.0.0.0 localization.zee5.com
+0.0.0.0 translate.zee5.com
+0.0.0.0 i18n.zee5.com
+
+# Accessibility
+0.0.0.0 accessibility.zee5.com
+0.0.0.0 a11y.zee5.com
+
+# Parental controls
+0.0.0.0 parental.zee5.com
+0.0.0.0 controls.zee5.com
+
+# Reviews and ratings
+0.0.0.0 reviews.zee5.com
+0.0.0.0 ratings.zee5.com
+0.0.0.0 feedback.zee5.com
+
+# Documentation and guides
+0.0.0.0 docs.zee5.com
+0.0.0.0 guides.zee5.com
+0.0.0.0 help-center.zee5.com
+
+# Partner integration
+0.0.0.0 partners.zee5.com
+0.0.0.0 partner.zee5.com
+0.0.0.0 integration.zee5.com
+
+# Email and communications
+0.0.0.0 email.zee5.com
+0.0.0.0 mail.zee5.com
+0.0.0.0 communications.zee5.com
+
+# Legal and compliance
+0.0.0.0 legal.zee5.com
+0.0.0.0 terms.zee5.com
+0.0.0.0 privacy.zee5.com
+
+# Quality assurance
+0.0.0.0 quality.zee5.com
+0.0.0.0 qa.zee5.com
+0.0.0.0 qc.zee5.com
+
+# Monitoring and status
+0.0.0.0 status.zee5.com
+0.0.0.0 health.zee5.com
+0.0.0.0 monitoring.zee5.com
+
+# Tools and utilities
+0.0.0.0 tools.zee5.com
+0.0.0.0 utils.zee5.com
+0.0.0.0 utilities.zee5.com
+
+# Creator tools and resources
+0.0.0.0 creators.zee5.com
+0.0.0.0 filmmakers.zee5.com
+0.0.0.0 studios.zee5.com
+
+# Events and premieres
+0.0.0.0 events.zee5.com
+0.0.0.0 premieres.zee5.com
+0.0.0.0 screenings.zee5.com
+
+# Awards and recognition
+0.0.0.0 awards.zee5.com
+
+# Innovation and technology
+0.0.0.0 innovation.zee5.com
+0.0.0.0 technology.zee5.com
+0.0.0.0 tech.zee5.com
+
+# Research and experiments
+0.0.0.0 research.zee5.com
+0.0.0.0 experiments.zee5.com
+0.0.0.0 labs.zee5.com
+
+# Customer service
+0.0.0.0 service.zee5.com
+0.0.0.0 contact.zee5.com
+
+# Community features
+0.0.0.0 community.zee5.com
+0.0.0.0 forums.zee5.com
+
+# Geographic and location services
+0.0.0.0 geo.zee5.com
+0.0.0.0 location.zee5.com
+
+# Backup and redundancy
+0.0.0.0 backup.zee5.com
+0.0.0.0 failover.zee5.com
+
+# Configuration management
+0.0.0.0 config.zee5.com
+0.0.0.0 configuration.zee5.com
+
+# Data science and analytics
+0.0.0.0 datascience.zee5.com
+0.0.0.0 bigdata.zee5.com
+
+# Content moderation
+0.0.0.0 moderation.zee5.com
+0.0.0.0 safety.zee5.com
+
+# User experience
+0.0.0.0 ux.zee5.com
+0.0.0.0 ui.zee5.com
+0.0.0.0 design.zee5.com
+
+# Platform engineering
+0.0.0.0 platform.zee5.com
+0.0.0.0 engineering.zee5.com
+
+# Network operations
+0.0.0.0 network.zee5.com
+0.0.0.0 operations.zee5.com
+0.0.0.0 ops.zee5.com
+
+# Database services
+0.0.0.0 database.zee5.com
+0.0.0.0 db.zee5.com
+
+# Microservices
+0.0.0.0 microservices.zee5.com
+0.0.0.0 services.zee5.com
+
+# DevOps and deployment
+0.0.0.0 devops.zee5.com
+0.0.0.0 deployment.zee5.com
+0.0.0.0 deploy.zee5.com
+
+# Content protection and piracy
+0.0.0.0 protection.zee5.com
+0.0.0.0 antipiracy.zee5.com
+
+# Compliance and governance
+0.0.0.0 compliance.zee5.com
+0.0.0.0 governance.zee5.com
+
+# Risk management
+0.0.0.0 risk.zee5.com
+0.0.0.0 riskmanagement.zee5.com
+
+# Content acquisition and licensing
+0.0.0.0 acquisition.zee5.com
+0.0.0.0 licensing.zee5.com
+
+# International expansion
+0.0.0.0 global.zee5.com
+0.0.0.0 international.zee5.com
+
+# Financial services
+0.0.0.0 finance.zee5.com
+0.0.0.0 treasury.zee5.com
+
+# Partnerships and alliances
+0.0.0.0 alliances.zee5.com
+0.0.0.0 partnerships.zee5.com
+
+# Talent and recruitment
+0.0.0.0 talent.zee5.com
+0.0.0.0 recruitment.zee5.com
+
+# Culture and values
+0.0.0.0 culture.zee5.com
+0.0.0.0 values.zee5.com
+
+# Sustainability initiatives
+0.0.0.0 sustainability.zee5.com
+0.0.0.0 green.zee5.com
+
+# Diversity and inclusion
+0.0.0.0 diversity.zee5.com
+0.0.0.0 inclusion.zee5.com
+
+# Machine learning models
+0.0.0.0 models.zee5.com
+0.0.0.0 ml-models.zee5.com
+
+# Edge computing and CDN
+0.0.0.0 edge.zee5.com
+0.0.0.0 cdn1.zee5.com
+0.0.0.0 cdn2.zee5.com
+0.0.0.0 cdn3.zee5.com
+
+# Video transcoding and processing
+0.0.0.0 transcoding.zee5.com
+0.0.0.0 processing.zee5.com
+0.0.0.0 encoder.zee5.com
+
+# Educational content
+0.0.0.0 education.zee5.com
+0.0.0.0 edu.zee5.com
+
+# Merchandise and retail
+0.0.0.0 shop.zee5.com
+0.0.0.0 store.zee5.com
+0.0.0.0 merchandise.zee5.com
+
+# Music and audio
+0.0.0.0 music.zee5.com
+0.0.0.0 audio.zee5.com
+
+# Gaming integration
+0.0.0.0 games.zee5.com
+0.0.0.0 gaming.zee5.com
+
+# Zee Entertainment ecosystem
+0.0.0.0 zee.zee5.com
+0.0.0.0 entertainment.zee5.com
+0.0.0.0 zeel.zee5.com
+0.0.0.0 zeetv.zee5.com 

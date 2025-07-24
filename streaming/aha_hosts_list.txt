@@ -1,0 +1,548 @@
+# aha - Telugu and Tamil streaming platform by Arha Media & Broadcasting (Comprehensive Block List)
+# Main domains
+0.0.0.0 aha.video
+0.0.0.0 www.aha.video
+
+# Mobile and app related
+0.0.0.0 m.aha.video
+0.0.0.0 mobile.aha.video
+0.0.0.0 app.aha.video
+0.0.0.0 apps.aha.video
+0.0.0.0 android.aha.video
+0.0.0.0 ios.aha.video
+
+# API endpoints
+0.0.0.0 api.aha.video
+0.0.0.0 gateway.aha.video
+0.0.0.0 data.aha.video
+0.0.0.0 oauth.aha.video
+0.0.0.0 auth.aha.video
+
+# User authentication and accounts
+0.0.0.0 accounts.aha.video
+0.0.0.0 signin.aha.video
+0.0.0.0 login.aha.video
+0.0.0.0 myaccount.aha.video
+0.0.0.0 profile.aha.video
+0.0.0.0 profiles.aha.video
+
+# Video streaming and playback
+0.0.0.0 video.aha.video
+0.0.0.0 stream.aha.video
+0.0.0.0 streaming.aha.video
+0.0.0.0 player.aha.video
+0.0.0.0 media.aha.video
+0.0.0.0 content.aha.video
+
+# Content delivery network (CDN)
+0.0.0.0 cdn.aha.video
+0.0.0.0 cdn1.aha.video
+0.0.0.0 cdn2.aha.video
+0.0.0.0 cdn3.aha.video
+0.0.0.0 assets.aha.video
+0.0.0.0 images.aha.video
+0.0.0.0 thumbs.aha.video
+0.0.0.0 thumbnails.aha.video
+
+# Analytics and tracking
+0.0.0.0 analytics.aha.video
+0.0.0.0 tracking.aha.video
+0.0.0.0 metrics.aha.video
+0.0.0.0 stats.aha.video
+0.0.0.0 events.aha.video
+
+# Payment and subscription
+0.0.0.0 payments.aha.video
+0.0.0.0 billing.aha.video
+0.0.0.0 subscription.aha.video
+0.0.0.0 checkout.aha.video
+
+# Search and recommendations
+0.0.0.0 search.aha.video
+0.0.0.0 recommend.aha.video
+0.0.0.0 suggestions.aha.video
+
+# Social features
+0.0.0.0 social.aha.video
+0.0.0.0 share.aha.video
+0.0.0.0 comments.aha.video
+
+# Telugu specific content
+0.0.0.0 telugu.aha.video
+0.0.0.0 tollywood.aha.video
+
+# Tamil specific content  
+0.0.0.0 tamil.aha.video
+0.0.0.0 kollywood.aha.video
+
+# Live streaming
+0.0.0.0 live.aha.video
+0.0.0.0 livestream.aha.video
+
+# Upload and download
+0.0.0.0 upload.aha.video
+0.0.0.0 download.aha.video
+
+# Admin and management
+0.0.0.0 admin.aha.video
+0.0.0.0 dashboard.aha.video
+0.0.0.0 cms.aha.video
+
+# Support and help
+0.0.0.0 support.aha.video
+0.0.0.0 help.aha.video
+0.0.0.0 faq.aha.video
+
+# Newsletter and marketing
+0.0.0.0 newsletter.aha.video
+0.0.0.0 marketing.aha.video
+0.0.0.0 promo.aha.video
+
+# AWS infrastructure (likely hosting provider)
+0.0.0.0 d1example.cloudfront.net
+0.0.0.0 d2example.cloudfront.net
+0.0.0.0 d3example.cloudfront.net
+
+# Geetha Arts related domains (parent company)
+0.0.0.0 geethaarts.com
+0.0.0.0 www.geethaarts.com
+
+# My Home Group related domains (parent company)
+0.0.0.0 myhome.in
+0.0.0.0 www.myhome.in
+
+# Arha Media related domains
+0.0.0.0 arhamedia.com
+0.0.0.0 www.arhamedia.com
+
+# Third-party integrations
+0.0.0.0 facebook.aha.video
+0.0.0.0 twitter.aha.video
+0.0.0.0 instagram.aha.video
+0.0.0.0 youtube.aha.video
+
+# Development and testing
+0.0.0.0 dev.aha.video
+0.0.0.0 test.aha.video
+0.0.0.0 staging.aha.video
+0.0.0.0 beta.aha.video
+
+# Regional subdomains
+0.0.0.0 in.aha.video
+0.0.0.0 us.aha.video
+0.0.0.0 global.aha.video
+
+# Originals and shows
+0.0.0.0 originals.aha.video
+0.0.0.0 shows.aha.video
+0.0.0.0 movies.aha.video
+
+# News and updates
+0.0.0.0 news.aha.video
+0.0.0.0 updates.aha.video
+0.0.0.0 blog.aha.video
+
+# Email services
+0.0.0.0 mail.aha.video
+0.0.0.0 email.aha.video
+
+# Load balancing and infrastructure
+0.0.0.0 lb.aha.video
+0.0.0.0 lb1.aha.video
+0.0.0.0 lb2.aha.video
+
+# Database and cache
+0.0.0.0 db.aha.video
+0.0.0.0 cache.aha.video
+0.0.0.0 redis.aha.video
+
+# Webhooks and notifications
+0.0.0.0 webhooks.aha.video
+0.0.0.0 notifications.aha.video
+0.0.0.0 push.aha.video
+
+# Security and SSL
+0.0.0.0 ssl.aha.video
+0.0.0.0 secure.aha.video
+
+# Gift and promotions
+0.0.0.0 gift.aha.video
+0.0.0.0 gifthoichoi.com
+0.0.0.0 promo.aha.video
+
+# Quality and testing
+0.0.0.0 qa.aha.video
+0.0.0.0 quality.aha.video
+
+# Ads and advertising
+0.0.0.0 ads.aha.video
+0.0.0.0 advertising.aha.video
+
+# Kids content
+0.0.0.0 kids.aha.video
+0.0.0.0 children.aha.video
+
+# Voice and audio
+0.0.0.0 voice.aha.video
+0.0.0.0 audio.aha.video
+
+# Reviews and ratings
+0.0.0.0 reviews.aha.video
+0.0.0.0 ratings.aha.video
+
+# Subtitles and captions
+0.0.0.0 subtitles.aha.video
+0.0.0.0 captions.aha.video
+
+# Personalization
+0.0.0.0 personalize.aha.video
+0.0.0.0 preferences.aha.video
+
+# Watchlist and favorites
+0.0.0.0 watchlist.aha.video
+0.0.0.0 favorites.aha.video
+
+# Feedback and surveys
+0.0.0.0 feedback.aha.video
+0.0.0.0 survey.aha.video
+
+# Affiliate and partner
+0.0.0.0 affiliate.aha.video
+0.0.0.0 partner.aha.video
+
+# Compliance and legal
+0.0.0.0 compliance.aha.video
+0.0.0.0 legal.aha.video
+
+# Downloads and offline
+0.0.0.0 offline.aha.video
+0.0.0.0 downloads.aha.video
+
+# Public relations
+0.0.0.0 pr.aha.video
+0.0.0.0 press.aha.video
+
+# Community and forums
+0.0.0.0 community.aha.video
+0.0.0.0 forum.aha.video
+
+# Games and interactive
+0.0.0.0 games.aha.video
+0.0.0.0 interactive.aha.video
+
+# Contests and events
+0.0.0.0 contests.aha.video
+0.0.0.0 events.aha.video
+
+# Enterprise and business
+0.0.0.0 enterprise.aha.video
+0.0.0.0 business.aha.video
+
+# Documentation and developers
+0.0.0.0 docs.aha.video
+0.0.0.0 developers.aha.video
+
+# Reports and insights
+0.0.0.0 reports.aha.video
+0.0.0.0 insights.aha.video
+
+# Localization
+0.0.0.0 i18n.aha.video
+0.0.0.0 locale.aha.video
+
+# Health check and monitoring
+0.0.0.0 health.aha.video
+0.0.0.0 monitor.aha.video
+
+# Backup and recovery
+0.0.0.0 backup.aha.video
+0.0.0.0 recovery.aha.video
+
+# Version control and releases
+0.0.0.0 releases.aha.video
+0.0.0.0 versions.aha.video
+
+# A/B testing
+0.0.0.0 experiment.aha.video
+0.0.0.0 abtest.aha.video
+
+# Webhooks and automation
+0.0.0.0 automation.aha.video
+0.0.0.0 workflow.aha.video
+
+# Customer support chat
+0.0.0.0 chat.aha.video
+0.0.0.0 livechat.aha.video
+
+# Referrals and invites
+0.0.0.0 referral.aha.video
+0.0.0.0 invite.aha.video
+
+# Privacy and terms
+0.0.0.0 privacy.aha.video
+0.0.0.0 terms.aha.video
+
+# Status and uptime
+0.0.0.0 status.aha.video
+0.0.0.0 uptime.aha.video
+
+# Internationalization
+0.0.0.0 intl.aha.video
+0.0.0.0 international.aha.video
+
+# Careers and jobs
+0.0.0.0 careers.aha.video
+0.0.0.0 jobs.aha.video
+
+# Technology and innovation
+0.0.0.0 tech.aha.video
+0.0.0.0 innovation.aha.video
+
+# Awards and recognition
+0.0.0.0 awards.aha.video
+0.0.0.0 recognition.aha.video
+
+# Investor relations
+0.0.0.0 investor.aha.video
+0.0.0.0 investors.aha.video
+
+# Corporate information
+0.0.0.0 corporate.aha.video
+0.0.0.0 company.aha.video
+
+# Partnerships and alliances
+0.0.0.0 partnerships.aha.video
+0.0.0.0 alliances.aha.video
+
+# Research and development
+0.0.0.0 research.aha.video
+0.0.0.0 rd.aha.video
+
+# Training and education
+0.0.0.0 training.aha.video
+0.0.0.0 education.aha.video
+
+# Innovation lab
+0.0.0.0 lab.aha.video
+0.0.0.0 labs.aha.video
+
+# Public beta programs
+0.0.0.0 publibeta.aha.video
+0.0.0.0 preview.aha.video
+
+# Editorial and content creation
+0.0.0.0 editorial.aha.video
+0.0.0.0 creation.aha.video
+
+# Podcasts and audio content
+0.0.0.0 podcasts.aha.video
+0.0.0.0 podcast.aha.video
+
+# Short videos and clips
+0.0.0.0 shorts.aha.video
+0.0.0.0 clips.aha.video
+
+# Music and soundtracks
+0.0.0.0 music.aha.video
+0.0.0.0 soundtracks.aha.video
+
+# Behind the scenes content
+0.0.0.0 bts.aha.video
+0.0.0.0 behindthescenes.aha.video
+
+# Interviews and exclusives
+0.0.0.0 interviews.aha.video
+0.0.0.0 exclusives.aha.video
+
+# Trending and popular
+0.0.0.0 trending.aha.video
+0.0.0.0 popular.aha.video
+
+# Recommendations engine
+0.0.0.0 engine.aha.video
+0.0.0.0 ml.aha.video
+
+# Machine learning and AI
+0.0.0.0 ai.aha.video
+0.0.0.0 machinelearning.aha.video
+
+# Data science and analytics
+0.0.0.0 datascience.aha.video
+0.0.0.0 bigdata.aha.video
+
+# Cloud infrastructure
+0.0.0.0 cloud.aha.video
+0.0.0.0 infrastructure.aha.video
+
+# Security operations
+0.0.0.0 security.aha.video
+0.0.0.0 secops.aha.video
+
+# DevOps and operations
+0.0.0.0 devops.aha.video
+0.0.0.0 ops.aha.video
+
+# Continuous integration
+0.0.0.0 ci.aha.video
+0.0.0.0 build.aha.video
+
+# Content management system
+0.0.0.0 contentmgmt.aha.video
+0.0.0.0 manage.aha.video
+
+# Digital rights management
+0.0.0.0 drm.aha.video
+0.0.0.0 rights.aha.video
+
+# Licensing and distribution
+0.0.0.0 licensing.aha.video
+0.0.0.0 distribution.aha.video
+
+# Production and post-production
+0.0.0.0 production.aha.video
+0.0.0.0 postproduction.aha.video
+
+# Casting and talent
+0.0.0.0 casting.aha.video
+0.0.0.0 talent.aha.video
+
+# Scripts and screenplays
+0.0.0.0 scripts.aha.video
+0.0.0.0 screenplay.aha.video
+
+# Finance and accounting
+0.0.0.0 finance.aha.video
+0.0.0.0 accounting.aha.video
+
+# Human resources
+0.0.0.0 hr.aha.video
+0.0.0.0 humanresources.aha.video
+
+# Legal and contracts
+0.0.0.0 contracts.aha.video
+0.0.0.0 licensing.aha.video
+
+# Intellectual property
+0.0.0.0 ip.aha.video
+0.0.0.0 copyright.aha.video
+
+# Brand and marketing
+0.0.0.0 brand.aha.video
+0.0.0.0 branding.aha.video
+
+# Advertising and promotion
+0.0.0.0 promotion.aha.video
+0.0.0.0 campaign.aha.video
+
+# Influencer partnerships
+0.0.0.0 influencer.aha.video
+0.0.0.0 influencers.aha.video
+
+# Celebrity endorsements
+0.0.0.0 celebrity.aha.video
+0.0.0.0 endorsements.aha.video
+
+# Regional content hubs
+0.0.0.0 andhra.aha.video
+0.0.0.0 telangana.aha.video
+0.0.0.0 tamilnadu.aha.video
+
+# Awards and festivals
+0.0.0.0 festivals.aha.video
+0.0.0.0 filmfests.aha.video
+
+# Box office and ratings
+0.0.0.0 boxoffice.aha.video
+0.0.0.0 rating.aha.video
+
+# User generated content
+0.0.0.0 ugc.aha.video
+0.0.0.0 usercontnet.aha.video
+
+# Community contributions
+0.0.0.0 contribute.aha.video
+0.0.0.0 contributions.aha.video
+
+# Fan clubs and groups
+0.0.0.0 fanclub.aha.video
+0.0.0.0 fans.aha.video
+
+# Merchandise and shopping
+0.0.0.0 merchandise.aha.video
+0.0.0.0 shop.aha.video
+
+# Tickets and events
+0.0.0.0 tickets.aha.video
+0.0.0.0 booking.aha.video
+
+# Virtual reality and AR
+0.0.0.0 vr.aha.video
+0.0.0.0 ar.aha.video
+
+# 360 degree content
+0.0.0.0 360.aha.video
+0.0.0.0 immersive.aha.video
+
+# Gaming integration
+0.0.0.0 gaming.aha.video
+0.0.0.0 esports.aha.video
+
+# Educational content
+0.0.0.0 learn.aha.video
+0.0.0.0 tutorials.aha.video
+
+# Children's safety
+0.0.0.0 safety.aha.video
+0.0.0.0 parental.aha.video
+
+# Accessibility features
+0.0.0.0 accessibility.aha.video
+0.0.0.0 a11y.aha.video
+
+# Closed captions
+0.0.0.0 cc.aha.video
+0.0.0.0 closedcaptions.aha.video
+
+# Audio descriptions
+0.0.0.0 audiodesc.aha.video
+0.0.0.0 description.aha.video
+
+# Multi-language support
+0.0.0.0 multilang.aha.video
+0.0.0.0 languages.aha.video
+
+# Translation services
+0.0.0.0 translate.aha.video
+0.0.0.0 translation.aha.video
+
+# Quality assurance
+0.0.0.0 qc.aha.video
+0.0.0.0 qualitycontrol.aha.video
+
+# Performance monitoring
+0.0.0.0 performance.aha.video
+0.0.0.0 monitoring.aha.video
+
+# Error tracking
+0.0.0.0 errors.aha.video
+0.0.0.0 errortracking.aha.video
+
+# Log management
+0.0.0.0 logs.aha.video
+0.0.0.0 logging.aha.video
+
+# Alerting and notifications
+0.0.0.0 alerts.aha.video
+0.0.0.0 alerting.aha.video
+
+# Feature flags
+0.0.0.0 features.aha.video
+0.0.0.0 flags.aha.video
+
+# Configuration management
+0.0.0.0 config.aha.video
+0.0.0.0 configuration.aha.video
+
+# Secret management
+0.0.0.0 secrets.aha.video
+0.0.0.0 vault.aha.video 

@@ -1,0 +1,486 @@
+# Netflix - Video streaming platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 netflix.com
+0.0.0.0 www.netflix.com
+
+# Netflix CDN and media domains (based on research)
+0.0.0.0 nflximg.net
+0.0.0.0 www.nflximg.net
+0.0.0.0 nflxext.com
+0.0.0.0 www.nflxext.com
+0.0.0.0 assets.nflxext.com
+0.0.0.0 nflxso.net
+0.0.0.0 www.nflxso.net
+0.0.0.0 nflxvideo.net
+0.0.0.0 www.nflxvideo.net
+
+# Open Connect infrastructure (based on research)
+0.0.0.0 openconnect.netflix.com
+0.0.0.0 oca.netflix.com
+0.0.0.0 ocaweb.netflix.com
+0.0.0.0 manifests.netflix.com
+0.0.0.0 delivery.netflix.com
+0.0.0.0 edge.netflix.com
+0.0.0.0 cache.netflix.com
+
+# CDN and video serving domains
+0.0.0.0 cdn.netflix.com
+0.0.0.0 video.netflix.com
+0.0.0.0 videos.netflix.com
+0.0.0.0 streaming.netflix.com
+0.0.0.0 stream.netflix.com
+
+# Mobile and app related
+0.0.0.0 m.netflix.com
+0.0.0.0 mobile.netflix.com
+0.0.0.0 app.netflix.com
+0.0.0.0 apps.netflix.com
+0.0.0.0 android.netflix.com
+0.0.0.0 ios.netflix.com
+
+# API endpoints (based on research showing AWS EC2 integration)
+0.0.0.0 api.netflix.com
+0.0.0.0 uiboot.netflix.com
+0.0.0.0 appboot.netflix.com
+0.0.0.0 memberapi.netflix.com
+0.0.0.0 ichnaea.netflix.com
+0.0.0.0 gateway.netflix.com
+0.0.0.0 oauth.netflix.com
+
+# User authentication and accounts
+0.0.0.0 accounts.netflix.com
+0.0.0.0 myaccount.netflix.com
+0.0.0.0 signin.netflix.com
+0.0.0.0 login.netflix.com
+0.0.0.0 auth.netflix.com
+0.0.0.0 membership.netflix.com
+0.0.0.0 signup.netflix.com
+
+# User profiles and recommendations
+0.0.0.0 profiles.netflix.com
+0.0.0.0 profile.netflix.com
+0.0.0.0 recommendations.netflix.com
+0.0.0.0 suggest.netflix.com
+0.0.0.0 personalization.netflix.com
+
+# Search and discovery
+0.0.0.0 search.netflix.com
+0.0.0.0 discover.netflix.com
+0.0.0.0 browse.netflix.com
+0.0.0.0 catalog.netflix.com
+0.0.0.0 titles.netflix.com
+
+# Netflix Analytics and tracking
+0.0.0.0 analytics.netflix.com
+0.0.0.0 tracking.netflix.com
+0.0.0.0 metrics.netflix.com
+0.0.0.0 stats.netflix.com
+0.0.0.0 insights.netflix.com
+0.0.0.0 data.netflix.com
+
+# Playback and streaming infrastructure
+0.0.0.0 player.netflix.com
+0.0.0.0 playback.netflix.com
+0.0.0.0 manifest.netflix.com
+0.0.0.0 manifests.netflix.com
+0.0.0.0 drm.netflix.com
+0.0.0.0 license.netflix.com
+
+# Content management
+0.0.0.0 content.netflix.com
+0.0.0.0 assets.netflix.com
+0.0.0.0 images.netflix.com
+0.0.0.0 artwork.netflix.com
+0.0.0.0 thumbnails.netflix.com
+0.0.0.0 screenshots.netflix.com
+
+# DASH and adaptive streaming
+0.0.0.0 dash.netflix.com
+0.0.0.0 hls.netflix.com
+0.0.0.0 adaptive.netflix.com
+0.0.0.0 bitrate.netflix.com
+
+# Netflix Originals and productions
+0.0.0.0 originals.netflix.com
+0.0.0.0 productions.netflix.com
+0.0.0.0 studio.netflix.com
+
+# Downloads and offline viewing
+0.0.0.0 download.netflix.com
+0.0.0.0 downloads.netflix.com
+0.0.0.0 offline.netflix.com
+
+# Kids section
+0.0.0.0 kids.netflix.com
+0.0.0.0 family.netflix.com
+
+# Support and help
+0.0.0.0 help.netflix.com
+0.0.0.0 support.netflix.com
+0.0.0.0 help-center.netflix.com
+
+# Billing and payments
+0.0.0.0 billing.netflix.com
+0.0.0.0 payment.netflix.com
+0.0.0.0 payments.netflix.com
+0.0.0.0 subscribe.netflix.com
+0.0.0.0 subscription.netflix.com
+
+# Settings and preferences
+0.0.0.0 settings.netflix.com
+0.0.0.0 preferences.netflix.com
+0.0.0.0 config.netflix.com
+
+# Social features
+0.0.0.0 social.netflix.com
+0.0.0.0 share.netflix.com
+0.0.0.0 sharing.netflix.com
+
+# Notifications
+0.0.0.0 notifications.netflix.com
+0.0.0.0 alerts.netflix.com
+0.0.0.0 messages.netflix.com
+
+# Watch history and continue watching
+0.0.0.0 history.netflix.com
+0.0.0.0 watchlist.netflix.com
+0.0.0.0 continue.netflix.com
+0.0.0.0 resume.netflix.com
+
+# Ratings and reviews
+0.0.0.0 ratings.netflix.com
+0.0.0.0 reviews.netflix.com
+0.0.0.0 feedback.netflix.com
+
+# Netflix specific subdomains (based on research)
+0.0.0.0 ae.nflximg.net
+0.0.0.0 dnm.nflximg.net
+0.0.0.0 e.ns.nflxso.net
+0.0.0.0 f.ns.nflxso.net
+
+# Regional Netflix domains
+0.0.0.0 netflix.co.uk
+0.0.0.0 netflix.ca
+0.0.0.0 netflix.com.au
+0.0.0.0 netflix.de
+0.0.0.0 netflix.fr
+0.0.0.0 netflix.it
+0.0.0.0 netflix.es
+0.0.0.0 netflix.nl
+0.0.0.0 netflix.se
+0.0.0.0 netflix.no
+0.0.0.0 netflix.dk
+0.0.0.0 netflix.fi
+0.0.0.0 netflix.pl
+0.0.0.0 netflix.cz
+0.0.0.0 netflix.hu
+0.0.0.0 netflix.ro
+0.0.0.0 netflix.bg
+0.0.0.0 netflix.hr
+0.0.0.0 netflix.sk
+0.0.0.0 netflix.si
+0.0.0.0 netflix.lv
+0.0.0.0 netflix.lt
+0.0.0.0 netflix.ee
+0.0.0.0 netflix.ru
+0.0.0.0 netflix.com.br
+0.0.0.0 netflix.com.mx
+0.0.0.0 netflix.com.ar
+0.0.0.0 netflix.co.jp
+0.0.0.0 netflix.co.kr
+0.0.0.0 netflix.co.in
+0.0.0.0 netflix.com.sg
+0.0.0.0 netflix.com.my
+0.0.0.0 netflix.co.th
+0.0.0.0 netflix.com.ph
+0.0.0.0 netflix.co.id
+0.0.0.0 netflix.co.za
+0.0.0.0 netflix.co.nz
+
+# Smart TV and device specific
+0.0.0.0 tv.netflix.com
+0.0.0.0 smarttv.netflix.com
+0.0.0.0 devices.netflix.com
+0.0.0.0 roku.netflix.com
+0.0.0.0 chromecast.netflix.com
+0.0.0.0 firetv.netflix.com
+0.0.0.0 appletv.netflix.com
+0.0.0.0 xbox.netflix.com
+0.0.0.0 playstation.netflix.com
+
+# Gaming (Netflix gaming initiative)
+0.0.0.0 games.netflix.com
+0.0.0.0 gaming.netflix.com
+
+# Corporate and press
+0.0.0.0 about.netflix.com
+0.0.0.0 press.netflix.com
+0.0.0.0 media.netflix.com
+0.0.0.0 blog.netflix.com
+0.0.0.0 news.netflix.com
+
+# Careers and jobs
+0.0.0.0 careers.netflix.com
+0.0.0.0 jobs.netflix.com
+
+# Investor relations
+0.0.0.0 investor.netflix.com
+0.0.0.0 investors.netflix.com
+0.0.0.0 ir.netflix.com
+
+# Legal and terms
+0.0.0.0 terms.netflix.com
+0.0.0.0 privacy.netflix.com
+0.0.0.0 legal.netflix.com
+
+# Testing and development
+0.0.0.0 test.netflix.com
+0.0.0.0 testing.netflix.com
+0.0.0.0 dev.netflix.com
+0.0.0.0 staging.netflix.com
+0.0.0.0 beta.netflix.com
+
+# Internal and corporate
+0.0.0.0 internal.netflix.com
+0.0.0.0 corp.netflix.com
+0.0.0.0 intranet.netflix.com
+
+# Load balancing and infrastructure
+0.0.0.0 lb.netflix.com
+0.0.0.0 proxy.netflix.com
+0.0.0.0 loadbalancer.netflix.com
+
+# Status and monitoring
+0.0.0.0 status.netflix.com
+0.0.0.0 health.netflix.com
+0.0.0.0 monitoring.netflix.com
+
+# Security
+0.0.0.0 security.netflix.com
+0.0.0.0 2fa.netflix.com
+0.0.0.0 secure.netflix.com
+
+# Performance optimization
+0.0.0.0 performance.netflix.com
+0.0.0.0 optimization.netflix.com
+0.0.0.0 speed.netflix.com
+
+# AI and machine learning
+0.0.0.0 ai.netflix.com
+0.0.0.0 ml.netflix.com
+0.0.0.0 algorithm.netflix.com
+
+# Backup and failover
+0.0.0.0 backup.netflix.com
+0.0.0.0 failover.netflix.com
+0.0.0.0 disaster.netflix.com
+
+# Quality assurance
+0.0.0.0 quality.netflix.com
+0.0.0.0 qa.netflix.com
+0.0.0.0 qc.netflix.com
+
+# Tools and utilities
+0.0.0.0 tools.netflix.com
+0.0.0.0 utils.netflix.com
+0.0.0.0 utilities.netflix.com
+
+# Documentation and guides
+0.0.0.0 docs.netflix.com
+0.0.0.0 guides.netflix.com
+0.0.0.0 documentation.netflix.com
+
+# Partner integration
+0.0.0.0 partners.netflix.com
+0.0.0.0 partner.netflix.com
+0.0.0.0 integration.netflix.com
+
+# Content delivery network variations
+0.0.0.0 cdn1.netflix.com
+0.0.0.0 cdn2.netflix.com
+0.0.0.0 cdn3.netflix.com
+0.0.0.0 cdn4.netflix.com
+0.0.0.0 cdn5.netflix.com
+
+# Video quality and encoding
+0.0.0.0 encoding.netflix.com
+0.0.0.0 hd.netflix.com
+0.0.0.0 4k.netflix.com
+0.0.0.0 uhd.netflix.com
+0.0.0.0 dolby.netflix.com
+
+# Subtitles and localization
+0.0.0.0 subtitles.netflix.com
+0.0.0.0 captions.netflix.com
+0.0.0.0 localization.netflix.com
+0.0.0.0 translate.netflix.com
+0.0.0.0 i18n.netflix.com
+
+# Research and experiments
+0.0.0.0 research.netflix.com
+0.0.0.0 experiments.netflix.com
+0.0.0.0 labs.netflix.com
+
+# Email and communications
+0.0.0.0 email.netflix.com
+0.0.0.0 mail.netflix.com
+0.0.0.0 communications.netflix.com
+
+# Accessibility
+0.0.0.0 accessibility.netflix.com
+0.0.0.0 a11y.netflix.com
+
+# Contest and events
+0.0.0.0 events.netflix.com
+0.0.0.0 contests.netflix.com
+
+# Merchandise and retail
+0.0.0.0 shop.netflix.com
+0.0.0.0 store.netflix.com
+0.0.0.0 merchandise.netflix.com
+
+# Innovation and technology
+0.0.0.0 innovation.netflix.com
+0.0.0.0 technology.netflix.com
+0.0.0.0 tech.netflix.com
+
+# Customer service
+0.0.0.0 customer.netflix.com
+0.0.0.0 service.netflix.com
+0.0.0.0 contact.netflix.com
+
+# Awards and accolades
+0.0.0.0 awards.netflix.com
+0.0.0.0 emmys.netflix.com
+
+# Film festivals and events
+0.0.0.0 festivals.netflix.com
+0.0.0.0 screenings.netflix.com
+
+# Educational content
+0.0.0.0 education.netflix.com
+0.0.0.0 edu.netflix.com
+
+# Wellness and health
+0.0.0.0 wellness.netflix.com
+0.0.0.0 health.netflix.com
+
+# Community features
+0.0.0.0 community.netflix.com
+0.0.0.0 forums.netflix.com
+
+# Parental controls
+0.0.0.0 parental.netflix.com
+0.0.0.0 controls.netflix.com
+
+# Geographic and location services
+0.0.0.0 geo.netflix.com
+0.0.0.0 location.netflix.com
+
+# Creator tools and resources
+0.0.0.0 creators.netflix.com
+0.0.0.0 filmmakers.netflix.com
+
+# Live streaming and events
+0.0.0.0 live.netflix.com
+0.0.0.0 events.netflix.com
+
+# International expansion
+0.0.0.0 global.netflix.com
+0.0.0.0 international.netflix.com
+
+# Data science and insights
+0.0.0.0 data.netflix.com
+0.0.0.0 insights.netflix.com
+0.0.0.0 datascience.netflix.com
+
+# Innovation labs
+0.0.0.0 labs.netflix.com
+0.0.0.0 innovation.netflix.com
+
+# Licensing and content acquisition
+0.0.0.0 licensing.netflix.com
+0.0.0.0 acquisition.netflix.com
+
+# Sustainability initiatives
+0.0.0.0 sustainability.netflix.com
+0.0.0.0 green.netflix.com
+
+# Diversity and inclusion
+0.0.0.0 diversity.netflix.com
+0.0.0.0 inclusion.netflix.com
+
+# Talent and recruitment
+0.0.0.0 talent.netflix.com
+0.0.0.0 recruitment.netflix.com
+
+# Culture and values
+0.0.0.0 culture.netflix.com
+0.0.0.0 values.netflix.com
+
+# Financial services
+0.0.0.0 finance.netflix.com
+0.0.0.0 treasury.netflix.com
+
+# Partnerships and alliances
+0.0.0.0 alliances.netflix.com
+0.0.0.0 partnerships.netflix.com
+
+# Content moderation
+0.0.0.0 moderation.netflix.com
+0.0.0.0 safety.netflix.com
+
+# User experience
+0.0.0.0 ux.netflix.com
+0.0.0.0 ui.netflix.com
+0.0.0.0 design.netflix.com
+
+# Platform engineering
+0.0.0.0 platform.netflix.com
+0.0.0.0 engineering.netflix.com
+
+# Cloud infrastructure
+0.0.0.0 cloud.netflix.com
+0.0.0.0 aws.netflix.com
+
+# Network operations
+0.0.0.0 network.netflix.com
+0.0.0.0 operations.netflix.com
+0.0.0.0 ops.netflix.com
+
+# Database services
+0.0.0.0 database.netflix.com
+0.0.0.0 db.netflix.com
+
+# Microservices
+0.0.0.0 microservices.netflix.com
+0.0.0.0 services.netflix.com
+
+# DevOps and deployment
+0.0.0.0 devops.netflix.com
+0.0.0.0 deployment.netflix.com
+0.0.0.0 deploy.netflix.com
+
+# Chaos engineering
+0.0.0.0 chaos.netflix.com
+0.0.0.0 chaosmonkey.netflix.com
+
+# Open source projects
+0.0.0.0 opensource.netflix.com
+0.0.0.0 oss.netflix.com
+
+# Machine learning models
+0.0.0.0 models.netflix.com
+0.0.0.0 ml-models.netflix.com
+
+# Content protection and piracy
+0.0.0.0 protection.netflix.com
+0.0.0.0 antipiracy.netflix.com
+
+# Compliance and governance
+0.0.0.0 compliance.netflix.com
+0.0.0.0 governance.netflix.com
+
+# Risk management
+0.0.0.0 risk.netflix.com
+0.0.0.0 riskmanagement.netflix.com 

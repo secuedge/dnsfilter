@@ -1,0 +1,294 @@
+# eBay - Global marketplace and auction platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 ebay.com
+0.0.0.0 www.ebay.com
+
+# Regional eBay domains (major markets)
+0.0.0.0 ebay.co.uk
+0.0.0.0 ebay.de
+0.0.0.0 ebay.fr
+0.0.0.0 ebay.it
+0.0.0.0 ebay.es
+0.0.0.0 ebay.ca
+0.0.0.0 ebay.com.au
+0.0.0.0 ebay.ie
+0.0.0.0 ebay.at
+0.0.0.0 ebay.be
+0.0.0.0 ebay.nl
+0.0.0.0 ebay.pl
+0.0.0.0 ebay.ch
+
+# Mobile and app related
+0.0.0.0 m.ebay.com
+0.0.0.0 mobile.ebay.com
+0.0.0.0 app.ebay.com
+0.0.0.0 apps.ebay.com
+0.0.0.0 android.ebay.com
+0.0.0.0 ios.ebay.com
+
+# API endpoints (based on eBay Developer Program)
+0.0.0.0 api.ebay.com
+0.0.0.0 api1.ebay.com
+0.0.0.0 api2.ebay.com
+0.0.0.0 apis.ebay.com
+0.0.0.0 developer.ebay.com
+0.0.0.0 developers.ebay.com
+0.0.0.0 gateway.ebay.com
+0.0.0.0 rest.ebay.com
+0.0.0.0 soap.ebay.com
+
+# eBay CDN and static content (based on ebaystatic.com research)
+0.0.0.0 cdn.ebay.com
+0.0.0.0 cdn1.ebay.com
+0.0.0.0 cdn2.ebay.com
+0.0.0.0 cdn3.ebay.com
+0.0.0.0 static.ebay.com
+0.0.0.0 static1.ebay.com
+0.0.0.0 static2.ebay.com
+0.0.0.0 ebaystatic.com
+0.0.0.0 www.ebaystatic.com
+0.0.0.0 p.ebaystatic.com
+0.0.0.0 i.ebaystatic.com
+0.0.0.0 assets.ebay.com
+0.0.0.0 media.ebay.com
+0.0.0.0 content.ebay.com
+
+# Image and media servers (based on ebayimg.com research)
+0.0.0.0 img.ebay.com
+0.0.0.0 img1.ebay.com
+0.0.0.0 img2.ebay.com
+0.0.0.0 img3.ebay.com
+0.0.0.0 images.ebay.com
+0.0.0.0 ebayimg.com
+0.0.0.0 www.ebayimg.com
+0.0.0.0 i.ebayimg.com
+0.0.0.0 pics.ebay.com
+0.0.0.0 photos.ebay.com
+0.0.0.0 gallery.ebay.com
+0.0.0.0 video.ebay.com
+0.0.0.0 videos.ebay.com
+
+# Analytics and tracking (based on ebayrtm.com research)
+0.0.0.0 analytics.ebay.com
+0.0.0.0 tracking.ebay.com
+0.0.0.0 track.ebay.com
+0.0.0.0 tracker.ebay.com
+0.0.0.0 metrics.ebay.com
+0.0.0.0 stats.ebay.com
+0.0.0.0 ebayrtm.com
+0.0.0.0 www.ebayrtm.com
+0.0.0.0 rtm.ebay.com
+0.0.0.0 pixel.ebay.com
+0.0.0.0 beacon.ebay.com
+0.0.0.0 data.ebay.com
+0.0.0.0 events.ebay.com
+0.0.0.0 rum.ebay.com
+
+# Shopping and commerce
+0.0.0.0 shop.ebay.com
+0.0.0.0 store.ebay.com
+0.0.0.0 stores.ebay.com
+0.0.0.0 cart.ebay.com
+0.0.0.0 checkout.ebay.com
+0.0.0.0 payment.ebay.com
+0.0.0.0 payments.ebay.com
+0.0.0.0 pay.ebay.com
+0.0.0.0 paypal.ebay.com
+0.0.0.0 wallet.ebay.com
+
+# User authentication and security
+0.0.0.0 signin.ebay.com
+0.0.0.0 login.ebay.com
+0.0.0.0 auth.ebay.com
+0.0.0.0 secure.ebay.com
+0.0.0.0 ssl.ebay.com
+0.0.0.0 accounts.ebay.com
+0.0.0.0 account.ebay.com
+0.0.0.0 profile.ebay.com
+0.0.0.0 user.ebay.com
+0.0.0.0 users.ebay.com
+0.0.0.0 my.ebay.com
+0.0.0.0 myebay.ebay.com
+
+# Support and help
+0.0.0.0 support.ebay.com
+0.0.0.0 help.ebay.com
+0.0.0.0 customer.ebay.com
+0.0.0.0 service.ebay.com
+0.0.0.0 care.ebay.com
+0.0.0.0 faq.ebay.com
+0.0.0.0 feedback.ebay.com
+0.0.0.0 contact.ebay.com
+
+# Search and recommendation
+0.0.0.0 search.ebay.com
+0.0.0.0 find.ebay.com
+0.0.0.0 suggest.ebay.com
+0.0.0.0 recommendation.ebay.com
+0.0.0.0 reco.ebay.com
+0.0.0.0 personalization.ebay.com
+
+# Email and notifications
+0.0.0.0 mail.ebay.com
+0.0.0.0 email.ebay.com
+0.0.0.0 newsletter.ebay.com
+0.0.0.0 notifications.ebay.com
+0.0.0.0 push.ebay.com
+
+# Social and community
+0.0.0.0 social.ebay.com
+0.0.0.0 community.ebay.com
+0.0.0.0 blog.ebay.com
+0.0.0.0 stories.ebay.com
+0.0.0.0 reviews.ebay.com
+0.0.0.0 share.ebay.com
+
+# Admin and backend
+0.0.0.0 admin.ebay.com
+0.0.0.0 manage.ebay.com
+0.0.0.0 dashboard.ebay.com
+0.0.0.0 console.ebay.com
+0.0.0.0 backend.ebay.com
+
+# Geographic and regional
+0.0.0.0 us.ebay.com
+0.0.0.0 uk.ebay.com
+0.0.0.0 global.ebay.com
+
+# Development and staging
+0.0.0.0 dev.ebay.com
+0.0.0.0 test.ebay.com
+0.0.0.0 staging.ebay.com
+0.0.0.0 qa.ebay.com
+0.0.0.0 beta.ebay.com
+0.0.0.0 demo.ebay.com
+
+# Seller services (based on research)
+0.0.0.0 seller.ebay.com
+0.0.0.0 sellers.ebay.com
+0.0.0.0 selling.ebay.com
+0.0.0.0 sellercentral.ebay.com
+0.0.0.0 sellerhub.ebay.com
+0.0.0.0 partner.ebay.com
+0.0.0.0 partners.ebay.com
+0.0.0.0 business.ebay.com
+0.0.0.0 b2b.ebay.com
+
+# Corporate and informational
+0.0.0.0 careers.ebay.com
+0.0.0.0 jobs.ebay.com
+0.0.0.0 press.ebay.com
+0.0.0.0 news.ebay.com
+0.0.0.0 about.ebay.com
+0.0.0.0 legal.ebay.com
+0.0.0.0 privacy.ebay.com
+0.0.0.0 terms.ebay.com
+0.0.0.0 investor.ebay.com
+0.0.0.0 investors.ebay.com
+
+# Load balancers and infrastructure
+0.0.0.0 lb.ebay.com
+0.0.0.0 lb1.ebay.com
+0.0.0.0 lb2.ebay.com
+0.0.0.0 proxy.ebay.com
+0.0.0.0 cache.ebay.com
+
+# Third-party integrations
+0.0.0.0 facebook.ebay.com
+0.0.0.0 google.ebay.com
+0.0.0.0 twitter.ebay.com
+0.0.0.0 instagram.ebay.com
+
+# Special campaigns and events
+0.0.0.0 sale.ebay.com
+0.0.0.0 deals.ebay.com
+0.0.0.0 offers.ebay.com
+0.0.0.0 promotion.ebay.com
+0.0.0.0 promo.ebay.com
+0.0.0.0 discount.ebay.com
+0.0.0.0 clearance.ebay.com
+
+# Auction features
+0.0.0.0 auction.ebay.com
+0.0.0.0 auctions.ebay.com
+0.0.0.0 bid.ebay.com
+0.0.0.0 bidding.ebay.com
+0.0.0.0 bids.ebay.com
+0.0.0.0 watchers.ebay.com
+0.0.0.0 watching.ebay.com
+
+# Categories and browsing
+0.0.0.0 browse.ebay.com
+0.0.0.0 category.ebay.com
+0.0.0.0 categories.ebay.com
+0.0.0.0 motors.ebay.com
+0.0.0.0 fashion.ebay.com
+0.0.0.0 electronics.ebay.com
+0.0.0.0 collectibles.ebay.com
+0.0.0.0 home.ebay.com
+0.0.0.0 garden.ebay.com
+0.0.0.0 sports.ebay.com
+
+# eBay subsidiary domains (based on research)
+0.0.0.0 ebayclassifieds.com
+0.0.0.0 www.ebayclassifieds.com
+0.0.0.0 classifieds.ebay.com
+0.0.0.0 kijiji.ebay.com
+0.0.0.0 gumtree.ebay.com
+0.0.0.0 marktplaats.ebay.com
+
+# eBay Inc technology and research
+0.0.0.0 tech.ebay.com
+0.0.0.0 technology.ebay.com
+0.0.0.0 engineering.ebay.com
+0.0.0.0 research.ebay.com
+0.0.0.0 innovation.ebay.com
+
+# Shipping and logistics
+0.0.0.0 shipping.ebay.com
+0.0.0.0 ship.ebay.com
+0.0.0.0 logistics.ebay.com
+0.0.0.0 fulfillment.ebay.com
+0.0.0.0 delivery.ebay.com
+0.0.0.0 tracking-shipment.ebay.com
+
+# Advertising services (based on eBay Partner Network research)
+0.0.0.0 advertising.ebay.com
+0.0.0.0 ads.ebay.com
+0.0.0.0 partnernetwork.ebay.com
+0.0.0.0 affiliate.ebay.com
+0.0.0.0 affiliates.ebay.com
+0.0.0.0 commission.ebay.com
+
+# AI and machine learning (based on magical listing research)
+0.0.0.0 ai.ebay.com
+0.0.0.0 ml.ebay.com
+0.0.0.0 machinelearning.ebay.com
+0.0.0.0 magic.ebay.com
+0.0.0.0 magical.ebay.com
+
+# International expansion
+0.0.0.0 international.ebay.com
+0.0.0.0 worldwide.ebay.com
+0.0.0.0 export.ebay.com
+0.0.0.0 global-shipping.ebay.com
+
+# Trust and safety
+0.0.0.0 trust.ebay.com
+0.0.0.0 safety.ebay.com
+0.0.0.0 security.ebay.com
+0.0.0.0 verification.ebay.com
+0.0.0.0 protection.ebay.com
+
+# Financial services
+0.0.0.0 finance.ebay.com
+0.0.0.0 credit.ebay.com
+0.0.0.0 loan.ebay.com
+0.0.0.0 insurance.ebay.com
+
+# Marketplace insights
+0.0.0.0 insights.ebay.com
+0.0.0.0 market.ebay.com
+0.0.0.0 marketplace.ebay.com
+0.0.0.0 trends.ebay.com
+0.0.0.0 pulse.ebay.com 

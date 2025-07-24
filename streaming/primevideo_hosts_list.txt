@@ -1,0 +1,474 @@
+# Amazon Prime Video - Video streaming platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 primevideo.com
+0.0.0.0 www.primevideo.com
+
+# Amazon Video legacy domains
+0.0.0.0 amazonvideo.com
+0.0.0.0 www.amazonvideo.com
+0.0.0.0 amazon-video.com
+0.0.0.0 www.amazon-video.com
+
+# Prime Video CDN domains (based on research)
+0.0.0.0 pv-cdn.net
+0.0.0.0 www.pv-cdn.net
+0.0.0.0 cf-trickplay.aux.pv-cdn.net
+0.0.0.0 aiv-cdn.net
+0.0.0.0 www.aiv-cdn.net
+0.0.0.0 aiv-delivery.net
+0.0.0.0 www.aiv-delivery.net
+
+# Regional API delivery domains (based on research)
+0.0.0.0 api.us-east-1.aiv-delivery.net
+0.0.0.0 api.eu-west-1.aiv-delivery.net
+0.0.0.0 api.ap-southeast-1.aiv-delivery.net
+0.0.0.0 api.ap-northeast-1.aiv-delivery.net
+
+# CloudFront DASH video domains (based on research showing S3-CloudFront pattern)
+0.0.0.0 *.s3-dub-2.cf.dash.row.aiv-cdn.net
+0.0.0.0 *.s3-iad-2.cf.dash.row.aiv-cdn.net
+0.0.0.0 *.s3-nrt-2.cf.dash.row.aiv-cdn.net
+0.0.0.0 *.s3-sin-2.cf.dash.row.aiv-cdn.net
+
+# Mobile and app related
+0.0.0.0 m.primevideo.com
+0.0.0.0 mobile.primevideo.com
+0.0.0.0 app.primevideo.com
+0.0.0.0 apps.primevideo.com
+0.0.0.0 android.primevideo.com
+0.0.0.0 ios.primevideo.com
+
+# API endpoints
+0.0.0.0 api.primevideo.com
+0.0.0.0 gateway.primevideo.com
+0.0.0.0 data.primevideo.com
+0.0.0.0 oauth.primevideo.com
+0.0.0.0 auth.primevideo.com
+
+# Amazon TV platform specific (based on research showing atv-ps integration)
+0.0.0.0 atv-ps.amazon.com
+0.0.0.0 atv-ext.amazon.com
+0.0.0.0 atv-ps-eu.amazon.com
+0.0.0.0 atv-ps-fe.amazon.com
+
+# User authentication and accounts
+0.0.0.0 accounts.primevideo.com
+0.0.0.0 signin.primevideo.com
+0.0.0.0 login.primevideo.com
+0.0.0.0 myaccount.primevideo.com
+0.0.0.0 profile.primevideo.com
+0.0.0.0 profiles.primevideo.com
+
+# Video streaming and playback
+0.0.0.0 video.primevideo.com
+0.0.0.0 videos.primevideo.com
+0.0.0.0 streaming.primevideo.com
+0.0.0.0 stream.primevideo.com
+0.0.0.0 player.primevideo.com
+0.0.0.0 playback.primevideo.com
+
+# Content delivery and assets
+0.0.0.0 cdn.primevideo.com
+0.0.0.0 assets.primevideo.com
+0.0.0.0 images.primevideo.com
+0.0.0.0 thumbnails.primevideo.com
+0.0.0.0 artwork.primevideo.com
+0.0.0.0 content.primevideo.com
+
+# Search and discovery
+0.0.0.0 search.primevideo.com
+0.0.0.0 discover.primevideo.com
+0.0.0.0 browse.primevideo.com
+0.0.0.0 catalog.primevideo.com
+0.0.0.0 titles.primevideo.com
+
+# Prime Video Analytics and tracking
+0.0.0.0 analytics.primevideo.com
+0.0.0.0 tracking.primevideo.com
+0.0.0.0 metrics.primevideo.com
+0.0.0.0 stats.primevideo.com
+0.0.0.0 insights.primevideo.com
+
+# DRM and licensing
+0.0.0.0 drm.primevideo.com
+0.0.0.0 license.primevideo.com
+0.0.0.0 widevine.primevideo.com
+0.0.0.0 playready.primevideo.com
+
+# Adaptive streaming
+0.0.0.0 dash.primevideo.com
+0.0.0.0 hls.primevideo.com
+0.0.0.0 manifest.primevideo.com
+0.0.0.0 manifests.primevideo.com
+
+# Downloads and offline
+0.0.0.0 download.primevideo.com
+0.0.0.0 downloads.primevideo.com
+0.0.0.0 offline.primevideo.com
+
+# Prime Video Channels and add-ons
+0.0.0.0 channels.primevideo.com
+0.0.0.0 addons.primevideo.com
+0.0.0.0 subscriptions.primevideo.com
+
+# Support and help
+0.0.0.0 help.primevideo.com
+0.0.0.0 support.primevideo.com
+0.0.0.0 customer.primevideo.com
+
+# Settings and preferences
+0.0.0.0 settings.primevideo.com
+0.0.0.0 preferences.primevideo.com
+0.0.0.0 config.primevideo.com
+
+# Watch history and recommendations
+0.0.0.0 history.primevideo.com
+0.0.0.0 watchlist.primevideo.com
+0.0.0.0 recommendations.primevideo.com
+0.0.0.0 suggest.primevideo.com
+
+# Social and sharing features
+0.0.0.0 social.primevideo.com
+0.0.0.0 share.primevideo.com
+0.0.0.0 sharing.primevideo.com
+
+# Prime Video Originals and studios
+0.0.0.0 originals.primevideo.com
+0.0.0.0 studios.primevideo.com
+0.0.0.0 amazonoriginals.primevideo.com
+
+# MGM+ integration
+0.0.0.0 mgm.primevideo.com
+0.0.0.0 mgmplus.primevideo.com
+
+# Live TV and sports
+0.0.0.0 live.primevideo.com
+0.0.0.0 livetv.primevideo.com
+0.0.0.0 sports.primevideo.com
+0.0.0.0 nfl.primevideo.com
+
+# Smart TV and device specific
+0.0.0.0 tv.primevideo.com
+0.0.0.0 firetv.primevideo.com
+0.0.0.0 roku.primevideo.com
+0.0.0.0 chromecast.primevideo.com
+0.0.0.0 appletv.primevideo.com
+0.0.0.0 smarttv.primevideo.com
+
+# Gaming console integration
+0.0.0.0 xbox.primevideo.com
+0.0.0.0 playstation.primevideo.com
+0.0.0.0 nintendo.primevideo.com
+
+# Regional Prime Video domains
+0.0.0.0 primevideo.co.uk
+0.0.0.0 primevideo.ca
+0.0.0.0 primevideo.com.au
+0.0.0.0 primevideo.de
+0.0.0.0 primevideo.fr
+0.0.0.0 primevideo.it
+0.0.0.0 primevideo.es
+0.0.0.0 primevideo.nl
+0.0.0.0 primevideo.se
+0.0.0.0 primevideo.no
+0.0.0.0 primevideo.dk
+0.0.0.0 primevideo.fi
+0.0.0.0 primevideo.pl
+0.0.0.0 primevideo.co.jp
+0.0.0.0 primevideo.co.kr
+0.0.0.0 primevideo.co.in
+0.0.0.0 primevideo.com.br
+0.0.0.0 primevideo.com.mx
+
+# Notifications and alerts
+0.0.0.0 notifications.primevideo.com
+0.0.0.0 alerts.primevideo.com
+0.0.0.0 messages.primevideo.com
+
+# Billing and payments
+0.0.0.0 billing.primevideo.com
+0.0.0.0 payment.primevideo.com
+0.0.0.0 payments.primevideo.com
+
+# Corporate and press
+0.0.0.0 about.primevideo.com
+0.0.0.0 press.primevideo.com
+0.0.0.0 media.primevideo.com
+0.0.0.0 blog.primevideo.com
+
+# Careers and jobs
+0.0.0.0 careers.primevideo.com
+0.0.0.0 jobs.primevideo.com
+
+# Testing and development
+0.0.0.0 test.primevideo.com
+0.0.0.0 testing.primevideo.com
+0.0.0.0 dev.primevideo.com
+0.0.0.0 staging.primevideo.com
+0.0.0.0 beta.primevideo.com
+
+# Internal and corporate
+0.0.0.0 internal.primevideo.com
+0.0.0.0 corp.primevideo.com
+
+# Load balancing and infrastructure
+0.0.0.0 lb.primevideo.com
+0.0.0.0 proxy.primevideo.com
+0.0.0.0 cache.primevideo.com
+
+# AWS integration
+0.0.0.0 aws.primevideo.com
+0.0.0.0 cloudfront.primevideo.com
+0.0.0.0 s3.primevideo.com
+
+# Security
+0.0.0.0 security.primevideo.com
+0.0.0.0 secure.primevideo.com
+0.0.0.0 2fa.primevideo.com
+
+# Performance and optimization
+0.0.0.0 performance.primevideo.com
+0.0.0.0 optimization.primevideo.com
+0.0.0.0 speed.primevideo.com
+
+# AI and machine learning
+0.0.0.0 ai.primevideo.com
+0.0.0.0 ml.primevideo.com
+0.0.0.0 recommendations.primevideo.com
+
+# Video quality and encoding
+0.0.0.0 encoding.primevideo.com
+0.0.0.0 hd.primevideo.com
+0.0.0.0 4k.primevideo.com
+0.0.0.0 uhd.primevideo.com
+0.0.0.0 hdr.primevideo.com
+0.0.0.0 dolby.primevideo.com
+
+# Subtitles and localization
+0.0.0.0 subtitles.primevideo.com
+0.0.0.0 captions.primevideo.com
+0.0.0.0 localization.primevideo.com
+0.0.0.0 translate.primevideo.com
+0.0.0.0 i18n.primevideo.com
+
+# Accessibility
+0.0.0.0 accessibility.primevideo.com
+0.0.0.0 a11y.primevideo.com
+
+# Parental controls
+0.0.0.0 parental.primevideo.com
+0.0.0.0 controls.primevideo.com
+0.0.0.0 kids.primevideo.com
+0.0.0.0 family.primevideo.com
+
+# Reviews and ratings
+0.0.0.0 reviews.primevideo.com
+0.0.0.0 ratings.primevideo.com
+0.0.0.0 feedback.primevideo.com
+
+# Documentation and guides
+0.0.0.0 docs.primevideo.com
+0.0.0.0 guides.primevideo.com
+0.0.0.0 help-center.primevideo.com
+
+# Partner integration
+0.0.0.0 partners.primevideo.com
+0.0.0.0 partner.primevideo.com
+0.0.0.0 integration.primevideo.com
+
+# Email and communications
+0.0.0.0 email.primevideo.com
+0.0.0.0 mail.primevideo.com
+0.0.0.0 communications.primevideo.com
+
+# Legal and compliance
+0.0.0.0 legal.primevideo.com
+0.0.0.0 terms.primevideo.com
+0.0.0.0 privacy.primevideo.com
+
+# Quality assurance
+0.0.0.0 quality.primevideo.com
+0.0.0.0 qa.primevideo.com
+0.0.0.0 qc.primevideo.com
+
+# Monitoring and status
+0.0.0.0 status.primevideo.com
+0.0.0.0 health.primevideo.com
+0.0.0.0 monitoring.primevideo.com
+
+# Tools and utilities
+0.0.0.0 tools.primevideo.com
+0.0.0.0 utils.primevideo.com
+0.0.0.0 utilities.primevideo.com
+
+# Creator tools and resources
+0.0.0.0 creators.primevideo.com
+0.0.0.0 filmmakers.primevideo.com
+0.0.0.0 studios.primevideo.com
+
+# Events and premieres
+0.0.0.0 events.primevideo.com
+0.0.0.0 premieres.primevideo.com
+0.0.0.0 screenings.primevideo.com
+
+# Awards and recognition
+0.0.0.0 awards.primevideo.com
+0.0.0.0 emmys.primevideo.com
+
+# Innovation and technology
+0.0.0.0 innovation.primevideo.com
+0.0.0.0 technology.primevideo.com
+0.0.0.0 tech.primevideo.com
+
+# Research and experiments
+0.0.0.0 research.primevideo.com
+0.0.0.0 experiments.primevideo.com
+0.0.0.0 labs.primevideo.com
+
+# Customer service
+0.0.0.0 service.primevideo.com
+0.0.0.0 contact.primevideo.com
+
+# Community features
+0.0.0.0 community.primevideo.com
+0.0.0.0 forums.primevideo.com
+
+# Geographic and location services
+0.0.0.0 geo.primevideo.com
+0.0.0.0 location.primevideo.com
+
+# Backup and redundancy
+0.0.0.0 backup.primevideo.com
+0.0.0.0 failover.primevideo.com
+
+# Configuration management
+0.0.0.0 config.primevideo.com
+0.0.0.0 configuration.primevideo.com
+
+# Data science and analytics
+0.0.0.0 datascience.primevideo.com
+0.0.0.0 bigdata.primevideo.com
+
+# Content moderation
+0.0.0.0 moderation.primevideo.com
+0.0.0.0 safety.primevideo.com
+
+# User experience
+0.0.0.0 ux.primevideo.com
+0.0.0.0 ui.primevideo.com
+0.0.0.0 design.primevideo.com
+
+# Platform engineering
+0.0.0.0 platform.primevideo.com
+0.0.0.0 engineering.primevideo.com
+
+# Network operations
+0.0.0.0 network.primevideo.com
+0.0.0.0 operations.primevideo.com
+0.0.0.0 ops.primevideo.com
+
+# Database services
+0.0.0.0 database.primevideo.com
+0.0.0.0 db.primevideo.com
+
+# Microservices
+0.0.0.0 microservices.primevideo.com
+0.0.0.0 services.primevideo.com
+
+# DevOps and deployment
+0.0.0.0 devops.primevideo.com
+0.0.0.0 deployment.primevideo.com
+0.0.0.0 deploy.primevideo.com
+
+# Open source projects
+0.0.0.0 opensource.primevideo.com
+0.0.0.0 oss.primevideo.com
+
+# Content protection and piracy
+0.0.0.0 protection.primevideo.com
+0.0.0.0 antipiracy.primevideo.com
+
+# Compliance and governance
+0.0.0.0 compliance.primevideo.com
+0.0.0.0 governance.primevideo.com
+
+# Risk management
+0.0.0.0 risk.primevideo.com
+0.0.0.0 riskmanagement.primevideo.com
+
+# Inventory and catalog management
+0.0.0.0 inventory.primevideo.com
+0.0.0.0 catalogmanagement.primevideo.com
+
+# Content acquisition and licensing
+0.0.0.0 acquisition.primevideo.com
+0.0.0.0 licensing.primevideo.com
+
+# International expansion
+0.0.0.0 global.primevideo.com
+0.0.0.0 international.primevideo.com
+
+# Financial services
+0.0.0.0 finance.primevideo.com
+0.0.0.0 treasury.primevideo.com
+
+# Partnerships and alliances
+0.0.0.0 alliances.primevideo.com
+0.0.0.0 partnerships.primevideo.com
+
+# Talent and recruitment
+0.0.0.0 talent.primevideo.com
+0.0.0.0 recruitment.primevideo.com
+
+# Culture and values
+0.0.0.0 culture.primevideo.com
+0.0.0.0 values.primevideo.com
+
+# Sustainability initiatives
+0.0.0.0 sustainability.primevideo.com
+0.0.0.0 green.primevideo.com
+
+# Diversity and inclusion
+0.0.0.0 diversity.primevideo.com
+0.0.0.0 inclusion.primevideo.com
+
+# Machine learning models
+0.0.0.0 models.primevideo.com
+0.0.0.0 ml-models.primevideo.com
+
+# Edge computing and CDN
+0.0.0.0 edge.primevideo.com
+0.0.0.0 cdn1.primevideo.com
+0.0.0.0 cdn2.primevideo.com
+0.0.0.0 cdn3.primevideo.com
+
+# Cloud infrastructure variations
+0.0.0.0 cloud.primevideo.com
+0.0.0.0 ec2.primevideo.com
+0.0.0.0 lambda.primevideo.com
+
+# Video transcoding and processing
+0.0.0.0 transcoding.primevideo.com
+0.0.0.0 processing.primevideo.com
+0.0.0.0 encoder.primevideo.com
+
+# Wellness and health content
+0.0.0.0 wellness.primevideo.com
+0.0.0.0 health.primevideo.com
+
+# Educational content
+0.0.0.0 education.primevideo.com
+0.0.0.0 edu.primevideo.com
+
+# News and documentaries
+0.0.0.0 news.primevideo.com
+0.0.0.0 documentaries.primevideo.com
+
+# Music and audio
+0.0.0.0 music.primevideo.com
+0.0.0.0 audio.primevideo.com
+
+# Merchandise and retail
+0.0.0.0 shop.primevideo.com
+0.0.0.0 store.primevideo.com
+0.0.0.0 merchandise.primevideo.com 

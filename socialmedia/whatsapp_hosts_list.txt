@@ -1,0 +1,403 @@
+# WhatsApp - Messaging platform owned by Meta (Comprehensive Block List)
+# Main domains
+0.0.0.0 whatsapp.com
+0.0.0.0 www.whatsapp.com
+0.0.0.0 whatsapp.net
+0.0.0.0 www.whatsapp.net
+
+# Short URL and web interface
+0.0.0.0 wa.me
+0.0.0.0 www.wa.me
+0.0.0.0 web.whatsapp.com
+0.0.0.0 web.whatsapp.net
+
+# Mobile and app related
+0.0.0.0 app.whatsapp.com
+0.0.0.0 apps.whatsapp.com
+0.0.0.0 m.whatsapp.com
+0.0.0.0 mobile.whatsapp.com
+0.0.0.0 android.whatsapp.com
+0.0.0.0 ios.whatsapp.com
+
+# API endpoints (based on research)
+0.0.0.0 api.whatsapp.com
+0.0.0.0 api.whatsapp.net
+0.0.0.0 graph.whatsapp.com
+0.0.0.0 graph.whatsapp.net
+0.0.0.0 gateway.whatsapp.com
+0.0.0.0 gateway.whatsapp.net
+
+# CDN and static content (based on Meta CDN research)
+0.0.0.0 cdn.whatsapp.com
+0.0.0.0 cdn.whatsapp.net
+0.0.0.0 chat.cdn.whatsapp.net
+0.0.0.0 scontent.whatsapp.net
+0.0.0.0 mmx-ds.cdn.whatsapp.net
+0.0.0.0 static.whatsapp.com
+0.0.0.0 static.whatsapp.net
+0.0.0.0 assets.whatsapp.com
+0.0.0.0 assets.whatsapp.net
+0.0.0.0 media.whatsapp.com
+0.0.0.0 media.whatsapp.net
+0.0.0.0 content.whatsapp.com
+0.0.0.0 content.whatsapp.net
+
+# Image and media servers
+0.0.0.0 img.whatsapp.com
+0.0.0.0 img.whatsapp.net
+0.0.0.0 images.whatsapp.com
+0.0.0.0 images.whatsapp.net
+0.0.0.0 pics.whatsapp.com
+0.0.0.0 pics.whatsapp.net
+0.0.0.0 photos.whatsapp.com
+0.0.0.0 photos.whatsapp.net
+0.0.0.0 video.whatsapp.com
+0.0.0.0 video.whatsapp.net
+0.0.0.0 videos.whatsapp.com
+0.0.0.0 videos.whatsapp.net
+
+# Voice and calling infrastructure
+0.0.0.0 voice.whatsapp.com
+0.0.0.0 voice.whatsapp.net
+0.0.0.0 call.whatsapp.com
+0.0.0.0 call.whatsapp.net
+0.0.0.0 calling.whatsapp.com
+0.0.0.0 calling.whatsapp.net
+0.0.0.0 voip.whatsapp.com
+0.0.0.0 voip.whatsapp.net
+0.0.0.0 webrtc.whatsapp.com
+0.0.0.0 webrtc.whatsapp.net
+
+# Chat and messaging infrastructure
+0.0.0.0 chat.whatsapp.com
+0.0.0.0 chat.whatsapp.net
+0.0.0.0 messaging.whatsapp.com
+0.0.0.0 messaging.whatsapp.net
+0.0.0.0 message.whatsapp.com
+0.0.0.0 message.whatsapp.net
+0.0.0.0 msg.whatsapp.com
+0.0.0.0 msg.whatsapp.net
+
+# Upload and download services
+0.0.0.0 upload.whatsapp.com
+0.0.0.0 upload.whatsapp.net
+0.0.0.0 download.whatsapp.com
+0.0.0.0 download.whatsapp.net
+0.0.0.0 dl.whatsapp.com
+0.0.0.0 dl.whatsapp.net
+0.0.0.0 files.whatsapp.com
+0.0.0.0 files.whatsapp.net
+
+# User authentication and security
+0.0.0.0 auth.whatsapp.com
+0.0.0.0 auth.whatsapp.net
+0.0.0.0 login.whatsapp.com
+0.0.0.0 login.whatsapp.net
+0.0.0.0 signin.whatsapp.com
+0.0.0.0 signin.whatsapp.net
+0.0.0.0 account.whatsapp.com
+0.0.0.0 account.whatsapp.net
+0.0.0.0 accounts.whatsapp.com
+0.0.0.0 accounts.whatsapp.net
+0.0.0.0 secure.whatsapp.com
+0.0.0.0 secure.whatsapp.net
+0.0.0.0 ssl.whatsapp.com
+0.0.0.0 ssl.whatsapp.net
+
+# Profile and user services
+0.0.0.0 profile.whatsapp.com
+0.0.0.0 profile.whatsapp.net
+0.0.0.0 user.whatsapp.com
+0.0.0.0 user.whatsapp.net
+0.0.0.0 users.whatsapp.com
+0.0.0.0 users.whatsapp.net
+0.0.0.0 my.whatsapp.com
+0.0.0.0 my.whatsapp.net
+
+# Business WhatsApp
+0.0.0.0 business.whatsapp.com
+0.0.0.0 business.whatsapp.net
+0.0.0.0 whatsappbusiness.com
+0.0.0.0 www.whatsappbusiness.com
+0.0.0.0 api.whatsappbusiness.com
+0.0.0.0 app.whatsappbusiness.com
+0.0.0.0 web.whatsappbusiness.com
+
+# WhatsApp Business API
+0.0.0.0 developers.whatsapp.com
+0.0.0.0 developers.whatsapp.net
+0.0.0.0 developer.whatsapp.com
+0.0.0.0 developer.whatsapp.net
+0.0.0.0 api-business.whatsapp.com
+0.0.0.0 business-api.whatsapp.com
+
+# Support and help
+0.0.0.0 support.whatsapp.com
+0.0.0.0 support.whatsapp.net
+0.0.0.0 help.whatsapp.com
+0.0.0.0 help.whatsapp.net
+0.0.0.0 customer.whatsapp.com
+0.0.0.0 customer.whatsapp.net
+0.0.0.0 service.whatsapp.com
+0.0.0.0 service.whatsapp.net
+0.0.0.0 care.whatsapp.com
+0.0.0.0 care.whatsapp.net
+0.0.0.0 faq.whatsapp.com
+0.0.0.0 faq.whatsapp.net
+0.0.0.0 feedback.whatsapp.com
+0.0.0.0 feedback.whatsapp.net
+0.0.0.0 contact.whatsapp.com
+0.0.0.0 contact.whatsapp.net
+
+# Search and discovery
+0.0.0.0 search.whatsapp.com
+0.0.0.0 search.whatsapp.net
+0.0.0.0 find.whatsapp.com
+0.0.0.0 find.whatsapp.net
+0.0.0.0 discover.whatsapp.com
+0.0.0.0 discover.whatsapp.net
+
+# Email and notifications
+0.0.0.0 mail.whatsapp.com
+0.0.0.0 mail.whatsapp.net
+0.0.0.0 email.whatsapp.com
+0.0.0.0 email.whatsapp.net
+0.0.0.0 newsletter.whatsapp.com
+0.0.0.0 newsletter.whatsapp.net
+0.0.0.0 notifications.whatsapp.com
+0.0.0.0 notifications.whatsapp.net
+0.0.0.0 push.whatsapp.com
+0.0.0.0 push.whatsapp.net
+
+# Social and community
+0.0.0.0 social.whatsapp.com
+0.0.0.0 social.whatsapp.net
+0.0.0.0 community.whatsapp.com
+0.0.0.0 community.whatsapp.net
+0.0.0.0 blog.whatsapp.com
+0.0.0.0 blog.whatsapp.net
+0.0.0.0 news.whatsapp.com
+0.0.0.0 news.whatsapp.net
+0.0.0.0 share.whatsapp.com
+0.0.0.0 share.whatsapp.net
+
+# Analytics and tracking
+0.0.0.0 analytics.whatsapp.com
+0.0.0.0 analytics.whatsapp.net
+0.0.0.0 tracking.whatsapp.com
+0.0.0.0 tracking.whatsapp.net
+0.0.0.0 track.whatsapp.com
+0.0.0.0 track.whatsapp.net
+0.0.0.0 metrics.whatsapp.com
+0.0.0.0 metrics.whatsapp.net
+0.0.0.0 stats.whatsapp.com
+0.0.0.0 stats.whatsapp.net
+0.0.0.0 data.whatsapp.com
+0.0.0.0 data.whatsapp.net
+0.0.0.0 events.whatsapp.com
+0.0.0.0 events.whatsapp.net
+
+# Admin and backend
+0.0.0.0 admin.whatsapp.com
+0.0.0.0 admin.whatsapp.net
+0.0.0.0 manage.whatsapp.com
+0.0.0.0 manage.whatsapp.net
+0.0.0.0 dashboard.whatsapp.com
+0.0.0.0 dashboard.whatsapp.net
+0.0.0.0 console.whatsapp.com
+0.0.0.0 console.whatsapp.net
+0.0.0.0 backend.whatsapp.com
+0.0.0.0 backend.whatsapp.net
+
+# Geographic and regional
+0.0.0.0 us.whatsapp.com
+0.0.0.0 us.whatsapp.net
+0.0.0.0 eu.whatsapp.com
+0.0.0.0 eu.whatsapp.net
+0.0.0.0 asia.whatsapp.com
+0.0.0.0 asia.whatsapp.net
+0.0.0.0 global.whatsapp.com
+0.0.0.0 global.whatsapp.net
+
+# Development and staging
+0.0.0.0 dev.whatsapp.com
+0.0.0.0 dev.whatsapp.net
+0.0.0.0 test.whatsapp.com
+0.0.0.0 test.whatsapp.net
+0.0.0.0 staging.whatsapp.com
+0.0.0.0 staging.whatsapp.net
+0.0.0.0 qa.whatsapp.com
+0.0.0.0 qa.whatsapp.net
+0.0.0.0 beta.whatsapp.com
+0.0.0.0 beta.whatsapp.net
+0.0.0.0 demo.whatsapp.com
+0.0.0.0 demo.whatsapp.net
+
+# Corporate and informational
+0.0.0.0 about.whatsapp.com
+0.0.0.0 about.whatsapp.net
+0.0.0.0 legal.whatsapp.com
+0.0.0.0 legal.whatsapp.net
+0.0.0.0 privacy.whatsapp.com
+0.0.0.0 privacy.whatsapp.net
+0.0.0.0 terms.whatsapp.com
+0.0.0.0 terms.whatsapp.net
+0.0.0.0 press.whatsapp.com
+0.0.0.0 press.whatsapp.net
+
+# Load balancers and infrastructure
+0.0.0.0 lb.whatsapp.com
+0.0.0.0 lb.whatsapp.net
+0.0.0.0 proxy.whatsapp.com
+0.0.0.0 proxy.whatsapp.net
+0.0.0.0 cache.whatsapp.com
+0.0.0.0 cache.whatsapp.net
+
+# Download and installation
+0.0.0.0 download.whatsapp.com
+0.0.0.0 install.whatsapp.com
+0.0.0.0 install.whatsapp.net
+0.0.0.0 get.whatsapp.com
+0.0.0.0 get.whatsapp.net
+
+# Status and monitoring
+0.0.0.0 status.whatsapp.com
+0.0.0.0 status.whatsapp.net
+0.0.0.0 monitor.whatsapp.com
+0.0.0.0 monitor.whatsapp.net
+0.0.0.0 health.whatsapp.com
+0.0.0.0 health.whatsapp.net
+
+# Security and verification
+0.0.0.0 verify.whatsapp.com
+0.0.0.0 verify.whatsapp.net
+0.0.0.0 verification.whatsapp.com
+0.0.0.0 verification.whatsapp.net
+0.0.0.0 otp.whatsapp.com
+0.0.0.0 otp.whatsapp.net
+0.0.0.0 sms.whatsapp.com
+0.0.0.0 sms.whatsapp.net
+
+# Backup and storage
+0.0.0.0 backup.whatsapp.com
+0.0.0.0 backup.whatsapp.net
+0.0.0.0 storage.whatsapp.com
+0.0.0.0 storage.whatsapp.net
+0.0.0.0 cloud.whatsapp.com
+0.0.0.0 cloud.whatsapp.net
+
+# Groups and channels
+0.0.0.0 groups.whatsapp.com
+0.0.0.0 groups.whatsapp.net
+0.0.0.0 group.whatsapp.com
+0.0.0.0 group.whatsapp.net
+0.0.0.0 channels.whatsapp.com
+0.0.0.0 channels.whatsapp.net
+0.0.0.0 channel.whatsapp.com
+0.0.0.0 channel.whatsapp.net
+
+# Payments and commerce
+0.0.0.0 pay.whatsapp.com
+0.0.0.0 pay.whatsapp.net
+0.0.0.0 payment.whatsapp.com
+0.0.0.0 payment.whatsapp.net
+0.0.0.0 payments.whatsapp.com
+0.0.0.0 payments.whatsapp.net
+0.0.0.0 commerce.whatsapp.com
+0.0.0.0 commerce.whatsapp.net
+
+# Status updates
+0.0.0.0 status.whatsapp.com
+0.0.0.0 status.whatsapp.net
+0.0.0.0 stories.whatsapp.com
+0.0.0.0 stories.whatsapp.net
+0.0.0.0 story.whatsapp.com
+0.0.0.0 story.whatsapp.net
+
+# Third-party integrations
+0.0.0.0 facebook.whatsapp.com
+0.0.0.0 facebook.whatsapp.net
+0.0.0.0 instagram.whatsapp.com
+0.0.0.0 instagram.whatsapp.net
+0.0.0.0 meta.whatsapp.com
+0.0.0.0 meta.whatsapp.net
+
+# Regional variations
+0.0.0.0 br.whatsapp.com
+0.0.0.0 br.whatsapp.net
+0.0.0.0 in.whatsapp.com
+0.0.0.0 in.whatsapp.net
+0.0.0.0 mx.whatsapp.com
+0.0.0.0 mx.whatsapp.net
+0.0.0.0 id.whatsapp.com
+0.0.0.0 id.whatsapp.net
+
+# Catalogs and products (for business)
+0.0.0.0 catalog.whatsapp.com
+0.0.0.0 catalog.whatsapp.net
+0.0.0.0 catalogs.whatsapp.com
+0.0.0.0 catalogs.whatsapp.net
+0.0.0.0 product.whatsapp.com
+0.0.0.0 product.whatsapp.net
+0.0.0.0 products.whatsapp.com
+0.0.0.0 products.whatsapp.net
+
+# AI and automation
+0.0.0.0 bot.whatsapp.com
+0.0.0.0 bot.whatsapp.net
+0.0.0.0 bots.whatsapp.com
+0.0.0.0 bots.whatsapp.net
+0.0.0.0 ai.whatsapp.com
+0.0.0.0 ai.whatsapp.net
+0.0.0.0 chatbot.whatsapp.com
+0.0.0.0 chatbot.whatsapp.net
+
+# Encryption and security
+0.0.0.0 encryption.whatsapp.com
+0.0.0.0 encryption.whatsapp.net
+0.0.0.0 security.whatsapp.com
+0.0.0.0 security.whatsapp.net
+0.0.0.0 e2ee.whatsapp.com
+0.0.0.0 e2ee.whatsapp.net
+
+# Updates and versions
+0.0.0.0 update.whatsapp.com
+0.0.0.0 update.whatsapp.net
+0.0.0.0 updates.whatsapp.com
+0.0.0.0 updates.whatsapp.net
+0.0.0.0 version.whatsapp.com
+0.0.0.0 version.whatsapp.net
+
+# Webhooks and integrations
+0.0.0.0 webhook.whatsapp.com
+0.0.0.0 webhook.whatsapp.net
+0.0.0.0 webhooks.whatsapp.com
+0.0.0.0 webhooks.whatsapp.net
+0.0.0.0 integration.whatsapp.com
+0.0.0.0 integration.whatsapp.net
+0.0.0.0 integrations.whatsapp.com
+0.0.0.0 integrations.whatsapp.net
+
+# Configuration and settings
+0.0.0.0 config.whatsapp.com
+0.0.0.0 config.whatsapp.net
+0.0.0.0 configuration.whatsapp.com
+0.0.0.0 configuration.whatsapp.net
+0.0.0.0 settings.whatsapp.com
+0.0.0.0 settings.whatsapp.net
+
+# Event tracking and monitoring
+0.0.0.0 event.whatsapp.com
+0.0.0.0 event.whatsapp.net
+0.0.0.0 log.whatsapp.com
+0.0.0.0 log.whatsapp.net
+0.0.0.0 logs.whatsapp.com
+0.0.0.0 logs.whatsapp.net
+
+# Quality and performance
+0.0.0.0 quality.whatsapp.com
+0.0.0.0 quality.whatsapp.net
+0.0.0.0 performance.whatsapp.com
+0.0.0.0 performance.whatsapp.net
+0.0.0.0 reliability.whatsapp.com
+0.0.0.0 reliability.whatsapp.net 

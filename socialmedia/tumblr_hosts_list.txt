@@ -1,0 +1,393 @@
+# Tumblr - Microblogging platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 tumblr.com
+0.0.0.0 www.tumblr.com
+
+# URL shortener (based on research)
+0.0.0.0 tmblr.co
+0.0.0.0 www.tmblr.co
+
+# Tumblr CDN domains (based on research)
+0.0.0.0 static.tumblr.com
+0.0.0.0 assets.tumblr.com
+0.0.0.0 media.tumblr.com
+0.0.0.0 vxtwitter.tumblr.com
+
+# User blog subdomains (based on research showing username.tumblr.com structure)
+0.0.0.0 *.tumblr.com
+0.0.0.0 engineering.tumblr.com
+0.0.0.0 staff.tumblr.com
+0.0.0.0 support.tumblr.com
+0.0.0.0 changes.tumblr.com
+0.0.0.0 wip.tumblr.com
+
+# Mobile and app related
+0.0.0.0 m.tumblr.com
+0.0.0.0 mobile.tumblr.com
+0.0.0.0 app.tumblr.com
+0.0.0.0 apps.tumblr.com
+0.0.0.0 android.tumblr.com
+0.0.0.0 ios.tumblr.com
+
+# API endpoints (based on research showing extensive API documentation)
+0.0.0.0 api.tumblr.com
+0.0.0.0 oauth.tumblr.com
+0.0.0.0 oauth2.tumblr.com
+0.0.0.0 v2.tumblr.com
+0.0.0.0 gateway.tumblr.com
+0.0.0.0 rest.tumblr.com
+
+# Domain connections (based on research showing domain management)
+0.0.0.0 domains.tumblr.com
+0.0.0.0 custom.tumblr.com
+
+# CDN and static content
+0.0.0.0 cdn.tumblr.com
+0.0.0.0 content.tumblr.com
+0.0.0.0 images.tumblr.com
+0.0.0.0 img.tumblr.com
+0.0.0.0 pics.tumblr.com
+0.0.0.0 photos.tumblr.com
+0.0.0.0 video.tumblr.com
+0.0.0.0 videos.tumblr.com
+0.0.0.0 avatar.tumblr.com
+0.0.0.0 avatars.tumblr.com
+
+# User authentication and accounts
+0.0.0.0 auth.tumblr.com
+0.0.0.0 login.tumblr.com
+0.0.0.0 signin.tumblr.com
+0.0.0.0 signup.tumblr.com
+0.0.0.0 register.tumblr.com
+0.0.0.0 account.tumblr.com
+0.0.0.0 accounts.tumblr.com
+0.0.0.0 secure.tumblr.com
+0.0.0.0 ssl.tumblr.com
+
+# User profiles and blogs
+0.0.0.0 blog.tumblr.com
+0.0.0.0 blogs.tumblr.com
+0.0.0.0 profile.tumblr.com
+0.0.0.0 profiles.tumblr.com
+0.0.0.0 user.tumblr.com
+0.0.0.0 users.tumblr.com
+0.0.0.0 my.tumblr.com
+0.0.0.0 settings.tumblr.com
+0.0.0.0 preferences.tumblr.com
+
+# Dashboard and feeds
+0.0.0.0 dashboard.tumblr.com
+0.0.0.0 dash.tumblr.com
+0.0.0.0 feed.tumblr.com
+0.0.0.0 feeds.tumblr.com
+0.0.0.0 timeline.tumblr.com
+
+# Search and discovery
+0.0.0.0 search.tumblr.com
+0.0.0.0 find.tumblr.com
+0.0.0.0 discover.tumblr.com
+0.0.0.0 explore.tumblr.com
+0.0.0.0 trending.tumblr.com
+0.0.0.0 browse.tumblr.com
+
+# Tags and categories
+0.0.0.0 tagged.tumblr.com
+0.0.0.0 tags.tumblr.com
+0.0.0.0 tag.tumblr.com
+
+# Post creation and editing
+0.0.0.0 post.tumblr.com
+0.0.0.0 posts.tumblr.com
+0.0.0.0 create.tumblr.com
+0.0.0.0 editor.tumblr.com
+0.0.0.0 compose.tumblr.com
+0.0.0.0 edit.tumblr.com
+0.0.0.0 write.tumblr.com
+
+# Themes and customization
+0.0.0.0 themes.tumblr.com
+0.0.0.0 theme.tumblr.com
+0.0.0.0 customize.tumblr.com
+0.0.0.0 appearance.tumblr.com
+
+# Messaging and communication
+0.0.0.0 messages.tumblr.com
+0.0.0.0 messaging.tumblr.com
+0.0.0.0 message.tumblr.com
+0.0.0.0 inbox.tumblr.com
+0.0.0.0 chat.tumblr.com
+0.0.0.0 mail.tumblr.com
+
+# Activity and notifications
+0.0.0.0 activity.tumblr.com
+0.0.0.0 notifications.tumblr.com
+0.0.0.0 notes.tumblr.com
+0.0.0.0 alerts.tumblr.com
+
+# Following and social features
+0.0.0.0 follow.tumblr.com
+0.0.0.0 following.tumblr.com
+0.0.0.0 followers.tumblr.com
+0.0.0.0 likes.tumblr.com
+0.0.0.0 reblog.tumblr.com
+0.0.0.0 reblogs.tumblr.com
+
+# Support and help
+0.0.0.0 help.tumblr.com
+0.0.0.0 customer.tumblr.com
+0.0.0.0 service.tumblr.com
+0.0.0.0 care.tumblr.com
+0.0.0.0 faq.tumblr.com
+0.0.0.0 feedback.tumblr.com
+0.0.0.0 contact.tumblr.com
+
+# Email and notifications
+0.0.0.0 email.tumblr.com
+0.0.0.0 newsletter.tumblr.com
+0.0.0.0 push.tumblr.com
+
+# Analytics and tracking
+0.0.0.0 analytics.tumblr.com
+0.0.0.0 tracking.tumblr.com
+0.0.0.0 track.tumblr.com
+0.0.0.0 metrics.tumblr.com
+0.0.0.0 stats.tumblr.com
+0.0.0.0 data.tumblr.com
+0.0.0.0 events.tumblr.com
+0.0.0.0 pixel.tumblr.com
+0.0.0.0 beacon.tumblr.com
+
+# Admin and moderation
+0.0.0.0 admin.tumblr.com
+0.0.0.0 mod.tumblr.com
+0.0.0.0 moderation.tumblr.com
+0.0.0.0 manage.tumblr.com
+0.0.0.0 management.tumblr.com
+0.0.0.0 console.tumblr.com
+0.0.0.0 backend.tumblr.com
+
+# Development and staging
+0.0.0.0 dev.tumblr.com
+0.0.0.0 test.tumblr.com
+0.0.0.0 staging.tumblr.com
+0.0.0.0 qa.tumblr.com
+0.0.0.0 beta.tumblr.com
+0.0.0.0 demo.tumblr.com
+
+# Corporate and informational
+0.0.0.0 about.tumblr.com
+0.0.0.0 legal.tumblr.com
+0.0.0.0 privacy.tumblr.com
+0.0.0.0 terms.tumblr.com
+0.0.0.0 press.tumblr.com
+0.0.0.0 blog.tumblr.com
+0.0.0.0 news.tumblr.com
+0.0.0.0 careers.tumblr.com
+0.0.0.0 jobs.tumblr.com
+
+# Developer and API documentation
+0.0.0.0 developers.tumblr.com
+0.0.0.0 developer.tumblr.com
+0.0.0.0 docs.tumblr.com
+0.0.0.0 documentation.tumblr.com
+0.0.0.0 api-docs.tumblr.com
+
+# Load balancers and infrastructure
+0.0.0.0 lb.tumblr.com
+0.0.0.0 proxy.tumblr.com
+0.0.0.0 cache.tumblr.com
+0.0.0.0 edge.tumblr.com
+
+# Download and installation
+0.0.0.0 download.tumblr.com
+0.0.0.0 install.tumblr.com
+0.0.0.0 get.tumblr.com
+
+# Status and monitoring
+0.0.0.0 status.tumblr.com
+0.0.0.0 monitor.tumblr.com
+0.0.0.0 health.tumblr.com
+0.0.0.0 uptime.tumblr.com
+
+# Security and verification
+0.0.0.0 verify.tumblr.com
+0.0.0.0 verification.tumblr.com
+0.0.0.0 security.tumblr.com
+0.0.0.0 2fa.tumblr.com
+
+# File and media upload
+0.0.0.0 upload.tumblr.com
+0.0.0.0 files.tumblr.com
+0.0.0.0 storage.tumblr.com
+
+# Webhooks and integrations
+0.0.0.0 webhook.tumblr.com
+0.0.0.0 webhooks.tumblr.com
+0.0.0.0 integration.tumblr.com
+0.0.0.0 integrations.tumblr.com
+
+# Embeds and external content
+0.0.0.0 embed.tumblr.com
+0.0.0.0 embeds.tumblr.com
+0.0.0.0 widget.tumblr.com
+0.0.0.0 widgets.tumblr.com
+
+# Geographic and regional
+0.0.0.0 us.tumblr.com
+0.0.0.0 eu.tumblr.com
+0.0.0.0 asia.tumblr.com
+0.0.0.0 global.tumblr.com
+
+# Content delivery and caching
+0.0.0.0 varnish.tumblr.com
+0.0.0.0 haproxy.tumblr.com
+
+# Advertising and monetization
+0.0.0.0 ads.tumblr.com
+0.0.0.0 advertising.tumblr.com
+0.0.0.0 marketing.tumblr.com
+0.0.0.0 blaze.tumblr.com
+
+# Communities and groups (based on research mentioning Tumblr Communities)
+0.0.0.0 communities.tumblr.com
+0.0.0.0 community.tumblr.com
+0.0.0.0 groups.tumblr.com
+0.0.0.0 group.tumblr.com
+
+# Backup and redundancy
+0.0.0.0 backup.tumblr.com
+0.0.0.0 redundancy.tumblr.com
+0.0.0.0 failover.tumblr.com
+
+# Configuration and deployment
+0.0.0.0 config.tumblr.com
+0.0.0.0 deploy.tumblr.com
+0.0.0.0 deployment.tumblr.com
+
+# Logging and debugging
+0.0.0.0 log.tumblr.com
+0.0.0.0 logs.tumblr.com
+0.0.0.0 debug.tumblr.com
+0.0.0.0 trace.tumblr.com
+
+# Quality assurance
+0.0.0.0 quality.tumblr.com
+0.0.0.0 qc.tumblr.com
+0.0.0.0 reliability.tumblr.com
+
+# Performance and optimization
+0.0.0.0 performance.tumblr.com
+0.0.0.0 optimization.tumblr.com
+0.0.0.0 speed.tumblr.com
+
+# Personalization and AI
+0.0.0.0 personalize.tumblr.com
+0.0.0.0 ai.tumblr.com
+0.0.0.0 ml.tumblr.com
+0.0.0.0 algorithm.tumblr.com
+0.0.0.0 recommendations.tumblr.com
+
+# Accessibility features
+0.0.0.0 accessibility.tumblr.com
+0.0.0.0 a11y.tumblr.com
+
+# Internationalization
+0.0.0.0 i18n.tumblr.com
+0.0.0.0 localization.tumblr.com
+0.0.0.0 translate.tumblr.com
+
+# User onboarding
+0.0.0.0 onboarding.tumblr.com
+0.0.0.0 welcome.tumblr.com
+0.0.0.0 tutorial.tumblr.com
+
+# Partner ecosystem
+0.0.0.0 partners.tumblr.com
+0.0.0.0 partner.tumblr.com
+0.0.0.0 ecosystem.tumblr.com
+
+# Archive and history
+0.0.0.0 archive.tumblr.com
+0.0.0.0 history.tumblr.com
+0.0.0.0 timemachine.tumblr.com
+
+# Reporting and safety
+0.0.0.0 report.tumblr.com
+0.0.0.0 reports.tumblr.com
+0.0.0.0 safety.tumblr.com
+0.0.0.0 abuse.tumblr.com
+
+# Third-party integrations
+0.0.0.0 external.tumblr.com
+0.0.0.0 discord.tumblr.com
+0.0.0.0 twitch.tumblr.com
+0.0.0.0 twitter.tumblr.com
+
+# Premium and monetization
+0.0.0.0 premium.tumblr.com
+0.0.0.0 subscription.tumblr.com
+0.0.0.0 billing.tumblr.com
+0.0.0.0 payment.tumblr.com
+0.0.0.0 payments.tumblr.com
+
+# Labs and experimental features
+0.0.0.0 labs.tumblr.com
+0.0.0.0 experimental.tumblr.com
+0.0.0.0 hackday.tumblr.com
+
+# TumblrMart (based on research mentioning TumblrMart)
+0.0.0.0 tumblrmart.tumblr.com
+0.0.0.0 mart.tumblr.com
+0.0.0.0 shop.tumblr.com
+
+# Post+ and creator tools
+0.0.0.0 postplus.tumblr.com
+0.0.0.0 creators.tumblr.com
+0.0.0.0 creator.tumblr.com
+
+# Machine learning and data science
+0.0.0.0 ml-api.tumblr.com
+0.0.0.0 data-science.tumblr.com
+0.0.0.0 models.tumblr.com
+
+# Live features
+0.0.0.0 live.tumblr.com
+0.0.0.0 streaming.tumblr.com
+0.0.0.0 broadcast.tumblr.com
+
+# Mobile app specific
+0.0.0.0 appstore.tumblr.com
+0.0.0.0 playstore.tumblr.com
+
+# Verification and trust
+0.0.0.0 verified.tumblr.com
+0.0.0.0 trust.tumblr.com
+0.0.0.0 checkmark.tumblr.com
+
+# Internal tools and services
+0.0.0.0 internal.tumblr.com
+0.0.0.0 tools.tumblr.com
+0.0.0.0 utils.tumblr.com
+
+# Bug bounty and security
+0.0.0.0 bugbounty.tumblr.com
+0.0.0.0 bounty.tumblr.com
+
+# Email services
+0.0.0.0 smtp.tumblr.com
+0.0.0.0 mailgun.tumblr.com
+
+# Tumblr Beasts (based on research mentioning Tumbeasts)
+0.0.0.0 beasts.tumblr.com
+0.0.0.0 tumbeasts.tumblr.com
+
+# Collections and organization (based on research mentioning collections feature)
+0.0.0.0 collections.tumblr.com
+0.0.0.0 collection.tumblr.com
+
+# Time Machine feature (based on research)
+0.0.0.0 oneyearago.tumblr.com
+
+# Rave room feature (based on research)
+0.0.0.0 rave.tumblr.com
+0.0.0.0 room.tumblr.com 

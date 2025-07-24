@@ -1,0 +1,270 @@
+# Torrent Clients Web UI - Hosts List for pfBlockerNG
+# Generated for comprehensive blocking of torrent client web interfaces
+# Last Updated: December 2024
+# Total Domains: 150+
+
+# =============================================================================
+# UTORRENT WEB UI
+# =============================================================================
+# Official uTorrent domains
+0.0.0.0 utorrent.com
+0.0.0.0 www.utorrent.com
+0.0.0.0 web.utorrent.com
+0.0.0.0 webui.utorrent.com
+0.0.0.0 remote.utorrent.com
+0.0.0.0 app.utorrent.com
+
+# uTorrent Web service
+0.0.0.0 web.utorrent.bittorrent.com
+0.0.0.0 webui.utorrent.bittorrent.com
+0.0.0.0 remote.utorrent.bittorrent.com
+
+# uTorrent update and tracking services
+0.0.0.0 update.utorrent.com
+0.0.0.0 www.update.utorrent.com
+0.0.0.0 stats.utorrent.com
+0.0.0.0 www.stats.utorrent.com
+0.0.0.0 analytics.utorrent.com
+0.0.0.0 www.analytics.utorrent.com
+
+# uTorrent API endpoints
+0.0.0.0 api.utorrent.com
+0.0.0.0 www.api.utorrent.com
+0.0.0.0 webapi.utorrent.com
+0.0.0.0 www.webapi.utorrent.com
+
+# uTorrent CDN and static content
+0.0.0.0 cdn.utorrent.com
+0.0.0.0 static.utorrent.com
+0.0.0.0 assets.utorrent.com
+0.0.0.0 media.utorrent.com
+
+# uTorrent mobile and alternative interfaces
+0.0.0.0 m.utorrent.com
+0.0.0.0 mobile.utorrent.com
+0.0.0.0 touch.utorrent.com
+
+# =============================================================================
+# BITTORRENT WEB UI
+# =============================================================================
+# Official BitTorrent domains
+0.0.0.0 bittorrent.com
+0.0.0.0 www.bittorrent.com
+0.0.0.0 web.bittorrent.com
+0.0.0.0 webui.bittorrent.com
+0.0.0.0 remote.bittorrent.com
+0.0.0.0 app.bittorrent.com
+
+# BitTorrent Web service
+0.0.0.0 btapps.com
+0.0.0.0 www.btapps.com
+0.0.0.0 web.btapps.com
+0.0.0.0 webui.btapps.com
+
+# BitTorrent update and tracking services
+0.0.0.0 update.bittorrent.com
+0.0.0.0 www.update.bittorrent.com
+0.0.0.0 stats.bittorrent.com
+0.0.0.0 www.stats.bittorrent.com
+0.0.0.0 analytics.bittorrent.com
+0.0.0.0 www.analytics.bittorrent.com
+
+# BitTorrent API endpoints
+0.0.0.0 api.bittorrent.com
+0.0.0.0 www.api.bittorrent.com
+0.0.0.0 webapi.bittorrent.com
+0.0.0.0 www.webapi.bittorrent.com
+
+# BitTorrent CDN and static content
+0.0.0.0 cdn.bittorrent.com
+0.0.0.0 static.bittorrent.com
+0.0.0.0 assets.bittorrent.com
+0.0.0.0 media.bittorrent.com
+
+# BitTorrent mobile interfaces
+0.0.0.0 m.bittorrent.com
+0.0.0.0 mobile.bittorrent.com
+0.0.0.0 touch.bittorrent.com
+
+# BitTorrent Inc. corporate domains
+0.0.0.0 bittorrentinc.com
+0.0.0.0 www.bittorrentinc.com
+
+# =============================================================================
+# QBITTORRENT WEB UI
+# =============================================================================
+# Official qBittorrent domains
+0.0.0.0 qbittorrent.org
+0.0.0.0 www.qbittorrent.org
+0.0.0.0 web.qbittorrent.org
+0.0.0.0 webui.qbittorrent.org
+
+# qBittorrent development and source
+0.0.0.0 github.com/qbittorrent
+# Note: GitHub blocking would affect many legitimate uses, so this is optional
+
+# qBittorrent community forums
+0.0.0.0 forum.qbittorrent.org
+0.0.0.0 www.forum.qbittorrent.org
+
+# qBittorrent documentation
+0.0.0.0 wiki.qbittorrent.org
+0.0.0.0 www.wiki.qbittorrent.org
+0.0.0.0 docs.qbittorrent.org
+0.0.0.0 www.docs.qbittorrent.org
+
+# qBittorrent downloads and updates
+0.0.0.0 downloads.qbittorrent.org
+0.0.0.0 www.downloads.qbittorrent.org
+0.0.0.0 update.qbittorrent.org
+0.0.0.0 www.update.qbittorrent.org
+
+# =============================================================================
+# TRANSMISSION WEB UI
+# =============================================================================
+# Official Transmission domains
+0.0.0.0 transmissionbt.com
+0.0.0.0 www.transmissionbt.com
+0.0.0.0 web.transmissionbt.com
+0.0.0.0 webui.transmissionbt.com
+
+# Transmission development and source
+0.0.0.0 github.com/transmission
+# Note: GitHub blocking would affect many legitimate uses, so this is optional
+
+# Transmission alternative domains
+0.0.0.0 transmission.app
+0.0.0.0 www.transmission.app
+
+# Transmission documentation and wiki
+0.0.0.0 wiki.transmissionbt.com
+0.0.0.0 www.wiki.transmissionbt.com
+0.0.0.0 docs.transmissionbt.com
+0.0.0.0 www.docs.transmissionbt.com
+
+# Transmission forums and community
+0.0.0.0 forum.transmissionbt.com
+0.0.0.0 www.forum.transmissionbt.com
+
+# Transmission updates and downloads
+0.0.0.0 download.transmissionbt.com
+0.0.0.0 www.download.transmissionbt.com
+0.0.0.0 releases.transmissionbt.com
+0.0.0.0 www.releases.transmissionbt.com
+
+# =============================================================================
+# ADDITIONAL TORRENT CLIENTS AND WEB UIS
+# =============================================================================
+
+# Deluge Web UI
+0.0.0.0 deluge-torrent.org
+0.0.0.0 www.deluge-torrent.org
+0.0.0.0 web.deluge-torrent.org
+0.0.0.0 webui.deluge-torrent.org
+
+# Vuze (Azureus)
+0.0.0.0 vuze.com
+0.0.0.0 www.vuze.com
+0.0.0.0 web.vuze.com
+0.0.0.0 webui.vuze.com
+0.0.0.0 remote.vuze.com
+
+# rTorrent + ruTorrent Web UI
+0.0.0.0 rutorrent.org
+0.0.0.0 www.rutorrent.org
+0.0.0.0 rtorrent.org
+0.0.0.0 www.rtorrent.org
+
+# Tixati
+0.0.0.0 tixati.com
+0.0.0.0 www.tixati.com
+0.0.0.0 web.tixati.com
+
+# BiglyBT
+0.0.0.0 biglybt.com
+0.0.0.0 www.biglybt.com
+0.0.0.0 web.biglybt.com
+
+# FrostWire
+0.0.0.0 frostwire.com
+0.0.0.0 www.frostwire.com
+0.0.0.0 web.frostwire.com
+
+# Tribler
+0.0.0.0 tribler.org
+0.0.0.0 www.tribler.org
+0.0.0.0 web.tribler.org
+
+# =============================================================================
+# REMOTE TORRENT CLIENT ACCESS SERVICES
+# =============================================================================
+
+# Seedbox providers with web UIs
+0.0.0.0 seedhost.eu
+0.0.0.0 www.seedhost.eu
+0.0.0.0 whatbox.ca
+0.0.0.0 www.whatbox.ca
+0.0.0.0 seedboxes.cc
+0.0.0.0 www.seedboxes.cc
+0.0.0.0 ultraseedbox.com
+0.0.0.0 www.ultraseedbox.com
+
+# Remote torrent management services
+0.0.0.0 transdroid.org
+0.0.0.0 www.transdroid.org
+0.0.0.0 remote4torrents.com
+0.0.0.0 www.remote4torrents.com
+
+# =============================================================================
+# TORRENT CLIENT ANALYTICS AND TRACKING
+# =============================================================================
+
+# Common analytics services used by torrent clients
+0.0.0.0 torrentanalytics.com
+0.0.0.0 www.torrentanalytics.com
+0.0.0.0 torrentstats.com
+0.0.0.0 www.torrentstats.com
+
+# Client-specific tracking domains
+0.0.0.0 tracker.utorrent.com
+0.0.0.0 www.tracker.utorrent.com
+0.0.0.0 tracker.bittorrent.com
+0.0.0.0 www.tracker.bittorrent.com
+
+# =============================================================================
+# TORRENT CLIENT UPDATE SERVICES
+# =============================================================================
+
+# Update check domains for various clients
+0.0.0.0 autoupdate.utorrent.com
+0.0.0.0 www.autoupdate.utorrent.com
+0.0.0.0 autoupdate.bittorrent.com
+0.0.0.0 www.autoupdate.bittorrent.com
+0.0.0.0 versioncheck.utorrent.com
+0.0.0.0 www.versioncheck.utorrent.com
+0.0.0.0 versioncheck.bittorrent.com
+0.0.0.0 www.versioncheck.bittorrent.com
+
+# =============================================================================
+# TORRENT CLIENT ADVERTISING NETWORKS
+# =============================================================================
+
+# Ad networks commonly integrated in torrent clients
+0.0.0.0 plus.bittorrent.com
+0.0.0.0 www.plus.bittorrent.com
+0.0.0.0 ads.bittorrent.com
+0.0.0.0 www.ads.bittorrent.com
+0.0.0.0 offers.bittorrent.com
+0.0.0.0 www.offers.bittorrent.com
+
+# uTorrent specific ad services
+0.0.0.0 ads.utorrent.com
+0.0.0.0 www.ads.utorrent.com
+0.0.0.0 offers.utorrent.com
+0.0.0.0 www.offers.utorrent.com
+0.0.0.0 featured.utorrent.com
+0.0.0.0 www.featured.utorrent.com
+
+# =============================================================================
+# END OF TORRENT CLIENTS WEB UI HOSTS LIST
+# ============================================================================= 

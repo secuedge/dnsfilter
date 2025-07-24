@@ -1,0 +1,487 @@
+# Wynk Music - Bharti Airtel's music streaming platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 wynk.in
+0.0.0.0 www.wynk.in
+
+# Airtel ecosystem integration
+0.0.0.0 music.airtel.in
+0.0.0.0 wynk.airtel.in
+0.0.0.0 airtelwynk.in
+0.0.0.0 www.airtelwynk.in
+
+# Mobile and app related
+0.0.0.0 m.wynk.in
+0.0.0.0 mobile.wynk.in
+0.0.0.0 app.wynk.in
+0.0.0.0 apps.wynk.in
+0.0.0.0 android.wynk.in
+0.0.0.0 ios.wynk.in
+
+# API endpoints
+0.0.0.0 api.wynk.in
+0.0.0.0 gateway.wynk.in
+0.0.0.0 data.wynk.in
+0.0.0.0 oauth.wynk.in
+0.0.0.0 auth.wynk.in
+
+# User authentication and accounts
+0.0.0.0 accounts.wynk.in
+0.0.0.0 signin.wynk.in
+0.0.0.0 login.wynk.in
+0.0.0.0 myaccount.wynk.in
+0.0.0.0 profile.wynk.in
+0.0.0.0 profiles.wynk.in
+
+# Audio streaming and playback
+0.0.0.0 audio.wynk.in
+0.0.0.0 media.wynk.in
+0.0.0.0 play.wynk.in
+0.0.0.0 player.wynk.in
+0.0.0.0 playback.wynk.in
+0.0.0.0 stream.wynk.in
+0.0.0.0 streams.wynk.in
+0.0.0.0 streaming.wynk.in
+
+# CDN infrastructure
+0.0.0.0 cdn.wynk.in
+0.0.0.0 static.wynk.in
+0.0.0.0 assets.wynk.in
+0.0.0.0 resources.wynk.in
+0.0.0.0 content.wynk.in
+
+# Analytics and tracking
+0.0.0.0 analytics.wynk.in
+0.0.0.0 stats.wynk.in
+0.0.0.0 metrics.wynk.in
+0.0.0.0 tracking.wynk.in
+0.0.0.0 telemetry.wynk.in
+
+# Search and discovery
+0.0.0.0 search.wynk.in
+0.0.0.0 discover.wynk.in
+0.0.0.0 discovery.wynk.in
+0.0.0.0 recommendations.wynk.in
+0.0.0.0 recommend.wynk.in
+
+# Advertising and monetization
+0.0.0.0 ads.wynk.in
+0.0.0.0 advertising.wynk.in
+0.0.0.0 adnxs.wynk.in
+0.0.0.0 adserver.wynk.in
+0.0.0.0 adsystem.wynk.in
+
+# Developer and partner services
+0.0.0.0 developer.wynk.in
+0.0.0.0 developers.wynk.in
+0.0.0.0 partners.wynk.in
+0.0.0.0 partner.wynk.in
+
+# Support and help
+0.0.0.0 support.wynk.in
+0.0.0.0 help.wynk.in
+0.0.0.0 customer.wynk.in
+0.0.0.0 customerservice.wynk.in
+
+# News and press
+0.0.0.0 news.wynk.in
+0.0.0.0 press.wynk.in
+0.0.0.0 newsroom.wynk.in
+0.0.0.0 blog.wynk.in
+
+# Social and community
+0.0.0.0 community.wynk.in
+0.0.0.0 social.wynk.in
+0.0.0.0 friends.wynk.in
+0.0.0.0 connect.wynk.in
+
+# Live and events
+0.0.0.0 live.wynk.in
+0.0.0.0 events.wynk.in
+0.0.0.0 concerts.wynk.in
+0.0.0.0 shows.wynk.in
+
+# Podcasts
+0.0.0.0 podcasts.wynk.in
+0.0.0.0 podcast.wynk.in
+
+# Premium and subscription
+0.0.0.0 premium.wynk.in
+0.0.0.0 plus.wynk.in
+0.0.0.0 subscribe.wynk.in
+0.0.0.0 subscription.wynk.in
+0.0.0.0 billing.wynk.in
+
+# Artists and creators
+0.0.0.0 artists.wynk.in
+0.0.0.0 artist.wynk.in
+0.0.0.0 creators.wynk.in
+0.0.0.0 creator.wynk.in
+
+# Lyrics
+0.0.0.0 lyrics.wynk.in
+
+# Regional domains
+0.0.0.0 wynk.com
+0.0.0.0 www.wynk.com
+0.0.0.0 wynk.co.in
+0.0.0.0 www.wynk.co.in
+
+# Testing and staging
+0.0.0.0 test.wynk.in
+0.0.0.0 testing.wynk.in
+0.0.0.0 stage.wynk.in
+0.0.0.0 staging.wynk.in
+0.0.0.0 dev.wynk.in
+0.0.0.0 development.wynk.in
+0.0.0.0 qa.wynk.in
+0.0.0.0 uat.wynk.in
+0.0.0.0 beta.wynk.in
+0.0.0.0 preview.wynk.in
+
+# Platform integrations
+0.0.0.0 facebook.wynk.in
+0.0.0.0 twitter.wynk.in
+0.0.0.0 instagram.wynk.in
+0.0.0.0 youtube.wynk.in
+
+# Technology platforms
+0.0.0.0 alexa.wynk.in
+0.0.0.0 google.wynk.in
+0.0.0.0 assistant.wynk.in
+
+# Device specific
+0.0.0.0 tv.wynk.in
+0.0.0.0 car.wynk.in
+0.0.0.0 smart.wynk.in
+0.0.0.0 airtelfiber.wynk.in
+0.0.0.0 airteldth.wynk.in
+
+# Backend services
+0.0.0.0 backend.wynk.in
+0.0.0.0 service.wynk.in
+0.0.0.0 services.wynk.in
+0.0.0.0 microservice.wynk.in
+0.0.0.0 microservices.wynk.in
+
+# Security and encryption
+0.0.0.0 security.wynk.in
+0.0.0.0 ssl.wynk.in
+0.0.0.0 secure.wynk.in
+0.0.0.0 encryption.wynk.in
+
+# Machine learning and AI
+0.0.0.0 ml.wynk.in
+0.0.0.0 ai.wynk.in
+0.0.0.0 algorithm.wynk.in
+0.0.0.0 algorithms.wynk.in
+
+# Business and enterprise
+0.0.0.0 business.wynk.in
+0.0.0.0 enterprise.wynk.in
+0.0.0.0 corporate.wynk.in
+0.0.0.0 b2b.wynk.in
+
+# Legal and compliance
+0.0.0.0 legal.wynk.in
+0.0.0.0 privacy.wynk.in
+0.0.0.0 terms.wynk.in
+0.0.0.0 compliance.wynk.in
+
+# Email and notifications
+0.0.0.0 email.wynk.in
+0.0.0.0 mail.wynk.in
+0.0.0.0 notifications.wynk.in
+0.0.0.0 notify.wynk.in
+
+# File and asset storage
+0.0.0.0 files.wynk.in
+0.0.0.0 uploads.wynk.in
+0.0.0.0 download.wynk.in
+0.0.0.0 storage.wynk.in
+0.0.0.0 bucket.wynk.in
+
+# Image serving
+0.0.0.0 images.wynk.in
+0.0.0.0 img.wynk.in
+0.0.0.0 image.wynk.in
+0.0.0.0 pics.wynk.in
+0.0.0.0 pictures.wynk.in
+0.0.0.0 photos.wynk.in
+0.0.0.0 covers.wynk.in
+0.0.0.0 artwork.wynk.in
+0.0.0.0 artworks.wynk.in
+0.0.0.0 thumbnails.wynk.in
+0.0.0.0 thumb.wynk.in
+
+# Internal tools and admin
+0.0.0.0 admin.wynk.in
+0.0.0.0 internal.wynk.in
+0.0.0.0 intranet.wynk.in
+0.0.0.0 staff.wynk.in
+0.0.0.0 employee.wynk.in
+0.0.0.0 tools.wynk.in
+
+# Monitoring and logging
+0.0.0.0 monitoring.wynk.in
+0.0.0.0 logs.wynk.in
+0.0.0.0 logging.wynk.in
+0.0.0.0 errors.wynk.in
+0.0.0.0 sentry.wynk.in
+
+# Load balancing and infrastructure
+0.0.0.0 lb.wynk.in
+0.0.0.0 loadbalancer.wynk.in
+0.0.0.0 edge.wynk.in
+0.0.0.0 proxy.wynk.in
+0.0.0.0 gateway.wynk.in
+0.0.0.0 router.wynk.in
+
+# Geographic and regional CDN
+0.0.0.0 us.wynk.in
+0.0.0.0 india.wynk.in
+0.0.0.0 in.wynk.in
+0.0.0.0 asia.wynk.in
+0.0.0.0 ap.wynk.in
+
+# Event tracking and data collection
+0.0.0.0 events.wynk.in
+0.0.0.0 event.wynk.in
+0.0.0.0 data.wynk.in
+0.0.0.0 collect.wynk.in
+0.0.0.0 beacon.wynk.in
+
+# Third-party integrations
+0.0.0.0 facebook.wynk.in
+0.0.0.0 fb.wynk.in
+0.0.0.0 google.wynk.in
+0.0.0.0 goog.wynk.in
+0.0.0.0 apple.wynk.in
+0.0.0.0 amazon.wynk.in
+0.0.0.0 microsoft.wynk.in
+
+# WebRTC and real-time communication
+0.0.0.0 webrtc.wynk.in
+0.0.0.0 rtc.wynk.in
+0.0.0.0 realtime.wynk.in
+0.0.0.0 socket.wynk.in
+0.0.0.0 websocket.wynk.in
+
+# Experimental and feature flags
+0.0.0.0 experiments.wynk.in
+0.0.0.0 experiment.wynk.in
+0.0.0.0 feature.wynk.in
+0.0.0.0 features.wynk.in
+0.0.0.0 flags.wynk.in
+0.0.0.0 ab.wynk.in
+0.0.0.0 abtest.wynk.in
+
+# Legacy domains
+0.0.0.0 old.wynk.in
+0.0.0.0 legacy.wynk.in
+0.0.0.0 archive.wynk.in
+0.0.0.0 backup.wynk.in
+
+# Specialized services
+0.0.0.0 queue.wynk.in
+0.0.0.0 session.wynk.in
+0.0.0.0 cache.wynk.in
+0.0.0.0 redis.wynk.in
+0.0.0.0 database.wynk.in
+0.0.0.0 db.wynk.in
+
+# Version control and deployment
+0.0.0.0 git.wynk.in
+0.0.0.0 github.wynk.in
+0.0.0.0 deploy.wynk.in
+0.0.0.0 deployment.wynk.in
+0.0.0.0 ci.wynk.in
+0.0.0.0 cd.wynk.in
+0.0.0.0 jenkins.wynk.in
+0.0.0.0 gitlab.wynk.in
+
+# Documentation and resources
+0.0.0.0 docs.wynk.in
+0.0.0.0 documentation.wynk.in
+0.0.0.0 resources.wynk.in
+0.0.0.0 guide.wynk.in
+0.0.0.0 guides.wynk.in
+0.0.0.0 tutorial.wynk.in
+0.0.0.0 tutorials.wynk.in
+
+# GraphQL and modern APIs
+0.0.0.0 graphql.wynk.in
+0.0.0.0 gql.wynk.in
+0.0.0.0 apollo.wynk.in
+0.0.0.0 federation.wynk.in
+
+# Message queues and event streaming
+0.0.0.0 kafka.wynk.in
+0.0.0.0 rabbitmq.wynk.in
+0.0.0.0 pubsub.wynk.in
+0.0.0.0 messaging.wynk.in
+
+# Payment and monetization
+0.0.0.0 payment.wynk.in
+0.0.0.0 payments.wynk.in
+0.0.0.0 pay.wynk.in
+0.0.0.0 checkout.wynk.in
+
+# Radio and live streaming
+0.0.0.0 radio.wynk.in
+0.0.0.0 fm.wynk.in
+0.0.0.0 broadcast.wynk.in
+
+# Language specific domains
+0.0.0.0 hindi.wynk.in
+0.0.0.0 english.wynk.in
+0.0.0.0 punjabi.wynk.in
+0.0.0.0 tamil.wynk.in
+0.0.0.0 telugu.wynk.in
+0.0.0.0 bengali.wynk.in
+0.0.0.0 gujarati.wynk.in
+0.0.0.0 marathi.wynk.in
+0.0.0.0 kannada.wynk.in
+0.0.0.0 malayalam.wynk.in
+0.0.0.0 bhojpuri.wynk.in
+0.0.0.0 rajasthani.wynk.in
+0.0.0.0 haryanvi.wynk.in
+0.0.0.0 assamese.wynk.in
+0.0.0.0 oriya.wynk.in
+
+# Download and offline
+0.0.0.0 downloads.wynk.in
+0.0.0.0 offline.wynk.in
+0.0.0.0 sync.wynk.in
+
+# Charts and trending
+0.0.0.0 charts.wynk.in
+0.0.0.0 trending.wynk.in
+0.0.0.0 top.wynk.in
+0.0.0.0 popular.wynk.in
+
+# Genres and categories
+0.0.0.0 bollywood.wynk.in
+0.0.0.0 classical.wynk.in
+0.0.0.0 devotional.wynk.in
+0.0.0.0 folk.wynk.in
+0.0.0.0 ghazal.wynk.in
+0.0.0.0 sufi.wynk.in
+
+# User generated content
+0.0.0.0 ugc.wynk.in
+0.0.0.0 user.wynk.in
+0.0.0.0 users.wynk.in
+0.0.0.0 playlists.wynk.in
+0.0.0.0 playlist.wynk.in
+
+# Wellness and meditation
+0.0.0.0 meditation.wynk.in
+0.0.0.0 wellness.wynk.in
+0.0.0.0 yoga.wynk.in
+0.0.0.0 spiritual.wynk.in
+
+# Festival and occasion-based
+0.0.0.0 festival.wynk.in
+0.0.0.0 festivals.wynk.in
+0.0.0.0 diwali.wynk.in
+0.0.0.0 holi.wynk.in
+0.0.0.0 navratri.wynk.in
+0.0.0.0 karva.wynk.in
+0.0.0.0 wedding.wynk.in
+0.0.0.0 valentine.wynk.in
+
+# Mood-based playlists
+0.0.0.0 mood.wynk.in
+0.0.0.0 moods.wynk.in
+0.0.0.0 party.wynk.in
+0.0.0.0 romance.wynk.in
+0.0.0.0 workout.wynk.in
+0.0.0.0 sleep.wynk.in
+0.0.0.0 relax.wynk.in
+
+# Airtel specific integration domains
+0.0.0.0 airtel.wynk.in
+0.0.0.0 airtelapps.wynk.in
+0.0.0.0 airtelstore.wynk.in
+0.0.0.0 airteltv.wynk.in
+0.0.0.0 airtelxstream.wynk.in
+0.0.0.0 airtelmoney.wynk.in
+0.0.0.0 airtelsecurity.wynk.in
+0.0.0.0 airtelcloud.wynk.in
+0.0.0.0 myairtel.wynk.in
+
+# 4G and 5G technology
+0.0.0.0 4g.wynk.in
+0.0.0.0 5g.wynk.in
+0.0.0.0 nextgen.wynk.in
+0.0.0.0 future.wynk.in
+
+# Cross-platform sync
+0.0.0.0 cross.wynk.in
+0.0.0.0 multidevice.wynk.in
+0.0.0.0 everywhere.wynk.in
+
+# Gaming integration
+0.0.0.0 gaming.wynk.in
+0.0.0.0 games.wynk.in
+
+# Educational content
+0.0.0.0 education.wynk.in
+0.0.0.0 learn.wynk.in
+0.0.0.0 learning.wynk.in
+0.0.0.0 study.wynk.in
+
+# Health and fitness
+0.0.0.0 health.wynk.in
+0.0.0.0 fitness.wynk.in
+0.0.0.0 running.wynk.in
+0.0.0.0 gym.wynk.in
+
+# Telecom integration
+0.0.0.0 telecom.wynk.in
+0.0.0.0 network.wynk.in
+0.0.0.0 signal.wynk.in
+0.0.0.0 tower.wynk.in
+
+# Data usage optimization
+0.0.0.0 compress.wynk.in
+0.0.0.0 optimize.wynk.in
+0.0.0.0 lowdata.wynk.in
+0.0.0.0 lite.wynk.in
+
+# Voice and audio technology
+0.0.0.0 voice.wynk.in
+0.0.0.0 speech.wynk.in
+0.0.0.0 talk.wynk.in
+0.0.0.0 command.wynk.in
+
+# IoT and smart devices
+0.0.0.0 iot.wynk.in
+0.0.0.0 smartdevice.wynk.in
+0.0.0.0 connected.wynk.in
+
+# Rural and remote access
+0.0.0.0 rural.wynk.in
+0.0.0.0 remote.wynk.in
+0.0.0.0 village.wynk.in
+0.0.0.0 bharat.wynk.in
+
+# Bandwidth optimization
+0.0.0.0 bandwidth.wynk.in
+0.0.0.0 adaptive.wynk.in
+0.0.0.0 quality.wynk.in
+
+# Customer care integration
+0.0.0.0 care.wynk.in
+0.0.0.0 customercare.wynk.in
+0.0.0.0 helpdesk.wynk.in
+
+# Billing integration with Airtel
+0.0.0.0 airtelpostpaid.wynk.in
+0.0.0.0 airtelprepaid.wynk.in
+0.0.0.0 recharge.wynk.in
+
+# Corporate and business solutions
+0.0.0.0 corp.wynk.in
+0.0.0.0 business.wynk.in
+0.0.0.0 solutions.wynk.in 

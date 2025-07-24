@@ -1,0 +1,329 @@
+# Nykaa - Beauty and fashion e-commerce platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 nykaa.com
+0.0.0.0 www.nykaa.com
+
+# Nykaa sub-platforms based on research
+0.0.0.0 nykaafashion.com
+0.0.0.0 www.nykaafashion.com
+0.0.0.0 nykaaman.com
+0.0.0.0 www.nykaaman.com
+0.0.0.0 nykdbynykaa.com
+0.0.0.0 www.nykdbynykaa.com
+0.0.0.0 superstore.in
+0.0.0.0 www.superstore.in
+0.0.0.0 twentydresses.com
+0.0.0.0 www.twentydresses.com
+0.0.0.0 pipabella.com
+0.0.0.0 www.pipabella.com
+0.0.0.0 gloot.co.in
+0.0.0.0 www.gloot.co.in
+0.0.0.0 kicaactive.com
+0.0.0.0 www.kicaactive.com
+0.0.0.0 lbb.in
+0.0.0.0 www.lbb.in
+0.0.0.0 lbbshop.in
+0.0.0.0 www.lbbshop.in
+0.0.0.0 iykykclub.com
+0.0.0.0 www.iykykclub.com
+0.0.0.0 gajragang.com
+0.0.0.0 www.gajragang.com
+
+# International expansion (Nysaa in GCC)
+0.0.0.0 nysaa.com
+0.0.0.0 www.nysaa.com
+
+# Mobile and app related
+0.0.0.0 m.nykaa.com
+0.0.0.0 mobile.nykaa.com
+0.0.0.0 app.nykaa.com
+0.0.0.0 apps.nykaa.com
+0.0.0.0 android.nykaa.com
+0.0.0.0 ios.nykaa.com
+
+# API endpoints (based on "One Nykaa, One Data" research)
+0.0.0.0 api.nykaa.com
+0.0.0.0 api1.nykaa.com
+0.0.0.0 api2.nykaa.com
+0.0.0.0 apis.nykaa.com
+0.0.0.0 mapi.nykaa.com
+0.0.0.0 gateway.nykaa.com
+0.0.0.0 rest.nykaa.com
+
+# Content delivery networks (CDN) - based on ImageKit.io research
+0.0.0.0 cdn.nykaa.com
+0.0.0.0 cdn1.nykaa.com
+0.0.0.0 cdn2.nykaa.com
+0.0.0.0 cdn3.nykaa.com
+0.0.0.0 static.nykaa.com
+0.0.0.0 static1.nykaa.com
+0.0.0.0 static2.nykaa.com
+0.0.0.0 assets.nykaa.com
+0.0.0.0 media.nykaa.com
+0.0.0.0 content.nykaa.com
+
+# Image servers (based on ImageKit.io case study)
+0.0.0.0 img.nykaa.com
+0.0.0.0 img1.nykaa.com
+0.0.0.0 img2.nykaa.com
+0.0.0.0 img3.nykaa.com
+0.0.0.0 images.nykaa.com
+0.0.0.0 images-static.nykaa.com
+0.0.0.0 pics.nykaa.com
+0.0.0.0 photos.nykaa.com
+0.0.0.0 video.nykaa.com
+0.0.0.0 videos.nykaa.com
+
+# Analytics and tracking
+0.0.0.0 analytics.nykaa.com
+0.0.0.0 tracking.nykaa.com
+0.0.0.0 track.nykaa.com
+0.0.0.0 tracker.nykaa.com
+0.0.0.0 metrics.nykaa.com
+0.0.0.0 stats.nykaa.com
+0.0.0.0 pixel.nykaa.com
+0.0.0.0 beacon.nykaa.com
+0.0.0.0 data.nykaa.com
+0.0.0.0 events.nykaa.com
+
+# Shopping and commerce
+0.0.0.0 shop.nykaa.com
+0.0.0.0 store.nykaa.com
+0.0.0.0 cart.nykaa.com
+0.0.0.0 checkout.nykaa.com
+0.0.0.0 payment.nykaa.com
+0.0.0.0 payments.nykaa.com
+0.0.0.0 pay.nykaa.com
+0.0.0.0 wallet.nykaa.com
+
+# User authentication and security
+0.0.0.0 login.nykaa.com
+0.0.0.0 auth.nykaa.com
+0.0.0.0 secure.nykaa.com
+0.0.0.0 ssl.nykaa.com
+0.0.0.0 accounts.nykaa.com
+0.0.0.0 account.nykaa.com
+0.0.0.0 profile.nykaa.com
+0.0.0.0 user.nykaa.com
+0.0.0.0 users.nykaa.com
+
+# Support and help
+0.0.0.0 support.nykaa.com
+0.0.0.0 help.nykaa.com
+0.0.0.0 customer.nykaa.com
+0.0.0.0 service.nykaa.com
+0.0.0.0 care.nykaa.com
+0.0.0.0 faq.nykaa.com
+0.0.0.0 feedback.nykaa.com
+
+# Search and recommendation
+0.0.0.0 search.nykaa.com
+0.0.0.0 suggest.nykaa.com
+0.0.0.0 recommendation.nykaa.com
+0.0.0.0 reco.nykaa.com
+0.0.0.0 personalization.nykaa.com
+
+# Email and notifications
+0.0.0.0 mail.nykaa.com
+0.0.0.0 email.nykaa.com
+0.0.0.0 newsletter.nykaa.com
+0.0.0.0 notifications.nykaa.com
+0.0.0.0 push.nykaa.com
+
+# Social and community (based on Nykaa Network research)
+0.0.0.0 social.nykaa.com
+0.0.0.0 community.nykaa.com
+0.0.0.0 network.nykaa.com
+0.0.0.0 blog.nykaa.com
+0.0.0.0 stories.nykaa.com
+0.0.0.0 reviews.nykaa.com
+0.0.0.0 share.nykaa.com
+
+# Admin and backend
+0.0.0.0 admin.nykaa.com
+0.0.0.0 manage.nykaa.com
+0.0.0.0 dashboard.nykaa.com
+0.0.0.0 console.nykaa.com
+0.0.0.0 backend.nykaa.com
+
+# Geographic and regional
+0.0.0.0 in.nykaa.com
+0.0.0.0 india.nykaa.com
+
+# Development and staging
+0.0.0.0 dev.nykaa.com
+0.0.0.0 test.nykaa.com
+0.0.0.0 staging.nykaa.com
+0.0.0.0 qa.nykaa.com
+0.0.0.0 beta.nykaa.com
+0.0.0.0 demo.nykaa.com
+
+# Beauty services and booking
+0.0.0.0 beauty.nykaa.com
+0.0.0.0 services.nykaa.com
+0.0.0.0 booking.nykaa.com
+0.0.0.0 salon.nykaa.com
+0.0.0.0 appointment.nykaa.com
+
+# Seller and business services
+0.0.0.0 seller.nykaa.com
+0.0.0.0 sellers.nykaa.com
+0.0.0.0 vendor.nykaa.com
+0.0.0.0 vendors.nykaa.com
+0.0.0.0 partner.nykaa.com
+0.0.0.0 partners.nykaa.com
+0.0.0.0 business.nykaa.com
+0.0.0.0 b2b.nykaa.com
+
+# Corporate and informational
+0.0.0.0 careers.nykaa.com
+0.0.0.0 jobs.nykaa.com
+0.0.0.0 press.nykaa.com
+0.0.0.0 news.nykaa.com
+0.0.0.0 about.nykaa.com
+0.0.0.0 contact.nykaa.com
+0.0.0.0 legal.nykaa.com
+0.0.0.0 privacy.nykaa.com
+0.0.0.0 terms.nykaa.com
+
+# Load balancers and infrastructure
+0.0.0.0 lb.nykaa.com
+0.0.0.0 lb1.nykaa.com
+0.0.0.0 lb2.nykaa.com
+0.0.0.0 proxy.nykaa.com
+0.0.0.0 cache.nykaa.com
+
+# Third-party integrations
+0.0.0.0 facebook.nykaa.com
+0.0.0.0 google.nykaa.com
+0.0.0.0 twitter.nykaa.com
+0.0.0.0 instagram.nykaa.com
+
+# Special campaigns and events
+0.0.0.0 sale.nykaa.com
+0.0.0.0 offers.nykaa.com
+0.0.0.0 deals.nykaa.com
+0.0.0.0 discount.nykaa.com
+0.0.0.0 festival.nykaa.com
+0.0.0.0 megasale.nykaa.com
+
+# Beauty categories
+0.0.0.0 makeup.nykaa.com
+0.0.0.0 skincare.nykaa.com
+0.0.0.0 haircare.nykaa.com
+0.0.0.0 fragrance.nykaa.com
+0.0.0.0 wellness.nykaa.com
+0.0.0.0 personal-care.nykaa.com
+0.0.0.0 mom-baby.nykaa.com
+0.0.0.0 mens.nykaa.com
+
+# Fashion categories (Nykaa Fashion)
+0.0.0.0 fashion.nykaa.com
+0.0.0.0 apparel.nykaa.com
+0.0.0.0 footwear.nykaa.com
+0.0.0.0 accessories.nykaa.com
+0.0.0.0 jewelry.nykaa.com
+0.0.0.0 watches.nykaa.com
+0.0.0.0 bags.nykaa.com
+0.0.0.0 western.nykaa.com
+0.0.0.0 ethnic.nykaa.com
+0.0.0.0 lingerie.nykaa.com
+0.0.0.0 activewear.nykaa.com
+
+# Nykaa brands (based on brand portfolio research)
+0.0.0.0 dotandkey.nykaa.com
+0.0.0.0 earthrhythm.nykaa.com
+0.0.0.0 kaybeauty.nykaa.com
+0.0.0.0 nykd.nykaa.com
+0.0.0.0 20dresses.nykaa.com
+0.0.0.0 rsvp.nykaa.com
+0.0.0.0 likha.nykaa.com
+
+# Loyalty and rewards (Nykaa Prive based on research)
+0.0.0.0 prive.nykaa.com
+0.0.0.0 loyalty.nykaa.com
+0.0.0.0 rewards.nykaa.com
+0.0.0.0 points.nykaa.com
+
+# AWS infrastructure (based on AWS case study research)
+0.0.0.0 aws.nykaa.com
+0.0.0.0 cloud.nykaa.com
+0.0.0.0 storage.nykaa.com
+0.0.0.0 redshift.nykaa.com
+0.0.0.0 athena.nykaa.com
+0.0.0.0 lakeformation.nykaa.com
+
+# Logistics and fulfillment
+0.0.0.0 logistics.nykaa.com
+0.0.0.0 fulfillment.nykaa.com
+0.0.0.0 warehouse.nykaa.com
+0.0.0.0 delivery.nykaa.com
+0.0.0.0 shipping.nykaa.com
+
+# Customer experience features
+0.0.0.0 cx.nykaa.com
+0.0.0.0 customerexperience.nykaa.com
+0.0.0.0 ux.nykaa.com
+
+# Virtual try-on and AR features
+0.0.0.0 virtual.nykaa.com
+0.0.0.0 ar.nykaa.com
+0.0.0.0 tryon.nykaa.com
+0.0.0.0 makeup-try.nykaa.com
+
+# Content and editorial
+0.0.0.0 magazine.nykaa.com
+0.0.0.0 editorial.nykaa.com
+0.0.0.0 beauty-book.nykaa.com
+0.0.0.0 advice.nykaa.com
+0.0.0.0 tutorials.nykaa.com
+
+# ADTECH platform (based on research)
+0.0.0.0 ads.nykaa.com
+0.0.0.0 adtech.nykaa.com
+0.0.0.0 advertising.nykaa.com
+
+# Affiliate program (NAP based on research)
+0.0.0.0 affiliate.nykaa.com
+0.0.0.0 affiliates.nykaa.com
+0.0.0.0 creators.nykaa.com
+
+# Gift services
+0.0.0.0 gift.nykaa.com
+0.0.0.0 gifts.nykaa.com
+0.0.0.0 giftcard.nykaa.com
+0.0.0.0 gifting.nykaa.com
+
+# Beauty consultations and experts
+0.0.0.0 expert.nykaa.com
+0.0.0.0 experts.nykaa.com
+0.0.0.0 consultation.nykaa.com
+0.0.0.0 beautytips.nykaa.com
+
+# Home and kitchenware (new categories based on research)
+0.0.0.0 home.nykaa.com
+0.0.0.0 kitchen.nykaa.com
+0.0.0.0 homecare.nykaa.com
+
+# Wellness and health supplements (new category expansion)
+0.0.0.0 health.nykaa.com
+0.0.0.0 supplements.nykaa.com
+0.0.0.0 ayurveda.nykaa.com
+0.0.0.0 nutrition.nykaa.com
+
+# Chat and call functionality
+0.0.0.0 chat.nykaa.com
+0.0.0.0 call.nykaa.com
+0.0.0.0 livechat.nykaa.com
+
+# Interactive services
+0.0.0.0 interactive.nykaa.com
+0.0.0.0 suggestions.nykaa.com
+0.0.0.0 quiz.nykaa.com
+
+# Additional services
+0.0.0.0 returns.nykaa.com
+0.0.0.0 refund.nykaa.com
+0.0.0.0 exchange.nykaa.com
+0.0.0.0 warranty.nykaa.com
+0.0.0.0 track-order.nykaa.com 

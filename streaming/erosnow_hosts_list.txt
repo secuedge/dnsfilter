@@ -1,0 +1,672 @@
+# Eros Now - Eros International's Bollywood and South Asian streaming platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 erosnow.com
+0.0.0.0 www.erosnow.com
+
+# Eros ecosystem domains
+0.0.0.0 erosplc.com
+0.0.0.0 www.erosplc.com
+0.0.0.0 erosmediaworld.com
+0.0.0.0 www.erosmediaworld.com
+0.0.0.0 erosintl.com
+0.0.0.0 www.erosintl.com
+
+# Mobile and app related
+0.0.0.0 m.erosnow.com
+0.0.0.0 mobile.erosnow.com
+0.0.0.0 app.erosnow.com
+0.0.0.0 apps.erosnow.com
+0.0.0.0 android.erosnow.com
+0.0.0.0 ios.erosnow.com
+
+# API endpoints
+0.0.0.0 api.erosnow.com
+0.0.0.0 gateway.erosnow.com
+0.0.0.0 data.erosnow.com
+0.0.0.0 oauth.erosnow.com
+0.0.0.0 auth.erosnow.com
+
+# User authentication and accounts
+0.0.0.0 accounts.erosnow.com
+0.0.0.0 signin.erosnow.com
+0.0.0.0 login.erosnow.com
+0.0.0.0 myaccount.erosnow.com
+0.0.0.0 profile.erosnow.com
+0.0.0.0 profiles.erosnow.com
+
+# Video streaming and playback
+0.0.0.0 video.erosnow.com
+0.0.0.0 stream.erosnow.com
+0.0.0.0 streaming.erosnow.com
+0.0.0.0 player.erosnow.com
+0.0.0.0 media.erosnow.com
+0.0.0.0 content.erosnow.com
+
+# Content delivery network (CDN)
+0.0.0.0 cdn.erosnow.com
+0.0.0.0 cdn1.erosnow.com
+0.0.0.0 cdn2.erosnow.com
+0.0.0.0 cdn3.erosnow.com
+0.0.0.0 assets.erosnow.com
+0.0.0.0 images.erosnow.com
+0.0.0.0 thumbs.erosnow.com
+0.0.0.0 thumbnails.erosnow.com
+
+# Analytics and tracking
+0.0.0.0 analytics.erosnow.com
+0.0.0.0 tracking.erosnow.com
+0.0.0.0 metrics.erosnow.com
+0.0.0.0 stats.erosnow.com
+0.0.0.0 events.erosnow.com
+
+# Payment and subscription (based on research showing subscription model)
+0.0.0.0 payments.erosnow.com
+0.0.0.0 billing.erosnow.com
+0.0.0.0 subscription.erosnow.com
+0.0.0.0 checkout.erosnow.com
+
+# Search and recommendations
+0.0.0.0 search.erosnow.com
+0.0.0.0 recommend.erosnow.com
+0.0.0.0 suggestions.erosnow.com
+
+# Social features
+0.0.0.0 social.erosnow.com
+0.0.0.0 share.erosnow.com
+0.0.0.0 comments.erosnow.com
+
+# Global and regional variants (based on research showing global presence)
+0.0.0.0 us.erosnow.com
+0.0.0.0 uk.erosnow.com
+0.0.0.0 in.erosnow.com
+0.0.0.0 uae.erosnow.com
+0.0.0.0 global.erosnow.com
+0.0.0.0 international.erosnow.com
+
+# Language specific content (based on research showing multiple languages)
+0.0.0.0 hindi.erosnow.com
+0.0.0.0 bollywood.erosnow.com
+0.0.0.0 tamil.erosnow.com
+0.0.0.0 telugu.erosnow.com
+0.0.0.0 punjabi.erosnow.com
+0.0.0.0 malayalam.erosnow.com
+0.0.0.0 kannada.erosnow.com
+0.0.0.0 marathi.erosnow.com
+0.0.0.0 gujarati.erosnow.com
+0.0.0.0 bengali.erosnow.com
+
+# Live streaming
+0.0.0.0 live.erosnow.com
+0.0.0.0 livestream.erosnow.com
+
+# Upload and download
+0.0.0.0 upload.erosnow.com
+0.0.0.0 download.erosnow.com
+
+# Admin and management
+0.0.0.0 admin.erosnow.com
+0.0.0.0 dashboard.erosnow.com
+0.0.0.0 cms.erosnow.com
+
+# Support and help (based on research showing support@erosnow.com)
+0.0.0.0 support.erosnow.com
+0.0.0.0 help.erosnow.com
+0.0.0.0 faq.erosnow.com
+0.0.0.0 helpcenter.erosnow.com
+
+# Newsletter and marketing
+0.0.0.0 newsletter.erosnow.com
+0.0.0.0 marketing.erosnow.com
+0.0.0.0 promo.erosnow.com
+
+# Eros Digital FZE (based on research showing this subsidiary)
+0.0.0.0 erosdigital.com
+0.0.0.0 www.erosdigital.com
+
+# Third-party integrations
+0.0.0.0 facebook.erosnow.com
+0.0.0.0 twitter.erosnow.com
+0.0.0.0 instagram.erosnow.com
+0.0.0.0 youtube.erosnow.com
+
+# Development and testing
+0.0.0.0 dev.erosnow.com
+0.0.0.0 test.erosnow.com
+0.0.0.0 staging.erosnow.com
+0.0.0.0 beta.erosnow.com
+
+# Originals and shows (based on research showing Eros Now Originals)
+0.0.0.0 originals.erosnow.com
+0.0.0.0 shows.erosnow.com
+0.0.0.0 movies.erosnow.com
+0.0.0.0 series.erosnow.com
+
+# News and updates
+0.0.0.0 news.erosnow.com
+0.0.0.0 updates.erosnow.com
+0.0.0.0 blog.erosnow.com
+
+# Email services
+0.0.0.0 mail.erosnow.com
+0.0.0.0 email.erosnow.com
+
+# Load balancing and infrastructure
+0.0.0.0 lb.erosnow.com
+0.0.0.0 lb1.erosnow.com
+0.0.0.0 lb2.erosnow.com
+
+# Database and cache
+0.0.0.0 db.erosnow.com
+0.0.0.0 cache.erosnow.com
+0.0.0.0 redis.erosnow.com
+
+# Webhooks and notifications
+0.0.0.0 webhooks.erosnow.com
+0.0.0.0 notifications.erosnow.com
+0.0.0.0 push.erosnow.com
+
+# Security and SSL
+0.0.0.0 ssl.erosnow.com
+0.0.0.0 secure.erosnow.com
+
+# Quality and testing
+0.0.0.0 qa.erosnow.com
+0.0.0.0 quality.erosnow.com
+
+# Ads and advertising
+0.0.0.0 ads.erosnow.com
+0.0.0.0 advertising.erosnow.com
+
+# Kids content
+0.0.0.0 kids.erosnow.com
+0.0.0.0 children.erosnow.com
+
+# Voice and audio
+0.0.0.0 voice.erosnow.com
+0.0.0.0 audio.erosnow.com
+
+# Music (based on research showing music videos and content)
+0.0.0.0 music.erosnow.com
+0.0.0.0 songs.erosnow.com
+0.0.0.0 soundtracks.erosnow.com
+
+# Reviews and ratings
+0.0.0.0 reviews.erosnow.com
+0.0.0.0 ratings.erosnow.com
+
+# Subtitles and captions (based on research showing multi-language subtitles)
+0.0.0.0 subtitles.erosnow.com
+0.0.0.0 captions.erosnow.com
+
+# Personalization
+0.0.0.0 personalize.erosnow.com
+0.0.0.0 preferences.erosnow.com
+
+# Watchlist and favorites
+0.0.0.0 watchlist.erosnow.com
+0.0.0.0 favorites.erosnow.com
+
+# Feedback and surveys
+0.0.0.0 feedback.erosnow.com
+0.0.0.0 survey.erosnow.com
+
+# Affiliate and partner
+0.0.0.0 affiliate.erosnow.com
+0.0.0.0 partner.erosnow.com
+
+# Compliance and legal
+0.0.0.0 compliance.erosnow.com
+0.0.0.0 legal.erosnow.com
+
+# Downloads and offline (based on research showing download features)
+0.0.0.0 offline.erosnow.com
+0.0.0.0 downloads.erosnow.com
+
+# Public relations
+0.0.0.0 pr.erosnow.com
+0.0.0.0 press.erosnow.com
+
+# Community and forums
+0.0.0.0 community.erosnow.com
+0.0.0.0 forum.erosnow.com
+
+# Games and interactive
+0.0.0.0 games.erosnow.com
+0.0.0.0 interactive.erosnow.com
+
+# Contests and events
+0.0.0.0 contests.erosnow.com
+0.0.0.0 events.erosnow.com
+
+# Enterprise and business
+0.0.0.0 enterprise.erosnow.com
+0.0.0.0 business.erosnow.com
+
+# Documentation and developers
+0.0.0.0 docs.erosnow.com
+0.0.0.0 developers.erosnow.com
+
+# Reports and insights
+0.0.0.0 reports.erosnow.com
+0.0.0.0 insights.erosnow.com
+
+# Localization
+0.0.0.0 i18n.erosnow.com
+0.0.0.0 locale.erosnow.com
+
+# Health check and monitoring
+0.0.0.0 health.erosnow.com
+0.0.0.0 monitor.erosnow.com
+
+# Backup and recovery
+0.0.0.0 backup.erosnow.com
+0.0.0.0 recovery.erosnow.com
+
+# Version control and releases
+0.0.0.0 releases.erosnow.com
+0.0.0.0 versions.erosnow.com
+
+# A/B testing
+0.0.0.0 experiment.erosnow.com
+0.0.0.0 abtest.erosnow.com
+
+# Webhooks and automation
+0.0.0.0 automation.erosnow.com
+0.0.0.0 workflow.erosnow.com
+
+# Customer support chat
+0.0.0.0 chat.erosnow.com
+0.0.0.0 livechat.erosnow.com
+
+# Referrals and invites
+0.0.0.0 referral.erosnow.com
+0.0.0.0 invite.erosnow.com
+
+# Privacy and terms
+0.0.0.0 privacy.erosnow.com
+0.0.0.0 terms.erosnow.com
+
+# Status and uptime
+0.0.0.0 status.erosnow.com
+0.0.0.0 uptime.erosnow.com
+
+# Careers and jobs
+0.0.0.0 careers.erosnow.com
+0.0.0.0 jobs.erosnow.com
+
+# Technology and innovation
+0.0.0.0 tech.erosnow.com
+0.0.0.0 innovation.erosnow.com
+
+# Awards and recognition (based on research showing British Asian Media Awards)
+0.0.0.0 awards.erosnow.com
+0.0.0.0 recognition.erosnow.com
+
+# Investor relations (based on research showing NYSE listing)
+0.0.0.0 investor.erosnow.com
+0.0.0.0 investors.erosnow.com
+
+# Corporate information
+0.0.0.0 corporate.erosnow.com
+0.0.0.0 company.erosnow.com
+
+# Partnerships and alliances
+0.0.0.0 partnerships.erosnow.com
+0.0.0.0 alliances.erosnow.com
+
+# Research and development
+0.0.0.0 research.erosnow.com
+0.0.0.0 rd.erosnow.com
+
+# Training and education
+0.0.0.0 training.erosnow.com
+0.0.0.0 education.erosnow.com
+
+# Innovation lab
+0.0.0.0 lab.erosnow.com
+0.0.0.0 labs.erosnow.com
+
+# Public beta programs
+0.0.0.0 publibeta.erosnow.com
+0.0.0.0 preview.erosnow.com
+
+# Editorial and content creation
+0.0.0.0 editorial.erosnow.com
+0.0.0.0 creation.erosnow.com
+
+# Podcasts and audio content
+0.0.0.0 podcasts.erosnow.com
+0.0.0.0 podcast.erosnow.com
+
+# Short videos and clips
+0.0.0.0 shorts.erosnow.com
+0.0.0.0 clips.erosnow.com
+
+# Behind the scenes content
+0.0.0.0 bts.erosnow.com
+0.0.0.0 behindthescenes.erosnow.com
+
+# Interviews and exclusives
+0.0.0.0 interviews.erosnow.com
+0.0.0.0 exclusives.erosnow.com
+
+# Trending and popular
+0.0.0.0 trending.erosnow.com
+0.0.0.0 popular.erosnow.com
+
+# Recommendations engine
+0.0.0.0 engine.erosnow.com
+0.0.0.0 ml.erosnow.com
+
+# Machine learning and AI
+0.0.0.0 ai.erosnow.com
+0.0.0.0 machinelearning.erosnow.com
+
+# Data science and analytics
+0.0.0.0 datascience.erosnow.com
+0.0.0.0 bigdata.erosnow.com
+
+# Cloud infrastructure
+0.0.0.0 cloud.erosnow.com
+0.0.0.0 infrastructure.erosnow.com
+
+# Security operations
+0.0.0.0 security.erosnow.com
+0.0.0.0 secops.erosnow.com
+
+# DevOps and operations
+0.0.0.0 devops.erosnow.com
+0.0.0.0 ops.erosnow.com
+
+# Continuous integration
+0.0.0.0 ci.erosnow.com
+0.0.0.0 build.erosnow.com
+
+# Content management system
+0.0.0.0 contentmgmt.erosnow.com
+0.0.0.0 manage.erosnow.com
+
+# Digital rights management
+0.0.0.0 drm.erosnow.com
+0.0.0.0 rights.erosnow.com
+
+# Licensing and distribution
+0.0.0.0 licensing.erosnow.com
+0.0.0.0 distribution.erosnow.com
+
+# Production and post-production
+0.0.0.0 production.erosnow.com
+0.0.0.0 postproduction.erosnow.com
+
+# Casting and talent
+0.0.0.0 casting.erosnow.com
+0.0.0.0 talent.erosnow.com
+
+# Scripts and screenplays
+0.0.0.0 scripts.erosnow.com
+0.0.0.0 screenplay.erosnow.com
+
+# Finance and accounting
+0.0.0.0 finance.erosnow.com
+0.0.0.0 accounting.erosnow.com
+
+# Human resources
+0.0.0.0 hr.erosnow.com
+0.0.0.0 humanresources.erosnow.com
+
+# Legal and contracts
+0.0.0.0 contracts.erosnow.com
+
+# Intellectual property
+0.0.0.0 ip.erosnow.com
+0.0.0.0 copyright.erosnow.com
+
+# Brand and marketing
+0.0.0.0 brand.erosnow.com
+0.0.0.0 branding.erosnow.com
+
+# Advertising and promotion
+0.0.0.0 promotion.erosnow.com
+0.0.0.0 campaign.erosnow.com
+
+# Influencer partnerships
+0.0.0.0 influencer.erosnow.com
+0.0.0.0 influencers.erosnow.com
+
+# Celebrity endorsements
+0.0.0.0 celebrity.erosnow.com
+0.0.0.0 endorsements.erosnow.com
+
+# Regional content hubs
+0.0.0.0 mumbai.erosnow.com
+0.0.0.0 delhi.erosnow.com
+0.0.0.0 chennai.erosnow.com
+0.0.0.0 kolkata.erosnow.com
+0.0.0.0 hyderabad.erosnow.com
+
+# Box office and ratings
+0.0.0.0 boxoffice.erosnow.com
+0.0.0.0 rating.erosnow.com
+
+# User generated content
+0.0.0.0 ugc.erosnow.com
+0.0.0.0 usercontent.erosnow.com
+
+# Community contributions
+0.0.0.0 contribute.erosnow.com
+0.0.0.0 contributions.erosnow.com
+
+# Fan clubs and groups
+0.0.0.0 fanclub.erosnow.com
+0.0.0.0 fans.erosnow.com
+
+# Merchandise and shopping
+0.0.0.0 merchandise.erosnow.com
+0.0.0.0 shop.erosnow.com
+
+# Tickets and events
+0.0.0.0 tickets.erosnow.com
+0.0.0.0 booking.erosnow.com
+
+# Virtual reality and AR
+0.0.0.0 vr.erosnow.com
+0.0.0.0 ar.erosnow.com
+
+# 360 degree content
+0.0.0.0 360.erosnow.com
+0.0.0.0 immersive.erosnow.com
+
+# Gaming integration
+0.0.0.0 gaming.erosnow.com
+0.0.0.0 esports.erosnow.com
+
+# Educational content
+0.0.0.0 learn.erosnow.com
+0.0.0.0 tutorials.erosnow.com
+
+# Children's safety
+0.0.0.0 safety.erosnow.com
+0.0.0.0 parental.erosnow.com
+
+# Accessibility features
+0.0.0.0 accessibility.erosnow.com
+0.0.0.0 a11y.erosnow.com
+
+# Closed captions
+0.0.0.0 cc.erosnow.com
+0.0.0.0 closedcaptions.erosnow.com
+
+# Audio descriptions
+0.0.0.0 audiodesc.erosnow.com
+0.0.0.0 description.erosnow.com
+
+# Multi-language support
+0.0.0.0 multilang.erosnow.com
+0.0.0.0 languages.erosnow.com
+
+# Translation services
+0.0.0.0 translate.erosnow.com
+0.0.0.0 translation.erosnow.com
+
+# Quality assurance
+0.0.0.0 qc.erosnow.com
+0.0.0.0 qualitycontrol.erosnow.com
+
+# Performance monitoring
+0.0.0.0 performance.erosnow.com
+0.0.0.0 monitoring.erosnow.com
+
+# Error tracking
+0.0.0.0 errors.erosnow.com
+0.0.0.0 errortracking.erosnow.com
+
+# Log management
+0.0.0.0 logs.erosnow.com
+0.0.0.0 logging.erosnow.com
+
+# Alerting and notifications
+0.0.0.0 alerts.erosnow.com
+0.0.0.0 alerting.erosnow.com
+
+# Feature flags
+0.0.0.0 features.erosnow.com
+0.0.0.0 flags.erosnow.com
+
+# Configuration management
+0.0.0.0 config.erosnow.com
+0.0.0.0 configuration.erosnow.com
+
+# Secret management
+0.0.0.0 secrets.erosnow.com
+0.0.0.0 vault.erosnow.com
+
+# Third party CDN integrations
+0.0.0.0 d1example.cloudfront.net
+0.0.0.0 d2example.cloudfront.net
+
+# International subsidiaries (based on research)
+0.0.0.0 erosmediausa.com
+0.0.0.0 www.erosmediausa.com
+0.0.0.0 xfinite.com
+0.0.0.0 www.xfinite.com
+0.0.0.0 xfiniteglobal.com
+0.0.0.0 www.xfiniteglobal.com
+0.0.0.0 xfinitetech.com
+0.0.0.0 www.xfinitetech.com
+
+# Regional pricing and plans (based on research showing different regional pricing)
+0.0.0.0 pricing.erosnow.com
+0.0.0.0 plans.erosnow.com
+
+# Free trial and basic (based on research showing Eros Now Basic)
+0.0.0.0 basic.erosnow.com
+0.0.0.0 premium.erosnow.com
+0.0.0.0 trial.erosnow.com
+
+# Television and broadcasting (based on research showing TV distribution)
+0.0.0.0 tv.erosnow.com
+0.0.0.0 television.erosnow.com
+0.0.0.0 broadcast.erosnow.com
+
+# Film festivals and awards
+0.0.0.0 festivals.erosnow.com
+0.0.0.0 filmfests.erosnow.com
+
+# Trailers and previews (based on research showing trailers)
+0.0.0.0 trailers.erosnow.com
+0.0.0.0 previews.erosnow.com
+
+# Quick content (based on research showing Quickie content)
+0.0.0.0 quickie.erosnow.com
+0.0.0.0 quick.erosnow.com
+
+# Star profiles and celebrity content
+0.0.0.0 stars.erosnow.com
+0.0.0.0 celebrities.erosnow.com
+
+# Genre-specific content
+0.0.0.0 romance.erosnow.com
+0.0.0.0 action.erosnow.com
+0.0.0.0 comedy.erosnow.com
+0.0.0.0 drama.erosnow.com
+0.0.0.0 thriller.erosnow.com
+0.0.0.0 horror.erosnow.com
+
+# About and information pages
+0.0.0.0 about.erosnow.com
+0.0.0.0 aboutus.erosnow.com
+
+# Contact and locations (based on research showing multiple office locations)
+0.0.0.0 contact.erosnow.com
+0.0.0.0 locations.erosnow.com
+
+# Redeem and promotions
+0.0.0.0 redeem.erosnow.com
+0.0.0.0 promotions.erosnow.com
+
+# Stickers and social features (based on research showing iOS stickers)
+0.0.0.0 stickers.erosnow.com
+0.0.0.0 imessage.erosnow.com
+
+# Device compatibility and platforms
+0.0.0.0 devices.erosnow.com
+0.0.0.0 platforms.erosnow.com
+0.0.0.0 compatibility.erosnow.com
+
+# Airplay and casting (based on research showing Airplay support)
+0.0.0.0 airplay.erosnow.com
+0.0.0.0 chromecast.erosnow.com
+0.0.0.0 casting.erosnow.com
+
+# Apple TV and smart TV integration
+0.0.0.0 appletv.erosnow.com
+0.0.0.0 smarttv.erosnow.com
+0.0.0.0 roku.erosnow.com
+0.0.0.0 firetv.erosnow.com
+
+# Opera TV and browser integration
+0.0.0.0 operatv.erosnow.com
+0.0.0.0 browser.erosnow.com
+
+# Flash player support (based on research mentioning Flash requirements)
+0.0.0.0 flash.erosnow.com
+0.0.0.0 html5.erosnow.com
+
+# System requirements and troubleshooting
+0.0.0.0 requirements.erosnow.com
+0.0.0.0 troubleshooting.erosnow.com
+0.0.0.0 troubleshoot.erosnow.com
+
+# Bandwidth and streaming quality
+0.0.0.0 bandwidth.erosnow.com
+0.0.0.0 streaming.erosnow.com
+0.0.0.0 hd.erosnow.com
+0.0.0.0 4k.erosnow.com
+
+# Age classification and content rating
+0.0.0.0 rating.erosnow.com
+0.0.0.0 classification.erosnow.com
+0.0.0.0 mature.erosnow.com
+0.0.0.0 adult.erosnow.com
+
+# Gift subscriptions and vouchers
+0.0.0.0 gift.erosnow.com
+0.0.0.0 voucher.erosnow.com
+0.0.0.0 giftcard.erosnow.com
+
+# Activation and setup
+0.0.0.0 activate.erosnow.com
+0.0.0.0 setup.erosnow.com
+0.0.0.0 activation.erosnow.com
+
+# Password recovery and account management
+0.0.0.0 password.erosnow.com
+0.0.0.0 forgot.erosnow.com
+0.0.0.0 recovery.erosnow.com
+0.0.0.0 reset.erosnow.com
+
+# Error pages and status
+0.0.0.0 error.erosnow.com
+0.0.0.0 503.erosnow.com
+0.0.0.0 404.erosnow.com
+0.0.0.0 maintenance.erosnow.com 

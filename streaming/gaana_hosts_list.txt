@@ -1,0 +1,402 @@
+# Gaana - Times Internet's Indian music streaming platform (Comprehensive Block List) - SHUT DOWN
+# Main domains
+0.0.0.0 gaana.com
+0.0.0.0 www.gaana.com
+
+# Mobile and app related
+0.0.0.0 m.gaana.com
+0.0.0.0 mobile.gaana.com
+0.0.0.0 app.gaana.com
+0.0.0.0 apps.gaana.com
+0.0.0.0 android.gaana.com
+0.0.0.0 ios.gaana.com
+
+# API endpoints
+0.0.0.0 api.gaana.com
+0.0.0.0 gateway.gaana.com
+0.0.0.0 data.gaana.com
+0.0.0.0 oauth.gaana.com
+0.0.0.0 auth.gaana.com
+
+# User authentication and accounts
+0.0.0.0 accounts.gaana.com
+0.0.0.0 signin.gaana.com
+0.0.0.0 login.gaana.com
+0.0.0.0 myaccount.gaana.com
+0.0.0.0 profile.gaana.com
+0.0.0.0 profiles.gaana.com
+
+# Video streaming and playback
+0.0.0.0 video.gaana.com
+0.0.0.0 videos.gaana.com
+0.0.0.0 stream.gaana.com
+0.0.0.0 streams.gaana.com
+0.0.0.0 streaming.gaana.com
+
+# Audio streaming and playback
+0.0.0.0 audio.gaana.com
+0.0.0.0 media.gaana.com
+0.0.0.0 play.gaana.com
+0.0.0.0 player.gaana.com
+0.0.0.0 playback.gaana.com
+
+# CDN infrastructure
+0.0.0.0 cdn.gaana.com
+0.0.0.0 static.gaana.com
+0.0.0.0 assets.gaana.com
+0.0.0.0 resources.gaana.com
+0.0.0.0 content.gaana.com
+
+# Analytics and tracking
+0.0.0.0 analytics.gaana.com
+0.0.0.0 stats.gaana.com
+0.0.0.0 metrics.gaana.com
+0.0.0.0 tracking.gaana.com
+0.0.0.0 telemetry.gaana.com
+
+# Search and discovery
+0.0.0.0 search.gaana.com
+0.0.0.0 discover.gaana.com
+0.0.0.0 discovery.gaana.com
+0.0.0.0 recommendations.gaana.com
+0.0.0.0 recommend.gaana.com
+
+# Advertising and monetization
+0.0.0.0 ads.gaana.com
+0.0.0.0 advertising.gaana.com
+0.0.0.0 adnxs.gaana.com
+0.0.0.0 adserver.gaana.com
+0.0.0.0 adsystem.gaana.com
+
+# Developer and partner services
+0.0.0.0 developer.gaana.com
+0.0.0.0 developers.gaana.com
+0.0.0.0 partners.gaana.com
+0.0.0.0 partner.gaana.com
+
+# Support and help
+0.0.0.0 support.gaana.com
+0.0.0.0 help.gaana.com
+0.0.0.0 customer.gaana.com
+0.0.0.0 customerservice.gaana.com
+
+# News and press
+0.0.0.0 news.gaana.com
+0.0.0.0 press.gaana.com
+0.0.0.0 newsroom.gaana.com
+0.0.0.0 blog.gaana.com
+
+# Social and community
+0.0.0.0 community.gaana.com
+0.0.0.0 social.gaana.com
+0.0.0.0 friends.gaana.com
+0.0.0.0 connect.gaana.com
+
+# Live and events
+0.0.0.0 live.gaana.com
+0.0.0.0 events.gaana.com
+0.0.0.0 concerts.gaana.com
+0.0.0.0 shows.gaana.com
+
+# Podcasts
+0.0.0.0 podcasts.gaana.com
+0.0.0.0 podcast.gaana.com
+
+# Premium and subscription
+0.0.0.0 premium.gaana.com
+0.0.0.0 subscribe.gaana.com
+0.0.0.0 subscription.gaana.com
+0.0.0.0 billing.gaana.com
+
+# Artists and creators
+0.0.0.0 artists.gaana.com
+0.0.0.0 artist.gaana.com
+0.0.0.0 creators.gaana.com
+0.0.0.0 creator.gaana.com
+
+# Lyrics
+0.0.0.0 lyrics.gaana.com
+
+# Regional domains
+0.0.0.0 gaana.in
+0.0.0.0 www.gaana.in
+0.0.0.0 gaana.co.in
+0.0.0.0 www.gaana.co.in
+
+# Testing and staging
+0.0.0.0 test.gaana.com
+0.0.0.0 testing.gaana.com
+0.0.0.0 stage.gaana.com
+0.0.0.0 staging.gaana.com
+0.0.0.0 dev.gaana.com
+0.0.0.0 development.gaana.com
+0.0.0.0 qa.gaana.com
+0.0.0.0 uat.gaana.com
+0.0.0.0 beta.gaana.com
+0.0.0.0 preview.gaana.com
+
+# Platform integrations
+0.0.0.0 facebook.gaana.com
+0.0.0.0 twitter.gaana.com
+0.0.0.0 instagram.gaana.com
+0.0.0.0 youtube.gaana.com
+
+# Technology platforms
+0.0.0.0 alexa.gaana.com
+0.0.0.0 google.gaana.com
+0.0.0.0 assistant.gaana.com
+
+# Device specific
+0.0.0.0 tv.gaana.com
+0.0.0.0 car.gaana.com
+0.0.0.0 smart.gaana.com
+
+# Backend services
+0.0.0.0 backend.gaana.com
+0.0.0.0 service.gaana.com
+0.0.0.0 services.gaana.com
+0.0.0.0 microservice.gaana.com
+0.0.0.0 microservices.gaana.com
+
+# Security and encryption
+0.0.0.0 security.gaana.com
+0.0.0.0 ssl.gaana.com
+0.0.0.0 secure.gaana.com
+0.0.0.0 encryption.gaana.com
+
+# Machine learning and AI
+0.0.0.0 ml.gaana.com
+0.0.0.0 ai.gaana.com
+0.0.0.0 algorithm.gaana.com
+0.0.0.0 algorithms.gaana.com
+
+# Business and enterprise
+0.0.0.0 business.gaana.com
+0.0.0.0 enterprise.gaana.com
+0.0.0.0 corporate.gaana.com
+0.0.0.0 b2b.gaana.com
+
+# Legal and compliance
+0.0.0.0 legal.gaana.com
+0.0.0.0 privacy.gaana.com
+0.0.0.0 terms.gaana.com
+0.0.0.0 compliance.gaana.com
+
+# Email and notifications
+0.0.0.0 email.gaana.com
+0.0.0.0 mail.gaana.com
+0.0.0.0 notifications.gaana.com
+0.0.0.0 notify.gaana.com
+
+# File and asset storage
+0.0.0.0 files.gaana.com
+0.0.0.0 uploads.gaana.com
+0.0.0.0 download.gaana.com
+0.0.0.0 storage.gaana.com
+0.0.0.0 bucket.gaana.com
+
+# Image serving
+0.0.0.0 images.gaana.com
+0.0.0.0 img.gaana.com
+0.0.0.0 image.gaana.com
+0.0.0.0 pics.gaana.com
+0.0.0.0 pictures.gaana.com
+0.0.0.0 photos.gaana.com
+0.0.0.0 covers.gaana.com
+0.0.0.0 artwork.gaana.com
+0.0.0.0 artworks.gaana.com
+0.0.0.0 thumbnails.gaana.com
+0.0.0.0 thumb.gaana.com
+
+# Internal tools and admin
+0.0.0.0 admin.gaana.com
+0.0.0.0 internal.gaana.com
+0.0.0.0 intranet.gaana.com
+0.0.0.0 staff.gaana.com
+0.0.0.0 employee.gaana.com
+0.0.0.0 tools.gaana.com
+
+# Monitoring and logging
+0.0.0.0 monitoring.gaana.com
+0.0.0.0 logs.gaana.com
+0.0.0.0 logging.gaana.com
+0.0.0.0 errors.gaana.com
+0.0.0.0 sentry.gaana.com
+
+# Load balancing and infrastructure
+0.0.0.0 lb.gaana.com
+0.0.0.0 loadbalancer.gaana.com
+0.0.0.0 edge.gaana.com
+0.0.0.0 proxy.gaana.com
+0.0.0.0 gateway.gaana.com
+0.0.0.0 router.gaana.com
+
+# Geographic and regional CDN
+0.0.0.0 us.gaana.com
+0.0.0.0 india.gaana.com
+0.0.0.0 in.gaana.com
+0.0.0.0 asia.gaana.com
+0.0.0.0 ap.gaana.com
+
+# Event tracking and data collection
+0.0.0.0 events.gaana.com
+0.0.0.0 event.gaana.com
+0.0.0.0 data.gaana.com
+0.0.0.0 collect.gaana.com
+0.0.0.0 beacon.gaana.com
+
+# Third-party integrations
+0.0.0.0 facebook.gaana.com
+0.0.0.0 fb.gaana.com
+0.0.0.0 google.gaana.com
+0.0.0.0 goog.gaana.com
+0.0.0.0 apple.gaana.com
+0.0.0.0 amazon.gaana.com
+0.0.0.0 microsoft.gaana.com
+
+# WebRTC and real-time communication
+0.0.0.0 webrtc.gaana.com
+0.0.0.0 rtc.gaana.com
+0.0.0.0 realtime.gaana.com
+0.0.0.0 socket.gaana.com
+0.0.0.0 websocket.gaana.com
+
+# Experimental and feature flags
+0.0.0.0 experiments.gaana.com
+0.0.0.0 experiment.gaana.com
+0.0.0.0 feature.gaana.com
+0.0.0.0 features.gaana.com
+0.0.0.0 flags.gaana.com
+0.0.0.0 ab.gaana.com
+0.0.0.0 abtest.gaana.com
+
+# Legacy domains
+0.0.0.0 old.gaana.com
+0.0.0.0 legacy.gaana.com
+0.0.0.0 archive.gaana.com
+0.0.0.0 backup.gaana.com
+
+# Specialized services
+0.0.0.0 queue.gaana.com
+0.0.0.0 session.gaana.com
+0.0.0.0 cache.gaana.com
+0.0.0.0 redis.gaana.com
+0.0.0.0 database.gaana.com
+0.0.0.0 db.gaana.com
+
+# Version control and deployment
+0.0.0.0 git.gaana.com
+0.0.0.0 github.gaana.com
+0.0.0.0 deploy.gaana.com
+0.0.0.0 deployment.gaana.com
+0.0.0.0 ci.gaana.com
+0.0.0.0 cd.gaana.com
+0.0.0.0 jenkins.gaana.com
+0.0.0.0 gitlab.gaana.com
+
+# Documentation and resources
+0.0.0.0 docs.gaana.com
+0.0.0.0 documentation.gaana.com
+0.0.0.0 resources.gaana.com
+0.0.0.0 guide.gaana.com
+0.0.0.0 guides.gaana.com
+0.0.0.0 tutorial.gaana.com
+0.0.0.0 tutorials.gaana.com
+
+# GraphQL and modern APIs
+0.0.0.0 graphql.gaana.com
+0.0.0.0 gql.gaana.com
+0.0.0.0 apollo.gaana.com
+0.0.0.0 federation.gaana.com
+
+# Message queues and event streaming
+0.0.0.0 kafka.gaana.com
+0.0.0.0 rabbitmq.gaana.com
+0.0.0.0 pubsub.gaana.com
+0.0.0.0 messaging.gaana.com
+
+# Times Internet parent company domains
+0.0.0.0 times.gaana.com
+0.0.0.0 timesinternet.gaana.com
+0.0.0.0 ti.gaana.com
+
+# Payment and monetization
+0.0.0.0 payment.gaana.com
+0.0.0.0 payments.gaana.com
+0.0.0.0 pay.gaana.com
+0.0.0.0 checkout.gaana.com
+
+# Radio and live streaming
+0.0.0.0 radio.gaana.com
+0.0.0.0 fm.gaana.com
+0.0.0.0 live.gaana.com
+0.0.0.0 broadcast.gaana.com
+
+# Language specific domains
+0.0.0.0 hindi.gaana.com
+0.0.0.0 english.gaana.com
+0.0.0.0 punjabi.gaana.com
+0.0.0.0 tamil.gaana.com
+0.0.0.0 telugu.gaana.com
+0.0.0.0 bengali.gaana.com
+0.0.0.0 gujarati.gaana.com
+0.0.0.0 marathi.gaana.com
+0.0.0.0 kannada.gaana.com
+0.0.0.0 malayalam.gaana.com
+0.0.0.0 bhojpuri.gaana.com
+0.0.0.0 rajasthani.gaana.com
+0.0.0.0 haryanvi.gaana.com
+0.0.0.0 assamese.gaana.com
+0.0.0.0 oriya.gaana.com
+
+# Download and offline
+0.0.0.0 download.gaana.com
+0.0.0.0 downloads.gaana.com
+0.0.0.0 offline.gaana.com
+0.0.0.0 sync.gaana.com
+
+# Charts and trending
+0.0.0.0 charts.gaana.com
+0.0.0.0 trending.gaana.com
+0.0.0.0 top.gaana.com
+0.0.0.0 popular.gaana.com
+
+# Genres and categories
+0.0.0.0 bollywood.gaana.com
+0.0.0.0 classical.gaana.com
+0.0.0.0 devotional.gaana.com
+0.0.0.0 folk.gaana.com
+0.0.0.0 ghazal.gaana.com
+0.0.0.0 sufi.gaana.com
+
+# User generated content
+0.0.0.0 ugc.gaana.com
+0.0.0.0 user.gaana.com
+0.0.0.0 users.gaana.com
+0.0.0.0 playlists.gaana.com
+0.0.0.0 playlist.gaana.com
+
+# Wellness and meditation (trending in Indian apps)
+0.0.0.0 meditation.gaana.com
+0.0.0.0 wellness.gaana.com
+0.0.0.0 yoga.gaana.com
+0.0.0.0 spiritual.gaana.com
+
+# Festival and occasion-based
+0.0.0.0 festival.gaana.com
+0.0.0.0 festivals.gaana.com
+0.0.0.0 diwali.gaana.com
+0.0.0.0 holi.gaana.com
+0.0.0.0 navratri.gaana.com
+0.0.0.0 karva.gaana.com
+0.0.0.0 wedding.gaana.com
+0.0.0.0 valentine.gaana.com
+
+# Mood-based playlists
+0.0.0.0 mood.gaana.com
+0.0.0.0 moods.gaana.com
+0.0.0.0 party.gaana.com
+0.0.0.0 romance.gaana.com
+0.0.0.0 workout.gaana.com
+0.0.0.0 sleep.gaana.com
+0.0.0.0 relax.gaana.com 

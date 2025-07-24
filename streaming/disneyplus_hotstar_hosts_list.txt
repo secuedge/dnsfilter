@@ -1,0 +1,509 @@
+# Disney+ Hotstar - Video streaming platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 disneyplus.com
+0.0.0.0 www.disneyplus.com
+0.0.0.0 hotstar.com
+0.0.0.0 www.hotstar.com
+
+# Disney+ domains
+0.0.0.0 disney-plus.com
+0.0.0.0 www.disney-plus.com
+0.0.0.0 disneyplus.tv
+0.0.0.0 www.disneyplus.tv
+
+# BAMTech (Disney's streaming technology) domains (based on research)
+0.0.0.0 bamgrid.com
+0.0.0.0 www.bamgrid.com
+0.0.0.0 disney.api.edge.bamgrid.com
+0.0.0.0 cd-dmgz.bamgrid.com
+
+# Disney streaming edge (based on research showing AS23344)
+0.0.0.0 edge.disney.com
+0.0.0.0 streaming.disney.com
+0.0.0.0 dss-edge.com
+0.0.0.0 disney-streaming.com
+
+# Regional Hotstar domains
+0.0.0.0 hotstar.in
+0.0.0.0 www.hotstar.in
+0.0.0.0 hotstar.sg
+0.0.0.0 www.hotstar.sg
+0.0.0.0 hotstar.my
+0.0.0.0 www.hotstar.my
+0.0.0.0 hotstar.id
+0.0.0.0 www.hotstar.id
+0.0.0.0 hotstar.th
+0.0.0.0 www.hotstar.th
+
+# Mobile and app related
+0.0.0.0 m.disneyplus.com
+0.0.0.0 mobile.disneyplus.com
+0.0.0.0 app.disneyplus.com
+0.0.0.0 apps.disneyplus.com
+0.0.0.0 android.disneyplus.com
+0.0.0.0 ios.disneyplus.com
+0.0.0.0 m.hotstar.com
+0.0.0.0 mobile.hotstar.com
+0.0.0.0 app.hotstar.com
+0.0.0.0 apps.hotstar.com
+
+# API endpoints (based on BAMTech research)
+0.0.0.0 api.disneyplus.com
+0.0.0.0 api.hotstar.com
+0.0.0.0 gateway.disneyplus.com
+0.0.0.0 gateway.hotstar.com
+0.0.0.0 data.disneyplus.com
+0.0.0.0 data.hotstar.com
+
+# User authentication and accounts
+0.0.0.0 accounts.disneyplus.com
+0.0.0.0 signin.disneyplus.com
+0.0.0.0 login.disneyplus.com
+0.0.0.0 myaccount.disneyplus.com
+0.0.0.0 profile.disneyplus.com
+0.0.0.0 profiles.disneyplus.com
+0.0.0.0 accounts.hotstar.com
+0.0.0.0 signin.hotstar.com
+0.0.0.0 login.hotstar.com
+
+# Video streaming and playback
+0.0.0.0 video.disneyplus.com
+0.0.0.0 videos.disneyplus.com
+0.0.0.0 streaming.disneyplus.com
+0.0.0.0 stream.disneyplus.com
+0.0.0.0 player.disneyplus.com
+0.0.0.0 playback.disneyplus.com
+0.0.0.0 video.hotstar.com
+0.0.0.0 streaming.hotstar.com
+0.0.0.0 player.hotstar.com
+
+# Content delivery and assets
+0.0.0.0 cdn.disneyplus.com
+0.0.0.0 assets.disneyplus.com
+0.0.0.0 images.disneyplus.com
+0.0.0.0 thumbnails.disneyplus.com
+0.0.0.0 artwork.disneyplus.com
+0.0.0.0 content.disneyplus.com
+0.0.0.0 cdn.hotstar.com
+0.0.0.0 assets.hotstar.com
+0.0.0.0 images.hotstar.com
+
+# Search and discovery
+0.0.0.0 search.disneyplus.com
+0.0.0.0 discover.disneyplus.com
+0.0.0.0 browse.disneyplus.com
+0.0.0.0 catalog.disneyplus.com
+0.0.0.0 titles.disneyplus.com
+0.0.0.0 search.hotstar.com
+0.0.0.0 discover.hotstar.com
+
+# Disney+ Analytics and tracking
+0.0.0.0 analytics.disneyplus.com
+0.0.0.0 tracking.disneyplus.com
+0.0.0.0 metrics.disneyplus.com
+0.0.0.0 stats.disneyplus.com
+0.0.0.0 insights.disneyplus.com
+0.0.0.0 analytics.hotstar.com
+0.0.0.0 tracking.hotstar.com
+0.0.0.0 metrics.hotstar.com
+
+# DRM and licensing
+0.0.0.0 drm.disneyplus.com
+0.0.0.0 license.disneyplus.com
+0.0.0.0 widevine.disneyplus.com
+0.0.0.0 playready.disneyplus.com
+0.0.0.0 drm.hotstar.com
+0.0.0.0 license.hotstar.com
+
+# Adaptive streaming
+0.0.0.0 dash.disneyplus.com
+0.0.0.0 hls.disneyplus.com
+0.0.0.0 manifest.disneyplus.com
+0.0.0.0 manifests.disneyplus.com
+0.0.0.0 dash.hotstar.com
+0.0.0.0 hls.hotstar.com
+
+# Downloads and offline
+0.0.0.0 download.disneyplus.com
+0.0.0.0 downloads.disneyplus.com
+0.0.0.0 offline.disneyplus.com
+0.0.0.0 download.hotstar.com
+0.0.0.0 downloads.hotstar.com
+
+# Disney+ Originals and franchises
+0.0.0.0 originals.disneyplus.com
+0.0.0.0 marvel.disneyplus.com
+0.0.0.0 starwars.disneyplus.com
+0.0.0.0 pixar.disneyplus.com
+0.0.0.0 natgeo.disneyplus.com
+
+# Star content (international)
+0.0.0.0 star.disneyplus.com
+0.0.0.0 star.hotstar.com
+
+# Live TV and sports (Hotstar specific)
+0.0.0.0 live.hotstar.com
+0.0.0.0 livetv.hotstar.com
+0.0.0.0 sports.hotstar.com
+0.0.0.0 cricket.hotstar.com
+0.0.0.0 ipl.hotstar.com
+0.0.0.0 live.disneyplus.com
+0.0.0.0 sports.disneyplus.com
+
+# News content
+0.0.0.0 news.hotstar.com
+0.0.0.0 news.disneyplus.com
+
+# Kids and family
+0.0.0.0 kids.disneyplus.com
+0.0.0.0 family.disneyplus.com
+0.0.0.0 junior.disneyplus.com
+0.0.0.0 kids.hotstar.com
+
+# Smart TV and device specific
+0.0.0.0 tv.disneyplus.com
+0.0.0.0 firetv.disneyplus.com
+0.0.0.0 roku.disneyplus.com
+0.0.0.0 chromecast.disneyplus.com
+0.0.0.0 appletv.disneyplus.com
+0.0.0.0 smarttv.disneyplus.com
+0.0.0.0 tv.hotstar.com
+
+# Gaming console integration
+0.0.0.0 xbox.disneyplus.com
+0.0.0.0 playstation.disneyplus.com
+0.0.0.0 nintendo.disneyplus.com
+
+# Regional Disney+ domains
+0.0.0.0 disneyplus.co.uk
+0.0.0.0 disneyplus.ca
+0.0.0.0 disneyplus.com.au
+0.0.0.0 disneyplus.de
+0.0.0.0 disneyplus.fr
+0.0.0.0 disneyplus.it
+0.0.0.0 disneyplus.es
+0.0.0.0 disneyplus.nl
+0.0.0.0 disneyplus.se
+0.0.0.0 disneyplus.no
+0.0.0.0 disneyplus.dk
+0.0.0.0 disneyplus.fi
+0.0.0.0 disneyplus.pl
+0.0.0.0 disneyplus.co.jp
+0.0.0.0 disneyplus.co.kr
+0.0.0.0 disneyplus.com.br
+
+# Support and help
+0.0.0.0 help.disneyplus.com
+0.0.0.0 support.disneyplus.com
+0.0.0.0 customer.disneyplus.com
+0.0.0.0 help.hotstar.com
+0.0.0.0 support.hotstar.com
+
+# Settings and preferences
+0.0.0.0 settings.disneyplus.com
+0.0.0.0 preferences.disneyplus.com
+0.0.0.0 config.disneyplus.com
+0.0.0.0 settings.hotstar.com
+
+# Watch history and recommendations
+0.0.0.0 history.disneyplus.com
+0.0.0.0 watchlist.disneyplus.com
+0.0.0.0 recommendations.disneyplus.com
+0.0.0.0 suggest.disneyplus.com
+0.0.0.0 watchlist.hotstar.com
+
+# Social and sharing features
+0.0.0.0 social.disneyplus.com
+0.0.0.0 share.disneyplus.com
+0.0.0.0 sharing.disneyplus.com
+0.0.0.0 social.hotstar.com
+
+# Notifications and alerts
+0.0.0.0 notifications.disneyplus.com
+0.0.0.0 alerts.disneyplus.com
+0.0.0.0 messages.disneyplus.com
+0.0.0.0 notifications.hotstar.com
+
+# Billing and payments
+0.0.0.0 billing.disneyplus.com
+0.0.0.0 payment.disneyplus.com
+0.0.0.0 payments.disneyplus.com
+0.0.0.0 billing.hotstar.com
+
+# Corporate and press
+0.0.0.0 about.disneyplus.com
+0.0.0.0 press.disneyplus.com
+0.0.0.0 media.disneyplus.com
+0.0.0.0 blog.disneyplus.com
+0.0.0.0 press.hotstar.com
+
+# Careers and jobs
+0.0.0.0 careers.disneyplus.com
+0.0.0.0 jobs.disneyplus.com
+0.0.0.0 careers.hotstar.com
+
+# Testing and development
+0.0.0.0 test.disneyplus.com
+0.0.0.0 testing.disneyplus.com
+0.0.0.0 dev.disneyplus.com
+0.0.0.0 staging.disneyplus.com
+0.0.0.0 beta.disneyplus.com
+0.0.0.0 test.hotstar.com
+
+# Internal and corporate
+0.0.0.0 internal.disneyplus.com
+0.0.0.0 corp.disneyplus.com
+0.0.0.0 internal.hotstar.com
+
+# Load balancing and infrastructure
+0.0.0.0 lb.disneyplus.com
+0.0.0.0 proxy.disneyplus.com
+0.0.0.0 cache.disneyplus.com
+0.0.0.0 lb.hotstar.com
+
+# AWS integration (based on research showing AWS hosting)
+0.0.0.0 aws.disneyplus.com
+0.0.0.0 cloudfront.disneyplus.com
+0.0.0.0 s3.disneyplus.com
+0.0.0.0 aws.hotstar.com
+
+# Security
+0.0.0.0 security.disneyplus.com
+0.0.0.0 secure.disneyplus.com
+0.0.0.0 2fa.disneyplus.com
+0.0.0.0 security.hotstar.com
+
+# Performance and optimization
+0.0.0.0 performance.disneyplus.com
+0.0.0.0 optimization.disneyplus.com
+0.0.0.0 speed.disneyplus.com
+
+# AI and machine learning
+0.0.0.0 ai.disneyplus.com
+0.0.0.0 ml.disneyplus.com
+0.0.0.0 recommendations.disneyplus.com
+
+# Video quality and encoding
+0.0.0.0 encoding.disneyplus.com
+0.0.0.0 hd.disneyplus.com
+0.0.0.0 4k.disneyplus.com
+0.0.0.0 uhd.disneyplus.com
+0.0.0.0 hdr.disneyplus.com
+0.0.0.0 dolby.disneyplus.com
+0.0.0.0 4k.hotstar.com
+
+# Subtitles and localization
+0.0.0.0 subtitles.disneyplus.com
+0.0.0.0 captions.disneyplus.com
+0.0.0.0 localization.disneyplus.com
+0.0.0.0 translate.disneyplus.com
+0.0.0.0 i18n.disneyplus.com
+0.0.0.0 subtitles.hotstar.com
+
+# Accessibility
+0.0.0.0 accessibility.disneyplus.com
+0.0.0.0 a11y.disneyplus.com
+
+# Parental controls
+0.0.0.0 parental.disneyplus.com
+0.0.0.0 controls.disneyplus.com
+0.0.0.0 parental.hotstar.com
+
+# Reviews and ratings
+0.0.0.0 reviews.disneyplus.com
+0.0.0.0 ratings.disneyplus.com
+0.0.0.0 feedback.disneyplus.com
+
+# Documentation and guides
+0.0.0.0 docs.disneyplus.com
+0.0.0.0 guides.disneyplus.com
+0.0.0.0 help-center.disneyplus.com
+
+# Partner integration
+0.0.0.0 partners.disneyplus.com
+0.0.0.0 partner.disneyplus.com
+0.0.0.0 integration.disneyplus.com
+
+# Email and communications
+0.0.0.0 email.disneyplus.com
+0.0.0.0 mail.disneyplus.com
+0.0.0.0 communications.disneyplus.com
+
+# Legal and compliance
+0.0.0.0 legal.disneyplus.com
+0.0.0.0 terms.disneyplus.com
+0.0.0.0 privacy.disneyplus.com
+
+# Quality assurance
+0.0.0.0 quality.disneyplus.com
+0.0.0.0 qa.disneyplus.com
+0.0.0.0 qc.disneyplus.com
+
+# Monitoring and status
+0.0.0.0 status.disneyplus.com
+0.0.0.0 health.disneyplus.com
+0.0.0.0 monitoring.disneyplus.com
+
+# Tools and utilities
+0.0.0.0 tools.disneyplus.com
+0.0.0.0 utils.disneyplus.com
+0.0.0.0 utilities.disneyplus.com
+
+# Creator tools and resources
+0.0.0.0 creators.disneyplus.com
+0.0.0.0 filmmakers.disneyplus.com
+0.0.0.0 studios.disneyplus.com
+
+# Events and premieres
+0.0.0.0 events.disneyplus.com
+0.0.0.0 premieres.disneyplus.com
+0.0.0.0 screenings.disneyplus.com
+
+# Awards and recognition
+0.0.0.0 awards.disneyplus.com
+0.0.0.0 emmys.disneyplus.com
+
+# Innovation and technology
+0.0.0.0 innovation.disneyplus.com
+0.0.0.0 technology.disneyplus.com
+0.0.0.0 tech.disneyplus.com
+
+# Research and experiments
+0.0.0.0 research.disneyplus.com
+0.0.0.0 experiments.disneyplus.com
+0.0.0.0 labs.disneyplus.com
+
+# Customer service
+0.0.0.0 service.disneyplus.com
+0.0.0.0 contact.disneyplus.com
+
+# Community features
+0.0.0.0 community.disneyplus.com
+0.0.0.0 forums.disneyplus.com
+
+# Geographic and location services
+0.0.0.0 geo.disneyplus.com
+0.0.0.0 location.disneyplus.com
+
+# Backup and redundancy
+0.0.0.0 backup.disneyplus.com
+0.0.0.0 failover.disneyplus.com
+
+# Configuration management
+0.0.0.0 config.disneyplus.com
+0.0.0.0 configuration.disneyplus.com
+
+# Data science and analytics
+0.0.0.0 datascience.disneyplus.com
+0.0.0.0 bigdata.disneyplus.com
+
+# Content moderation
+0.0.0.0 moderation.disneyplus.com
+0.0.0.0 safety.disneyplus.com
+
+# User experience
+0.0.0.0 ux.disneyplus.com
+0.0.0.0 ui.disneyplus.com
+0.0.0.0 design.disneyplus.com
+
+# Platform engineering
+0.0.0.0 platform.disneyplus.com
+0.0.0.0 engineering.disneyplus.com
+
+# Network operations
+0.0.0.0 network.disneyplus.com
+0.0.0.0 operations.disneyplus.com
+0.0.0.0 ops.disneyplus.com
+
+# Database services
+0.0.0.0 database.disneyplus.com
+0.0.0.0 db.disneyplus.com
+
+# Microservices
+0.0.0.0 microservices.disneyplus.com
+0.0.0.0 services.disneyplus.com
+
+# DevOps and deployment
+0.0.0.0 devops.disneyplus.com
+0.0.0.0 deployment.disneyplus.com
+0.0.0.0 deploy.disneyplus.com
+
+# Open source projects
+0.0.0.0 opensource.disneyplus.com
+0.0.0.0 oss.disneyplus.com
+
+# Content protection and piracy
+0.0.0.0 protection.disneyplus.com
+0.0.0.0 antipiracy.disneyplus.com
+
+# Compliance and governance
+0.0.0.0 compliance.disneyplus.com
+0.0.0.0 governance.disneyplus.com
+
+# Risk management
+0.0.0.0 risk.disneyplus.com
+0.0.0.0 riskmanagement.disneyplus.com
+
+# Content acquisition and licensing
+0.0.0.0 acquisition.disneyplus.com
+0.0.0.0 licensing.disneyplus.com
+
+# International expansion
+0.0.0.0 global.disneyplus.com
+0.0.0.0 international.disneyplus.com
+
+# Financial services
+0.0.0.0 finance.disneyplus.com
+0.0.0.0 treasury.disneyplus.com
+
+# Partnerships and alliances
+0.0.0.0 alliances.disneyplus.com
+0.0.0.0 partnerships.disneyplus.com
+
+# Talent and recruitment
+0.0.0.0 talent.disneyplus.com
+0.0.0.0 recruitment.disneyplus.com
+
+# Culture and values
+0.0.0.0 culture.disneyplus.com
+0.0.0.0 values.disneyplus.com
+
+# Sustainability initiatives
+0.0.0.0 sustainability.disneyplus.com
+0.0.0.0 green.disneyplus.com
+
+# Diversity and inclusion
+0.0.0.0 diversity.disneyplus.com
+0.0.0.0 inclusion.disneyplus.com
+
+# Machine learning models
+0.0.0.0 models.disneyplus.com
+0.0.0.0 ml-models.disneyplus.com
+
+# Edge computing and CDN
+0.0.0.0 edge.disneyplus.com
+0.0.0.0 cdn1.disneyplus.com
+0.0.0.0 cdn2.disneyplus.com
+0.0.0.0 cdn3.disneyplus.com
+
+# Video transcoding and processing
+0.0.0.0 transcoding.disneyplus.com
+0.0.0.0 processing.disneyplus.com
+0.0.0.0 encoder.disneyplus.com
+
+# Educational content
+0.0.0.0 education.disneyplus.com
+0.0.0.0 edu.disneyplus.com
+
+# Merchandise and retail
+0.0.0.0 shop.disneyplus.com
+0.0.0.0 store.disneyplus.com
+0.0.0.0 merchandise.disneyplus.com
+
+# Music and audio
+0.0.0.0 music.disneyplus.com
+0.0.0.0 audio.disneyplus.com
+
+# Gaming integration
+0.0.0.0 games.disneyplus.com
+0.0.0.0 gaming.disneyplus.com 

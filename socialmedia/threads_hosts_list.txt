@@ -1,0 +1,422 @@
+# Threads - Meta's social media platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 threads.net
+0.0.0.0 www.threads.net
+0.0.0.0 threads.com
+0.0.0.0 www.threads.com
+
+# Mobile and app related
+0.0.0.0 app.threads.net
+0.0.0.0 apps.threads.net
+0.0.0.0 m.threads.net
+0.0.0.0 mobile.threads.net
+0.0.0.0 android.threads.net
+0.0.0.0 ios.threads.net
+
+# API endpoints (based on research)
+0.0.0.0 api.threads.net
+0.0.0.0 api.threads.com
+0.0.0.0 gateway.threads.net
+0.0.0.0 gateway.threads.com
+0.0.0.0 graph.threads.net
+0.0.0.0 graph.threads.com
+
+# Barcelona (codename for Threads)
+0.0.0.0 barcelona.threads.net
+0.0.0.0 barcelona.meta.com
+0.0.0.0 barcelona-api.meta.com
+0.0.0.0 barcelona.instagram.com
+
+# CDN and static content
+0.0.0.0 cdn.threads.net
+0.0.0.0 cdn.threads.com
+0.0.0.0 static.threads.net
+0.0.0.0 static.threads.com
+0.0.0.0 assets.threads.net
+0.0.0.0 assets.threads.com
+0.0.0.0 media.threads.net
+0.0.0.0 media.threads.com
+0.0.0.0 content.threads.net
+0.0.0.0 content.threads.com
+
+# Image and media servers
+0.0.0.0 img.threads.net
+0.0.0.0 img.threads.com
+0.0.0.0 images.threads.net
+0.0.0.0 images.threads.com
+0.0.0.0 pics.threads.net
+0.0.0.0 pics.threads.com
+0.0.0.0 photos.threads.net
+0.0.0.0 photos.threads.com
+0.0.0.0 video.threads.net
+0.0.0.0 video.threads.com
+0.0.0.0 videos.threads.net
+0.0.0.0 videos.threads.com
+
+# User authentication and security
+0.0.0.0 auth.threads.net
+0.0.0.0 auth.threads.com
+0.0.0.0 login.threads.net
+0.0.0.0 login.threads.com
+0.0.0.0 signin.threads.net
+0.0.0.0 signin.threads.com
+0.0.0.0 account.threads.net
+0.0.0.0 account.threads.com
+0.0.0.0 accounts.threads.net
+0.0.0.0 accounts.threads.com
+0.0.0.0 secure.threads.net
+0.0.0.0 secure.threads.com
+0.0.0.0 ssl.threads.net
+0.0.0.0 ssl.threads.com
+
+# Profile and user services
+0.0.0.0 profile.threads.net
+0.0.0.0 profile.threads.com
+0.0.0.0 user.threads.net
+0.0.0.0 user.threads.com
+0.0.0.0 users.threads.net
+0.0.0.0 users.threads.com
+0.0.0.0 my.threads.net
+0.0.0.0 my.threads.com
+
+# Thread-specific features
+0.0.0.0 thread.threads.net
+0.0.0.0 thread.threads.com
+0.0.0.0 post.threads.net
+0.0.0.0 post.threads.com
+0.0.0.0 posts.threads.net
+0.0.0.0 posts.threads.com
+0.0.0.0 feed.threads.net
+0.0.0.0 feed.threads.com
+0.0.0.0 timeline.threads.net
+0.0.0.0 timeline.threads.com
+
+# Following and social features
+0.0.0.0 follow.threads.net
+0.0.0.0 follow.threads.com
+0.0.0.0 following.threads.net
+0.0.0.0 following.threads.com
+0.0.0.0 followers.threads.net
+0.0.0.0 followers.threads.com
+0.0.0.0 friends.threads.net
+0.0.0.0 friends.threads.com
+
+# Likes and engagement
+0.0.0.0 like.threads.net
+0.0.0.0 like.threads.com
+0.0.0.0 likes.threads.net
+0.0.0.0 likes.threads.com
+0.0.0.0 heart.threads.net
+0.0.0.0 heart.threads.com
+0.0.0.0 engagement.threads.net
+0.0.0.0 engagement.threads.com
+
+# Reposts and sharing
+0.0.0.0 repost.threads.net
+0.0.0.0 repost.threads.com
+0.0.0.0 reposts.threads.net
+0.0.0.0 reposts.threads.com
+0.0.0.0 share.threads.net
+0.0.0.0 share.threads.com
+0.0.0.0 reshare.threads.net
+0.0.0.0 reshare.threads.com
+
+# Comments and replies
+0.0.0.0 comment.threads.net
+0.0.0.0 comment.threads.com
+0.0.0.0 comments.threads.net
+0.0.0.0 comments.threads.com
+0.0.0.0 reply.threads.net
+0.0.0.0 reply.threads.com
+0.0.0.0 replies.threads.net
+0.0.0.0 replies.threads.com
+
+# Support and help
+0.0.0.0 support.threads.net
+0.0.0.0 support.threads.com
+0.0.0.0 help.threads.net
+0.0.0.0 help.threads.com
+0.0.0.0 customer.threads.net
+0.0.0.0 customer.threads.com
+0.0.0.0 service.threads.net
+0.0.0.0 service.threads.com
+0.0.0.0 care.threads.net
+0.0.0.0 care.threads.com
+0.0.0.0 faq.threads.net
+0.0.0.0 faq.threads.com
+0.0.0.0 feedback.threads.net
+0.0.0.0 feedback.threads.com
+0.0.0.0 contact.threads.net
+0.0.0.0 contact.threads.com
+
+# Search and discovery
+0.0.0.0 search.threads.net
+0.0.0.0 search.threads.com
+0.0.0.0 find.threads.net
+0.0.0.0 find.threads.com
+0.0.0.0 discover.threads.net
+0.0.0.0 discover.threads.com
+0.0.0.0 explore.threads.net
+0.0.0.0 explore.threads.com
+0.0.0.0 trending.threads.net
+0.0.0.0 trending.threads.com
+
+# Email and notifications
+0.0.0.0 mail.threads.net
+0.0.0.0 mail.threads.com
+0.0.0.0 email.threads.net
+0.0.0.0 email.threads.com
+0.0.0.0 newsletter.threads.net
+0.0.0.0 newsletter.threads.com
+0.0.0.0 notifications.threads.net
+0.0.0.0 notifications.threads.com
+0.0.0.0 push.threads.net
+0.0.0.0 push.threads.com
+
+# Social and community
+0.0.0.0 social.threads.net
+0.0.0.0 social.threads.com
+0.0.0.0 community.threads.net
+0.0.0.0 community.threads.com
+0.0.0.0 blog.threads.net
+0.0.0.0 blog.threads.com
+0.0.0.0 news.threads.net
+0.0.0.0 news.threads.com
+
+# Analytics and tracking
+0.0.0.0 analytics.threads.net
+0.0.0.0 analytics.threads.com
+0.0.0.0 tracking.threads.net
+0.0.0.0 tracking.threads.com
+0.0.0.0 track.threads.net
+0.0.0.0 track.threads.com
+0.0.0.0 metrics.threads.net
+0.0.0.0 metrics.threads.com
+0.0.0.0 stats.threads.net
+0.0.0.0 stats.threads.com
+0.0.0.0 data.threads.net
+0.0.0.0 data.threads.com
+0.0.0.0 events.threads.net
+0.0.0.0 events.threads.com
+
+# Admin and backend
+0.0.0.0 admin.threads.net
+0.0.0.0 admin.threads.com
+0.0.0.0 manage.threads.net
+0.0.0.0 manage.threads.com
+0.0.0.0 dashboard.threads.net
+0.0.0.0 dashboard.threads.com
+0.0.0.0 console.threads.net
+0.0.0.0 console.threads.com
+0.0.0.0 backend.threads.net
+0.0.0.0 backend.threads.com
+
+# Geographic and regional
+0.0.0.0 us.threads.net
+0.0.0.0 us.threads.com
+0.0.0.0 eu.threads.net
+0.0.0.0 eu.threads.com
+0.0.0.0 asia.threads.net
+0.0.0.0 asia.threads.com
+0.0.0.0 global.threads.net
+0.0.0.0 global.threads.com
+
+# Development and staging
+0.0.0.0 dev.threads.net
+0.0.0.0 dev.threads.com
+0.0.0.0 test.threads.net
+0.0.0.0 test.threads.com
+0.0.0.0 staging.threads.net
+0.0.0.0 staging.threads.com
+0.0.0.0 qa.threads.net
+0.0.0.0 qa.threads.com
+0.0.0.0 beta.threads.net
+0.0.0.0 beta.threads.com
+0.0.0.0 demo.threads.net
+0.0.0.0 demo.threads.com
+
+# Business and creator tools
+0.0.0.0 business.threads.net
+0.0.0.0 business.threads.com
+0.0.0.0 creator.threads.net
+0.0.0.0 creator.threads.com
+0.0.0.0 creators.threads.net
+0.0.0.0 creators.threads.com
+0.0.0.0 brand.threads.net
+0.0.0.0 brand.threads.com
+0.0.0.0 brands.threads.net
+0.0.0.0 brands.threads.com
+
+# Advertising and monetization
+0.0.0.0 ads.threads.net
+0.0.0.0 ads.threads.com
+0.0.0.0 advertising.threads.net
+0.0.0.0 advertising.threads.com
+0.0.0.0 marketing.threads.net
+0.0.0.0 marketing.threads.com
+0.0.0.0 campaign.threads.net
+0.0.0.0 campaign.threads.com
+0.0.0.0 campaigns.threads.net
+0.0.0.0 campaigns.threads.com
+
+# Corporate and informational
+0.0.0.0 about.threads.net
+0.0.0.0 about.threads.com
+0.0.0.0 legal.threads.net
+0.0.0.0 legal.threads.com
+0.0.0.0 privacy.threads.net
+0.0.0.0 privacy.threads.com
+0.0.0.0 terms.threads.net
+0.0.0.0 terms.threads.com
+0.0.0.0 press.threads.net
+0.0.0.0 press.threads.com
+0.0.0.0 careers.threads.net
+0.0.0.0 careers.threads.com
+0.0.0.0 jobs.threads.net
+0.0.0.0 jobs.threads.com
+
+# Load balancers and infrastructure
+0.0.0.0 lb.threads.net
+0.0.0.0 lb.threads.com
+0.0.0.0 proxy.threads.net
+0.0.0.0 proxy.threads.com
+0.0.0.0 cache.threads.net
+0.0.0.0 cache.threads.com
+
+# Download and installation
+0.0.0.0 download.threads.net
+0.0.0.0 download.threads.com
+0.0.0.0 install.threads.net
+0.0.0.0 install.threads.com
+0.0.0.0 get.threads.net
+0.0.0.0 get.threads.com
+
+# Status and monitoring
+0.0.0.0 status.threads.net
+0.0.0.0 status.threads.com
+0.0.0.0 monitor.threads.net
+0.0.0.0 monitor.threads.com
+0.0.0.0 health.threads.net
+0.0.0.0 health.threads.com
+
+# Security and verification
+0.0.0.0 verify.threads.net
+0.0.0.0 verify.threads.com
+0.0.0.0 verification.threads.net
+0.0.0.0 verification.threads.com
+0.0.0.0 security.threads.net
+0.0.0.0 security.threads.com
+
+# Upload and file services
+0.0.0.0 upload.threads.net
+0.0.0.0 upload.threads.com
+0.0.0.0 files.threads.net
+0.0.0.0 files.threads.com
+0.0.0.0 storage.threads.net
+0.0.0.0 storage.threads.com
+
+# Third-party integrations (Meta ecosystem)
+0.0.0.0 instagram.threads.net
+0.0.0.0 instagram.threads.com
+0.0.0.0 facebook.threads.net
+0.0.0.0 facebook.threads.com
+0.0.0.0 meta.threads.net
+0.0.0.0 meta.threads.com
+
+# Webhooks and integrations
+0.0.0.0 webhook.threads.net
+0.0.0.0 webhook.threads.com
+0.0.0.0 webhooks.threads.net
+0.0.0.0 webhooks.threads.com
+0.0.0.0 integration.threads.net
+0.0.0.0 integration.threads.com
+0.0.0.0 integrations.threads.net
+0.0.0.0 integrations.threads.com
+
+# Activity and updates
+0.0.0.0 activity.threads.net
+0.0.0.0 activity.threads.com
+0.0.0.0 updates.threads.net
+0.0.0.0 updates.threads.com
+0.0.0.0 update.threads.net
+0.0.0.0 update.threads.com
+
+# Hashtags and topics
+0.0.0.0 hashtag.threads.net
+0.0.0.0 hashtag.threads.com
+0.0.0.0 hashtags.threads.net
+0.0.0.0 hashtags.threads.com
+0.0.0.0 topic.threads.net
+0.0.0.0 topic.threads.com
+0.0.0.0 topics.threads.net
+0.0.0.0 topics.threads.com
+
+# Direct messages (if implemented)
+0.0.0.0 dm.threads.net
+0.0.0.0 dm.threads.com
+0.0.0.0 message.threads.net
+0.0.0.0 message.threads.com
+0.0.0.0 messages.threads.net
+0.0.0.0 messages.threads.com
+0.0.0.0 chat.threads.net
+0.0.0.0 chat.threads.com
+
+# Moderation and safety
+0.0.0.0 moderation.threads.net
+0.0.0.0 moderation.threads.com
+0.0.0.0 safety.threads.net
+0.0.0.0 safety.threads.com
+0.0.0.0 report.threads.net
+0.0.0.0 report.threads.com
+0.0.0.0 reports.threads.net
+0.0.0.0 reports.threads.com
+
+# AI and machine learning
+0.0.0.0 ai.threads.net
+0.0.0.0 ai.threads.com
+0.0.0.0 ml.threads.net
+0.0.0.0 ml.threads.com
+0.0.0.0 recommendation.threads.net
+0.0.0.0 recommendation.threads.com
+0.0.0.0 suggest.threads.net
+0.0.0.0 suggest.threads.com
+
+# Live features (if implemented)
+0.0.0.0 live.threads.net
+0.0.0.0 live.threads.com
+0.0.0.0 streaming.threads.net
+0.0.0.0 streaming.threads.com
+0.0.0.0 broadcast.threads.net
+0.0.0.0 broadcast.threads.com
+
+# Spaces/Audio features (potential)
+0.0.0.0 spaces.threads.net
+0.0.0.0 spaces.threads.com
+0.0.0.0 audio.threads.net
+0.0.0.0 audio.threads.com
+0.0.0.0 voice.threads.net
+0.0.0.0 voice.threads.com
+
+# Configuration and settings
+0.0.0.0 config.threads.net
+0.0.0.0 config.threads.com
+0.0.0.0 settings.threads.net
+0.0.0.0 settings.threads.com
+0.0.0.0 preferences.threads.net
+0.0.0.0 preferences.threads.com
+
+# Event tracking and logging
+0.0.0.0 event.threads.net
+0.0.0.0 event.threads.com
+0.0.0.0 log.threads.net
+0.0.0.0 log.threads.com
+0.0.0.0 logs.threads.net
+0.0.0.0 logs.threads.com
+
+# Performance and reliability
+0.0.0.0 performance.threads.net
+0.0.0.0 performance.threads.com
+0.0.0.0 reliability.threads.net
+0.0.0.0 reliability.threads.com
+0.0.0.0 quality.threads.net
+0.0.0.0 quality.threads.com 

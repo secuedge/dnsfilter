@@ -1,0 +1,400 @@
+# Blinkit - Quick commerce and instant grocery delivery platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 blinkit.com
+0.0.0.0 www.blinkit.com
+
+# Legacy Grofers domains (Blinkit was formerly Grofers)
+0.0.0.0 grofers.com
+0.0.0.0 www.grofers.com
+0.0.0.0 blinkit.grofers.com
+
+# Mobile and app related
+0.0.0.0 m.blinkit.com
+0.0.0.0 mobile.blinkit.com
+0.0.0.0 app.blinkit.com
+0.0.0.0 apps.blinkit.com
+0.0.0.0 android.blinkit.com
+0.0.0.0 ios.blinkit.com
+
+# API endpoints
+0.0.0.0 api.blinkit.com
+0.0.0.0 api1.blinkit.com
+0.0.0.0 api2.blinkit.com
+0.0.0.0 apis.blinkit.com
+0.0.0.0 gateway.blinkit.com
+0.0.0.0 rest.blinkit.com
+
+# CDN and static content
+0.0.0.0 cdn.blinkit.com
+0.0.0.0 cdn1.blinkit.com
+0.0.0.0 cdn2.blinkit.com
+0.0.0.0 cdn3.blinkit.com
+0.0.0.0 static.blinkit.com
+0.0.0.0 static1.blinkit.com
+0.0.0.0 static2.blinkit.com
+0.0.0.0 assets.blinkit.com
+0.0.0.0 media.blinkit.com
+0.0.0.0 content.blinkit.com
+
+# Image and media servers
+0.0.0.0 img.blinkit.com
+0.0.0.0 img1.blinkit.com
+0.0.0.0 img2.blinkit.com
+0.0.0.0 img3.blinkit.com
+0.0.0.0 images.blinkit.com
+0.0.0.0 pics.blinkit.com
+0.0.0.0 photos.blinkit.com
+0.0.0.0 gallery.blinkit.com
+0.0.0.0 video.blinkit.com
+0.0.0.0 videos.blinkit.com
+
+# Analytics and tracking
+0.0.0.0 analytics.blinkit.com
+0.0.0.0 tracking.blinkit.com
+0.0.0.0 track.blinkit.com
+0.0.0.0 tracker.blinkit.com
+0.0.0.0 metrics.blinkit.com
+0.0.0.0 stats.blinkit.com
+0.0.0.0 pixel.blinkit.com
+0.0.0.0 beacon.blinkit.com
+0.0.0.0 data.blinkit.com
+0.0.0.0 events.blinkit.com
+
+# Shopping and commerce
+0.0.0.0 shop.blinkit.com
+0.0.0.0 store.blinkit.com
+0.0.0.0 stores.blinkit.com
+0.0.0.0 cart.blinkit.com
+0.0.0.0 checkout.blinkit.com
+0.0.0.0 payment.blinkit.com
+0.0.0.0 payments.blinkit.com
+0.0.0.0 pay.blinkit.com
+0.0.0.0 wallet.blinkit.com
+
+# User authentication and security
+0.0.0.0 login.blinkit.com
+0.0.0.0 signin.blinkit.com
+0.0.0.0 auth.blinkit.com
+0.0.0.0 secure.blinkit.com
+0.0.0.0 ssl.blinkit.com
+0.0.0.0 accounts.blinkit.com
+0.0.0.0 account.blinkit.com
+0.0.0.0 profile.blinkit.com
+0.0.0.0 user.blinkit.com
+0.0.0.0 users.blinkit.com
+0.0.0.0 my.blinkit.com
+
+# Support and help
+0.0.0.0 support.blinkit.com
+0.0.0.0 help.blinkit.com
+0.0.0.0 customer.blinkit.com
+0.0.0.0 service.blinkit.com
+0.0.0.0 care.blinkit.com
+0.0.0.0 faq.blinkit.com
+0.0.0.0 feedback.blinkit.com
+0.0.0.0 contact.blinkit.com
+
+# Search and recommendation
+0.0.0.0 search.blinkit.com
+0.0.0.0 find.blinkit.com
+0.0.0.0 suggest.blinkit.com
+0.0.0.0 recommendation.blinkit.com
+0.0.0.0 reco.blinkit.com
+0.0.0.0 personalization.blinkit.com
+
+# Email and notifications
+0.0.0.0 mail.blinkit.com
+0.0.0.0 email.blinkit.com
+0.0.0.0 newsletter.blinkit.com
+0.0.0.0 notifications.blinkit.com
+0.0.0.0 push.blinkit.com
+
+# Social and community
+0.0.0.0 social.blinkit.com
+0.0.0.0 community.blinkit.com
+0.0.0.0 blog.blinkit.com
+0.0.0.0 stories.blinkit.com
+0.0.0.0 reviews.blinkit.com
+0.0.0.0 share.blinkit.com
+
+# Admin and backend
+0.0.0.0 admin.blinkit.com
+0.0.0.0 manage.blinkit.com
+0.0.0.0 dashboard.blinkit.com
+0.0.0.0 console.blinkit.com
+0.0.0.0 backend.blinkit.com
+
+# Geographic and regional
+0.0.0.0 india.blinkit.com
+0.0.0.0 in.blinkit.com
+0.0.0.0 delhi.blinkit.com
+0.0.0.0 mumbai.blinkit.com
+0.0.0.0 bangalore.blinkit.com
+0.0.0.0 hyderabad.blinkit.com
+0.0.0.0 pune.blinkit.com
+0.0.0.0 gurgaon.blinkit.com
+0.0.0.0 noida.blinkit.com
+
+# Development and staging
+0.0.0.0 dev.blinkit.com
+0.0.0.0 test.blinkit.com
+0.0.0.0 staging.blinkit.com
+0.0.0.0 qa.blinkit.com
+0.0.0.0 beta.blinkit.com
+0.0.0.0 demo.blinkit.com
+
+# Seller and partner services
+0.0.0.0 seller.blinkit.com
+0.0.0.0 sellers.blinkit.com
+0.0.0.0 partner.blinkit.com
+0.0.0.0 partners.blinkit.com
+0.0.0.0 vendor.blinkit.com
+0.0.0.0 vendors.blinkit.com
+0.0.0.0 business.blinkit.com
+0.0.0.0 b2b.blinkit.com
+
+# Corporate and informational
+0.0.0.0 careers.blinkit.com
+0.0.0.0 jobs.blinkit.com
+0.0.0.0 press.blinkit.com
+0.0.0.0 news.blinkit.com
+0.0.0.0 about.blinkit.com
+0.0.0.0 legal.blinkit.com
+0.0.0.0 privacy.blinkit.com
+0.0.0.0 terms.blinkit.com
+
+# Load balancers and infrastructure
+0.0.0.0 lb.blinkit.com
+0.0.0.0 lb1.blinkit.com
+0.0.0.0 lb2.blinkit.com
+0.0.0.0 proxy.blinkit.com
+0.0.0.0 cache.blinkit.com
+
+# Third-party integrations
+0.0.0.0 facebook.blinkit.com
+0.0.0.0 google.blinkit.com
+0.0.0.0 twitter.blinkit.com
+0.0.0.0 instagram.blinkit.com
+
+# Special campaigns and events
+0.0.0.0 sale.blinkit.com
+0.0.0.0 deals.blinkit.com
+0.0.0.0 offers.blinkit.com
+0.0.0.0 promotion.blinkit.com
+0.0.0.0 promo.blinkit.com
+0.0.0.0 discount.blinkit.com
+0.0.0.0 flash.blinkit.com
+0.0.0.0 flashsale.blinkit.com
+0.0.0.0 campaign.blinkit.com
+
+# Quick commerce specific categories
+0.0.0.0 grocery.blinkit.com
+0.0.0.0 groceries.blinkit.com
+0.0.0.0 fruits.blinkit.com
+0.0.0.0 vegetables.blinkit.com
+0.0.0.0 dairy.blinkit.com
+0.0.0.0 milk.blinkit.com
+0.0.0.0 bakery.blinkit.com
+0.0.0.0 bread.blinkit.com
+0.0.0.0 meat.blinkit.com
+0.0.0.0 fish.blinkit.com
+0.0.0.0 seafood.blinkit.com
+0.0.0.0 beverages.blinkit.com
+0.0.0.0 drinks.blinkit.com
+0.0.0.0 snacks.blinkit.com
+0.0.0.0 frozen.blinkit.com
+0.0.0.0 organic.blinkit.com
+0.0.0.0 fresh.blinkit.com
+
+# Household and personal care
+0.0.0.0 household.blinkit.com
+0.0.0.0 homecare.blinkit.com
+0.0.0.0 personalcare.blinkit.com
+0.0.0.0 beauty.blinkit.com
+0.0.0.0 health.blinkit.com
+0.0.0.0 wellness.blinkit.com
+0.0.0.0 pharmacy.blinkit.com
+0.0.0.0 medicine.blinkit.com
+0.0.0.0 baby.blinkit.com
+0.0.0.0 babycare.blinkit.com
+0.0.0.0 kids.blinkit.com
+
+# Pet care
+0.0.0.0 pet.blinkit.com
+0.0.0.0 pets.blinkit.com
+0.0.0.0 petcare.blinkit.com
+0.0.0.0 petfood.blinkit.com
+
+# Electronics and gadgets
+0.0.0.0 electronics.blinkit.com
+0.0.0.0 mobile.blinkit.com
+0.0.0.0 accessories.blinkit.com
+0.0.0.0 gadgets.blinkit.com
+
+# Home essentials
+0.0.0.0 home.blinkit.com
+0.0.0.0 kitchen.blinkit.com
+0.0.0.0 appliances.blinkit.com
+0.0.0.0 cleaning.blinkit.com
+
+# Quick delivery infrastructure
+0.0.0.0 delivery.blinkit.com
+0.0.0.0 instant.blinkit.com
+0.0.0.0 express.blinkit.com
+0.0.0.0 quick.blinkit.com
+0.0.0.0 rapid.blinkit.com
+0.0.0.0 fast.blinkit.com
+0.0.0.0 speed.blinkit.com
+0.0.0.0 minutes.blinkit.com
+0.0.0.0 10min.blinkit.com
+0.0.0.0 15min.blinkit.com
+0.0.0.0 30min.blinkit.com
+
+# Warehouse and fulfillment
+0.0.0.0 warehouse.blinkit.com
+0.0.0.0 fulfillment.blinkit.com
+0.0.0.0 darkstore.blinkit.com
+0.0.0.0 darkstores.blinkit.com
+0.0.0.0 micro.blinkit.com
+0.0.0.0 microfulfillment.blinkit.com
+
+# Logistics and supply chain
+0.0.0.0 logistics.blinkit.com
+0.0.0.0 supply.blinkit.com
+0.0.0.0 supplychain.blinkit.com
+0.0.0.0 ops.blinkit.com
+0.0.0.0 operations.blinkit.com
+
+# Delivery tracking
+0.0.0.0 tracking.blinkit.com
+0.0.0.0 track-order.blinkit.com
+0.0.0.0 live-tracking.blinkit.com
+0.0.0.0 realtime.blinkit.com
+
+# Rider and driver services
+0.0.0.0 rider.blinkit.com
+0.0.0.0 riders.blinkit.com
+0.0.0.0 driver.blinkit.com
+0.0.0.0 drivers.blinkit.com
+0.0.0.0 delivery-partner.blinkit.com
+0.0.0.0 fleet.blinkit.com
+
+# Subscription services
+0.0.0.0 subscription.blinkit.com
+0.0.0.0 subscribe.blinkit.com
+0.0.0.0 recurring.blinkit.com
+0.0.0.0 auto.blinkit.com
+
+# Location and mapping
+0.0.0.0 location.blinkit.com
+0.0.0.0 map.blinkit.com
+0.0.0.0 maps.blinkit.com
+0.0.0.0 gps.blinkit.com
+0.0.0.0 geo.blinkit.com
+
+# Inventory management
+0.0.0.0 inventory.blinkit.com
+0.0.0.0 stock.blinkit.com
+0.0.0.0 availability.blinkit.com
+0.0.0.0 catalog.blinkit.com
+
+# Customer experience features
+0.0.0.0 cx.blinkit.com
+0.0.0.0 customerexperience.blinkit.com
+0.0.0.0 ux.blinkit.com
+
+# Quality and freshness
+0.0.0.0 quality.blinkit.com
+0.0.0.0 freshness.blinkit.com
+0.0.0.0 guarantee.blinkit.com
+0.0.0.0 assurance.blinkit.com
+
+# Schedule and slot management
+0.0.0.0 schedule.blinkit.com
+0.0.0.0 slot.blinkit.com
+0.0.0.0 booking.blinkit.com
+0.0.0.0 time.blinkit.com
+
+# Returns and refunds
+0.0.0.0 returns.blinkit.com
+0.0.0.0 refund.blinkit.com
+0.0.0.0 exchange.blinkit.com
+0.0.0.0 warranty.blinkit.com
+
+# Loyalty and rewards
+0.0.0.0 loyalty.blinkit.com
+0.0.0.0 rewards.blinkit.com
+0.0.0.0 points.blinkit.com
+0.0.0.0 cashback.blinkit.com
+
+# Coupons and discounts
+0.0.0.0 coupon.blinkit.com
+0.0.0.0 coupons.blinkit.com
+0.0.0.0 voucher.blinkit.com
+0.0.0.0 vouchers.blinkit.com
+
+# AI and machine learning
+0.0.0.0 ai.blinkit.com
+0.0.0.0 ml.blinkit.com
+0.0.0.0 machinelearning.blinkit.com
+0.0.0.0 recommend.blinkit.com
+
+# Trust and safety
+0.0.0.0 trust.blinkit.com
+0.0.0.0 safety.blinkit.com
+0.0.0.0 security.blinkit.com
+0.0.0.0 verification.blinkit.com
+
+# Financial services
+0.0.0.0 finance.blinkit.com
+0.0.0.0 credit.blinkit.com
+0.0.0.0 loan.blinkit.com
+0.0.0.0 insurance.blinkit.com
+
+# Marketplace insights
+0.0.0.0 insights.blinkit.com
+0.0.0.0 market.blinkit.com
+0.0.0.0 marketplace.blinkit.com
+0.0.0.0 trends.blinkit.com
+0.0.0.0 pulse.blinkit.com
+
+# Customer service features
+0.0.0.0 chat.blinkit.com
+0.0.0.0 livechat.blinkit.com
+0.0.0.0 call.blinkit.com
+0.0.0.0 voice.blinkit.com
+
+# Special services
+0.0.0.0 office.blinkit.com
+0.0.0.0 corporate.blinkit.com
+0.0.0.0 bulk.blinkit.com
+0.0.0.0 wholesale.blinkit.com
+
+# Recipe and cooking
+0.0.0.0 recipe.blinkit.com
+0.0.0.0 recipes.blinkit.com
+0.0.0.0 cooking.blinkit.com
+0.0.0.0 meal.blinkit.com
+0.0.0.0 meals.blinkit.com
+
+# Special occasions
+0.0.0.0 festival.blinkit.com
+0.0.0.0 celebration.blinkit.com
+0.0.0.0 party.blinkit.com
+0.0.0.0 event.blinkit.com
+
+# Emergency services
+0.0.0.0 emergency.blinkit.com
+0.0.0.0 urgent.blinkit.com
+0.0.0.0 sos.blinkit.com
+
+# Marketing and advertising
+0.0.0.0 marketing.blinkit.com
+0.0.0.0 advertising.blinkit.com
+0.0.0.0 ads.blinkit.com
+
+# Technology and engineering
+0.0.0.0 tech.blinkit.com
+0.0.0.0 technology.blinkit.com
+0.0.0.0 engineering.blinkit.com
+0.0.0.0 innovation.blinkit.com 

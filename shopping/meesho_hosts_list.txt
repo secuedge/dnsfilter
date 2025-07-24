@@ -1,0 +1,244 @@
+# Meesho - Social commerce platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 meesho.com
+0.0.0.0 www.meesho.com
+0.0.0.0 meesho.io
+0.0.0.0 www.meesho.io
+
+# Mobile and app related
+0.0.0.0 m.meesho.com
+0.0.0.0 mobile.meesho.com
+0.0.0.0 app.meesho.com
+0.0.0.0 apps.meesho.com
+0.0.0.0 android.meesho.com
+0.0.0.0 ios.meesho.com
+
+# API endpoints (based on Edge Proxy research)
+0.0.0.0 api.meesho.com
+0.0.0.0 api1.meesho.com
+0.0.0.0 api2.meesho.com
+0.0.0.0 apis.meesho.com
+0.0.0.0 mapi.meesho.com
+0.0.0.0 gateway.meesho.com
+0.0.0.0 edge.meesho.com
+0.0.0.0 proxy.meesho.com
+0.0.0.0 rest.meesho.com
+
+# Content delivery networks (CDN) - based on Google Cloud CDN research
+0.0.0.0 cdn.meesho.com
+0.0.0.0 cdn1.meesho.com
+0.0.0.0 cdn2.meesho.com
+0.0.0.0 cdn3.meesho.com
+0.0.0.0 static.meesho.com
+0.0.0.0 static1.meesho.com
+0.0.0.0 static2.meesho.com
+0.0.0.0 assets.meesho.com
+0.0.0.0 media.meesho.com
+0.0.0.0 content.meesho.com
+
+# Image and media servers (based on dynamic image resizing research)
+0.0.0.0 img.meesho.com
+0.0.0.0 img1.meesho.com
+0.0.0.0 img2.meesho.com
+0.0.0.0 img3.meesho.com
+0.0.0.0 images.meesho.com
+0.0.0.0 pics.meesho.com
+0.0.0.0 photos.meesho.com
+0.0.0.0 video.meesho.com
+0.0.0.0 videos.meesho.com
+0.0.0.0 resize.meesho.com
+
+# Analytics and tracking (based on Meshlytics research)
+0.0.0.0 analytics.meesho.com
+0.0.0.0 tracking.meesho.com
+0.0.0.0 track.meesho.com
+0.0.0.0 tracker.meesho.com
+0.0.0.0 metrics.meesho.com
+0.0.0.0 stats.meesho.com
+0.0.0.0 pixel.meesho.com
+0.0.0.0 beacon.meesho.com
+0.0.0.0 data.meesho.com
+0.0.0.0 events.meesho.com
+0.0.0.0 meshlytics.meesho.com
+
+# Shopping and commerce
+0.0.0.0 shop.meesho.com
+0.0.0.0 store.meesho.com
+0.0.0.0 cart.meesho.com
+0.0.0.0 checkout.meesho.com
+0.0.0.0 payment.meesho.com
+0.0.0.0 payments.meesho.com
+0.0.0.0 pay.meesho.com
+0.0.0.0 wallet.meesho.com
+
+# User authentication and security
+0.0.0.0 login.meesho.com
+0.0.0.0 auth.meesho.com
+0.0.0.0 secure.meesho.com
+0.0.0.0 ssl.meesho.com
+0.0.0.0 accounts.meesho.com
+0.0.0.0 account.meesho.com
+0.0.0.0 profile.meesho.com
+0.0.0.0 user.meesho.com
+0.0.0.0 users.meesho.com
+
+# Support and help
+0.0.0.0 support.meesho.com
+0.0.0.0 help.meesho.com
+0.0.0.0 customer.meesho.com
+0.0.0.0 service.meesho.com
+0.0.0.0 care.meesho.com
+0.0.0.0 faq.meesho.com
+0.0.0.0 feedback.meesho.com
+
+# Search and recommendation
+0.0.0.0 search.meesho.com
+0.0.0.0 suggest.meesho.com
+0.0.0.0 recommendation.meesho.com
+0.0.0.0 reco.meesho.com
+0.0.0.0 personalization.meesho.com
+0.0.0.0 ranking.meesho.com
+
+# Email and notifications
+0.0.0.0 mail.meesho.com
+0.0.0.0 email.meesho.com
+0.0.0.0 newsletter.meesho.com
+0.0.0.0 notifications.meesho.com
+0.0.0.0 push.meesho.com
+
+# Social and community (social commerce features)
+0.0.0.0 social.meesho.com
+0.0.0.0 community.meesho.com
+0.0.0.0 blog.meesho.com
+0.0.0.0 stories.meesho.com
+0.0.0.0 reviews.meesho.com
+0.0.0.0 share.meesho.com
+0.0.0.0 whatsapp.meesho.com
+0.0.0.0 reseller.meesho.com
+
+# Admin and backend
+0.0.0.0 admin.meesho.com
+0.0.0.0 manage.meesho.com
+0.0.0.0 dashboard.meesho.com
+0.0.0.0 console.meesho.com
+0.0.0.0 backend.meesho.com
+
+# Geographic and regional
+0.0.0.0 in.meesho.com
+0.0.0.0 india.meesho.com
+0.0.0.0 bharat.meesho.com
+0.0.0.0 tier2.meesho.com
+0.0.0.0 tier3.meesho.com
+
+# Development and staging
+0.0.0.0 dev.meesho.com
+0.0.0.0 test.meesho.com
+0.0.0.0 staging.meesho.com
+0.0.0.0 qa.meesho.com
+0.0.0.0 beta.meesho.com
+0.0.0.0 demo.meesho.com
+
+# Seller and business services (supplier platform)
+0.0.0.0 seller.meesho.com
+0.0.0.0 sellers.meesho.com
+0.0.0.0 supplier.meesho.com
+0.0.0.0 suppliers.meesho.com
+0.0.0.0 vendor.meesho.com
+0.0.0.0 vendors.meesho.com
+0.0.0.0 partner.meesho.com
+0.0.0.0 partners.meesho.com
+0.0.0.0 business.meesho.com
+
+# Corporate and informational
+0.0.0.0 careers.meesho.com
+0.0.0.0 jobs.meesho.com
+0.0.0.0 press.meesho.com
+0.0.0.0 news.meesho.com
+0.0.0.0 about.meesho.com
+0.0.0.0 contact.meesho.com
+0.0.0.0 legal.meesho.com
+0.0.0.0 privacy.meesho.com
+0.0.0.0 terms.meesho.com
+
+# Load balancers and infrastructure
+0.0.0.0 lb.meesho.com
+0.0.0.0 lb1.meesho.com
+0.0.0.0 lb2.meesho.com
+0.0.0.0 loadbalancer.meesho.com
+0.0.0.0 cache.meesho.com
+
+# Third-party integrations
+0.0.0.0 facebook.meesho.com
+0.0.0.0 google.meesho.com
+0.0.0.0 twitter.meesho.com
+0.0.0.0 instagram.meesho.com
+
+# Special campaigns and events
+0.0.0.0 sale.meesho.com
+0.0.0.0 offers.meesho.com
+0.0.0.0 deals.meesho.com
+0.0.0.0 discount.meesho.com
+0.0.0.0 festival.meesho.com
+0.0.0.0 megasale.meesho.com
+
+# Product categories
+0.0.0.0 fashion.meesho.com
+0.0.0.0 home.meesho.com
+0.0.0.0 beauty.meesho.com
+0.0.0.0 electronics.meesho.com
+0.0.0.0 women.meesho.com
+0.0.0.0 men.meesho.com
+0.0.0.0 kids.meesho.com
+
+# Microservices (based on backend architecture research)
+0.0.0.0 storefront.meesho.com
+0.0.0.0 catalog.meesho.com
+0.0.0.0 inventory.meesho.com
+0.0.0.0 pricing.meesho.com
+0.0.0.0 order.meesho.com
+0.0.0.0 orders.meesho.com
+0.0.0.0 logistics.meesho.com
+0.0.0.0 delivery.meesho.com
+
+# Tech infrastructure (based on tech blogs)
+0.0.0.0 monitoring.meesho.com
+0.0.0.0 alerting.meesho.com
+0.0.0.0 logging.meesho.com
+0.0.0.0 prometheus.meesho.com
+0.0.0.0 grafana.meesho.com
+0.0.0.0 elasticsearch.meesho.com
+
+# A/B testing and experimentation
+0.0.0.0 experiments.meesho.com
+0.0.0.0 ab.meesho.com
+0.0.0.0 testing.meesho.com
+0.0.0.0 feature.meesho.com
+0.0.0.0 flags.meesho.com
+
+# Data and machine learning (based on Delta Lake and ML research)
+0.0.0.0 data.meesho.com
+0.0.0.0 ml.meesho.com
+0.0.0.0 ai.meesho.com
+0.0.0.0 delta.meesho.com
+0.0.0.0 bigdata.meesho.com
+0.0.0.0 warehouse.meesho.com
+
+# Cloud infrastructure (Google Cloud integration)
+0.0.0.0 gcp.meesho.com
+0.0.0.0 cloud.meesho.com
+0.0.0.0 storage.meesho.com
+0.0.0.0 compute.meesho.com
+
+# Circuit breaker and resilience (based on edge proxy research)
+0.0.0.0 circuit.meesho.com
+0.0.0.0 resilience.meesho.com
+0.0.0.0 fallback.meesho.com
+0.0.0.0 health.meesho.com
+
+# Additional services
+0.0.0.0 returns.meesho.com
+0.0.0.0 refund.meesho.com
+0.0.0.0 exchange.meesho.com
+0.0.0.0 warranty.meesho.com
+0.0.0.0 track-order.meesho.com
+0.0.0.0 shipping.meesho.com 

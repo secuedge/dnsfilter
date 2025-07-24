@@ -1,0 +1,497 @@
+# The Pirate Bay (TPB) - World's Most Resilient Torrent Site (Comprehensive Block List)
+# Main domains (based on research)
+0.0.0.0 thepiratebay.org
+0.0.0.0 www.thepiratebay.org
+0.0.0.0 thepiratebay.se
+0.0.0.0 www.thepiratebay.se
+
+# Mobile domains (confirmed in research)
+0.0.0.0 m.thepiratebay.org
+0.0.0.0 mobile.thepiratebay.org
+
+# Cloudflare infrastructure (confirmed in research)
+0.0.0.0 deb.ns.cloudflare.com
+0.0.0.0 sevki.ns.cloudflare.com
+
+# Historical active domains (confirmed in research)
+0.0.0.0 thepiratebay.ms
+0.0.0.0 thepiratebay.vg
+0.0.0.0 thepiratebay.mn
+0.0.0.0 thepiratebay.gd
+0.0.0.0 thepiratebay.gs
+0.0.0.0 thepiratebay.la
+0.0.0.0 thepiratebay.am
+0.0.0.0 thepiratebay.sx
+0.0.0.0 thepiratebay.ac
+0.0.0.0 thepiratebay.is
+0.0.0.0 thepiratebay.gy
+0.0.0.0 thepiratebay.pe
+0.0.0.0 thepiratebay.cr
+0.0.0.0 thepiratebay.ee
+
+# Known proxy domains (based on research)
+0.0.0.0 pirateproxy.buzz
+0.0.0.0 proxybay.xyz
+0.0.0.0 thepiratebay10.info
+0.0.0.0 thepiratebay7.com
+0.0.0.0 thepiratebay0.org
+0.0.0.0 thepiratebay10.xyz
+0.0.0.0 pirateproxylive.org
+0.0.0.0 thehiddenbay.com
+0.0.0.0 piratebay.live
+0.0.0.0 thepiratebay.zone
+0.0.0.0 tpb.party
+0.0.0.0 piratebayproxy.live
+0.0.0.0 piratebay.party
+0.0.0.0 thepiratebay.party
+0.0.0.0 thepiratebay.xyz
+0.0.0.0 thepiratebay10.org
+0.0.0.0 pirateproxy.live
+0.0.0.0 piratebayblocked.com
+0.0.0.0 thepiratebay.vin
+
+# Additional domains from Robtex research
+0.0.0.0 thepiratebay.love
+0.0.0.0 thepiratebay.org.uk
+0.0.0.0 thepiratebay.me
+0.0.0.0 thepiratebay.store
+0.0.0.0 thepiratebay.com
+0.0.0.0 thepiratebay.blog
+0.0.0.0 thepiratebay.hu
+0.0.0.0 thepiratebay.cl
+0.0.0.0 thepiratebay.us.org
+0.0.0.0 thepiratebay.red
+0.0.0.0 thepiratebay.vip
+0.0.0.0 thepiratebay.eu
+0.0.0.0 thepiratebay.com.ua
+0.0.0.0 thepiratebay.ca
+0.0.0.0 thepiratebay.ws
+0.0.0.0 thepiratebay.asia
+0.0.0.0 thepiratebay.rip
+0.0.0.0 thepiratebay.mobi
+0.0.0.0 thepiratebay.io
+0.0.0.0 thepiratebay.fun
+0.0.0.0 thepiratebay.co.za
+0.0.0.0 thepiratebay.dk
+0.0.0.0 thepiratebay.ai
+0.0.0.0 thepiratebay.co.uk
+0.0.0.0 thepiratebay.plus
+0.0.0.0 thepiratebay.wiki
+0.0.0.0 thepiratebay.cx
+0.0.0.0 thepiratebay.in
+0.0.0.0 thepiratebay.party
+0.0.0.0 thepiratebay.zone
+0.0.0.0 thepiratebay.net
+0.0.0.0 thepiratebay.pl
+0.0.0.0 thepiratebay.casa
+0.0.0.0 thepiratebay.by
+0.0.0.0 thepiratebay.ro
+0.0.0.0 thepiratebay.com.br
+0.0.0.0 thepiratebay.host
+0.0.0.0 thepiratebay.website
+0.0.0.0 thepiratebay.tv
+0.0.0.0 thepiratebay.uk.net
+0.0.0.0 thepiratebay.ru
+0.0.0.0 thepiratebay.monster
+0.0.0.0 thepiratebay.vc
+0.0.0.0 thepiratebay.vet
+0.0.0.0 thepiratebay.no
+0.0.0.0 thepiratebay.it
+0.0.0.0 thepiratebay.cc
+0.0.0.0 thepiratebay.rocks
+0.0.0.0 thepiratebay.tips
+0.0.0.0 thepiratebay.es
+0.0.0.0 thepiratebay.hatenablog.com
+0.0.0.0 thepiratebay.info
+0.0.0.0 thepiratebay.to
+0.0.0.0 thepiratebay.gl
+0.0.0.0 thepiratebay.tokyo
+0.0.0.0 thepiratebay.cd
+0.0.0.0 thepiratebay.de
+0.0.0.0 thepiratebay.pro
+0.0.0.0 thepiratebay.network
+
+# Mirror and proxy variations
+0.0.0.0 thebaypirate.com
+0.0.0.0 thebaypirate.org
+0.0.0.0 thepitarebay.com
+0.0.0.0 thepitarebay.se
+0.0.0.0 thepiratebya.se
+0.0.0.0 thepiratebya.org
+0.0.0.0 thepirateaby.org
+0.0.0.0 thepriatebay.org
+0.0.0.0 tehpiratebay.org
+0.0.0.0 thepiraetbay.org
+
+# Tor onion domains (based on research)
+0.0.0.0 uj3wazyk5u4hnvtk.onion
+0.0.0.0 piratebayztemzmv.onion
+
+# Hash Hackers proxies (based on research)
+0.0.0.0 hashhackers.com
+0.0.0.0 www.hashhackers.com
+
+# Common subdomain variations
+0.0.0.0 www.thepiratebay.ac
+0.0.0.0 www.thepiratebay.am
+0.0.0.0 www.thepiratebay.asia
+0.0.0.0 www.thepiratebay.blog
+0.0.0.0 www.thepiratebay.by
+0.0.0.0 www.thepiratebay.ca
+0.0.0.0 www.thepiratebay.casa
+0.0.0.0 www.thepiratebay.cc
+0.0.0.0 www.thepiratebay.cd
+0.0.0.0 www.thepiratebay.cl
+0.0.0.0 www.thepiratebay.co.uk
+0.0.0.0 www.thepiratebay.co.za
+0.0.0.0 www.thepiratebay.com
+0.0.0.0 www.thepiratebay.com.br
+0.0.0.0 www.thepiratebay.com.ua
+0.0.0.0 www.thepiratebay.cr
+0.0.0.0 www.thepiratebay.cx
+0.0.0.0 www.thepiratebay.de
+0.0.0.0 www.thepiratebay.dk
+0.0.0.0 www.thepiratebay.ee
+0.0.0.0 www.thepiratebay.es
+0.0.0.0 www.thepiratebay.eu
+0.0.0.0 www.thepiratebay.fun
+0.0.0.0 www.thepiratebay.gd
+0.0.0.0 www.thepiratebay.gl
+0.0.0.0 www.thepiratebay.gs
+0.0.0.0 www.thepiratebay.gy
+0.0.0.0 www.thepiratebay.host
+0.0.0.0 www.thepiratebay.hu
+0.0.0.0 www.thepiratebay.in
+0.0.0.0 www.thepiratebay.info
+0.0.0.0 www.thepiratebay.io
+0.0.0.0 www.thepiratebay.is
+0.0.0.0 www.thepiratebay.it
+0.0.0.0 www.thepiratebay.la
+0.0.0.0 www.thepiratebay.love
+0.0.0.0 www.thepiratebay.me
+0.0.0.0 www.thepiratebay.mn
+0.0.0.0 www.thepiratebay.mobi
+0.0.0.0 www.thepiratebay.monster
+0.0.0.0 www.thepiratebay.ms
+0.0.0.0 www.thepiratebay.net
+0.0.0.0 www.thepiratebay.network
+0.0.0.0 www.thepiratebay.no
+0.0.0.0 www.thepiratebay.org.uk
+0.0.0.0 www.thepiratebay.party
+0.0.0.0 www.thepiratebay.pe
+0.0.0.0 www.thepiratebay.pl
+0.0.0.0 www.thepiratebay.plus
+0.0.0.0 www.thepiratebay.pro
+0.0.0.0 www.thepiratebay.red
+0.0.0.0 www.thepiratebay.rip
+0.0.0.0 www.thepiratebay.ro
+0.0.0.0 www.thepiratebay.rocks
+0.0.0.0 www.thepiratebay.ru
+0.0.0.0 www.thepiratebay.store
+0.0.0.0 www.thepiratebay.sx
+0.0.0.0 www.thepiratebay.tips
+0.0.0.0 www.thepiratebay.to
+0.0.0.0 www.thepiratebay.tokyo
+0.0.0.0 www.thepiratebay.tv
+0.0.0.0 www.thepiratebay.uk.net
+0.0.0.0 www.thepiratebay.us.org
+0.0.0.0 www.thepiratebay.vc
+0.0.0.0 www.thepiratebay.vet
+0.0.0.0 www.thepiratebay.vg
+0.0.0.0 www.thepiratebay.vin
+0.0.0.0 www.thepiratebay.vip
+0.0.0.0 www.thepiratebay.website
+0.0.0.0 www.thepiratebay.wiki
+0.0.0.0 www.thepiratebay.ws
+0.0.0.0 www.thepiratebay.xyz
+0.0.0.0 www.thepiratebay.zone
+
+# API and backend subdomains
+0.0.0.0 api.thepiratebay.org
+0.0.0.0 tracker.thepiratebay.org
+0.0.0.0 search.thepiratebay.org
+0.0.0.0 torrent.thepiratebay.org
+0.0.0.0 download.thepiratebay.org
+0.0.0.0 upload.thepiratebay.org
+0.0.0.0 rss.thepiratebay.org
+0.0.0.0 feed.thepiratebay.org
+0.0.0.0 browse.thepiratebay.org
+0.0.0.0 recent.thepiratebay.org
+0.0.0.0 top.thepiratebay.org
+0.0.0.0 popular.thepiratebay.org
+0.0.0.0 trending.thepiratebay.org
+
+# Forum and community
+0.0.0.0 forum.thepiratebay.org
+0.0.0.0 suprbay.org
+0.0.0.0 www.suprbay.org
+
+# Static content and CDN
+0.0.0.0 static.thepiratebay.org
+0.0.0.0 cdn.thepiratebay.org
+0.0.0.0 assets.thepiratebay.org
+0.0.0.0 images.thepiratebay.org
+0.0.0.0 img.thepiratebay.org
+0.0.0.0 thumbs.thepiratebay.org
+0.0.0.0 covers.thepiratebay.org
+
+# User and account management
+0.0.0.0 user.thepiratebay.org
+0.0.0.0 account.thepiratebay.org
+0.0.0.0 login.thepiratebay.org
+0.0.0.0 register.thepiratebay.org
+0.0.0.0 profile.thepiratebay.org
+
+# Categories and sections
+0.0.0.0 movies.thepiratebay.org
+0.0.0.0 tv.thepiratebay.org
+0.0.0.0 music.thepiratebay.org
+0.0.0.0 games.thepiratebay.org
+0.0.0.0 software.thepiratebay.org
+0.0.0.0 apps.thepiratebay.org
+0.0.0.0 books.thepiratebay.org
+0.0.0.0 porn.thepiratebay.org
+0.0.0.0 xxx.thepiratebay.org
+
+# Statistics and analytics
+0.0.0.0 stats.thepiratebay.org
+0.0.0.0 analytics.thepiratebay.org
+0.0.0.0 tracking.thepiratebay.org
+0.0.0.0 metrics.thepiratebay.org
+
+# Administrative and backend
+0.0.0.0 admin.thepiratebay.org
+0.0.0.0 beta.thepiratebay.org
+0.0.0.0 test.thepiratebay.org
+0.0.0.0 dev.thepiratebay.org
+0.0.0.0 staging.thepiratebay.org
+
+# Help and support
+0.0.0.0 help.thepiratebay.org
+0.0.0.0 support.thepiratebay.org
+0.0.0.0 faq.thepiratebay.org
+0.0.0.0 about.thepiratebay.org
+
+# News and blog
+0.0.0.0 news.thepiratebay.org
+0.0.0.0 blog.thepiratebay.org
+
+# Legal and policy
+0.0.0.0 legal.thepiratebay.org
+0.0.0.0 dmca.thepiratebay.org
+0.0.0.0 policy.thepiratebay.org
+0.0.0.0 tos.thepiratebay.org
+0.0.0.0 privacy.thepiratebay.org
+
+# Alternative spellings and typos
+0.0.0.0 piratebay.org
+0.0.0.0 www.piratebay.org
+0.0.0.0 thepirateby.org
+0.0.0.0 thepiratebaay.org
+0.0.0.0 thepiratebayy.org
+0.0.0.0 thepiratebai.org
+0.0.0.0 thepiratbaay.org
+0.0.0.0 thepiratbay.org
+
+# Backup and mirror domains
+0.0.0.0 backup.thepiratebay.org
+0.0.0.0 mirror.thepiratebay.org
+0.0.0.0 clone.thepiratebay.org
+0.0.0.0 copy.thepiratebay.org
+
+# Historical domains for old proxy sites
+0.0.0.0 oldpiratebay.org
+0.0.0.0 www.oldpiratebay.org
+
+# Known proxy list sites
+0.0.0.0 piratebay-proxylist.com
+0.0.0.0 www.piratebay-proxylist.com
+0.0.0.0 piratebayproxy.info
+0.0.0.0 www.piratebayproxy.info
+
+# Beijing Bay (Olympic period rename)
+0.0.0.0 thebeijingbay.org
+0.0.0.0 beijingbay.org
+
+# Mobile Bay variants
+0.0.0.0 themobilebay.org
+0.0.0.0 mobilebay.org
+
+# Regional proxy variations
+0.0.0.0 piratebay.uk
+0.0.0.0 piratebay.eu
+0.0.0.0 piratebay.us
+0.0.0.0 piratebay.ca
+0.0.0.0 piratebay.au
+0.0.0.0 piratebay.de
+0.0.0.0 piratebay.fr
+0.0.0.0 piratebay.nl
+0.0.0.0 piratebay.se
+0.0.0.0 piratebay.no
+0.0.0.0 piratebay.dk
+0.0.0.0 piratebay.fi
+0.0.0.0 piratebay.ru
+0.0.0.0 piratebay.pl
+0.0.0.0 piratebay.cz
+0.0.0.0 piratebay.hu
+0.0.0.0 piratebay.ro
+0.0.0.0 piratebay.bg
+0.0.0.0 piratebay.hr
+0.0.0.0 piratebay.si
+0.0.0.0 piratebay.sk
+0.0.0.0 piratebay.es
+0.0.0.0 piratebay.pt
+0.0.0.0 piratebay.it
+0.0.0.0 piratebay.gr
+0.0.0.0 piratebay.tr
+0.0.0.0 piratebay.br
+0.0.0.0 piratebay.mx
+0.0.0.0 piratebay.ar
+0.0.0.0 piratebay.cl
+0.0.0.0 piratebay.co
+0.0.0.0 piratebay.pe
+0.0.0.0 piratebay.ve
+0.0.0.0 piratebay.uy
+0.0.0.0 piratebay.py
+0.0.0.0 piratebay.bo
+0.0.0.0 piratebay.ec
+0.0.0.0 piratebay.jp
+0.0.0.0 piratebay.kr
+0.0.0.0 piratebay.cn
+0.0.0.0 piratebay.tw
+0.0.0.0 piratebay.hk
+0.0.0.0 piratebay.sg
+0.0.0.0 piratebay.my
+0.0.0.0 piratebay.th
+0.0.0.0 piratebay.ph
+0.0.0.0 piratebay.id
+0.0.0.0 piratebay.vn
+0.0.0.0 piratebay.in
+0.0.0.0 piratebay.pk
+0.0.0.0 piratebay.bd
+0.0.0.0 piratebay.lk
+0.0.0.0 piratebay.np
+0.0.0.0 piratebay.af
+0.0.0.0 piratebay.ir
+0.0.0.0 piratebay.iq
+0.0.0.0 piratebay.sa
+0.0.0.0 piratebay.ae
+0.0.0.0 piratebay.kw
+0.0.0.0 piratebay.qa
+0.0.0.0 piratebay.bh
+0.0.0.0 piratebay.om
+0.0.0.0 piratebay.jo
+0.0.0.0 piratebay.lb
+0.0.0.0 piratebay.sy
+0.0.0.0 piratebay.il
+0.0.0.0 piratebay.ps
+0.0.0.0 piratebay.eg
+0.0.0.0 piratebay.ly
+0.0.0.0 piratebay.tn
+0.0.0.0 piratebay.dz
+0.0.0.0 piratebay.ma
+0.0.0.0 piratebay.za
+0.0.0.0 piratebay.ng
+0.0.0.0 piratebay.ke
+0.0.0.0 piratebay.et
+0.0.0.0 piratebay.tz
+0.0.0.0 piratebay.ug
+0.0.0.0 piratebay.rw
+0.0.0.0 piratebay.bi
+0.0.0.0 piratebay.dj
+0.0.0.0 piratebay.so
+0.0.0.0 piratebay.er
+0.0.0.0 piratebay.sd
+0.0.0.0 piratebay.ss
+0.0.0.0 piratebay.td
+0.0.0.0 piratebay.cf
+0.0.0.0 piratebay.cm
+0.0.0.0 piratebay.gq
+0.0.0.0 piratebay.ga
+0.0.0.0 piratebay.cg
+0.0.0.0 piratebay.cd
+0.0.0.0 piratebay.ao
+0.0.0.0 piratebay.zm
+0.0.0.0 piratebay.zw
+0.0.0.0 piratebay.na
+0.0.0.0 piratebay.bw
+0.0.0.0 piratebay.sz
+0.0.0.0 piratebay.ls
+0.0.0.0 piratebay.mw
+0.0.0.0 piratebay.mz
+0.0.0.0 piratebay.mg
+0.0.0.0 piratebay.mu
+0.0.0.0 piratebay.sc
+0.0.0.0 piratebay.km
+0.0.0.0 piratebay.mv
+0.0.0.0 piratebay.lk
+
+# New generic TLD variations
+0.0.0.0 piratebay.download
+0.0.0.0 piratebay.torrent
+0.0.0.0 piratebay.file
+0.0.0.0 piratebay.media
+0.0.0.0 piratebay.movie
+0.0.0.0 piratebay.music
+0.0.0.0 piratebay.video
+0.0.0.0 piratebay.game
+0.0.0.0 piratebay.app
+0.0.0.0 piratebay.software
+0.0.0.0 piratebay.tech
+0.0.0.0 piratebay.digital
+0.0.0.0 piratebay.online
+0.0.0.0 piratebay.site
+0.0.0.0 piratebay.web
+0.0.0.0 piratebay.click
+0.0.0.0 piratebay.link
+0.0.0.0 piratebay.stream
+0.0.0.0 piratebay.live
+0.0.0.0 piratebay.today
+0.0.0.0 piratebay.now
+0.0.0.0 piratebay.here
+0.0.0.0 piratebay.free
+0.0.0.0 piratebay.top
+0.0.0.0 piratebay.best
+0.0.0.0 piratebay.new
+0.0.0.0 piratebay.one
+0.0.0.0 piratebay.pro
+0.0.0.0 piratebay.plus
+0.0.0.0 piratebay.premium
+0.0.0.0 piratebay.vip
+0.0.0.0 piratebay.gold
+0.0.0.0 piratebay.super
+0.0.0.0 piratebay.ultra
+0.0.0.0 piratebay.max
+0.0.0.0 piratebay.mega
+0.0.0.0 piratebay.fast
+0.0.0.0 piratebay.quick
+0.0.0.0 piratebay.instant
+0.0.0.0 piratebay.direct
+0.0.0.0 piratebay.easy
+0.0.0.0 piratebay.simple
+0.0.0.0 piratebay.smart
+0.0.0.0 piratebay.cool
+0.0.0.0 piratebay.fun
+0.0.0.0 piratebay.hot
+0.0.0.0 piratebay.fire
+0.0.0.0 piratebay.ice
+0.0.0.0 piratebay.win
+0.0.0.0 piratebay.star
+0.0.0.0 piratebay.sky
+0.0.0.0 piratebay.sun
+0.0.0.0 piratebay.moon
+0.0.0.0 piratebay.earth
+0.0.0.0 piratebay.world
+0.0.0.0 piratebay.global
+0.0.0.0 piratebay.international
+0.0.0.0 piratebay.universal
+0.0.0.0 piratebay.unlimited
+0.0.0.0 piratebay.network
+0.0.0.0 piratebay.systems
+0.0.0.0 piratebay.solutions
+0.0.0.0 piratebay.services
+0.0.0.0 piratebay.cloud
+0.0.0.0 piratebay.host
+0.0.0.0 piratebay.server
+0.0.0.0 piratebay.space
+0.0.0.0 piratebay.zone 

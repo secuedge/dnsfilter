@@ -1,0 +1,261 @@
+# Amazon - E-commerce and cloud services platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 amazon.com
+0.0.0.0 www.amazon.com
+
+# Regional Amazon domains
+0.0.0.0 amazon.co.uk
+0.0.0.0 amazon.de
+0.0.0.0 amazon.fr
+0.0.0.0 amazon.it
+0.0.0.0 amazon.es
+0.0.0.0 amazon.ca
+0.0.0.0 amazon.com.au
+0.0.0.0 amazon.in
+0.0.0.0 amazon.co.jp
+0.0.0.0 amazon.com.br
+0.0.0.0 amazon.com.mx
+0.0.0.0 amazon.cn
+0.0.0.0 amazon.ae
+0.0.0.0 amazon.sa
+0.0.0.0 amazon.sg
+0.0.0.0 amazon.nl
+0.0.0.0 amazon.se
+0.0.0.0 amazon.pl
+0.0.0.0 amazon.com.tr
+
+# Mobile and app related
+0.0.0.0 m.amazon.com
+0.0.0.0 mobile.amazon.com
+0.0.0.0 app.amazon.com
+0.0.0.0 apps.amazon.com
+0.0.0.0 mobile-api.amazon.com
+
+# AWS Services (Amazon Web Services)
+0.0.0.0 aws.amazon.com
+0.0.0.0 console.aws.amazon.com
+0.0.0.0 signin.aws.amazon.com
+0.0.0.0 dashboard.aws.amazon.com
+
+# AWS Regional domains
+0.0.0.0 amazonaws.com
+0.0.0.0 us-east-1.amazonaws.com
+0.0.0.0 us-west-1.amazonaws.com
+0.0.0.0 us-west-2.amazonaws.com
+0.0.0.0 eu-west-1.amazonaws.com
+0.0.0.0 eu-central-1.amazonaws.com
+0.0.0.0 ap-southeast-1.amazonaws.com
+0.0.0.0 ap-northeast-1.amazonaws.com
+0.0.0.0 s3.amazonaws.com
+0.0.0.0 ec2.amazonaws.com
+
+# CloudFront CDN (based on research)
+0.0.0.0 cloudfront.net
+0.0.0.0 d111111abcdef8.cloudfront.net
+0.0.0.0 d3ag4hukkh62yn.cloudfront.net
+0.0.0.0 d7uri8nf7uskq.cloudfront.net
+
+# API endpoints
+0.0.0.0 api.amazon.com
+0.0.0.0 api1.amazon.com
+0.0.0.0 api2.amazon.com
+0.0.0.0 apis.amazon.com
+0.0.0.0 mapi.amazon.com
+0.0.0.0 gateway.amazon.com
+0.0.0.0 developer-docs.amazon.com
+
+# Content delivery networks (CDN)
+0.0.0.0 cdn.amazon.com
+0.0.0.0 cdn1.amazon.com
+0.0.0.0 cdn2.amazon.com
+0.0.0.0 cdn3.amazon.com
+0.0.0.0 static.amazon.com
+0.0.0.0 static1.amazon.com
+0.0.0.0 static2.amazon.com
+0.0.0.0 assets.amazon.com
+0.0.0.0 media.amazon.com
+0.0.0.0 content.amazon.com
+
+# Image and media servers
+0.0.0.0 images-amazon.com
+0.0.0.0 images-na.ssl-images-amazon.com
+0.0.0.0 m.media-amazon.com
+0.0.0.0 ecx.images-amazon.com
+0.0.0.0 z-ecx.images-amazon.com
+0.0.0.0 g-ecx.images-amazon.com
+0.0.0.0 ssl-images-amazon.com
+0.0.0.0 pics.amazon.com
+0.0.0.0 photos.amazon.com
+0.0.0.0 video.amazon.com
+0.0.0.0 videos.amazon.com
+
+# Analytics and tracking (based on Amazon Analytics research)
+0.0.0.0 analytics.amazon.com
+0.0.0.0 tracking.amazon.com
+0.0.0.0 track.amazon.com
+0.0.0.0 tracker.amazon.com
+0.0.0.0 metrics.amazon.com
+0.0.0.0 stats.amazon.com
+0.0.0.0 pixel.amazon.com
+0.0.0.0 beacon.amazon.com
+0.0.0.0 data.amazon.com
+0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
+
+# Shopping and commerce
+0.0.0.0 shop.amazon.com
+0.0.0.0 store.amazon.com
+0.0.0.0 cart.amazon.com
+0.0.0.0 checkout.amazon.com
+0.0.0.0 payment.amazon.com
+0.0.0.0 payments.amazon.com
+0.0.0.0 pay.amazon.com
+0.0.0.0 wallet.amazon.com
+0.0.0.0 one-click.amazon.com
+
+# User authentication and security
+0.0.0.0 login.amazon.com
+0.0.0.0 auth.amazon.com
+0.0.0.0 secure.amazon.com
+0.0.0.0 ssl.amazon.com
+0.0.0.0 accounts.amazon.com
+0.0.0.0 account.amazon.com
+0.0.0.0 profile.amazon.com
+0.0.0.0 user.amazon.com
+0.0.0.0 users.amazon.com
+0.0.0.0 your-account.amazon.com
+
+# Support and help
+0.0.0.0 support.amazon.com
+0.0.0.0 help.amazon.com
+0.0.0.0 customer.amazon.com
+0.0.0.0 service.amazon.com
+0.0.0.0 care.amazon.com
+0.0.0.0 faq.amazon.com
+0.0.0.0 feedback.amazon.com
+0.0.0.0 customerservice.amazon.com
+
+# Search and recommendation
+0.0.0.0 search.amazon.com
+0.0.0.0 suggest.amazon.com
+0.0.0.0 recommendation.amazon.com
+0.0.0.0 reco.amazon.com
+0.0.0.0 personalization.amazon.com
+0.0.0.0 completion.amazon.com
+
+# Email and notifications
+0.0.0.0 mail.amazon.com
+0.0.0.0 email.amazon.com
+0.0.0.0 newsletter.amazon.com
+0.0.0.0 notifications.amazon.com
+0.0.0.0 push.amazon.com
+0.0.0.0 ses.amazonaws.com
+
+# Social and community
+0.0.0.0 social.amazon.com
+0.0.0.0 community.amazon.com
+0.0.0.0 blog.amazon.com
+0.0.0.0 stories.amazon.com
+0.0.0.0 reviews.amazon.com
+0.0.0.0 share.amazon.com
+
+# Admin and backend
+0.0.0.0 admin.amazon.com
+0.0.0.0 manage.amazon.com
+0.0.0.0 dashboard.amazon.com
+0.0.0.0 console.amazon.com
+0.0.0.0 backend.amazon.com
+
+# Geographic and regional
+0.0.0.0 us.amazon.com
+0.0.0.0 uk.amazon.com
+0.0.0.0 eu.amazon.com
+0.0.0.0 asia.amazon.com
+0.0.0.0 global.amazon.com
+
+# Development and staging
+0.0.0.0 dev.amazon.com
+0.0.0.0 test.amazon.com
+0.0.0.0 staging.amazon.com
+0.0.0.0 qa.amazon.com
+0.0.0.0 beta.amazon.com
+0.0.0.0 demo.amazon.com
+
+# Seller and business services
+0.0.0.0 seller.amazon.com
+0.0.0.0 sellers.amazon.com
+0.0.0.0 vendor.amazon.com
+0.0.0.0 vendors.amazon.com
+0.0.0.0 partner.amazon.com
+0.0.0.0 partners.amazon.com
+0.0.0.0 business.amazon.com
+0.0.0.0 marketplace.amazon.com
+0.0.0.0 sellercentral.amazon.com
+0.0.0.0 vendorcentral.amazon.com
+
+# Corporate and informational
+0.0.0.0 careers.amazon.com
+0.0.0.0 jobs.amazon.com
+0.0.0.0 press.amazon.com
+0.0.0.0 news.amazon.com
+0.0.0.0 about.amazon.com
+0.0.0.0 contact.amazon.com
+0.0.0.0 legal.amazon.com
+0.0.0.0 privacy.amazon.com
+0.0.0.0 terms.amazon.com
+0.0.0.0 aboutamazon.com
+
+# Load balancers and infrastructure
+0.0.0.0 lb.amazon.com
+0.0.0.0 lb1.amazon.com
+0.0.0.0 lb2.amazon.com
+0.0.0.0 proxy.amazon.com
+0.0.0.0 cache.amazon.com
+0.0.0.0 elb.amazonaws.com
+
+# Third-party integrations
+0.0.0.0 facebook.amazon.com
+0.0.0.0 google.amazon.com
+0.0.0.0 twitter.amazon.com
+0.0.0.0 instagram.amazon.com
+
+# Amazon Advertising services
+0.0.0.0 advertising.amazon.com
+0.0.0.0 dsp.amazon.com
+
+# Amazon Web Services specific
+0.0.0.0 lambda.amazonaws.com
+0.0.0.0 apigateway.amazonaws.com
+0.0.0.0 dynamodb.amazonaws.com
+0.0.0.0 rds.amazonaws.com
+0.0.0.0 sns.amazonaws.com
+0.0.0.0 sqs.amazonaws.com
+0.0.0.0 cloudformation.amazonaws.com
+0.0.0.0 cloudwatch.amazonaws.com
+0.0.0.0 iam.amazonaws.com
+0.0.0.0 sts.amazonaws.com
+0.0.0.0 route53.amazonaws.com
+
+# Special campaigns and events
+0.0.0.0 primeday.amazon.com
+0.0.0.0 blackfriday.amazon.com
+0.0.0.0 cybermonday.amazon.com
+0.0.0.0 sale.amazon.com
+0.0.0.0 offers.amazon.com
+0.0.0.0 deals.amazon.com
+0.0.0.0 lightning.amazon.com
+
+# Logistics and fulfillment
+0.0.0.0 logistics.amazon.com
+0.0.0.0 fulfillment.amazon.com
+0.0.0.0 warehouse.amazon.com
+0.0.0.0 delivery.amazon.com
+0.0.0.0 shipping.amazon.com
+0.0.0.0 tracking.amazon.com
+
+# Additional Amazon domains
+0.0.0.0 amazon-adsystem.com
+0.0.0.0 amazontrust.com
+0.0.0.0 media-amazon.com
+0.0.0.0 ssl-images-amazon.com
+0.0.0.0 amazonworkspaces.com
+0.0.0.0 amazon-insights.com 

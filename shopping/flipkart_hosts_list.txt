@@ -1,0 +1,194 @@
+# Flipkart - E-commerce platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 flipkart.com
+0.0.0.0 www.flipkart.com
+
+# Mobile and app related
+0.0.0.0 m.flipkart.com
+0.0.0.0 mobile.flipkart.com
+0.0.0.0 app.flipkart.com
+0.0.0.0 apps.flipkart.com
+0.0.0.0 lite.flipkart.com
+
+# API endpoints (based on affiliate API documentation)
+0.0.0.0 api.flipkart.com
+0.0.0.0 api1.flipkart.com
+0.0.0.0 api2.flipkart.com
+0.0.0.0 apis.flipkart.com
+0.0.0.0 affiliate-api.flipkart.com
+0.0.0.0 affiliate.flipkart.com
+0.0.0.0 gateway.flipkart.com
+0.0.0.0 mapi.flipkart.com
+
+# Content delivery networks (CDN)
+0.0.0.0 cdn.flipkart.com
+0.0.0.0 cdn1.flipkart.com
+0.0.0.0 cdn2.flipkart.com
+0.0.0.0 cdn3.flipkart.com
+0.0.0.0 static.flipkart.com
+0.0.0.0 static1.flipkart.com
+0.0.0.0 static2.flipkart.com
+0.0.0.0 assets.flipkart.com
+0.0.0.0 media.flipkart.com
+0.0.0.0 content.flipkart.com
+
+# Image and media servers (based on API documentation showing img.fkcdn.com patterns)
+0.0.0.0 img.flipkart.com
+0.0.0.0 img1.flipkart.com
+0.0.0.0 img2.flipkart.com
+0.0.0.0 img3.flipkart.com
+0.0.0.0 img4.flipkart.com
+0.0.0.0 img5.flipkart.com
+0.0.0.0 img6.flipkart.com
+0.0.0.0 images.flipkart.com
+0.0.0.0 pics.flipkart.com
+0.0.0.0 photos.flipkart.com
+0.0.0.0 video.flipkart.com
+0.0.0.0 videos.flipkart.com
+
+# Flipkart CDN domains (fkcdn.com pattern)
+0.0.0.0 fkcdn.com
+0.0.0.0 www.fkcdn.com
+0.0.0.0 img.fkcdn.com
+0.0.0.0 img1.fkcdn.com
+0.0.0.0 img2.fkcdn.com
+0.0.0.0 img3.fkcdn.com
+0.0.0.0 img4.fkcdn.com
+0.0.0.0 img5.fkcdn.com
+0.0.0.0 img6.fkcdn.com
+0.0.0.0 static.fkcdn.com
+0.0.0.0 assets.fkcdn.com
+
+# Analytics and tracking
+0.0.0.0 analytics.flipkart.com
+0.0.0.0 tracking.flipkart.com
+0.0.0.0 track.flipkart.com
+0.0.0.0 tracker.flipkart.com
+0.0.0.0 metrics.flipkart.com
+0.0.0.0 stats.flipkart.com
+0.0.0.0 pixel.flipkart.com
+0.0.0.0 beacon.flipkart.com
+0.0.0.0 data.flipkart.com
+
+# Shopping and commerce
+0.0.0.0 shop.flipkart.com
+0.0.0.0 store.flipkart.com
+0.0.0.0 cart.flipkart.com
+0.0.0.0 checkout.flipkart.com
+0.0.0.0 payment.flipkart.com
+0.0.0.0 payments.flipkart.com
+0.0.0.0 pay.flipkart.com
+0.0.0.0 wallet.flipkart.com
+
+# Deep linking service (dl.flipkart.com from API docs)
+0.0.0.0 dl.flipkart.com
+
+# User authentication and security
+0.0.0.0 login.flipkart.com
+0.0.0.0 auth.flipkart.com
+0.0.0.0 secure.flipkart.com
+0.0.0.0 ssl.flipkart.com
+0.0.0.0 accounts.flipkart.com
+0.0.0.0 account.flipkart.com
+0.0.0.0 profile.flipkart.com
+0.0.0.0 user.flipkart.com
+0.0.0.0 users.flipkart.com
+
+# Support and help
+0.0.0.0 support.flipkart.com
+0.0.0.0 help.flipkart.com
+0.0.0.0 customer.flipkart.com
+0.0.0.0 service.flipkart.com
+0.0.0.0 care.flipkart.com
+0.0.0.0 faq.flipkart.com
+0.0.0.0 feedback.flipkart.com
+
+# Search and recommendation
+0.0.0.0 search.flipkart.com
+0.0.0.0 suggest.flipkart.com
+0.0.0.0 recommendation.flipkart.com
+0.0.0.0 reco.flipkart.com
+0.0.0.0 personalization.flipkart.com
+
+# Email and notifications
+0.0.0.0 mail.flipkart.com
+0.0.0.0 email.flipkart.com
+0.0.0.0 newsletter.flipkart.com
+0.0.0.0 notifications.flipkart.com
+0.0.0.0 push.flipkart.com
+
+# Social and community
+0.0.0.0 social.flipkart.com
+0.0.0.0 community.flipkart.com
+0.0.0.0 blog.flipkart.com
+0.0.0.0 stories.flipkart.com
+0.0.0.0 reviews.flipkart.com
+0.0.0.0 share.flipkart.com
+
+# Admin and backend
+0.0.0.0 admin.flipkart.com
+0.0.0.0 manage.flipkart.com
+0.0.0.0 dashboard.flipkart.com
+0.0.0.0 console.flipkart.com
+0.0.0.0 backend.flipkart.com
+
+# Geographic and regional
+0.0.0.0 in.flipkart.com
+0.0.0.0 india.flipkart.com
+0.0.0.0 us.flipkart.com
+0.0.0.0 uk.flipkart.com
+0.0.0.0 global.flipkart.com
+
+# Development and staging
+0.0.0.0 dev.flipkart.com
+0.0.0.0 test.flipkart.com
+0.0.0.0 staging.flipkart.com
+0.0.0.0 qa.flipkart.com
+0.0.0.0 beta.flipkart.com
+0.0.0.0 demo.flipkart.com
+
+# Seller and business services
+0.0.0.0 seller.flipkart.com
+0.0.0.0 sellers.flipkart.com
+0.0.0.0 vendor.flipkart.com
+0.0.0.0 vendors.flipkart.com
+0.0.0.0 partner.flipkart.com
+0.0.0.0 partners.flipkart.com
+0.0.0.0 business.flipkart.com
+0.0.0.0 wholesale.flipkart.com
+
+# Corporate and informational
+0.0.0.0 careers.flipkart.com
+0.0.0.0 jobs.flipkart.com
+0.0.0.0 press.flipkart.com
+0.0.0.0 news.flipkart.com
+0.0.0.0 about.flipkart.com
+0.0.0.0 contact.flipkart.com
+0.0.0.0 legal.flipkart.com
+0.0.0.0 privacy.flipkart.com
+0.0.0.0 terms.flipkart.com
+
+# Load balancers and infrastructure
+0.0.0.0 lb.flipkart.com
+0.0.0.0 lb1.flipkart.com
+0.0.0.0 lb2.flipkart.com
+0.0.0.0 proxy.flipkart.com
+0.0.0.0 cache.flipkart.com
+
+# Third-party integrations
+0.0.0.0 facebook.flipkart.com
+0.0.0.0 google.flipkart.com
+0.0.0.0 twitter.flipkart.com
+0.0.0.0 instagram.flipkart.com
+
+# Sub-brands and services
+0.0.0.0 myntra.flipkart.com
+0.0.0.0 phonepe.flipkart.com
+0.0.0.0 cleartrip.flipkart.com
+0.0.0.0 ekart.flipkart.com
+
+# Special campaigns and events
+0.0.0.0 bigbilliondays.flipkart.com
+0.0.0.0 sale.flipkart.com
+0.0.0.0 offers.flipkart.com
+0.0.0.0 deals.flipkart.com 

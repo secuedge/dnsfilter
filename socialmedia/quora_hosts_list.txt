@@ -1,0 +1,384 @@
+# Quora - Q&A social platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 quora.com
+0.0.0.0 www.quora.com
+
+# URL shortener (based on research)
+0.0.0.0 qr.ae
+0.0.0.0 www.qr.ae
+
+# Quora CDN domains (based on research)
+0.0.0.0 quoracdn.net
+0.0.0.0 www.quoracdn.net
+0.0.0.0 qsbr.cf2.quoracdn.net
+0.0.0.0 fs.quoracdn.net
+
+# Mobile and app related
+0.0.0.0 m.quora.com
+0.0.0.0 mobile.quora.com
+0.0.0.0 app.quora.com
+0.0.0.0 apps.quora.com
+0.0.0.0 android.quora.com
+0.0.0.0 ios.quora.com
+
+# API and technical endpoints (based on research showing various subdomains)
+0.0.0.0 api.quora.com
+0.0.0.0 a.quora.com
+0.0.0.0 q.quora.com
+0.0.0.0 id.quora.com
+0.0.0.0 log.quora.com
+0.0.0.0 edge.quora.com
+0.0.0.0 www-direct.edge.quora.com
+0.0.0.0 log-direct.edge.quora.com
+0.0.0.0 pigeon.quora.com
+
+# Technical infrastructure (based on research)
+0.0.0.0 tch.quora.com
+0.0.0.0 tch.www.quora.com
+0.0.0.0 confluence.quora.com
+0.0.0.0 wiki.quora.com
+0.0.0.0 jira.quora.com
+
+# Language-specific versions (based on research)
+0.0.0.0 bn.quora.com
+0.0.0.0 de.quora.com
+0.0.0.0 hi.quora.com
+0.0.0.0 fr.quora.com
+0.0.0.0 jp.quora.com
+0.0.0.0 es.quora.com
+0.0.0.0 sv.quora.com
+0.0.0.0 kn.quora.com
+0.0.0.0 ta.quora.com
+0.0.0.0 te.quora.com
+0.0.0.0 gu.quora.com
+0.0.0.0 pt.quora.com
+0.0.0.0 he.quora.com
+0.0.0.0 ja.quora.com
+0.0.0.0 fi.quora.com
+0.0.0.0 mr.quora.com
+0.0.0.0 ar.quora.com
+0.0.0.0 da.quora.com
+0.0.0.0 it.quora.com
+0.0.0.0 ml.quora.com
+0.0.0.0 pl.quora.com
+0.0.0.0 nl.quora.com
+0.0.0.0 no.quora.com
+
+# CDN and static content
+0.0.0.0 cdn.quora.com
+0.0.0.0 static.quora.com
+0.0.0.0 assets.quora.com
+0.0.0.0 media.quora.com
+0.0.0.0 content.quora.com
+0.0.0.0 images.quora.com
+0.0.0.0 img.quora.com
+0.0.0.0 pics.quora.com
+0.0.0.0 photos.quora.com
+0.0.0.0 video.quora.com
+0.0.0.0 videos.quora.com
+
+# User authentication and accounts
+0.0.0.0 auth.quora.com
+0.0.0.0 login.quora.com
+0.0.0.0 signin.quora.com
+0.0.0.0 signup.quora.com
+0.0.0.0 register.quora.com
+0.0.0.0 account.quora.com
+0.0.0.0 accounts.quora.com
+0.0.0.0 secure.quora.com
+0.0.0.0 ssl.quora.com
+
+# User profiles and content
+0.0.0.0 profile.quora.com
+0.0.0.0 profiles.quora.com
+0.0.0.0 user.quora.com
+0.0.0.0 users.quora.com
+0.0.0.0 my.quora.com
+0.0.0.0 settings.quora.com
+0.0.0.0 preferences.quora.com
+
+# Q&A specific features
+0.0.0.0 questions.quora.com
+0.0.0.0 question.quora.com
+0.0.0.0 answers.quora.com
+0.0.0.0 answer.quora.com
+0.0.0.0 ask.quora.com
+0.0.0.0 topics.quora.com
+0.0.0.0 topic.quora.com
+0.0.0.0 spaces.quora.com
+0.0.0.0 space.quora.com
+
+# Search and discovery
+0.0.0.0 search.quora.com
+0.0.0.0 find.quora.com
+0.0.0.0 discover.quora.com
+0.0.0.0 explore.quora.com
+0.0.0.0 browse.quora.com
+
+# Feed and content distribution
+0.0.0.0 feed.quora.com
+0.0.0.0 feeds.quora.com
+0.0.0.0 home.quora.com
+0.0.0.0 digest.quora.com
+0.0.0.0 notifications.quora.com
+
+# Business features (based on research showing business.quora.com)
+0.0.0.0 business.quora.com
+0.0.0.0 ads.quora.com
+0.0.0.0 advertising.quora.com
+0.0.0.0 marketing.quora.com
+0.0.0.0 analytics.quora.com
+
+# Support and help (based on research showing help.quora.com)
+0.0.0.0 help.quora.com
+0.0.0.0 support.quora.com
+0.0.0.0 customer.quora.com
+0.0.0.0 service.quora.com
+0.0.0.0 care.quora.com
+0.0.0.0 faq.quora.com
+0.0.0.0 feedback.quora.com
+0.0.0.0 contact.quora.com
+
+# Email and messaging
+0.0.0.0 email.quora.com
+0.0.0.0 mail.quora.com
+0.0.0.0 newsletter.quora.com
+0.0.0.0 messages.quora.com
+0.0.0.0 messaging.quora.com
+0.0.0.0 inbox.quora.com
+
+# Analytics and tracking (based on research showing third-party integrations)
+0.0.0.0 tracking.quora.com
+0.0.0.0 track.quora.com
+0.0.0.0 metrics.quora.com
+0.0.0.0 stats.quora.com
+0.0.0.0 data.quora.com
+0.0.0.0 events.quora.com
+0.0.0.0 pixel.quora.com
+0.0.0.0 beacon.quora.com
+
+# Admin and moderation
+0.0.0.0 admin.quora.com
+0.0.0.0 mod.quora.com
+0.0.0.0 moderation.quora.com
+0.0.0.0 manage.quora.com
+0.0.0.0 dashboard.quora.com
+0.0.0.0 console.quora.com
+0.0.0.0 backend.quora.com
+
+# Development and staging
+0.0.0.0 dev.quora.com
+0.0.0.0 test.quora.com
+0.0.0.0 staging.quora.com
+0.0.0.0 qa.quora.com
+0.0.0.0 beta.quora.com
+0.0.0.0 demo.quora.com
+
+# Corporate and informational
+0.0.0.0 about.quora.com
+0.0.0.0 legal.quora.com
+0.0.0.0 privacy.quora.com
+0.0.0.0 terms.quora.com
+0.0.0.0 press.quora.com
+0.0.0.0 blog.quora.com
+0.0.0.0 news.quora.com
+0.0.0.0 careers.quora.com
+0.0.0.0 jobs.quora.com
+
+# Developer and API
+0.0.0.0 developers.quora.com
+0.0.0.0 developer.quora.com
+0.0.0.0 docs.quora.com
+0.0.0.0 documentation.quora.com
+0.0.0.0 api-docs.quora.com
+
+# Load balancers and infrastructure (based on research showing AWS/Fastly)
+0.0.0.0 lb.quora.com
+0.0.0.0 proxy.quora.com
+0.0.0.0 cache.quora.com
+
+# Download and installation
+0.0.0.0 download.quora.com
+0.0.0.0 install.quora.com
+0.0.0.0 get.quora.com
+
+# Status and monitoring
+0.0.0.0 status.quora.com
+0.0.0.0 monitor.quora.com
+0.0.0.0 health.quora.com
+0.0.0.0 uptime.quora.com
+
+# Security and verification
+0.0.0.0 verify.quora.com
+0.0.0.0 verification.quora.com
+0.0.0.0 security.quora.com
+0.0.0.0 2fa.quora.com
+
+# File and media upload
+0.0.0.0 upload.quora.com
+0.0.0.0 files.quora.com
+0.0.0.0 storage.quora.com
+
+# Webhooks and integrations
+0.0.0.0 webhook.quora.com
+0.0.0.0 webhooks.quora.com
+0.0.0.0 integration.quora.com
+0.0.0.0 integrations.quora.com
+
+# Activity and engagement
+0.0.0.0 activity.quora.com
+0.0.0.0 engagement.quora.com
+0.0.0.0 interactions.quora.com
+
+# Geographic and regional
+0.0.0.0 us.quora.com
+0.0.0.0 eu.quora.com
+0.0.0.0 asia.quora.com
+0.0.0.0 global.quora.com
+
+# Content creation and editing
+0.0.0.0 create.quora.com
+0.0.0.0 editor.quora.com
+0.0.0.0 compose.quora.com
+0.0.0.0 edit.quora.com
+0.0.0.0 write.quora.com
+
+# Knowledge and expertise features
+0.0.0.0 knowledge.quora.com
+0.0.0.0 expertise.quora.com
+0.0.0.0 experts.quora.com
+0.0.0.0 credentials.quora.com
+
+# Reporting and safety
+0.0.0.0 report.quora.com
+0.0.0.0 reports.quora.com
+0.0.0.0 safety.quora.com
+0.0.0.0 abuse.quora.com
+
+# Third-party integrations
+0.0.0.0 external.quora.com
+0.0.0.0 embed.quora.com
+0.0.0.0 widget.quora.com
+0.0.0.0 widgets.quora.com
+
+# Premium and monetization
+0.0.0.0 premium.quora.com
+0.0.0.0 subscription.quora.com
+0.0.0.0 billing.quora.com
+0.0.0.0 payment.quora.com
+0.0.0.0 payments.quora.com
+
+# Performance and optimization
+0.0.0.0 performance.quora.com
+0.0.0.0 optimization.quora.com
+0.0.0.0 speed.quora.com
+
+# Personalization and AI
+0.0.0.0 personalize.quora.com
+0.0.0.0 ai.quora.com
+0.0.0.0 ml.quora.com
+0.0.0.0 algorithm.quora.com
+0.0.0.0 recommendations.quora.com
+
+# Accessibility features
+0.0.0.0 accessibility.quora.com
+0.0.0.0 a11y.quora.com
+
+# Internationalization
+0.0.0.0 i18n.quora.com
+0.0.0.0 localization.quora.com
+0.0.0.0 translate.quora.com
+
+# User onboarding
+0.0.0.0 onboarding.quora.com
+0.0.0.0 welcome.quora.com
+0.0.0.0 tutorial.quora.com
+
+# Partner ecosystem
+0.0.0.0 partners.quora.com
+0.0.0.0 partner.quora.com
+0.0.0.0 ecosystem.quora.com
+
+# Community features
+0.0.0.0 community.quora.com
+0.0.0.0 social.quora.com
+0.0.0.0 groups.quora.com
+0.0.0.0 forums.quora.com
+
+# Backup and redundancy
+0.0.0.0 backup.quora.com
+0.0.0.0 redundancy.quora.com
+0.0.0.0 failover.quora.com
+
+# Configuration and deployment
+0.0.0.0 config.quora.com
+0.0.0.0 deploy.quora.com
+0.0.0.0 deployment.quora.com
+
+# Logging and debugging
+0.0.0.0 logs.quora.com
+0.0.0.0 debug.quora.com
+0.0.0.0 trace.quora.com
+
+# Quality assurance
+0.0.0.0 quality.quora.com
+0.0.0.0 qc.quora.com
+0.0.0.0 reliability.quora.com
+
+# Voting and ranking
+0.0.0.0 vote.quora.com
+0.0.0.0 votes.quora.com
+0.0.0.0 voting.quora.com
+0.0.0.0 upvote.quora.com
+0.0.0.0 downvote.quora.com
+
+# Following and subscriptions
+0.0.0.0 follow.quora.com
+0.0.0.0 following.quora.com
+0.0.0.0 followers.quora.com
+0.0.0.0 subscribe.quora.com
+
+# Sharing and distribution
+0.0.0.0 share.quora.com
+0.0.0.0 sharing.quora.com
+0.0.0.0 distribution.quora.com
+
+# Events and community management
+0.0.0.0 events.quora.com
+0.0.0.0 calendar.quora.com
+0.0.0.0 meetup.quora.com
+
+# Research and insights
+0.0.0.0 research.quora.com
+0.0.0.0 insights.quora.com
+0.0.0.0 trends.quora.com
+
+# Content management
+0.0.0.0 cms.quora.com
+0.0.0.0 content-management.quora.com
+0.0.0.0 editorial.quora.com
+
+# Partnerships and collaborations
+0.0.0.0 collaborations.quora.com
+0.0.0.0 partnership.quora.com
+0.0.0.0 affiliates.quora.com
+
+# Machine learning and data science
+0.0.0.0 ml-api.quora.com
+0.0.0.0 data-science.quora.com
+0.0.0.0 models.quora.com
+
+# Live features
+0.0.0.0 live.quora.com
+0.0.0.0 streaming.quora.com
+0.0.0.0 broadcast.quora.com
+
+# Verification and credibility
+0.0.0.0 verified.quora.com
+0.0.0.0 credibility.quora.com
+0.0.0.0 trust.quora.com
+
+# Internal tools and services (based on research showing internal subdomains)
+0.0.0.0 qinternal.quora.net
+0.0.0.0 internal.quora.com
+0.0.0.0 tools.quora.com 

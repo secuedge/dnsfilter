@@ -1,0 +1,448 @@
+# JioCinema - Video streaming platform by Reliance Jio (Comprehensive Block List)
+# Main domains
+0.0.0.0 jiocinema.com
+0.0.0.0 www.jiocinema.com
+
+# Jio ecosystem domains (based on research showing ns1.media.jio.com)
+0.0.0.0 jio.com
+0.0.0.0 www.jio.com
+0.0.0.0 media.jio.com
+0.0.0.0 www.media.jio.com
+
+# DNS servers (based on whois research)
+0.0.0.0 ns1.media.jio.com
+0.0.0.0 ns2.media.jio.com
+0.0.0.0 ns3.media.jio.com
+0.0.0.0 ns1.jiocinema.com
+0.0.0.0 ns2.jiocinema.com
+0.0.0.0 ns3.jiocinema.com
+
+# JioCinema stats and analytics (based on research showing stats.jiocinema.com)
+0.0.0.0 stats.jiocinema.com
+0.0.0.0 www.stats.jiocinema.com
+
+# Mobile and app related
+0.0.0.0 m.jiocinema.com
+0.0.0.0 mobile.jiocinema.com
+0.0.0.0 app.jiocinema.com
+0.0.0.0 apps.jiocinema.com
+0.0.0.0 android.jiocinema.com
+0.0.0.0 ios.jiocinema.com
+
+# API endpoints
+0.0.0.0 api.jiocinema.com
+0.0.0.0 gateway.jiocinema.com
+0.0.0.0 data.jiocinema.com
+0.0.0.0 oauth.jiocinema.com
+0.0.0.0 auth.jiocinema.com
+
+# User authentication and accounts
+0.0.0.0 accounts.jiocinema.com
+0.0.0.0 signin.jiocinema.com
+0.0.0.0 login.jiocinema.com
+0.0.0.0 myaccount.jiocinema.com
+0.0.0.0 profile.jiocinema.com
+0.0.0.0 profiles.jiocinema.com
+
+# Video streaming and playback
+0.0.0.0 video.jiocinema.com
+0.0.0.0 videos.jiocinema.com
+0.0.0.0 streaming.jiocinema.com
+0.0.0.0 stream.jiocinema.com
+0.0.0.0 player.jiocinema.com
+0.0.0.0 playback.jiocinema.com
+
+# Content delivery and assets (based on CloudFront research)
+0.0.0.0 cdn.jiocinema.com
+0.0.0.0 assets.jiocinema.com
+0.0.0.0 images.jiocinema.com
+0.0.0.0 thumbnails.jiocinema.com
+0.0.0.0 artwork.jiocinema.com
+0.0.0.0 content.jiocinema.com
+0.0.0.0 d2r1yp2w7bby2u.cloudfront.net
+
+# Search and discovery
+0.0.0.0 search.jiocinema.com
+0.0.0.0 discover.jiocinema.com
+0.0.0.0 browse.jiocinema.com
+0.0.0.0 catalog.jiocinema.com
+0.0.0.0 titles.jiocinema.com
+
+# JioCinema Analytics and tracking
+0.0.0.0 analytics.jiocinema.com
+0.0.0.0 tracking.jiocinema.com
+0.0.0.0 metrics.jiocinema.com
+0.0.0.0 insights.jiocinema.com
+
+# DRM and licensing
+0.0.0.0 drm.jiocinema.com
+0.0.0.0 license.jiocinema.com
+0.0.0.0 widevine.jiocinema.com
+0.0.0.0 playready.jiocinema.com
+
+# Adaptive streaming
+0.0.0.0 dash.jiocinema.com
+0.0.0.0 hls.jiocinema.com
+0.0.0.0 manifest.jiocinema.com
+0.0.0.0 manifests.jiocinema.com
+
+# Downloads and offline
+0.0.0.0 download.jiocinema.com
+0.0.0.0 downloads.jiocinema.com
+0.0.0.0 offline.jiocinema.com
+
+# Live TV and sports (JioCinema specific features)
+0.0.0.0 live.jiocinema.com
+0.0.0.0 livetv.jiocinema.com
+0.0.0.0 sports.jiocinema.com
+0.0.0.0 cricket.jiocinema.com
+0.0.0.0 ipl.jiocinema.com
+
+# News content
+0.0.0.0 news.jiocinema.com
+
+# Premium and subscription services
+0.0.0.0 premium.jiocinema.com
+0.0.0.0 subscription.jiocinema.com
+0.0.0.0 subscriptions.jiocinema.com
+
+# Kids and family
+0.0.0.0 kids.jiocinema.com
+0.0.0.0 family.jiocinema.com
+0.0.0.0 junior.jiocinema.com
+
+# Smart TV and device specific
+0.0.0.0 tv.jiocinema.com
+0.0.0.0 firetv.jiocinema.com
+0.0.0.0 roku.jiocinema.com
+0.0.0.0 chromecast.jiocinema.com
+0.0.0.0 appletv.jiocinema.com
+0.0.0.0 smarttv.jiocinema.com
+
+# Gaming console integration
+0.0.0.0 xbox.jiocinema.com
+0.0.0.0 playstation.jiocinema.com
+0.0.0.0 nintendo.jiocinema.com
+
+# Support and help
+0.0.0.0 help.jiocinema.com
+0.0.0.0 support.jiocinema.com
+0.0.0.0 customer.jiocinema.com
+
+# Settings and preferences
+0.0.0.0 settings.jiocinema.com
+0.0.0.0 preferences.jiocinema.com
+0.0.0.0 config.jiocinema.com
+
+# Watch history and recommendations
+0.0.0.0 history.jiocinema.com
+0.0.0.0 watchlist.jiocinema.com
+0.0.0.0 recommendations.jiocinema.com
+0.0.0.0 suggest.jiocinema.com
+
+# Social and sharing features
+0.0.0.0 social.jiocinema.com
+0.0.0.0 share.jiocinema.com
+0.0.0.0 sharing.jiocinema.com
+
+# Notifications and alerts
+0.0.0.0 notifications.jiocinema.com
+0.0.0.0 alerts.jiocinema.com
+0.0.0.0 messages.jiocinema.com
+
+# Billing and payments
+0.0.0.0 billing.jiocinema.com
+0.0.0.0 payment.jiocinema.com
+0.0.0.0 payments.jiocinema.com
+
+# Corporate and press
+0.0.0.0 about.jiocinema.com
+0.0.0.0 press.jiocinema.com
+0.0.0.0 media.jiocinema.com
+0.0.0.0 blog.jiocinema.com
+
+# Careers and jobs
+0.0.0.0 careers.jiocinema.com
+0.0.0.0 jobs.jiocinema.com
+
+# Testing and development
+0.0.0.0 test.jiocinema.com
+0.0.0.0 testing.jiocinema.com
+0.0.0.0 dev.jiocinema.com
+0.0.0.0 staging.jiocinema.com
+0.0.0.0 beta.jiocinema.com
+
+# Internal and corporate
+0.0.0.0 internal.jiocinema.com
+0.0.0.0 corp.jiocinema.com
+
+# Load balancing and infrastructure
+0.0.0.0 lb.jiocinema.com
+0.0.0.0 proxy.jiocinema.com
+0.0.0.0 cache.jiocinema.com
+
+# Security
+0.0.0.0 security.jiocinema.com
+0.0.0.0 secure.jiocinema.com
+0.0.0.0 2fa.jiocinema.com
+
+# Performance and optimization
+0.0.0.0 performance.jiocinema.com
+0.0.0.0 optimization.jiocinema.com
+0.0.0.0 speed.jiocinema.com
+
+# AI and machine learning
+0.0.0.0 ai.jiocinema.com
+0.0.0.0 ml.jiocinema.com
+
+# Video quality and encoding
+0.0.0.0 encoding.jiocinema.com
+0.0.0.0 hd.jiocinema.com
+0.0.0.0 4k.jiocinema.com
+0.0.0.0 uhd.jiocinema.com
+0.0.0.0 hdr.jiocinema.com
+0.0.0.0 dolby.jiocinema.com
+
+# Subtitles and localization
+0.0.0.0 subtitles.jiocinema.com
+0.0.0.0 captions.jiocinema.com
+0.0.0.0 localization.jiocinema.com
+0.0.0.0 translate.jiocinema.com
+0.0.0.0 i18n.jiocinema.com
+
+# Accessibility
+0.0.0.0 accessibility.jiocinema.com
+0.0.0.0 a11y.jiocinema.com
+
+# Parental controls
+0.0.0.0 parental.jiocinema.com
+0.0.0.0 controls.jiocinema.com
+
+# Reviews and ratings
+0.0.0.0 reviews.jiocinema.com
+0.0.0.0 ratings.jiocinema.com
+0.0.0.0 feedback.jiocinema.com
+
+# Documentation and guides
+0.0.0.0 docs.jiocinema.com
+0.0.0.0 guides.jiocinema.com
+0.0.0.0 help-center.jiocinema.com
+
+# Partner integration
+0.0.0.0 partners.jiocinema.com
+0.0.0.0 partner.jiocinema.com
+0.0.0.0 integration.jiocinema.com
+
+# Email and communications
+0.0.0.0 email.jiocinema.com
+0.0.0.0 mail.jiocinema.com
+0.0.0.0 communications.jiocinema.com
+
+# Legal and compliance
+0.0.0.0 legal.jiocinema.com
+0.0.0.0 terms.jiocinema.com
+0.0.0.0 privacy.jiocinema.com
+
+# Quality assurance
+0.0.0.0 quality.jiocinema.com
+0.0.0.0 qa.jiocinema.com
+0.0.0.0 qc.jiocinema.com
+
+# Monitoring and status
+0.0.0.0 status.jiocinema.com
+0.0.0.0 health.jiocinema.com
+0.0.0.0 monitoring.jiocinema.com
+
+# Tools and utilities
+0.0.0.0 tools.jiocinema.com
+0.0.0.0 utils.jiocinema.com
+0.0.0.0 utilities.jiocinema.com
+
+# Creator tools and resources
+0.0.0.0 creators.jiocinema.com
+0.0.0.0 filmmakers.jiocinema.com
+0.0.0.0 studios.jiocinema.com
+
+# Events and premieres
+0.0.0.0 events.jiocinema.com
+0.0.0.0 premieres.jiocinema.com
+0.0.0.0 screenings.jiocinema.com
+
+# Awards and recognition
+0.0.0.0 awards.jiocinema.com
+
+# Innovation and technology
+0.0.0.0 innovation.jiocinema.com
+0.0.0.0 technology.jiocinema.com
+0.0.0.0 tech.jiocinema.com
+
+# Research and experiments
+0.0.0.0 research.jiocinema.com
+0.0.0.0 experiments.jiocinema.com
+0.0.0.0 labs.jiocinema.com
+
+# Customer service
+0.0.0.0 service.jiocinema.com
+0.0.0.0 contact.jiocinema.com
+
+# Community features
+0.0.0.0 community.jiocinema.com
+0.0.0.0 forums.jiocinema.com
+
+# Geographic and location services
+0.0.0.0 geo.jiocinema.com
+0.0.0.0 location.jiocinema.com
+
+# Backup and redundancy
+0.0.0.0 backup.jiocinema.com
+0.0.0.0 failover.jiocinema.com
+
+# Configuration management
+0.0.0.0 config.jiocinema.com
+0.0.0.0 configuration.jiocinema.com
+
+# Data science and analytics
+0.0.0.0 datascience.jiocinema.com
+0.0.0.0 bigdata.jiocinema.com
+
+# Content moderation
+0.0.0.0 moderation.jiocinema.com
+0.0.0.0 safety.jiocinema.com
+
+# User experience
+0.0.0.0 ux.jiocinema.com
+0.0.0.0 ui.jiocinema.com
+0.0.0.0 design.jiocinema.com
+
+# Platform engineering
+0.0.0.0 platform.jiocinema.com
+0.0.0.0 engineering.jiocinema.com
+
+# Network operations
+0.0.0.0 network.jiocinema.com
+0.0.0.0 operations.jiocinema.com
+0.0.0.0 ops.jiocinema.com
+
+# Database services
+0.0.0.0 database.jiocinema.com
+0.0.0.0 db.jiocinema.com
+
+# Microservices
+0.0.0.0 microservices.jiocinema.com
+0.0.0.0 services.jiocinema.com
+
+# DevOps and deployment
+0.0.0.0 devops.jiocinema.com
+0.0.0.0 deployment.jiocinema.com
+0.0.0.0 deploy.jiocinema.com
+
+# Content protection and piracy
+0.0.0.0 protection.jiocinema.com
+0.0.0.0 antipiracy.jiocinema.com
+
+# Compliance and governance
+0.0.0.0 compliance.jiocinema.com
+0.0.0.0 governance.jiocinema.com
+
+# Risk management
+0.0.0.0 risk.jiocinema.com
+0.0.0.0 riskmanagement.jiocinema.com
+
+# Content acquisition and licensing
+0.0.0.0 acquisition.jiocinema.com
+0.0.0.0 licensing.jiocinema.com
+
+# International expansion
+0.0.0.0 global.jiocinema.com
+0.0.0.0 international.jiocinema.com
+
+# Financial services
+0.0.0.0 finance.jiocinema.com
+0.0.0.0 treasury.jiocinema.com
+
+# Partnerships and alliances
+0.0.0.0 alliances.jiocinema.com
+0.0.0.0 partnerships.jiocinema.com
+
+# Talent and recruitment
+0.0.0.0 talent.jiocinema.com
+0.0.0.0 recruitment.jiocinema.com
+
+# Culture and values
+0.0.0.0 culture.jiocinema.com
+0.0.0.0 values.jiocinema.com
+
+# Sustainability initiatives
+0.0.0.0 sustainability.jiocinema.com
+0.0.0.0 green.jiocinema.com
+
+# Diversity and inclusion
+0.0.0.0 diversity.jiocinema.com
+0.0.0.0 inclusion.jiocinema.com
+
+# Machine learning models
+0.0.0.0 models.jiocinema.com
+0.0.0.0 ml-models.jiocinema.com
+
+# Edge computing and CDN
+0.0.0.0 edge.jiocinema.com
+0.0.0.0 cdn1.jiocinema.com
+0.0.0.0 cdn2.jiocinema.com
+0.0.0.0 cdn3.jiocinema.com
+
+# Video transcoding and processing
+0.0.0.0 transcoding.jiocinema.com
+0.0.0.0 processing.jiocinema.com
+0.0.0.0 encoder.jiocinema.com
+
+# Educational content
+0.0.0.0 education.jiocinema.com
+0.0.0.0 edu.jiocinema.com
+
+# Merchandise and retail
+0.0.0.0 shop.jiocinema.com
+0.0.0.0 store.jiocinema.com
+0.0.0.0 merchandise.jiocinema.com
+
+# Music and audio
+0.0.0.0 music.jiocinema.com
+0.0.0.0 audio.jiocinema.com
+
+# Gaming integration
+0.0.0.0 games.jiocinema.com
+0.0.0.0 gaming.jiocinema.com
+
+# Jio ecosystem integration (based on research showing Jio infrastructure)
+0.0.0.0 jiotv.jio.com
+0.0.0.0 jiosecurity.jio.com
+0.0.0.0 jiopages.jio.com
+0.0.0.0 jiohealth.jio.com
+0.0.0.0 jiodrive.jio.com
+0.0.0.0 jiomoney.jio.com
+0.0.0.0 jiomags.jio.com
+0.0.0.0 jiosaavn.jio.com
+0.0.0.0 jiomart.jio.com
+0.0.0.0 jiomeet.jio.com
+0.0.0.0 jiocloud.jio.com
+0.0.0.0 jiophone.jio.com
+0.0.0.0 jiofiber.jio.com
+0.0.0.0 jioairfiber.jio.com
+
+# Jio ads and advertising (based on research showing jioads.akamaized.net)
+0.0.0.0 jioads.akamaized.net
+0.0.0.0 ads.jio.com
+0.0.0.0 advertising.jio.com
+0.0.0.0 ads.jiocinema.com
+0.0.0.0 advertising.jiocinema.com
+
+# Analytics and tracking (third-party integrations found in research)
+0.0.0.0 wzrkt.com
+0.0.0.0 in.wzrkt.com
+
+# Additional Reliance ecosystem domains
+0.0.0.0 ril.com
+0.0.0.0 www.ril.com
+0.0.0.0 reliancejio.com
+0.0.0.0 www.reliancejio.com
+0.0.0.0 jio.co.in
+0.0.0.0 www.jio.co.in 

@@ -1,0 +1,412 @@
+# ALTBalaji (ALTT) - Balaji Telefilms streaming platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 altbalaji.com
+0.0.0.0 www.altbalaji.com
+0.0.0.0 altt.co.in
+0.0.0.0 www.altt.co.in
+
+# Mobile and app related
+0.0.0.0 m.altbalaji.com
+0.0.0.0 mobile.altbalaji.com
+0.0.0.0 app.altbalaji.com
+0.0.0.0 apps.altbalaji.com
+0.0.0.0 android.altbalaji.com
+0.0.0.0 ios.altbalaji.com
+
+# API endpoints
+0.0.0.0 api.altbalaji.com
+0.0.0.0 gateway.altbalaji.com
+0.0.0.0 data.altbalaji.com
+0.0.0.0 oauth.altbalaji.com
+0.0.0.0 auth.altbalaji.com
+
+# User authentication and accounts
+0.0.0.0 accounts.altbalaji.com
+0.0.0.0 signin.altbalaji.com
+0.0.0.0 login.altbalaji.com
+0.0.0.0 myaccount.altbalaji.com
+0.0.0.0 profile.altbalaji.com
+0.0.0.0 profiles.altbalaji.com
+
+# Video streaming and playback
+0.0.0.0 video.altbalaji.com
+0.0.0.0 videos.altbalaji.com
+0.0.0.0 streaming.altbalaji.com
+0.0.0.0 stream.altbalaji.com
+0.0.0.0 player.altbalaji.com
+0.0.0.0 playback.altbalaji.com
+
+# Content delivery and assets
+0.0.0.0 cdn.altbalaji.com
+0.0.0.0 assets.altbalaji.com
+0.0.0.0 images.altbalaji.com
+0.0.0.0 thumbnails.altbalaji.com
+0.0.0.0 artwork.altbalaji.com
+0.0.0.0 content.altbalaji.com
+
+# Search and discovery
+0.0.0.0 search.altbalaji.com
+0.0.0.0 discover.altbalaji.com
+0.0.0.0 browse.altbalaji.com
+0.0.0.0 catalog.altbalaji.com
+0.0.0.0 titles.altbalaji.com
+
+# ALTBalaji Analytics and tracking
+0.0.0.0 analytics.altbalaji.com
+0.0.0.0 tracking.altbalaji.com
+0.0.0.0 metrics.altbalaji.com
+0.0.0.0 stats.altbalaji.com
+0.0.0.0 insights.altbalaji.com
+
+# DRM and licensing
+0.0.0.0 drm.altbalaji.com
+0.0.0.0 license.altbalaji.com
+0.0.0.0 widevine.altbalaji.com
+0.0.0.0 playready.altbalaji.com
+
+# Adaptive streaming
+0.0.0.0 dash.altbalaji.com
+0.0.0.0 hls.altbalaji.com
+0.0.0.0 manifest.altbalaji.com
+0.0.0.0 manifests.altbalaji.com
+
+# Downloads and offline
+0.0.0.0 download.altbalaji.com
+0.0.0.0 downloads.altbalaji.com
+0.0.0.0 offline.altbalaji.com
+
+# Live TV and sports
+0.0.0.0 live.altbalaji.com
+0.0.0.0 livetv.altbalaji.com
+0.0.0.0 sports.altbalaji.com
+
+# News content
+0.0.0.0 news.altbalaji.com
+
+# Premium and subscription services
+0.0.0.0 premium.altbalaji.com
+0.0.0.0 subscription.altbalaji.com
+0.0.0.0 subscriptions.altbalaji.com
+
+# Kids and family
+0.0.0.0 kids.altbalaji.com
+0.0.0.0 family.altbalaji.com
+0.0.0.0 junior.altbalaji.com
+
+# Smart TV and device specific
+0.0.0.0 tv.altbalaji.com
+0.0.0.0 firetv.altbalaji.com
+0.0.0.0 roku.altbalaji.com
+0.0.0.0 chromecast.altbalaji.com
+0.0.0.0 appletv.altbalaji.com
+0.0.0.0 smarttv.altbalaji.com
+
+# Gaming console integration
+0.0.0.0 xbox.altbalaji.com
+0.0.0.0 playstation.altbalaji.com
+0.0.0.0 nintendo.altbalaji.com
+
+# Support and help
+0.0.0.0 help.altbalaji.com
+0.0.0.0 support.altbalaji.com
+0.0.0.0 customer.altbalaji.com
+
+# Settings and preferences
+0.0.0.0 settings.altbalaji.com
+0.0.0.0 preferences.altbalaji.com
+0.0.0.0 config.altbalaji.com
+
+# Watch history and recommendations
+0.0.0.0 history.altbalaji.com
+0.0.0.0 watchlist.altbalaji.com
+0.0.0.0 recommendations.altbalaji.com
+0.0.0.0 suggest.altbalaji.com
+
+# Social and sharing features
+0.0.0.0 social.altbalaji.com
+0.0.0.0 share.altbalaji.com
+0.0.0.0 sharing.altbalaji.com
+
+# Notifications and alerts
+0.0.0.0 notifications.altbalaji.com
+0.0.0.0 alerts.altbalaji.com
+0.0.0.0 messages.altbalaji.com
+
+# Billing and payments
+0.0.0.0 billing.altbalaji.com
+0.0.0.0 payment.altbalaji.com
+0.0.0.0 payments.altbalaji.com
+
+# Corporate and press
+0.0.0.0 about.altbalaji.com
+0.0.0.0 press.altbalaji.com
+0.0.0.0 media.altbalaji.com
+0.0.0.0 blog.altbalaji.com
+
+# Careers and jobs
+0.0.0.0 careers.altbalaji.com
+0.0.0.0 jobs.altbalaji.com
+
+# Testing and development
+0.0.0.0 test.altbalaji.com
+0.0.0.0 testing.altbalaji.com
+0.0.0.0 dev.altbalaji.com
+0.0.0.0 staging.altbalaji.com
+0.0.0.0 beta.altbalaji.com
+
+# Internal and corporate
+0.0.0.0 internal.altbalaji.com
+0.0.0.0 corp.altbalaji.com
+
+# Load balancing and infrastructure
+0.0.0.0 lb.altbalaji.com
+0.0.0.0 proxy.altbalaji.com
+0.0.0.0 cache.altbalaji.com
+
+# AWS integration (based on research showing AWS hosting)
+0.0.0.0 aws.altbalaji.com
+0.0.0.0 cloudfront.altbalaji.com
+0.0.0.0 s3.altbalaji.com
+
+# Security
+0.0.0.0 security.altbalaji.com
+0.0.0.0 secure.altbalaji.com
+0.0.0.0 2fa.altbalaji.com
+
+# Performance and optimization
+0.0.0.0 performance.altbalaji.com
+0.0.0.0 optimization.altbalaji.com
+0.0.0.0 speed.altbalaji.com
+
+# AI and machine learning
+0.0.0.0 ai.altbalaji.com
+0.0.0.0 ml.altbalaji.com
+
+# Video quality and encoding
+0.0.0.0 encoding.altbalaji.com
+0.0.0.0 hd.altbalaji.com
+0.0.0.0 4k.altbalaji.com
+0.0.0.0 uhd.altbalaji.com
+0.0.0.0 hdr.altbalaji.com
+0.0.0.0 dolby.altbalaji.com
+
+# Subtitles and localization
+0.0.0.0 subtitles.altbalaji.com
+0.0.0.0 captions.altbalaji.com
+0.0.0.0 localization.altbalaji.com
+0.0.0.0 translate.altbalaji.com
+0.0.0.0 i18n.altbalaji.com
+
+# Accessibility
+0.0.0.0 accessibility.altbalaji.com
+0.0.0.0 a11y.altbalaji.com
+
+# Parental controls
+0.0.0.0 parental.altbalaji.com
+0.0.0.0 controls.altbalaji.com
+
+# Reviews and ratings
+0.0.0.0 reviews.altbalaji.com
+0.0.0.0 ratings.altbalaji.com
+0.0.0.0 feedback.altbalaji.com
+
+# Documentation and guides
+0.0.0.0 docs.altbalaji.com
+0.0.0.0 guides.altbalaji.com
+0.0.0.0 help-center.altbalaji.com
+
+# Partner integration
+0.0.0.0 partners.altbalaji.com
+0.0.0.0 partner.altbalaji.com
+0.0.0.0 integration.altbalaji.com
+
+# Email and communications
+0.0.0.0 email.altbalaji.com
+0.0.0.0 mail.altbalaji.com
+0.0.0.0 communications.altbalaji.com
+
+# Legal and compliance
+0.0.0.0 legal.altbalaji.com
+0.0.0.0 terms.altbalaji.com
+0.0.0.0 privacy.altbalaji.com
+
+# Quality assurance
+0.0.0.0 quality.altbalaji.com
+0.0.0.0 qa.altbalaji.com
+0.0.0.0 qc.altbalaji.com
+
+# Monitoring and status
+0.0.0.0 status.altbalaji.com
+0.0.0.0 health.altbalaji.com
+0.0.0.0 monitoring.altbalaji.com
+
+# Tools and utilities
+0.0.0.0 tools.altbalaji.com
+0.0.0.0 utils.altbalaji.com
+0.0.0.0 utilities.altbalaji.com
+
+# Creator tools and resources
+0.0.0.0 creators.altbalaji.com
+0.0.0.0 filmmakers.altbalaji.com
+0.0.0.0 studios.altbalaji.com
+
+# Events and premieres
+0.0.0.0 events.altbalaji.com
+0.0.0.0 premieres.altbalaji.com
+0.0.0.0 screenings.altbalaji.com
+
+# Awards and recognition
+0.0.0.0 awards.altbalaji.com
+
+# Innovation and technology
+0.0.0.0 innovation.altbalaji.com
+0.0.0.0 technology.altbalaji.com
+0.0.0.0 tech.altbalaji.com
+
+# Research and experiments
+0.0.0.0 research.altbalaji.com
+0.0.0.0 experiments.altbalaji.com
+0.0.0.0 labs.altbalaji.com
+
+# Customer service
+0.0.0.0 service.altbalaji.com
+0.0.0.0 contact.altbalaji.com
+
+# Community features
+0.0.0.0 community.altbalaji.com
+0.0.0.0 forums.altbalaji.com
+
+# Geographic and location services
+0.0.0.0 geo.altbalaji.com
+0.0.0.0 location.altbalaji.com
+
+# Backup and redundancy
+0.0.0.0 backup.altbalaji.com
+0.0.0.0 failover.altbalaji.com
+
+# Configuration management
+0.0.0.0 config.altbalaji.com
+0.0.0.0 configuration.altbalaji.com
+
+# Data science and analytics
+0.0.0.0 datascience.altbalaji.com
+0.0.0.0 bigdata.altbalaji.com
+
+# Content moderation
+0.0.0.0 moderation.altbalaji.com
+0.0.0.0 safety.altbalaji.com
+
+# User experience
+0.0.0.0 ux.altbalaji.com
+0.0.0.0 ui.altbalaji.com
+0.0.0.0 design.altbalaji.com
+
+# Platform engineering
+0.0.0.0 platform.altbalaji.com
+0.0.0.0 engineering.altbalaji.com
+
+# Network operations
+0.0.0.0 network.altbalaji.com
+0.0.0.0 operations.altbalaji.com
+0.0.0.0 ops.altbalaji.com
+
+# Database services
+0.0.0.0 database.altbalaji.com
+0.0.0.0 db.altbalaji.com
+
+# Microservices
+0.0.0.0 microservices.altbalaji.com
+0.0.0.0 services.altbalaji.com
+
+# DevOps and deployment
+0.0.0.0 devops.altbalaji.com
+0.0.0.0 deployment.altbalaji.com
+0.0.0.0 deploy.altbalaji.com
+
+# Content protection and piracy
+0.0.0.0 protection.altbalaji.com
+0.0.0.0 antipiracy.altbalaji.com
+
+# Compliance and governance
+0.0.0.0 compliance.altbalaji.com
+0.0.0.0 governance.altbalaji.com
+
+# Risk management
+0.0.0.0 risk.altbalaji.com
+0.0.0.0 riskmanagement.altbalaji.com
+
+# Content acquisition and licensing
+0.0.0.0 acquisition.altbalaji.com
+0.0.0.0 licensing.altbalaji.com
+
+# International expansion
+0.0.0.0 global.altbalaji.com
+0.0.0.0 international.altbalaji.com
+
+# Financial services
+0.0.0.0 finance.altbalaji.com
+0.0.0.0 treasury.altbalaji.com
+
+# Partnerships and alliances
+0.0.0.0 alliances.altbalaji.com
+0.0.0.0 partnerships.altbalaji.com
+
+# Talent and recruitment
+0.0.0.0 talent.altbalaji.com
+0.0.0.0 recruitment.altbalaji.com
+
+# Culture and values
+0.0.0.0 culture.altbalaji.com
+0.0.0.0 values.altbalaji.com
+
+# Sustainability initiatives
+0.0.0.0 sustainability.altbalaji.com
+0.0.0.0 green.altbalaji.com
+
+# Diversity and inclusion
+0.0.0.0 diversity.altbalaji.com
+0.0.0.0 inclusion.altbalaji.com
+
+# Machine learning models
+0.0.0.0 models.altbalaji.com
+0.0.0.0 ml-models.altbalaji.com
+
+# Edge computing and CDN
+0.0.0.0 edge.altbalaji.com
+0.0.0.0 cdn1.altbalaji.com
+0.0.0.0 cdn2.altbalaji.com
+0.0.0.0 cdn3.altbalaji.com
+
+# Video transcoding and processing
+0.0.0.0 transcoding.altbalaji.com
+0.0.0.0 processing.altbalaji.com
+0.0.0.0 encoder.altbalaji.com
+
+# Educational content
+0.0.0.0 education.altbalaji.com
+0.0.0.0 edu.altbalaji.com
+
+# Merchandise and retail
+0.0.0.0 shop.altbalaji.com
+0.0.0.0 store.altbalaji.com
+0.0.0.0 merchandise.altbalaji.com
+
+# Music and audio
+0.0.0.0 music.altbalaji.com
+0.0.0.0 audio.altbalaji.com
+
+# Gaming integration
+0.0.0.0 games.altbalaji.com
+0.0.0.0 gaming.altbalaji.com
+
+# Balaji Telefilms ecosystem integration
+0.0.0.0 balaji.altbalaji.com
+0.0.0.0 telefilms.altbalaji.com
+0.0.0.0 ekta.altbalaji.com
+0.0.0.0 kapoor.altbalaji.com
+
+# Original content and shows
+0.0.0.0 originals.altbalaji.com
+0.0.0.0 shows.altbalaji.com
+0.0.0.0 series.altbalaji.com
+0.0.0.0 webseries.altbalaji.com 

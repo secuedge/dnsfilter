@@ -1,0 +1,276 @@
+
+# =============================================================================
+# NVIDIA GEFORCE NOW
+# =============================================================================
+# Main GeForce Now domains
+0.0.0.0 geforcenow.com
+0.0.0.0 www.geforcenow.com
+0.0.0.0 play.geforcenow.com
+0.0.0.0 www.play.geforcenow.com
+
+# GeForce Now APIs and services
+0.0.0.0 auth.geforcenow.com
+0.0.0.0 api.geforcenow.com
+0.0.0.0 gfn-auth.nvidia.com
+0.0.0.0 grid.nvidia.com
+
+# GeForce Now CDN and streaming
+0.0.0.0 nvstream.nvidia.com
+0.0.0.0 events.geforcenow.com
+0.0.0.0 telemetry.geforcenow.com
+
+# NVIDIA main domains (parent company)
+0.0.0.0 nvidia.com
+0.0.0.0 www.nvidia.com
+0.0.0.0 shield.nvidia.com
+
+# =============================================================================
+# GOOGLE STADIA (DISCONTINUED BUT DOMAINS MAY STILL BE ACTIVE)
+# =============================================================================
+# Main Stadia domains
+0.0.0.0 stadia.google.com
+0.0.0.0 www.stadia.google.com
+0.0.0.0 stadia.com
+0.0.0.0 www.stadia.com
+
+# Stadia APIs and services
+0.0.0.0 stadiacontroller.google.com
+0.0.0.0 stadiahelp.google.com
+0.0.0.0 stadiagames.google.com
+
+# =============================================================================
+# XBOX CLOUD GAMING (xCLOUD)
+# =============================================================================
+# Main Xbox Cloud Gaming domains
+0.0.0.0 xbox.com/play
+0.0.0.0 www.xbox.com/play
+0.0.0.0 xcloud.microsoft.com
+0.0.0.0 www.xcloud.microsoft.com
+
+# Xbox Cloud Gaming services
+0.0.0.0 gamestreaming.xboxlive.com
+0.0.0.0 catalog.gamepass.com
+0.0.0.0 emerald.xboxservices.com
+
+# Xbox Game Pass Ultimate (includes cloud gaming)
+0.0.0.0 gamepass.com
+0.0.0.0 www.gamepass.com
+0.0.0.0 xboxgamepass.com
+0.0.0.0 www.xboxgamepass.com
+
+# Microsoft cloud infrastructure
+0.0.0.0 azure.microsoft.com
+0.0.0.0 login.microsoftonline.com
+
+# =============================================================================
+# AMAZON LUNA
+# =============================================================================
+# Main Amazon Luna domains
+0.0.0.0 luna.amazon.com
+0.0.0.0 www.luna.amazon.com
+0.0.0.0 amazon.com/luna
+0.0.0.0 www.amazon.com/luna
+
+# Amazon Luna services
+0.0.0.0 luna-prod.amazon.com
+0.0.0.0 api.luna.amazon.com
+0.0.0.0 auth.luna.amazon.com
+
+# Amazon Web Services (Luna infrastructure)
+0.0.0.0 aws.amazon.com
+0.0.0.0 amazonaws.com
+
+# =============================================================================
+# SONY PLAYSTATION NOW (CLOUD GAMING)
+# =============================================================================
+# PlayStation Now domains
+0.0.0.0 playstationow.com
+0.0.0.0 www.playstationow.com
+0.0.0.0 psnow.playstation.com
+0.0.0.0 www.psnow.playstation.com
+
+# PlayStation streaming services
+0.0.0.0 streaming.playstation.com
+0.0.0.0 gaikai.playstation.com
+
+# =============================================================================
+# FACEBOOK GAMING CLOUD
+# =============================================================================
+# Facebook Gaming cloud services
+0.0.0.0 fb.gg
+0.0.0.0 www.fb.gg
+0.0.0.0 gaming.facebook.com
+0.0.0.0 www.gaming.facebook.com
+
+# Facebook cloud gaming APIs
+0.0.0.0 cloudgaming.facebook.com
+0.0.0.0 api.gaming.facebook.com
+
+# =============================================================================
+# SHADOW (BLADE)
+# =============================================================================
+# Shadow cloud gaming
+0.0.0.0 shadow.tech
+0.0.0.0 www.shadow.tech
+0.0.0.0 account.shadow.tech
+0.0.0.0 auth.shadow.tech
+
+# Shadow applications and services
+0.0.0.0 update.shadow.tech
+0.0.0.0 api.shadow.tech
+0.0.0.0 storage.shadow.tech
+
+# Blade (parent company)
+0.0.0.0 blade-group.com
+0.0.0.0 www.blade-group.com
+
+# =============================================================================
+# PARSEC (REMOTE GAMING)
+# =============================================================================
+# Parsec cloud gaming
+0.0.0.0 parsec.app
+0.0.0.0 www.parsec.app
+0.0.0.0 parsecgaming.com
+0.0.0.0 www.parsecgaming.com
+
+# Parsec services
+0.0.0.0 api.parsecgaming.com
+0.0.0.0 relay.parsecgaming.com
+0.0.0.0 kessel-api.parsecgaming.com
+
+# =============================================================================
+# MAXIMUM SETTINGS (CLOUD GAMING)
+# =============================================================================
+# Maximum Settings cloud gaming
+0.0.0.0 maximumsettings.com
+0.0.0.0 www.maximumsettings.com
+
+# =============================================================================
+# VORTEX CLOUD GAMING
+# =============================================================================
+# Vortex cloud gaming
+0.0.0.0 vortex.gg
+0.0.0.0 www.vortex.gg
+0.0.0.0 remotemygame.com
+0.0.0.0 www.remotemygame.com
+
+# =============================================================================
+# NETBOOM CLOUD GAMING
+# =============================================================================
+# Netboom cloud gaming
+0.0.0.0 netboom.com
+0.0.0.0 www.netboom.com
+
+# =============================================================================
+# BLACKNUT CLOUD GAMING
+# =============================================================================
+# Blacknut cloud gaming
+0.0.0.0 blacknut.com
+0.0.0.0 www.blacknut.com
+0.0.0.0 play.blacknut.com
+
+# =============================================================================
+# BOOSTEROID CLOUD GAMING
+# =============================================================================
+# Boosteroid cloud gaming
+0.0.0.0 boosteroid.com
+0.0.0.0 www.boosteroid.com
+0.0.0.0 cloud.boosteroid.com
+
+# =============================================================================
+# RAINWAY CLOUD GAMING
+# =============================================================================
+# Rainway cloud gaming
+0.0.0.0 rainway.com
+0.0.0.0 www.rainway.com
+0.0.0.0 app.rainway.com
+
+# =============================================================================
+# PAPERSPACE CLOUD GAMING
+# =============================================================================
+# Paperspace gaming instances
+0.0.0.0 paperspace.com
+0.0.0.0 www.paperspace.com
+0.0.0.0 console.paperspace.com
+
+# =============================================================================
+# LIQUIDSKY (DISCONTINUED)
+# =============================================================================
+# LiquidSky cloud gaming (historical)
+0.0.0.0 liquidsky.com
+0.0.0.0 www.liquidsky.com
+0.0.0.0 liquidsky.tv
+0.0.0.0 www.liquidsky.tv
+
+# =============================================================================
+# GAME+ CLOUD GAMING
+# =============================================================================
+# Game+ cloud gaming
+0.0.0.0 gameplus.com
+0.0.0.0 www.gameplus.com
+
+# =============================================================================
+# AIRGPU CLOUD GAMING
+# =============================================================================
+# AirGPU cloud gaming
+0.0.0.0 airgpu.com
+0.0.0.0 www.airgpu.com
+
+# =============================================================================
+# GAMEFLY STREAMING
+# =============================================================================
+# GameFly streaming services
+0.0.0.0 gamefly.com
+0.0.0.0 www.gamefly.com
+0.0.0.0 streaming.gamefly.com
+
+# =============================================================================
+# UBITUS CLOUD GAMING
+# =============================================================================
+# Ubitus cloud gaming platform
+0.0.0.0 ubitus.net
+0.0.0.0 www.ubitus.net
+
+# =============================================================================
+# HATCH CLOUD GAMING
+# =============================================================================
+# Hatch entertainment cloud gaming
+0.0.0.0 hatch.gg
+0.0.0.0 www.hatch.gg
+
+# =============================================================================
+# CLOUD GAMING INFRASTRUCTURE PROVIDERS
+# =============================================================================
+
+# Amazon Web Services (used by many cloud gaming services)
+0.0.0.0 ec2.amazonaws.com
+0.0.0.0 s3.amazonaws.com
+0.0.0.0 cloudfront.net
+
+# Microsoft Azure (Xbox Cloud Gaming infrastructure)
+0.0.0.0 azure.com
+0.0.0.0 azurewebsites.net
+0.0.0.0 windows.net
+
+# Google Cloud Platform (Stadia infrastructure)
+0.0.0.0 cloud.google.com
+0.0.0.0 googleapis.com
+0.0.0.0 googleusercontent.com
+
+# =============================================================================
+# CLOUD GAMING ANALYTICS AND TELEMETRY
+# =============================================================================
+
+# Gaming analytics for cloud platforms
+0.0.0.0 analytics.cloud.unity3d.com
+0.0.0.0 telemetry.gameanalytics.com
+0.0.0.0 api.gameanalytics.com
+
+# Cloud gaming performance metrics
+0.0.0.0 metrics.nvidia.com
+0.0.0.0 telemetry.microsoft.com
+0.0.0.0 analytics.google.com
+
+# =============================================================================
+# END OF CLOUD GAMING HOSTS LIST
+# ============================================================================= 

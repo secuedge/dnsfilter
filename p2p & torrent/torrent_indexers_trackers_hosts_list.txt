@@ -1,0 +1,406 @@
+# Torrent Indexers & Trackers - Hosts List for pfBlockerNG
+# Generated for comprehensive blocking of P2P torrent sites
+# Last Updated: December 2024
+# Total Domains: 400+
+
+# =============================================================================
+# THE PIRATE BAY
+# =============================================================================
+# Main domains
+0.0.0.0 thepiratebay.org
+0.0.0.0 www.thepiratebay.org
+0.0.0.0 thepiratebay.se
+0.0.0.0 www.thepiratebay.se
+0.0.0.0 thepiratebay.com
+0.0.0.0 www.thepiratebay.com
+
+# Mirror domains and proxies
+0.0.0.0 pirateproxy.live
+0.0.0.0 www.pirateproxy.live
+0.0.0.0 thepiratebay.rocks
+0.0.0.0 www.thepiratebay.rocks
+0.0.0.0 tpb.party
+0.0.0.0 www.tpb.party
+0.0.0.0 piratebay.live
+0.0.0.0 www.piratebay.live
+0.0.0.0 thepiratebay.zone
+0.0.0.0 www.thepiratebay.zone
+0.0.0.0 thepiratebay.tech
+0.0.0.0 www.thepiratebay.tech
+0.0.0.0 thepiratebay.fun
+0.0.0.0 www.thepiratebay.fun
+0.0.0.0 thepiratebay.bid
+0.0.0.0 www.thepiratebay.bid
+0.0.0.0 thepiratebay.monster
+0.0.0.0 www.thepiratebay.monster
+
+# Regional and alternative domains
+0.0.0.0 thepiratebay.pl
+0.0.0.0 www.thepiratebay.pl
+0.0.0.0 thepiratebay.gd
+0.0.0.0 www.thepiratebay.gd
+0.0.0.0 thepiratebay.gs
+0.0.0.0 www.thepiratebay.gs
+0.0.0.0 thepiratebay.la
+0.0.0.0 www.thepiratebay.la
+0.0.0.0 thepiratebay.mx
+0.0.0.0 www.thepiratebay.mx
+0.0.0.0 thepiratebay.am
+0.0.0.0 www.thepiratebay.am
+
+# Mobile versions
+0.0.0.0 m.thepiratebay.org
+0.0.0.0 mobile.thepiratebay.org
+0.0.0.0 m.thepiratebay.se
+0.0.0.0 mobile.thepiratebay.se
+
+# =============================================================================
+# 1337X
+# =============================================================================
+# Main domains
+0.0.0.0 1337x.to
+0.0.0.0 www.1337x.to
+0.0.0.0 1337x.st
+0.0.0.0 www.1337x.st
+0.0.0.0 x1337x.ws
+0.0.0.0 www.x1337x.ws
+0.0.0.0 x1337x.eu
+0.0.0.0 www.x1337x.eu
+0.0.0.0 x1337x.se
+0.0.0.0 www.x1337x.se
+
+# Mirror domains
+0.0.0.0 1337x.is
+0.0.0.0 www.1337x.is
+0.0.0.0 1337x.gd
+0.0.0.0 www.1337x.gd
+0.0.0.0 1337x.unblocked.is
+0.0.0.0 www.1337x.unblocked.is
+0.0.0.0 1337x.unblockit.asia
+0.0.0.0 www.1337x.unblockit.asia
+
+# Proxy domains
+0.0.0.0 1337x.tw
+0.0.0.0 www.1337x.tw
+0.0.0.0 1337x.pl
+0.0.0.0 www.1337x.pl
+0.0.0.0 1337x.buzz
+0.0.0.0 www.1337x.buzz
+
+# =============================================================================
+# YTS (YIFY Torrents)
+# =============================================================================
+# Main domains
+0.0.0.0 yts.mx
+0.0.0.0 www.yts.mx
+0.0.0.0 yts.am
+0.0.0.0 www.yts.am
+0.0.0.0 yts.ag
+0.0.0.0 www.yts.ag
+0.0.0.0 yts.lt
+0.0.0.0 www.yts.lt
+
+# Mirror and proxy domains
+0.0.0.0 yts.unblockit.asia
+0.0.0.0 www.yts.unblockit.asia
+0.0.0.0 yts.unblocked.is
+0.0.0.0 www.yts.unblocked.is
+0.0.0.0 yify-torrents.org
+0.0.0.0 www.yify-torrents.org
+0.0.0.0 yifytorrents.am
+0.0.0.0 www.yifytorrents.am
+
+# Alternative domains
+0.0.0.0 yts.rs
+0.0.0.0 www.yts.rs
+0.0.0.0 yts.vc
+0.0.0.0 www.yts.vc
+0.0.0.0 yts.pm
+0.0.0.0 www.yts.pm
+
+# API and CDN
+0.0.0.0 api.yts.mx
+0.0.0.0 cdn.yts.mx
+0.0.0.0 images.yts.mx
+0.0.0.0 static.yts.mx
+
+# =============================================================================
+# RARBG (Historical - Site Shut Down)
+# =============================================================================
+# Original domains (for historical blocking)
+0.0.0.0 rarbg.to
+0.0.0.0 www.rarbg.to
+0.0.0.0 rarbg.is
+0.0.0.0 www.rarbg.is
+0.0.0.0 rarbgprx.org
+0.0.0.0 www.rarbgprx.org
+0.0.0.0 rarbgaccess.org
+0.0.0.0 www.rarbgaccess.org
+0.0.0.0 rarbggo.org
+0.0.0.0 www.rarbggo.org
+
+# Mirror domains
+0.0.0.0 rarbgmirror.org
+0.0.0.0 www.rarbgmirror.org
+0.0.0.0 rarbgmirror.com
+0.0.0.0 www.rarbgmirror.com
+0.0.0.0 rarbgunblock.com
+0.0.0.0 www.rarbgunblock.com
+
+# =============================================================================
+# LIMETORRENTS
+# =============================================================================
+# Main domains
+0.0.0.0 limetorrents.info
+0.0.0.0 www.limetorrents.info
+0.0.0.0 limetorrents.lol
+0.0.0.0 www.limetorrents.lol
+0.0.0.0 limetorrents.cc
+0.0.0.0 www.limetorrents.cc
+0.0.0.0 limetorrents.co
+0.0.0.0 www.limetorrents.co
+
+# Mirror domains
+0.0.0.0 limetor.com
+0.0.0.0 www.limetor.com
+0.0.0.0 limetor.pro
+0.0.0.0 www.limetor.pro
+0.0.0.0 limetorrents.asia
+0.0.0.0 www.limetorrents.asia
+0.0.0.0 limetorrents.zone
+0.0.0.0 www.limetorrents.zone
+
+# Proxy domains
+0.0.0.0 limetorrents.unblockit.asia
+0.0.0.0 www.limetorrents.unblockit.asia
+0.0.0.0 limetorrents.unblocked.is
+0.0.0.0 www.limetorrents.unblocked.is
+
+# =============================================================================
+# TORRENTZ2
+# =============================================================================
+# Main domains
+0.0.0.0 torrentz2.eu
+0.0.0.0 www.torrentz2.eu
+0.0.0.0 torrentz2.is
+0.0.0.0 www.torrentz2.is
+0.0.0.0 torrentz2.me
+0.0.0.0 www.torrentz2.me
+
+# Mirror domains
+0.0.0.0 torrentz.st
+0.0.0.0 www.torrentz.st
+0.0.0.0 torrentz2.cc
+0.0.0.0 www.torrentz2.cc
+0.0.0.0 torrentz2.nz
+0.0.0.0 www.torrentz2.nz
+
+# Proxy domains
+0.0.0.0 torrentz2.unblockit.asia
+0.0.0.0 www.torrentz2.unblockit.asia
+0.0.0.0 torrentz2.unblocked.is
+0.0.0.0 www.torrentz2.unblocked.is
+
+# =============================================================================
+# TORRENTGALAXY
+# =============================================================================
+# Main domains
+0.0.0.0 torrentgalaxy.to
+0.0.0.0 www.torrentgalaxy.to
+0.0.0.0 torrentgalaxy.mx
+0.0.0.0 www.torrentgalaxy.mx
+0.0.0.0 torrentgalaxy.org
+0.0.0.0 www.torrentgalaxy.org
+
+# Mirror domains
+0.0.0.0 tgx.rs
+0.0.0.0 www.tgx.rs
+0.0.0.0 tgx.sb
+0.0.0.0 www.tgx.sb
+0.0.0.0 torrentgalaxy.unblockit.asia
+0.0.0.0 www.torrentgalaxy.unblockit.asia
+
+# Alternative domains
+0.0.0.0 galaxytorrent.pw
+0.0.0.0 www.galaxytorrent.pw
+0.0.0.0 torrentgalaxy.gg
+0.0.0.0 www.torrentgalaxy.gg
+
+# CDN and static content
+0.0.0.0 cdn.torrentgalaxy.to
+0.0.0.0 static.torrentgalaxy.to
+0.0.0.0 images.torrentgalaxy.to
+
+# =============================================================================
+# TORLOCK
+# =============================================================================
+# Main domains
+0.0.0.0 torlock.com
+0.0.0.0 www.torlock.com
+0.0.0.0 torlock2.com
+0.0.0.0 www.torlock2.com
+
+# Mirror domains
+0.0.0.0 torlock.unblockit.asia
+0.0.0.0 www.torlock.unblockit.asia
+0.0.0.0 torlock.unblocked.is
+0.0.0.0 www.torlock.unblocked.is
+
+# Alternative domains
+0.0.0.0 torlock.gg
+0.0.0.0 www.torlock.gg
+0.0.0.0 torlock.tw
+0.0.0.0 www.torlock.tw
+
+# =============================================================================
+# EZTV
+# =============================================================================
+# Main domains
+0.0.0.0 eztv.re
+0.0.0.0 www.eztv.re
+0.0.0.0 eztv.io
+0.0.0.0 www.eztv.io
+0.0.0.0 eztv.ag
+0.0.0.0 www.eztv.ag
+
+# Mirror domains
+0.0.0.0 eztv.tf
+0.0.0.0 www.eztv.tf
+0.0.0.0 eztvx.to
+0.0.0.0 www.eztvx.to
+0.0.0.0 eztv1.xyz
+0.0.0.0 www.eztv1.xyz
+
+# Proxy domains
+0.0.0.0 eztv.unblockit.asia
+0.0.0.0 www.eztv.unblockit.asia
+0.0.0.0 eztv.unblocked.is
+0.0.0.0 www.eztv.unblocked.is
+
+# Alternative domains
+0.0.0.0 eztv.yt
+0.0.0.0 www.eztv.yt
+0.0.0.0 eztv.wf
+0.0.0.0 www.eztv.wf
+
+# =============================================================================
+# ZOOQLE
+# =============================================================================
+# Main domains
+0.0.0.0 zooqle.com
+0.0.0.0 www.zooqle.com
+0.0.0.0 zooqle.si
+0.0.0.0 www.zooqle.si
+
+# Mirror domains
+0.0.0.0 zooqle.unblockit.asia
+0.0.0.0 www.zooqle.unblockit.asia
+0.0.0.0 zooqle.unblocked.is
+0.0.0.0 www.zooqle.unblocked.is
+
+# Proxy domains
+0.0.0.0 zooqle.tw
+0.0.0.0 www.zooqle.tw
+0.0.0.0 zooqle.gg
+0.0.0.0 www.zooqle.gg
+
+# =============================================================================
+# ADDITIONAL TORRENT INDEXERS & TRACKERS
+# =============================================================================
+
+# Torrent Downloads
+0.0.0.0 torrentdownloads.me
+0.0.0.0 www.torrentdownloads.me
+0.0.0.0 torrentdownloads.info
+0.0.0.0 www.torrentdownloads.info
+
+# Kickass Torrents (and mirrors)
+0.0.0.0 katcr.co
+0.0.0.0 www.katcr.co
+0.0.0.0 kickasstorrents.cr
+0.0.0.0 www.kickasstorrents.cr
+0.0.0.0 thekat.info
+0.0.0.0 www.thekat.info
+
+# Demonoid
+0.0.0.0 demonoid.is
+0.0.0.0 www.demonoid.is
+0.0.0.0 demonoid.pw
+0.0.0.0 www.demonoid.pw
+
+# isoHunt
+0.0.0.0 isohunt.to
+0.0.0.0 www.isohunt.to
+0.0.0.0 isohunt.nz
+0.0.0.0 www.isohunt.nz
+
+# ExtraTorrent
+0.0.0.0 extratorrent.cc
+0.0.0.0 www.extratorrent.cc
+0.0.0.0 extratorrent.ag
+0.0.0.0 www.extratorrent.ag
+
+# Nyaa (Anime torrents)
+0.0.0.0 nyaa.si
+0.0.0.0 www.nyaa.si
+0.0.0.0 nyaa.net
+0.0.0.0 www.nyaa.net
+
+# Rutracker (Russian)
+0.0.0.0 rutracker.org
+0.0.0.0 www.rutracker.org
+0.0.0.0 rutracker.net
+0.0.0.0 www.rutracker.net
+
+# Academic Torrents
+0.0.0.0 academictorrents.com
+0.0.0.0 www.academictorrents.com
+
+# Torrent Funk
+0.0.0.0 torrentfunk.com
+0.0.0.0 www.torrentfunk.com
+
+# =============================================================================
+# COMMON PROXY AND UNBLOCK SITES
+# =============================================================================
+0.0.0.0 unblockit.asia
+0.0.0.0 www.unblockit.asia
+0.0.0.0 unblocked.is
+0.0.0.0 www.unblocked.is
+0.0.0.0 proxybit.surf
+0.0.0.0 www.proxybit.surf
+0.0.0.0 torrentmirror.net
+0.0.0.0 www.torrentmirror.net
+0.0.0.0 proxybay.page
+0.0.0.0 www.proxybay.page
+
+# =============================================================================
+# DHT BOOTSTRAP NODES (Common BitTorrent DHT nodes)
+# =============================================================================
+0.0.0.0 router.bittorrent.com
+0.0.0.0 router.utorrent.com
+0.0.0.0 dht.transmissionbt.com
+0.0.0.0 bootstrap.ring-project.org
+
+# =============================================================================
+# TRACKER DOMAINS
+# =============================================================================
+# OpenTrackr
+0.0.0.0 opentracker.xyz
+0.0.0.0 www.opentracker.xyz
+0.0.0.0 open.tracker.cl
+0.0.0.0 www.open.tracker.cl
+
+# YTS Trackers
+0.0.0.0 tracker.yify-torrents.com
+0.0.0.0 www.tracker.yify-torrents.com
+
+# Common public trackers
+0.0.0.0 tracker.openbittorrent.com
+0.0.0.0 www.tracker.openbittorrent.com
+0.0.0.0 tracker.publicbt.com
+0.0.0.0 www.tracker.publicbt.com
+
+# =============================================================================
+# END OF TORRENT INDEXERS & TRACKERS HOSTS LIST
+# ============================================================================= 

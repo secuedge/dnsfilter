@@ -1,0 +1,506 @@
+# SoundCloud - German music streaming and audio distribution platform (Comprehensive Block List)
+# Main domains
+0.0.0.0 soundcloud.com
+0.0.0.0 www.soundcloud.com
+
+# Mobile and app related
+0.0.0.0 m.soundcloud.com
+0.0.0.0 mobile.soundcloud.com
+0.0.0.0 app.soundcloud.com
+0.0.0.0 apps.soundcloud.com
+0.0.0.0 android.soundcloud.com
+0.0.0.0 ios.soundcloud.com
+
+# API endpoints (based on research showing extensive API usage)
+0.0.0.0 api.soundcloud.com
+0.0.0.0 api-v2.soundcloud.com
+0.0.0.0 gateway.soundcloud.com
+0.0.0.0 data.soundcloud.com
+0.0.0.0 oauth.soundcloud.com
+0.0.0.0 auth.soundcloud.com
+
+# User authentication and accounts
+0.0.0.0 accounts.soundcloud.com
+0.0.0.0 signin.soundcloud.com
+0.0.0.0 login.soundcloud.com
+0.0.0.0 myaccount.soundcloud.com
+0.0.0.0 profile.soundcloud.com
+0.0.0.0 profiles.soundcloud.com
+
+# Audio streaming and playback (core feature)
+0.0.0.0 audio.soundcloud.com
+0.0.0.0 media.soundcloud.com
+0.0.0.0 play.soundcloud.com
+0.0.0.0 player.soundcloud.com
+0.0.0.0 playback.soundcloud.com
+0.0.0.0 stream.soundcloud.com
+0.0.0.0 streams.soundcloud.com
+0.0.0.0 streaming.soundcloud.com
+
+# CDN infrastructure (based on research showing global CDN usage)
+0.0.0.0 cdn.soundcloud.com
+0.0.0.0 static.soundcloud.com
+0.0.0.0 assets.soundcloud.com
+0.0.0.0 resources.soundcloud.com
+0.0.0.0 content.soundcloud.com
+
+# SoundCloud specific CDN domains
+0.0.0.0 i1.sndcdn.com
+0.0.0.0 i2.sndcdn.com
+0.0.0.0 i3.sndcdn.com
+0.0.0.0 i4.sndcdn.com
+0.0.0.0 i5.sndcdn.com
+0.0.0.0 a1.sndcdn.com
+0.0.0.0 a2.sndcdn.com
+0.0.0.0 a3.sndcdn.com
+0.0.0.0 a4.sndcdn.com
+0.0.0.0 a5.sndcdn.com
+0.0.0.0 cf-media.sndcdn.com
+0.0.0.0 cf-hls-media.sndcdn.com
+
+# Analytics and tracking
+0.0.0.0 analytics.soundcloud.com
+0.0.0.0 stats.soundcloud.com
+0.0.0.0 metrics.soundcloud.com
+0.0.0.0 tracking.soundcloud.com
+0.0.0.0 telemetry.soundcloud.com
+
+# Search and discovery (key feature)
+0.0.0.0 search.soundcloud.com
+0.0.0.0 discover.soundcloud.com
+0.0.0.0 discovery.soundcloud.com
+0.0.0.0 recommendations.soundcloud.com
+0.0.0.0 recommend.soundcloud.com
+
+# Advertising and monetization
+0.0.0.0 ads.soundcloud.com
+0.0.0.0 advertising.soundcloud.com
+0.0.0.0 adnxs.soundcloud.com
+0.0.0.0 adserver.soundcloud.com
+0.0.0.0 adsystem.soundcloud.com
+
+# Developer and partner services (popular for indie creators)
+0.0.0.0 developer.soundcloud.com
+0.0.0.0 developers.soundcloud.com
+0.0.0.0 partners.soundcloud.com
+0.0.0.0 partner.soundcloud.com
+
+# Support and help
+0.0.0.0 support.soundcloud.com
+0.0.0.0 help.soundcloud.com
+0.0.0.0 customer.soundcloud.com
+0.0.0.0 customerservice.soundcloud.com
+
+# News and press
+0.0.0.0 news.soundcloud.com
+0.0.0.0 press.soundcloud.com
+0.0.0.0 newsroom.soundcloud.com
+0.0.0.0 blog.soundcloud.com
+
+# Social and community (core feature)
+0.0.0.0 community.soundcloud.com
+0.0.0.0 social.soundcloud.com
+0.0.0.0 friends.soundcloud.com
+0.0.0.0 connect.soundcloud.com
+0.0.0.0 follow.soundcloud.com
+0.0.0.0 followers.soundcloud.com
+
+# Live and events
+0.0.0.0 live.soundcloud.com
+0.0.0.0 events.soundcloud.com
+0.0.0.0 concerts.soundcloud.com
+0.0.0.0 shows.soundcloud.com
+
+# Creator tools and upload
+0.0.0.0 upload.soundcloud.com
+0.0.0.0 uploads.soundcloud.com
+0.0.0.0 creator.soundcloud.com
+0.0.0.0 creators.soundcloud.com
+0.0.0.0 studio.soundcloud.com
+
+# Premium services (SoundCloud Go/Go+)
+0.0.0.0 go.soundcloud.com
+0.0.0.0 plus.soundcloud.com
+0.0.0.0 premium.soundcloud.com
+0.0.0.0 subscribe.soundcloud.com
+0.0.0.0 subscription.soundcloud.com
+0.0.0.0 billing.soundcloud.com
+
+# Artists and labels
+0.0.0.0 artists.soundcloud.com
+0.0.0.0 artist.soundcloud.com
+0.0.0.0 labels.soundcloud.com
+0.0.0.0 label.soundcloud.com
+
+# Regional domains
+0.0.0.0 soundcloud.de
+0.0.0.0 www.soundcloud.de
+0.0.0.0 soundcloud.co.uk
+0.0.0.0 soundcloud.fr
+0.0.0.0 soundcloud.it
+0.0.0.0 soundcloud.es
+0.0.0.0 soundcloud.nl
+0.0.0.0 soundcloud.be
+0.0.0.0 soundcloud.ch
+0.0.0.0 soundcloud.at
+0.0.0.0 soundcloud.se
+0.0.0.0 soundcloud.no
+0.0.0.0 soundcloud.dk
+0.0.0.0 soundcloud.fi
+0.0.0.0 soundcloud.pl
+0.0.0.0 soundcloud.cz
+0.0.0.0 soundcloud.hu
+0.0.0.0 soundcloud.pt
+0.0.0.0 soundcloud.ie
+0.0.0.0 soundcloud.ca
+0.0.0.0 soundcloud.com.au
+0.0.0.0 soundcloud.co.nz
+0.0.0.0 soundcloud.jp
+0.0.0.0 soundcloud.kr
+0.0.0.0 soundcloud.in
+0.0.0.0 soundcloud.com.br
+0.0.0.0 soundcloud.com.mx
+0.0.0.0 soundcloud.com.ar
+0.0.0.0 soundcloud.cl
+0.0.0.0 soundcloud.co
+0.0.0.0 soundcloud.ru
+0.0.0.0 soundcloud.ua
+0.0.0.0 soundcloud.tr
+0.0.0.0 soundcloud.za
+
+# Testing and staging
+0.0.0.0 test.soundcloud.com
+0.0.0.0 testing.soundcloud.com
+0.0.0.0 stage.soundcloud.com
+0.0.0.0 staging.soundcloud.com
+0.0.0.0 dev.soundcloud.com
+0.0.0.0 development.soundcloud.com
+0.0.0.0 qa.soundcloud.com
+0.0.0.0 uat.soundcloud.com
+0.0.0.0 beta.soundcloud.com
+0.0.0.0 preview.soundcloud.com
+
+# Platform integrations
+0.0.0.0 facebook.soundcloud.com
+0.0.0.0 twitter.soundcloud.com
+0.0.0.0 instagram.soundcloud.com
+0.0.0.0 youtube.soundcloud.com
+0.0.0.0 spotify.soundcloud.com
+0.0.0.0 apple.soundcloud.com
+
+# Technology platforms
+0.0.0.0 alexa.soundcloud.com
+0.0.0.0 google.soundcloud.com
+0.0.0.0 assistant.soundcloud.com
+
+# Device specific
+0.0.0.0 tv.soundcloud.com
+0.0.0.0 car.soundcloud.com
+0.0.0.0 smart.soundcloud.com
+0.0.0.0 xbox.soundcloud.com
+0.0.0.0 playstation.soundcloud.com
+
+# Backend services
+0.0.0.0 backend.soundcloud.com
+0.0.0.0 service.soundcloud.com
+0.0.0.0 services.soundcloud.com
+0.0.0.0 microservice.soundcloud.com
+0.0.0.0 microservices.soundcloud.com
+
+# Security and encryption
+0.0.0.0 security.soundcloud.com
+0.0.0.0 ssl.soundcloud.com
+0.0.0.0 secure.soundcloud.com
+0.0.0.0 encryption.soundcloud.com
+
+# Machine learning and AI (for recommendations)
+0.0.0.0 ml.soundcloud.com
+0.0.0.0 ai.soundcloud.com
+0.0.0.0 algorithm.soundcloud.com
+0.0.0.0 algorithms.soundcloud.com
+
+# Business and enterprise
+0.0.0.0 business.soundcloud.com
+0.0.0.0 enterprise.soundcloud.com
+0.0.0.0 corporate.soundcloud.com
+0.0.0.0 b2b.soundcloud.com
+
+# Legal and compliance
+0.0.0.0 legal.soundcloud.com
+0.0.0.0 privacy.soundcloud.com
+0.0.0.0 terms.soundcloud.com
+0.0.0.0 compliance.soundcloud.com
+0.0.0.0 copyright.soundcloud.com
+
+# Email and notifications
+0.0.0.0 email.soundcloud.com
+0.0.0.0 mail.soundcloud.com
+0.0.0.0 notifications.soundcloud.com
+0.0.0.0 notify.soundcloud.com
+
+# File and asset storage
+0.0.0.0 files.soundcloud.com
+0.0.0.0 uploads.soundcloud.com
+0.0.0.0 download.soundcloud.com
+0.0.0.0 storage.soundcloud.com
+0.0.0.0 bucket.soundcloud.com
+
+# Image serving (waveforms, artwork)
+0.0.0.0 images.soundcloud.com
+0.0.0.0 img.soundcloud.com
+0.0.0.0 image.soundcloud.com
+0.0.0.0 pics.soundcloud.com
+0.0.0.0 pictures.soundcloud.com
+0.0.0.0 photos.soundcloud.com
+0.0.0.0 covers.soundcloud.com
+0.0.0.0 artwork.soundcloud.com
+0.0.0.0 artworks.soundcloud.com
+0.0.0.0 thumbnails.soundcloud.com
+0.0.0.0 thumb.soundcloud.com
+0.0.0.0 waveforms.soundcloud.com
+0.0.0.0 waveform.soundcloud.com
+
+# Internal tools and admin
+0.0.0.0 admin.soundcloud.com
+0.0.0.0 internal.soundcloud.com
+0.0.0.0 intranet.soundcloud.com
+0.0.0.0 staff.soundcloud.com
+0.0.0.0 employee.soundcloud.com
+0.0.0.0 tools.soundcloud.com
+
+# Monitoring and logging
+0.0.0.0 monitoring.soundcloud.com
+0.0.0.0 logs.soundcloud.com
+0.0.0.0 logging.soundcloud.com
+0.0.0.0 errors.soundcloud.com
+0.0.0.0 sentry.soundcloud.com
+
+# Load balancing and infrastructure
+0.0.0.0 lb.soundcloud.com
+0.0.0.0 loadbalancer.soundcloud.com
+0.0.0.0 edge.soundcloud.com
+0.0.0.0 proxy.soundcloud.com
+0.0.0.0 gateway.soundcloud.com
+0.0.0.0 router.soundcloud.com
+
+# Geographic and regional CDN
+0.0.0.0 us.soundcloud.com
+0.0.0.0 eu.soundcloud.com
+0.0.0.0 asia.soundcloud.com
+0.0.0.0 ap.soundcloud.com
+0.0.0.0 na.soundcloud.com
+0.0.0.0 sa.soundcloud.com
+
+# Event tracking and data collection
+0.0.0.0 events.soundcloud.com
+0.0.0.0 event.soundcloud.com
+0.0.0.0 data.soundcloud.com
+0.0.0.0 collect.soundcloud.com
+0.0.0.0 beacon.soundcloud.com
+
+# Third-party integrations
+0.0.0.0 facebook.soundcloud.com
+0.0.0.0 fb.soundcloud.com
+0.0.0.0 google.soundcloud.com
+0.0.0.0 goog.soundcloud.com
+0.0.0.0 apple.soundcloud.com
+0.0.0.0 amazon.soundcloud.com
+0.0.0.0 microsoft.soundcloud.com
+
+# WebRTC and real-time communication
+0.0.0.0 webrtc.soundcloud.com
+0.0.0.0 rtc.soundcloud.com
+0.0.0.0 realtime.soundcloud.com
+0.0.0.0 socket.soundcloud.com
+0.0.0.0 websocket.soundcloud.com
+
+# Experimental and feature flags
+0.0.0.0 experiments.soundcloud.com
+0.0.0.0 experiment.soundcloud.com
+0.0.0.0 feature.soundcloud.com
+0.0.0.0 features.soundcloud.com
+0.0.0.0 flags.soundcloud.com
+0.0.0.0 ab.soundcloud.com
+0.0.0.0 abtest.soundcloud.com
+
+# Legacy domains
+0.0.0.0 old.soundcloud.com
+0.0.0.0 legacy.soundcloud.com
+0.0.0.0 archive.soundcloud.com
+0.0.0.0 backup.soundcloud.com
+
+# Specialized services
+0.0.0.0 queue.soundcloud.com
+0.0.0.0 session.soundcloud.com
+0.0.0.0 cache.soundcloud.com
+0.0.0.0 redis.soundcloud.com
+0.0.0.0 database.soundcloud.com
+0.0.0.0 db.soundcloud.com
+
+# Version control and deployment
+0.0.0.0 git.soundcloud.com
+0.0.0.0 github.soundcloud.com
+0.0.0.0 deploy.soundcloud.com
+0.0.0.0 deployment.soundcloud.com
+0.0.0.0 ci.soundcloud.com
+0.0.0.0 cd.soundcloud.com
+0.0.0.0 jenkins.soundcloud.com
+0.0.0.0 gitlab.soundcloud.com
+
+# Documentation and resources
+0.0.0.0 docs.soundcloud.com
+0.0.0.0 documentation.soundcloud.com
+0.0.0.0 resources.soundcloud.com
+0.0.0.0 guide.soundcloud.com
+0.0.0.0 guides.soundcloud.com
+0.0.0.0 tutorial.soundcloud.com
+0.0.0.0 tutorials.soundcloud.com
+
+# GraphQL and modern APIs
+0.0.0.0 graphql.soundcloud.com
+0.0.0.0 gql.soundcloud.com
+0.0.0.0 apollo.soundcloud.com
+0.0.0.0 federation.soundcloud.com
+
+# Message queues and event streaming
+0.0.0.0 kafka.soundcloud.com
+0.0.0.0 rabbitmq.soundcloud.com
+0.0.0.0 pubsub.soundcloud.com
+0.0.0.0 messaging.soundcloud.com
+
+# Payment and monetization
+0.0.0.0 payment.soundcloud.com
+0.0.0.0 payments.soundcloud.com
+0.0.0.0 pay.soundcloud.com
+0.0.0.0 checkout.soundcloud.com
+
+# Download and offline
+0.0.0.0 downloads.soundcloud.com
+0.0.0.0 offline.soundcloud.com
+0.0.0.0 sync.soundcloud.com
+
+# Charts and trending (popular feature)
+0.0.0.0 charts.soundcloud.com
+0.0.0.0 trending.soundcloud.com
+0.0.0.0 top.soundcloud.com
+0.0.0.0 popular.soundcloud.com
+0.0.0.0 hot.soundcloud.com
+
+# Genres and categories
+0.0.0.0 electronic.soundcloud.com
+0.0.0.0 hiphop.soundcloud.com
+0.0.0.0 rock.soundcloud.com
+0.0.0.0 pop.soundcloud.com
+0.0.0.0 jazz.soundcloud.com
+0.0.0.0 classical.soundcloud.com
+0.0.0.0 ambient.soundcloud.com
+0.0.0.0 techno.soundcloud.com
+0.0.0.0 house.soundcloud.com
+0.0.0.0 dubstep.soundcloud.com
+0.0.0.0 trap.soundcloud.com
+0.0.0.0 indie.soundcloud.com
+0.0.0.0 alternative.soundcloud.com
+
+# User generated content (core feature)
+0.0.0.0 ugc.soundcloud.com
+0.0.0.0 user.soundcloud.com
+0.0.0.0 users.soundcloud.com
+0.0.0.0 playlists.soundcloud.com
+0.0.0.0 playlist.soundcloud.com
+0.0.0.0 sets.soundcloud.com
+0.0.0.0 set.soundcloud.com
+
+# Comments and interaction
+0.0.0.0 comments.soundcloud.com
+0.0.0.0 comment.soundcloud.com
+0.0.0.0 likes.soundcloud.com
+0.0.0.0 like.soundcloud.com
+0.0.0.0 reposts.soundcloud.com
+0.0.0.0 repost.soundcloud.com
+
+# Podcast features
+0.0.0.0 podcasts.soundcloud.com
+0.0.0.0 podcast.soundcloud.com
+
+# DJ and mix features
+0.0.0.0 dj.soundcloud.com
+0.0.0.0 mix.soundcloud.com
+0.0.0.0 mixes.soundcloud.com
+0.0.0.0 remix.soundcloud.com
+0.0.0.0 remixes.soundcloud.com
+
+# Record labels and distributors
+0.0.0.0 labels.soundcloud.com
+0.0.0.0 label.soundcloud.com
+0.0.0.0 distribution.soundcloud.com
+0.0.0.0 distribute.soundcloud.com
+
+# Educational and tutorial content
+0.0.0.0 education.soundcloud.com
+0.0.0.0 learn.soundcloud.com
+0.0.0.0 learning.soundcloud.com
+0.0.0.0 academy.soundcloud.com
+
+# Collaboration features
+0.0.0.0 collaborate.soundcloud.com
+0.0.0.0 collaboration.soundcloud.com
+0.0.0.0 collab.soundcloud.com
+
+# Embed and widget services
+0.0.0.0 embed.soundcloud.com
+0.0.0.0 widget.soundcloud.com
+0.0.0.0 widgets.soundcloud.com
+0.0.0.0 player.soundcloud.com
+
+# Analytics for creators
+0.0.0.0 insights.soundcloud.com
+0.0.0.0 analytics.soundcloud.com
+0.0.0.0 dashboard.soundcloud.com
+
+# Licensing and rights management
+0.0.0.0 licensing.soundcloud.com
+0.0.0.0 rights.soundcloud.com
+0.0.0.0 copyright.soundcloud.com
+0.0.0.0 dmca.soundcloud.com
+
+# Audio processing and effects
+0.0.0.0 processing.soundcloud.com
+0.0.0.0 effects.soundcloud.com
+0.0.0.0 filters.soundcloud.com
+0.0.0.0 mastering.soundcloud.com
+
+# Quality and audio settings
+0.0.0.0 quality.soundcloud.com
+0.0.0.0 hifi.soundcloud.com
+0.0.0.0 lossless.soundcloud.com
+0.0.0.0 compressed.soundcloud.com
+
+# Mobile-specific features
+0.0.0.0 pulse.soundcloud.com
+0.0.0.0 mobile.soundcloud.com
+
+# Fan and follower features
+0.0.0.0 fans.soundcloud.com
+0.0.0.0 fan.soundcloud.com
+0.0.0.0 follow.soundcloud.com
+0.0.0.0 followers.soundcloud.com
+
+# Messaging and communication
+0.0.0.0 messages.soundcloud.com
+0.0.0.0 message.soundcloud.com
+0.0.0.0 inbox.soundcloud.com
+
+# Notifications and alerts
+0.0.0.0 alerts.soundcloud.com
+0.0.0.0 notifications.soundcloud.com
+0.0.0.0 updates.soundcloud.com
+
+# Feed and timeline
+0.0.0.0 feed.soundcloud.com
+0.0.0.0 timeline.soundcloud.com
+0.0.0.0 stream.soundcloud.com
+
+# Pro features and tools
+0.0.0.0 pro.soundcloud.com
+0.0.0.0 professional.soundcloud.com
+0.0.0.0 tools.soundcloud.com 
